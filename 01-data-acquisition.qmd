@@ -1,0 +1,508 @@
+---
+title: 01-data-acquisition
+author: Gayoung Kim
+format: 
+    html:
+        code-fold: false
+        toc: true
+---
+
+## Setup
+```{python}
+import json
+import pandas as pd
+import numpy as np
+from pathlib import Path
+from datetime import datetime
+from typing import Dict, List, Optional, Tuple
+import re
+from collections import defaultdict
+from tqdm import tqdm
+import warnings
+
+warnings.filterwarnings('ignore')
+```
+
+```{python}
+import os
+import requests
+from xml.etree import ElementTree as ET
+```
+```{python}
+# Configuration
+RAW_DATA_DIR = Path("data/raw")
+OUTPUT_DIR = Path("data/processed")
+TEMP_DIR = Path("data/temp")
+
+# Create directories if directories do not exist
+for dir_path in [OUTPUT_DIR, TEMP_DIR, RAW_DATA_DIR]:
+    dir_path.mkdir(parents=True, exist_ok=True)
+```
+
+# Bioguide
+
+## Load Data
+
+Profiles of all congressmembers (and important political figure such as President and Vice president) in the United States Congress is accessed as a bulk data and downloaded manually from [biguide.congress.gov](https://bioguide.congress.gov/) in a compressed `.zip` format. (`data/raw/BioguideProfiles.zip`) (Accessed Septempber 18th, 2025)
+It is manually unzipped and stored as individual `.json` file in the `data/raw/BioguideProfiles` folder.
+
+```{python}
+def load_all_bioguide_files(directory: Path) -> pd.DataFrame:
+    """
+    Load all bioguide JSON files from a directory.
+    
+    Parameters
+    ----------
+    directory : Path
+        Directory containing bioguide JSON files
+        
+    Returns
+    -------
+    pd.DataFrame
+        Combined bioguide data
+    """
+    all_records = []
+    json_files = list(directory.glob("*.json"))
+    
+    print(f"Found {len(json_files)} JSON files")
+    
+    for json_file in tqdm(json_files, desc="Loading files"):
+        with open(json_file, 'r', encoding='utf-8') as f:
+            content = f.read().strip()
+            parsed = json.loads(content)
+            
+            # Check if wrapped in "data" key
+            if isinstance(parsed, dict) and 'data' in parsed:
+                parsed = parsed['data']
+            
+            # Convert to list if single object
+            if isinstance(parsed, dict):
+                records = [parsed]
+            elif isinstance(parsed2, list):
+                records = parsed
+            else:
+                print(f"Warning: Unexpected JSON structure in {json_file.name}")
+        
+        # Add filename to each record
+        filename = json_file.stem  
+        for record in records:
+            record['source_file_id'] = filename
+        
+        all_records.extend(records)
+    
+    df = pd.DataFrame(all_records)
+    
+    print(f"Total records after cleaning: {len(df)}")
+    return df
+```
+
+```{python}
+# load the data
+BIO_RAW_DIR = Path("data/raw/BioguideProfiles")
+bio_df = load_all_bioguide_files(BIO_RAW_DIR)
+```
+
+## Basic Cleaning
+
+```{python}
+# check column name
+bio_df.columns
+```
+
+### Missing Data
+
+```{python}
+# check na
+print(f"{bio_df['usCongressBioId'].isna().sum()} files have invalid data.")
+
+# clean invalid records
+if bio_df['usCongressBioId'].isna().sum() > 0 :
+   bio_df = bio_df[bio_df['usCongressBioId'].notna()]
+```
+
+### save temporary data
+
+```{python}
+bio_df.to_pickle(TEMP_DIR / 'bioguide_raw.pkl')
+print(f"\nSaved raw data to {TEMP_DIR / 'bioguide_raw.pkl'}")
+```
+
+
+# Bills
+
+## Load Data
+
+### download (Web scrape) bill bulk data
+```{python}
+def download_congress_bills(
+    session,
+    bill_types,
+    output_dir = "./data/raw/bills"
+) :
+    """
+    Download bill XML files from govinfo.gov
+    
+    Parameters:
+    -----------
+    session : int
+        Congressional session number (e.g., 115, 116, 117)
+    bill_types : List[str]
+        List of bill types to download (e.g., ['hjres', 'hr', 'sjres', 's'])
+        Common types: 'hr' (House Bill), 's' (Senate Bill), 
+                     'hjres' (House Joint Resolution), 'sjres' (Senate Joint Resolution),
+                     'hconres' (House Concurrent Resolution), 'sconres' (Senate Concurrent Resolution)
+    output_dir : str
+        Directory to save downloaded files
+    
+    Returns:
+    --------
+    Dict[str, List[str]]
+        Dictionary mapping bill_type to list of downloaded file paths
+    """
+    
+    # Create output directory
+    output_path = Path(output_dir)
+    output_path.mkdir(parents=True, exist_ok=True)
+    
+    downloaded_files = {}
+    
+    for bill_type in bill_types:
+        print(f"\n{'='*60}")
+        print(f"Processing {bill_type.upper()} bills from session {session}")
+        print(f"{'='*60}")
+        
+        # Create subdirectory for this bill type
+        bill_type_dir = output_path / f"{session}" / bill_type
+        bill_type_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Get list of bills from JSON endpoint
+        # Note: The bill status structure is /BILLSTATUS/session/bill_type for the listing
+        # Note: The entire bills structure is /BILLS/session/half/bill_type for the listing (half can be 1 or two)
+
+        json_url = f"https://www.govinfo.gov/bulkdata/json/BILLSTATUS/{session}/{bill_type}"
+        print(f"Fetching bill list from: {json_url}")
+        
+        headers = {'Accept': 'application/json'}
+
+        try:
+            response = requests.get(json_url, headers=headers, timeout=30)
+            response.raise_for_status()
+            
+            data = response.json()
+            files = data.get('files', [])
+            
+            if not files:
+                print(f"No bills found for {bill_type}")
+                continue
+            
+            print(f"Found {len(files)} bill files")
+            
+            # Filter for XML files only
+            xml_files = [f for f in files if f.get('fileExtension') == 'xml']
+            print(f"Downloading {len(xml_files)} XML files...")
+            
+            type_downloaded = []
+            
+            # Download each XML file
+            for file_info in tqdm(xml_files, desc=f"Downloading {bill_type}"):
+                file_url = file_info['link']
+                file_name = file_info['name']
+                file_path = bill_type_dir / file_name
+                
+                # Skip if already downloaded
+                if file_path.exists():
+                    type_downloaded.append(str(file_path))
+                    continue
+                
+                try:
+                    file_response = requests.get(file_url, timeout=30)
+                    file_response.raise_for_status()
+                    
+                    with open(file_path, 'wb') as f:
+                        f.write(file_response.content)
+                    
+                    type_downloaded.append(str(file_path))
+                    
+                except requests.RequestException as e:
+                    print(f"\nError downloading {file_name}: {e}")
+                    continue
+            
+            downloaded_files[bill_type] = type_downloaded
+            print(f"Successfully downloaded {len(type_downloaded)} files for {bill_type}")
+            
+        except requests.RequestException as e:
+            print(f"Error fetching bill list for {bill_type}: {e}")
+            continue
+
+    return downloaded_files
+```
+
+```{python}
+house_118 = download_congress_bills(118, ["hr"])
+```
+
+```{python}
+type(house_118['hr']) # list
+```
+
+```{python}
+house_117 = download_congress_bills(117, ["hr"])
+```
+
+
+### process downloaded xml bill data into multiple tables (dataframes)
+```{python}
+import xml.etree.ElementTree as ET
+
+def parse_bill_status_xml(file_path):
+    """
+    Parse billStatus XML to extract comprehensive bill metadata
+    
+    Returns:
+        dict: Contains bill metadata including summary, sponsors, actions, etc.
+    """
+    tree = ET.parse(file_path)
+    root = tree.getroot()
+    
+    # Navigate to the bill element
+    bill = root.find('.//bill')
+    
+    # Extract basic metadata
+    bill_number = bill.find('number').text if bill.find('number') is not None else 'Unknown'
+    bill_type = bill.find('type').text if bill.find('type') is not None else 'Unknown'
+    congress = bill.find('congress').text if bill.find('congress') is not None else 'Unknown'
+    
+    # Full bill ID
+    bill_id = f"{bill_type}{bill_number}-{congress}"
+    
+    # Extract title
+    title_elem = bill.find('title')
+    title = title_elem.text if title_elem is not None else 'No title'
+    
+    # Extract short titles
+    short_titles = []
+    titles_section = bill.find('titles')
+    if titles_section is not None:
+        for title_item in titles_section.findall('item'):
+            title_type = title_item.find('titleType')
+            if title_type is not None and 'Short Title' in title_type.text:
+                title_text = title_item.find('title')
+                if title_text is not None:
+                    short_titles.append(title_text.text)
+    
+    # Extract summary
+    summary = None
+    summaries = bill.find('summaries')
+    if summaries is not None:
+        summary_item = summaries.find('summary')
+        if summary_item is not None:
+            # Get the text from CDATA
+            text_elem = summary_item.find('.//text')
+            if text_elem is not None:
+                summary = text_elem.text
+                # Clean HTML tags if present
+                import re
+                summary = re.sub('<.*?>', '', summary) if summary else None
+    
+    # Extract policy area
+    policy_area = None
+    policy_elem = bill.find('.//policyArea/name')
+    if policy_elem is not None:
+        policy_area = policy_elem.text
+    
+    # Extract legislative subjects
+    subjects = []
+    leg_subjects = bill.find('.//legislativeSubjects')
+    if leg_subjects is not None:
+        for item in leg_subjects.findall('item'):
+            name_elem = item.find('name')
+            if name_elem is not None:
+                subjects.append(name_elem.text)
+    
+    # Extract sponsor information
+    sponsor = None
+    sponsor_elem = bill.find('.//sponsors/item')
+    if sponsor_elem is not None:
+        sponsor = {
+            'name': sponsor_elem.find('fullName').text if sponsor_elem.find('fullName') is not None else None,
+            'party': sponsor_elem.find('party').text if sponsor_elem.find('party') is not None else None,
+            'state': sponsor_elem.find('state').text if sponsor_elem.find('state') is not None else None
+        }
+    
+    # Extract cosponsors
+    cosponsors = []
+    cosponsors_section = bill.find('cosponsors')
+    if cosponsors_section is not None:
+        for cosponsor in cosponsors_section.findall('item'):
+            cosponsors.append({
+                'name': cosponsor.find('fullName').text if cosponsor.find('fullName') is not None else None,
+                'party': cosponsor.find('party').text if cosponsor.find('party') is not None else None,
+                'state': cosponsor.find('state').text if cosponsor.find('state') is not None else None
+            })
+    
+    # Extract actions
+    actions = []
+    actions_section = bill.find('actions')
+    if actions_section is not None:
+        for action in actions_section.findall('item'):
+            action_date = action.find('actionDate')
+            action_text = action.find('text')
+            if action_date is not None and action_text is not None:
+                actions.append({
+                    'date': action_date.text,
+                    'text': action_text.text
+                })
+    
+    # Get latest action
+    latest_action = None
+    latest_action_elem = bill.find('latestAction')
+    if latest_action_elem is not None:
+        latest_action = {
+            'date': latest_action_elem.find('actionDate').text if latest_action_elem.find('actionDate') is not None else None,
+            'text': latest_action_elem.find('text').text if latest_action_elem.find('text') is not None else None
+        }
+    
+    return {
+        'bill_id': bill_id,
+        'bill_number': bill_number,
+        'bill_type': bill_type,
+        'congress': congress,
+        'title': title,
+        'short_titles': short_titles,
+        'summary': summary,
+        'policy_area': policy_area,
+        'subjects': subjects,
+        'sponsor': sponsor,
+        'cosponsor_count': len(cosponsors),
+        'cosponsors': cosponsors,
+        'actions': actions,
+        'latest_action': latest_action,
+        'introduced_date': bill.find('introducedDate').text if bill.find('introducedDate') is not None else None
+    }
+```
+
+```{python}
+# example
+bill_info = parse_bill_status_xml('billstatus.xml')
+```
+
+```{python}
+def print_bill_info_summary(bill_info):
+    print(f"Bill: {bill_info['bill_id']}")
+    print(f"Title: {bill_info['title']}")
+    print(f"\nShort Title: {bill_info['short_titles'][0] if bill_info['short_titles'] else 'N/A'}")
+    print(f"\nSummary:\n{bill_info['summary'][:200]}..." if bill_info['summary'] else "No summary")
+    print(f"\nPolicy Area: {bill_info['policy_area']}")
+    print(f"\nSubjects:")
+    for subject in bill_info['subjects']:
+        print(f"  - {subject}")
+    print(f"\nSponsor: {bill_info['sponsor']['name']} ({bill_info['sponsor']['party']}-{bill_info['sponsor']['state']})")
+    print(f"Cosponsors: {bill_info['cosponsor_count']}")
+    print(f"\nLatest Action ({bill_info['latest_action']['date']}): {bill_info['latest_action']['text']}")
+
+print_bill_info_summary(parse_bill_status_xml(f'BILLSTATUS-{session}{bill_type}{bill_number}.xml'))
+```
+```{python}
+def process_bills_to_dataframes(
+    downloaded_files: Dict[str, List[str]],
+    policy_areas: Optional[List[str]] = None,
+    output_format: str = "flat"
+) -> Dict[str, pd.DataFrame]:
+    """
+    Process downloaded bill XML files into structured dataframes
+    
+    Parameters:
+    -----------
+    downloaded_files : Dict[str, List[str]]
+        Dictionary mapping bill_type to list of file paths (from download_congress_bills)
+    policy_areas : Optional[List[str]]
+        Filter bills by policy areas. If None or ['all'], include all bills.
+    output_format : str
+        'flat' for separate dataframes, 'nested' for bills with nested data
+    
+    Returns:
+    --------
+    Dict[str, pd.DataFrame]
+        Dictionary containing processed dataframes:
+        - bills: Bill-level information
+        - actions: All actions taken on bills
+        - people: Unique registry of legislators
+        - sponsorships: Bill-person sponsorship relationships
+        - committees: Committee assignments
+        - bill_people_detailed: Full detail with bill connections
+    """
+    
+    all_bills = []
+    all_actions = []
+    all_people = []
+    all_committees = []
+    
+    # Flatten file list
+    all_files = []
+    for bill_type, files in downloaded_files.items():
+        all_files.extend(files)
+    
+    print(f"\nProcessing {len(all_files)} bill files...")
+    
+    # Process each file
+    for xml_path in tqdm(all_files, desc="Processing bills"):
+        parsed_data = parse_bill_xml(xml_path, policy_areas)
+        
+        if parsed_data is None:
+            continue
+        
+        all_bills.append(parsed_data['bill'])
+        all_actions.extend(parsed_data['actions'])
+        all_people.extend(parsed_data['sponsors'])
+        all_people.extend(parsed_data['cosponsors'])
+        all_committees.extend(parsed_data['committees'])
+    
+    # Convert to dataframes
+    print("\nConverting to dataframes...")
+    
+    bills_df = pd.DataFrame(all_bills)
+    actions_df = pd.DataFrame(all_actions)
+    people_df = pd.DataFrame(all_people)
+    committees_df = pd.DataFrame(all_committees)
+    
+    # Create unique people registry
+    unique_people = people_df[
+        ['bioguide_id', 'full_name', 'first_name', 'last_name', 'party', 'state', 'district']
+    ].drop_duplicates(subset=['bioguide_id']).reset_index(drop=True)
+    
+    # Create sponsorship network data
+    sponsorship_network = people_df[
+        ['bill_id', 'bioguide_id', 'role', 'sponsor_date', 
+         'sponsorship_withdrawn_date', 'is_original_cosponsor']
+    ].sort_values(['bill_id', 'sponsor_date']).reset_index(drop=True)
+    
+    print(f"\nProcessing complete!")
+    print(f"  Bills: {len(bills_df)}")
+    print(f"  Unique legislators: {len(unique_people)}")
+    print(f"  Total actions: {len(actions_df)}")
+    print(f"  Total sponsorships: {len(sponsorship_network)}")
+    print(f"  Committee assignments: {len(committees_df)}")
+    
+    return {
+        'bills': bills_df,
+        'people': unique_people,
+        'actions': actions_df,
+        'sponsorships': sponsorship_network,
+        'committees': committees_df,
+        'bill_people_detailed': people_df
+    }
+```
+
+
+# Already cleaned/processed dataset
+load and import secondary data in various format into pandas DataFrame.
+
+## Legislative effectiveness
+## Ideological score (DW-NOMINATE)
+## Historical list of Legislators
+The list of legislators 
+```{python}
+
+```
+
+# data dictinary for raw data

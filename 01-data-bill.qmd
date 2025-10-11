@@ -1,0 +1,19 @@
+---
+title: 01-data-bill
+author: Gayoung Kim
+format: 
+    html:
+        code-fold: false
+        toc: true
+---
+
+This is a notebook to acquire and clean bill data. 
+The data source is publicly available bulk data run by The U.S. Government Publishing Office (GPO) bills are in .xml format
+
+output 
+bill raw dataset - just reading in from online/raw divided files
+bill level dataset
+ouput bill and relationships 
+- bill - sponsor/cosponsor - base bipartite network data
+- bill -actions -> which will generate (1) final status and (2) the time it took to get the final stage? or time it took to pass each stage -> will be included in bill-level
+- bill - comittee 

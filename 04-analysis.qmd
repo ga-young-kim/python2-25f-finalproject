@@ -1,0 +1,5 @@
+This is a notebook to answer the core research question: 
+Do congressmembers with kinship relationships perform differently in legislative activities than those who do not have those relationships? 
+
+
+bill topic similarity between pairs

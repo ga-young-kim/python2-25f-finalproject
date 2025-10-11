@@ -1,0 +1,109 @@
+This is a notebook to get basic descriptive statistics about all key variables. In actual report many part of this could be in the Appendix.
+Key visualizations to show & answer the questions on descriptive side:
+
+1. bioguide 
+how's the seat number has changed?
+who is connected to most number of members (who's the most strong?)
+(replicating Dalbó et al., 2009 )
+
+2. bills & cosponsorship
+    1. (replicating Fowler 2006 questions to more recent data )
+    On congressperson/members people : on power of person
+        1. Number of sponsors and bills sponsored
+        2. Number of bills per legislator 
+        3. Number of cosponsors (% of Chamber) per bill (so naturally per session)
+        4. Unique cosponsors(% of Chamber) x legislators (% of chamber)
+        5. Which legilsators are most connected?
+    2. (replicating chown & Liu, 2015 questions/basic descriptive questions)
+
+what are average 
+what kind of bills are proposed
+- what are the area of bills (already defined in the system)?
+what kind of bills get most support (who signed the most?)
+what kind of bills are passed the most 
+- are there change over time? for these variables?
+what's the discrepancy between active and passive cosponsors
+
+
+njisj
+
+
+```{python}
+
+import pandas as pd
+import numpy as np
+from datetime import datetime
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
+import plotly.graph_objects as go
+
+from plotly.subplots import make_subplots
+from scipy import stats
+from itertools import combinations
+import warnings
+warnings.filterwarnings('ignore')
+```
+
+
+```{python}
+# overall overview summary 
+# def generate_summary_report(df, student_id_col='fugesid'):
+#     """Generate comprehensive summary report for cleaned data"""
+#     print("\n" + "="*80)
+#     print("AUTOMATED EDA SUMMARY REPORT - CLEANED DATA")
+#     print("="*80)
+
+#     student_data = df.drop_duplicates(student_id_col)
+
+#     print(f"\nDATASET OVERVIEW:")
+#     print(f"  Total observations (course-level): {len(df):,}")
+#     print(f"  Unique students: {len(student_data):,}")
+#     print(f"  Unique semesters: {len(df['semester'].unique()):,}")
+#     print(f"  Unique cohorts: {len(df['cohort'].unique()):}")
+
+
+#     # Test waiver analysis
+#     if 'test_waiver' in student_data.columns:
+#         waiver_rate = student_data['test_waiver'].mean() * 100
+#         print(f"\nTEST WAIVER ANALYSIS:")
+#         print(f"  Test waiver rate: {waiver_rate:.1f}%")
+#         print(f"  Students with waiver: {student_data['test_waiver'].sum()}")
+#         print(f"  Students without waiver: {(~student_data['test_waiver']).sum()}")
+
+#     # Academic performance analysis - semester gpa
+#     if 'semester_gpa' in student_data.columns:
+#         semester_gpa_data = student_data['semester_gpa'].dropna()
+#         print(f"\nACADEMIC PERFORMANCE:")
+#         print(f"  Average Semester GPA: {semester_gpa_data.mean():.3f}")
+#         print(f"  Students below 3.0 (probation): {(semester_gpa_data < 3.0).sum()}")
+#         print(f"  Students 3.0-3.17 (warning): {((semester_gpa_data >= 3.0) & (semester_gpa_data <= 3.17)).sum()}")
+#         print(f"  Students above 3.17 (pass): {(semester_gpa_data > 3.17).sum()}")
+
+
+#     # Academic performance analysis - cumulative gpa
+#     if 'cumulative_gpa_transition' in student_data.columns:
+#         gpa_data = student_data['cumulative_gpa_transition'].dropna()
+#         print(f"\nACADEMIC PERFORMANCE:")
+#         print(f"  Average transition GPA: {gpa_data.mean():.3f}")
+#         print(f"  Students below 3.0 (probation): {(gpa_data < 3.0).sum()}")
+#         print(f"  Students 3.0-3.17 (warning): {((gpa_data >= 3.0) & (gpa_data <= 3.17)).sum()}")
+#         print(f"  Students above 3.17 (pass): {(gpa_data > 3.17).sum()}")
+
+#     # Demographics summary
+#     if 'age_at_semester_start' in student_data.columns:
+#         age_data = student_data['age_at_semester_start'].dropna()
+#         print(f"\nDEMOGRAPHICS:")
+#         print(f"  Average age: {age_data.mean():.1f} years")
+#         print(f"  Age range: {age_data.min():.0f}-{age_data.max():.0f} years")
+
+#     if 'work_experience_months' in student_data.columns:
+#         work_data = student_data['work_experience_months'].dropna()
+#         print(f"  Average work experience: {work_data.mean():.1f} months ({work_data.mean()/12:.1f} years)")
+
+#     if 'gender' in student_data.columns:
+#         gender_dist = student_data['gender'].value_counts()
+#         print(f"  Gender distribution: {dict(gender_dist)}")
+
+
+```

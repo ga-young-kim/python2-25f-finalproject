@@ -1,0 +1,9 @@
+This is a notebook to build a (single) master working dataset at the person-year(session) panel data to answer the core research question. 
+(and network data for person-bill; person-person for actual research)
+
+# data dictionary for cleaned data
+
+```{python}
+# create_data_dictionary
+
+```
