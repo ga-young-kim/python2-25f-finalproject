@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H481A251087604B42B43F8BD65C703027" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 502 IH: To amend title 38, United States Code, to ensure that the Secretary of Veterans Affairs repays members of the Armed Forces for certain contributions made by such members towards Post-9/11 Educational Assistance, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 502</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230125">January 25, 2023</action-date><action-desc><sponsor name-id="B001299">Mr. Banks</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name>, and in addition to the Committee on <committee-name committee-id="HBU00">the Budget</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to ensure that the Secretary of Veterans Affairs repays members of the Armed Forces for certain contributions made by such members towards Post-9/11 Educational Assistance, and for other purposes.</official-title></form><legis-body id="H1683B283434E4896851158DC0A32394C" style="OLC"> 
+<section id="H99A9C23D25BB4B8C863BAB78AB927CA0" section-type="section-one"><enum>1.</enum><header>Repayment of members of the Armed Forces for contributions toward Post-9/11 Educational Assistance</header>
+<subsection id="HD1F7E929F7C54C1BA62110D8EC648A2A"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 3327(f)(3) of title 38, United States Code, is amended by striking <quote>together</quote> and all that follows through <quote>(as applicable),</quote>.</text></subsection> <subsection id="HCAE33688DD3F4BEA829AB6922F18B475"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by subsection (a) shall take effect on August 1, 2023.</text></subsection></section>
+<section id="HAB7E5CFB0E8143D0AB4B0AA1A81EBCE8" display-inline="no-display-inline" section-type="subsequent-section"><enum>2.</enum><header>Modification of certain housing loan fees</header><text display-inline="no-display-inline">The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking <quote>January 14, 2031</quote> each place it appears and inserting <quote>January 28, 2031</quote>.</text></section> <section id="HA13E2AC461C84D94A34B501223B9D27D" display-inline="no-display-inline" section-type="subsequent-section"><enum>3.</enum><header>Determination of budgetary effects</header><text display-inline="no-display-inline">The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled <quote>Budgetary Effects of PAYGO Legislation</quote> for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.</text></section> 
+</legis-body></bill>
+

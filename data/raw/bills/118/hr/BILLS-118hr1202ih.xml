@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H43CDB833B57D434C8E1C10BCD6878622" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1202 IH: Resident Education Deferred Interest Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1202</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230227">February 27, 2023</action-date><action-desc><sponsor name-id="B001291">Mr. Babin</sponsor> (for himself and <cosponsor name-id="H001085">Ms. Houlahan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Higher Education Act of 1965 to provide for interest-free deferment on student loans for borrowers serving in a medical or dental internship or residency program.</official-title></form><legis-body id="H8E97D5CC0F3740118270A8D8C1B7377F" style="OLC"> 
+<section id="H61E81DD12E64444FB798F0BBA0757328" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Resident Education Deferred Interest Act</short-title></quote> or the <quote><short-title>REDI Act</short-title></quote>.</text></section> <section id="H0BAE8990EF6244B791A87A5C34B1D1DB"><enum>2.</enum><header>Deferment during a medical or dental internship or residency program</header><text display-inline="no-display-inline">Section 455(f) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1087e">20 U.S.C. 1087e(f)</external-xref>) is amended—</text>
+<paragraph id="H830A5D8E26C546919055A40D31774B7E"><enum>(1)</enum><text>in paragraph (1), in the matter preceding subparagraph (A), by striking <quote>A borrower</quote> and inserting <quote>Except as provided in paragraph (6), a borrower</quote>;</text></paragraph> <paragraph id="HECE4A0F38E974BB1AD28A204E1E2660F"><enum>(2)</enum><text>in paragraph (2)(A)—</text>
+<subparagraph id="H3DCDCD715C604CC584862FA50A4FD469"><enum>(A)</enum><text>in clause (i), by striking <quote>or</quote> after the semicolon;</text></subparagraph> <subparagraph id="H5EFB3823E91E437D9ED169E6F353E48F"><enum>(B)</enum><text>by striking the matter following clause (ii);</text></subparagraph>
+<subparagraph id="HC93625750B854CD3916A8C2B4646CBB2"><enum>(C)</enum><text>in clause (ii), by striking the comma at the end and inserting <quote>; or</quote>; and</text></subparagraph> <subparagraph id="H706BD8BB0B4F4E1B8110D8DAA8D74B78"><enum>(D)</enum><text>by adding at the end the following:</text>
+<quoted-block id="HFED92AAC990645FE8A40AE2E3FA09937" style="OLC">
+<clause id="H0780C1DECE29473194F3910244FB366D"><enum>(iii)</enum><text>is serving in a medical or dental internship or residency program;</text></clause><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph></paragraph> <paragraph id="HF150D35A49D54C5DA3463C434E3D16FD"><enum>(3)</enum><text>by adding at the end the following:</text>
+<quoted-block id="H56C06ABD623D483BA0C8A20576884D5C" style="OLC">
+<paragraph id="H6E2565F6AF88434B8B306F08E990F116"><enum>(6)</enum><header>Special rule for certain in school deferment</header><text>Notwithstanding any other provision of this Act, a borrower described in paragraph (2)(A)(iii) shall be eligible for a deferment, during which periodic installments of principal need not be paid and interest shall not accrue on any loan made to the borrower under this part.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> </legis-body></bill> 
+

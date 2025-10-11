@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H70023D2FE9BA4F6CAE23FFCDC894942F" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4847 IH: Safeguarding Syria Sanctions Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 4847</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230725">July 25, 2023</action-date>
+<action-desc><sponsor name-id="B001307">Mr. Baird</sponsor> (for himself, <cosponsor name-id="M001157">Mr. McCaul</cosponsor>, and <cosponsor name-id="W000795">Mr. Wilson of South Carolina</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name>, and in addition to the Committees on <committee-name committee-id="HJU00">the Judiciary</committee-name>, <committee-name committee-id="HBA00">Financial Services</committee-name>, <committee-name committee-id="HGO00">Oversight and Accountability</committee-name>, and <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To provide for limitations on general license authorities under the Syria Sanctions Regulations.</official-title>
+</form>
+<legis-body id="H031FCAA205374207B8DCF68BDDD38064" style="OLC">
+<section id="HB5C05020002D40DBB4F1AB859221ECF3" section-type="section-one" commented="no"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Safeguarding Syria Sanctions Act</short-title></quote>.</text></section> <section id="HF9C2E597F01941F7992BB7E9D77F85C0"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+<paragraph id="HA6F3848B4D0145098DAED1278D0A7C96"><enum>(1)</enum><text>On February 6, 2023, a magnitude 7.8 earthquake struck northwest Syria and central-southern Türkiye.</text></paragraph> <paragraph id="H1EA21989FF0E46F8943B10C3BE270FD4"><enum>(2)</enum><text>On February 9, 2023, the Department of the Treasury issued Syria General License 23, temporarily authorizing direct transactions with the Assad regime related to earthquake relief efforts for 180 days.</text></paragraph>
+<paragraph id="H810EC9197283482BB5889D2A125861C3"><enum>(3)</enum><text>Prior to the earthquake, pre-existing general licenses enabled assistance to the Syrian people by authorizing robust exemptions for humanitarian assistance carried out by the United Nations and nongovernmental organizations. Such pre-existing licenses are set to remain in effect past the expiration of General License 23.</text></paragraph> <paragraph id="H6373F81DE7C44F56BC1064AB198CE679"><enum>(4)</enum><text>Since the Department of the Treasury issued Syria General License 23, numerous reports have documented extensive efforts by the Assad regime, and its Russian and Iranian backers, to leverage the earthquake response for their gain.</text></paragraph>
+<paragraph id="H78FE5C28FBCD4B429D04D400643B2595"><enum>(5)</enum><text>The Iranian regime and its proxies have reportedly smuggled lethal weapons into Syria to target United States forces under the guise of earthquake relief.</text></paragraph></section> <section id="H0D032DE3872943528363DB9559864E10"><enum>3.</enum><header>Statement of policy</header><text display-inline="no-display-inline">It is the policy of the United States to actively oppose recognition or normalization of relations by other governments with any Government of Syria, including by fully implementing the mandatory primary and secondary sanctions under the Caesar Syria Civilian Protection Act of 2019 (<external-xref legal-doc="usc" parsable-cite="usc/22/8791">22 U.S.C. 8791</external-xref> note) and Executive Order 13894 (84 Fed. Reg. 55851; relating to blocking property and suspending entry of certain persons contributing to the situation in Syria) to deter any form of investment, loan, transaction, or reconstruction in areas under the control of the Assad regime, or its Russian and Iranian backers, or that may otherwise benefit the Assad regime.</text></section>
+<section id="H3DCE2A44EED94485BF642E5DC2B46D6D"><enum>4.</enum><header>Limitations on license authorities under the Syria sanctions regulations</header>
+<subsection id="H7F347EC70F894F6E9AA1D8FFE0567CC2"><enum>(a)</enum><header>In general</header><text>No general license may be issued, renewed, or otherwise extended by the Department of Treasury on or after the date of the enactment of this Act under the Syria Sanctions Regulations to respond to the earthquake that struck northwest Syria on February 6, 2023.</text></subsection> <subsection id="H6B2AC122689C413B85CA723EEDB4CA2E"><enum>(b)</enum><header>Notification requirement</header><text>The Secretary of the Treasury, with the concurrence of the Secretary of State and the Secretary of Commerce, shall notify the appropriate congressional committees of any change to the Syria Sanctions Regulations, including changes to any existing regulation, ruling, instruction, license, or authorization, not later than 15 days prior to the date on which such change is to take effect.</text></subsection></section>
+<section id="H5C6ECF022E4D42AF810E4C34DAF6E0E5" commented="no"><enum>5.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act—</text> <paragraph id="H736CDB676F4B4038B6F8AA3591884396" commented="no"><enum>(1)</enum><text>the term <term>appropriate congressional committees</term> means—</text>
+<subparagraph id="H70C20C8F77F64243A1191AADDFCC9D37" commented="no"><enum>(A)</enum><text>the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Ways and Means, and the Committee on the Judiciary of the House of Representatives; and</text></subparagraph> <subparagraph id="HAF52EF967F29452DBCF32704E5032AFC" commented="no"><enum>(B)</enum><text>the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Committee on the Judiciary of the Senate; and</text></subparagraph></paragraph>
+<paragraph id="H25AFF2B9C354453596C97A79D4D505B1" commented="no"><enum>(2)</enum><text display-inline="yes-display-inline">the term <term>Syria Sanctions Regulations</term> means the regulations specified in part 542 of title 31, Code of Federal Regulations, or any successor or related regulations.</text></paragraph></section> </legis-body> </bill> 
+

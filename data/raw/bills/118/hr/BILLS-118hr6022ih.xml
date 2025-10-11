@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5A3283CA1F5F4C51BC2168D0B3AA8D32" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6022 IH: Propane Accessibility and Regulatory Relief Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 6022</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231024">October 24, 2023</action-date>
+<action-desc><sponsor name-id="B001316">Mr. Burlison</sponsor> (for himself and <cosponsor name-id="L000566">Mr. Latta</cosponsor>) introduced the following bill</action-desc>
+</action>
+<action display="yes">
+<action-date date="20231025">October 25, 2023</action-date>
+<action-desc>Referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name>, and in addition to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Secretary of Homeland Security to exempt from CFATS regulations certain propane tanks, and for other purposes.</official-title>
+</form>
+<legis-body id="H85B5FB3C60E94B32B9975FD9485ADC91" style="OLC"> 
+<section id="HE95CBD3CCC0E42C7AD1EA3781AB2D5BF" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Propane Accessibility and Regulatory Relief Act</short-title></quote>. </text></section> <section id="HD32FFF47053A45CD92C3752D7D71EE3B"><enum>2.</enum><header>Exemption from CFATS regulations of certain propane tanks</header><text display-inline="no-display-inline">The Secretary of Homeland Security shall take such actions as may be necessary to exempt from any CFATS regulation (as such term is defined in section 2101 of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/621">6 U.S.C. 621</external-xref>)) any propane tank with a capacity of up to 126,000 pounds of propane.</text> </section> 
+</legis-body>
+</bill> 
+
+

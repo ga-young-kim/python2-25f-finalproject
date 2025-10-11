@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8E3C8E3BB2324E418476E3B5ADA215C2" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4372 IH: To designate the facility of the United States Postal Service located at 100 North Taylor Lane in Patagonia, Arizona, as the “Jim Kolbe Memorial Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4372</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230627">June 27, 2023</action-date><action-desc><sponsor name-id="C001133">Mr. Ciscomani</sponsor> (for himself, <cosponsor name-id="S001183">Mr. Schweikert</cosponsor>, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, and <cosponsor name-id="S001211">Mr. Stanton</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 100 North Taylor Lane in Patagonia, Arizona, as the <quote>Jim Kolbe Memorial Post Office</quote>.</official-title></form><legis-body id="HD20B45F0CAC44DD7A59063FAB2EBA3E7" style="OLC"><section id="HE1233808128243B3AC591385C2D8A7B0" section-type="section-one"><enum>1.</enum><header>Jim Kolbe Memorial Post Office</header><subsection id="HF6BDCA38F2E74266A4E0824816CBF5BB"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 100 North Taylor Lane in Patagonia, Arizona, shall be known and designated as the <quote>Jim Kolbe Memorial Post Office.</quote>.</text></subsection><subsection id="H65B789B509CA4BBEB63877568B84F5BC"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Jim Kolbe Memorial Post Office.</quote>.</text></subsection></section></legis-body></bill> 
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF66B2E7C01694B099861DA8C2192BBF9" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1636 IH: Delivering Envelopes Judiciously On-time Year-round Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1636</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230317">March 17, 2023</action-date><action-desc><sponsor name-id="K000391">Mr. Krishnamoorthi</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 39, United States Code, to maintain certain service standards for first-class mail, and for other purposes.</official-title></form><legis-body id="HDEF827401E914398ABFA6C144997C948" style="OLC"><section id="H06A494188FAE42D28823B28A6FE30E60" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Delivering Envelopes Judiciously On-time Year-round Act</short-title></quote> or the <quote><short-title>DEJOY Act</short-title></quote>.</text></section><section id="H8EC6558E1EDA4C459CB38EFE2D92E3EF"><enum>2.</enum><header>Service standards for first-class mail</header><text display-inline="no-display-inline">Section 3691 of title 39, United States Code, is amended by adding at the end the following:</text><quoted-block style="USC" id="HCD11FEBF31554C348DE3DEEAFA379B9A" display-inline="no-display-inline"><subsection id="HA5EF6D205CA64A868F58BC60F492D10E"><enum>(e)</enum><header>Service standards for first-Class mail</header><text display-inline="yes-display-inline">Notwithstanding any other provision of this title, the service standards for first-class mail shall be such standards as in effect on January 1, 2021.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill> 
+

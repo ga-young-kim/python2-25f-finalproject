@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC8EAD02ED314401C952064698490501A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 957 IH: Public Safety Retirees Healthcare Protection Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 957</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230209">February 9, 2023</action-date><action-desc><sponsor name-id="S001209">Ms. Spanberger</sponsor> (for herself, <cosponsor name-id="F000466">Mr. Fitzpatrick</cosponsor>, <cosponsor name-id="K000380">Mr. Kildee</cosponsor>, and <cosponsor name-id="B001298">Mr. Bacon</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to increase the amount excluded from gross income by reason of distributions from governmental retirement plans for health and long-term care insurance for public safety officers.</official-title></form><legis-body id="H5BE78962DCB144FDB136108D9F380FED" style="OLC"><section id="HB21FA1A7941B433084C6F019C0DB6354" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Public Safety Retirees Healthcare Protection Act of 2023</short-title></quote>.</text></section><section id="HC47FFD17F69A4934A888B8F28FA876CF"><enum>2.</enum><header>Increase in amount excluded from gross income by reason of distributions from governmental retirement plans for health and long-term care insurance for public safety officers</header><subsection id="H0E65C83744F94C77BC6B43AF7A280509"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/402">Section 402(l)(2)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>$3,000</quote> and inserting <quote>$6,000</quote>.</text></subsection><subsection id="HB5CCB3904DD24F709CAE161FE85D30BF"><enum>(b)</enum><header>Effective date</header><text>The amendment made by paragraph (1) shall apply to distributions in taxable years beginning after December 31, 2023.</text></subsection></section></legis-body></bill> 
+

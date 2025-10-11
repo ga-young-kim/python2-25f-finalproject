@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H80BDD5706CC94132A055818F537AD476" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1192 IH: First Responders Aerial Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 1192</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230224">February 24, 2023</action-date>
+<action-desc><sponsor name-id="N000026">Mr. Nehls</sponsor> (for himself, <cosponsor name-id="S001211">Mr. Stanton</cosponsor>, and <cosponsor name-id="W000828">Mr. Williams of New York</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend title 49, United States Code, to permit the operation of actively tethered unmanned aircraft systems by all first responders, and for other purposes.</official-title>
+</form>
+<legis-body id="HDE87E8D2ABBF460DA05C1D27EE647531" style="OLC"> 
+<section id="HA2EBADA62A6E479EAAC21490AB891D6A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>First Responders Aerial Act of 2023</short-title></quote>.</text></section> <section id="HDE12D12C2EB24BAC83ADD2328F5779CF"><enum>2.</enum><header>Definition of actively tethered unmanned aircraft systems</header><text display-inline="no-display-inline">Section 44801(1) of title 49, United States Code, is amended—</text> 
+<paragraph id="H9E2471680EC049B18727D7657A55721D"><enum>(1)</enum><text>in subparagraph (B) by striking <quote>and</quote> at the end;</text></paragraph> <paragraph id="HC765DD45411F4C1EA530CCD2AEB03833"><enum>(2)</enum><text>in subparagraph (C) by striking the period at the end and inserting a semicolon; and</text></paragraph> 
+<paragraph id="HA825217822E7495BB5D364622BFF1EA4"><enum>(3)</enum><text display-inline="yes-display-inline">by adding at the end the following:</text> <quoted-block style="USC" id="H9BD40A0A289C477D8AFA32448F9E65C9" display-inline="no-display-inline"> <subparagraph id="H2A202D10670C44F79D261A5039426074"><enum>(D)</enum><text display-inline="yes-display-inline">has redundant flight functionality which permits the unmanned aircraft component to maintain normal flight control in the event that a rotor or flight mechanism fails during flight; and</text></subparagraph> 
+<subparagraph id="HFDAF26657A1A48099B1E0258DA863C90"><enum>(E)</enum><text display-inline="yes-display-inline">is programed to initiate a controlled landing in the event of a tether separation.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> <section id="H9AA7DBA3A0EC4AC6AECA2C8C8270F2CA"><enum>3.</enum><header>Operation of public actively tethered unmanned aircraft systems</header> <subsection id="H65AEB88A0EA8421CBD5E8D8AA33A2F91"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 44806(c) of title 49, United States Code, is amended—</text> 
+<paragraph id="H691C08C14BBC45D5A1A2936C76D6FA8C"><enum>(1)</enum><text>in paragraph (1)(B)—</text> <subparagraph id="H22E19B3BB87243F4A40F8503AD0B05AE"><enum>(A)</enum><text>in clause (i) by striking <quote>or</quote> at the end;</text></subparagraph> 
+<subparagraph id="H49CDDB587E5E4231BC85FC294A5ED48E"><enum>(B)</enum><text>in clause (ii) by inserting <quote>or</quote> at the end; and </text></subparagraph> <subparagraph id="H58F4349667484448ABF41D6ADC68B435" commented="no"><enum>(C)</enum><text>by adding at the end the following:</text> 
+<quoted-block style="USC" id="HD23C4854315D48998EF1DB717E8EA37C" display-inline="no-display-inline"> 
+<clause id="H2E774101D834432FA819887FAF819710" commented="no"><enum>(iii)</enum><text display-inline="yes-display-inline">in an emergency response situation—</text> <subclause id="H904ACA55E9CB4EB9B6F331AA42C7A4ED" commented="no"><enum>(I)</enum><text display-inline="yes-display-inline">at least a 0.25 mile radius away from an airport, if such systems are not operating in the approach or departure flight path for a runway at such airport;</text></subclause> 
+<subclause id="H1320F2BDF8EE4CCEA18DF8DF001D687C" commented="no"><enum>(II)</enum><text display-inline="yes-display-inline">at least a 0.5 mile radius away from an airport, if such systems are operating in the approach or departure flight path for a runway at an airport; or</text></subclause> <subclause id="H78D559A0B1F8468382F3BDD077F277E2" commented="no"><enum>(III)</enum><text display-inline="yes-display-inline">with approval of air traffic control personnel for an airport if such systems are operating closer to an airport than permitted under subclauses (I) and (II);</text></subclause></clause><after-quoted-block>; and </after-quoted-block></quoted-block></subparagraph></paragraph> 
+<paragraph id="H8AADFE0CE3F04902ACD5998890C6D0F8"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block style="USC" id="H0373B60C7DAB4B0F99705DACF1F6B113" display-inline="no-display-inline"> <paragraph id="H8B04C11E926948D0BB6A7FB203C346A3"><enum>(5)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this subsection:</text> 
+<subparagraph id="HCAE4AB7CDABD44FF860EF081C0E81491"><enum>(A)</enum><header>Emergency response situation</header><text display-inline="yes-display-inline">The term <term>emergency response situation</term> means any situation that requires a response by an emergency service organization.</text></subparagraph> <subparagraph id="H2838D50F991A49EDBF397167CED368AB"><enum>(B)</enum><header>Emergency service organization</header><text>The term <term>emergency service organization</term> means any entity, including an entity contracting with a State or local government, that provides emergency services or training for emergency service providers, including—</text> 
+<clause id="HF73241BAA2B3440FAF6C8A3FCD3C5CFA"><enum>(i)</enum><text>a fire department;</text></clause> <clause id="HD9D51CCA423446BDBF3123A7F4D782E1"><enum>(ii)</enum><text>a police department;</text></clause> 
+<clause id="H994ABB6925984702BF0E7A185AF802D4"><enum>(iii)</enum><text>a search and rescue organization; and</text></clause> <clause id="H83D5A19F1A20423F82889203B7878C4D"><enum>(iv)</enum><text>a public safety organization.</text></clause></subparagraph> 
+<subparagraph id="H71A9D91621194643B3A8E3C0CADF7266"><enum>(C)</enum><header>Public actively tethered unmanned aircraft system</header><text>The term <term>public actively tethered unmanned aircraft system</term> means an actively tethered unmanned aircraft system that is—</text> <clause id="H30AFF513FF3B4CDB8A995CA5CF2A85E9"><enum>(i)</enum><text display-inline="yes-display-inline">a public unmanned aircraft system; and</text></clause> 
+<clause id="HA9F59943408B4594B91695AA693ECE73"><enum>(ii)</enum><text>operated by an emergency service organization.</text></clause></subparagraph></paragraph><after-quoted-block>. </after-quoted-block></quoted-block></paragraph></subsection> <subsection id="H547B754831DE462D835CAD0E59DD351E"><enum>(b)</enum><header>Agency guidance</header><text>Not later than 90 days after the date of enactment of this Act, the Administrator of the Federal Aviation Administration shall issue guidance on the implementation of the amendments made by this section.</text></subsection></section> 
+</legis-body>
+</bill> 
+
+

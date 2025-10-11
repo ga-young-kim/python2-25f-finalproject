@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H82D9910AA7014CF5B7E14A6638403B2F" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5100 IH: Military Family’s Ability to Move In Line with Your Dependents Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-08-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 5100</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230801">August 1, 2023</action-date>
+<action-desc><sponsor name-id="C001121">Mr. Crow</sponsor> (for himself and <cosponsor name-id="L000564">Mr. Lamborn</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend title 10, United States Code, to provide for timely determination and action on applications by a member of one of certain Armed Forces for consideration of a reassignment to a duty station within a certain distance to the residence of a dependent child.</official-title>
+</form>
+<legis-body id="H3521AAEFDAD3480FB8916541AB0B6B6A" style="OLC">
+<section id="HB630D582FD3649178BB6F5D8117CD9FC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Military Family’s Ability to Move In Line with Your Dependents Act</short-title></quote> or the <quote><short-title>Military FAMILY Dependents Act</short-title></quote>.</text></section> <section id="H5D9613F29B39436E9ADA52E09D52BFB6"><enum>2.</enum><header>Reassignment for certain members of the Armed Forces on the basis of the residence of a dependent child</header><text display-inline="no-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/10/39">Chapter 39</external-xref> of title 10, United States Code, is amended by inserting, after item 674, the following new section:</text>
+<quoted-block id="HB13E0C64440B431D965C0F5CA02272C7" style="USC">
+<section id="H8F299D64DC9342D897FD59A0DF0A4079"><enum>675.</enum><header>Permanent change of station or unit transfer for a member on active duty on the basis of the residence of a dependent child</header>
+<subsection id="H2D56DA24FBAA4F09A8C263990BAD8EB9"><enum>(a)</enum><header>Timely consideration and action</header>
+<paragraph commented="no" display-inline="yes-display-inline" id="HEE1A5AF1C201412BB14A155AA3307C86"><enum>(1)</enum><text>A commanding officer shall determine whether to grant a request for a covered reassignment not later than five calendar days after the covered member makes such request.</text></paragraph> <paragraph id="H73EBB2E994304413948C17B2FCC32D4F" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">If a commanding officer denies a request under paragraph (1), the covered member may request review of such denial by the first general officer or flag officer in the chain of command of the covered member. Such general officer or flag officer shall determine whether to affirm or reverse such denial not later than two weeks after the covered member makes such request.</text></paragraph></subsection>
+<subsection id="H43DDF455DDA6400D8C561BF7C6FB4217"><enum>(b)</enum><header>Regulations</header><text display-inline="yes-display-inline">The Secretary of Defense shall prescribe regulations to ensure that this section is carried out as uniformly as possible across the military departments.</text></subsection> <subsection id="H0B793C8A856340508C12F009595B1B2A"><enum>(c)</enum><header>Privacy</header><text>A commanding officer shall, to the greatest extent practicable, protect the privacy of a covered member who requests a covered reassignment.</text></subsection>
+<subsection id="H6AC0B4BF032A4ADD9A82689031CE5836"><enum>(d)</enum><header>Prohibition</header><text>No covered member may be subject to any adverse action for requesting a covered reassignment.</text></subsection> <subsection id="HA3C6CBC34D6B473396208803A98F25E1"><enum>(e)</enum><header>Definitions</header><text>In this section:</text>
+<paragraph id="H0FCB9192FBB24A06A095E95561B9D11E"><enum>(1)</enum><text display-inline="yes-display-inline">The term <term>covered child</term> means a dependent child of a member of the armed forces who is registered under the Defense Enrollment Eligibility Reporting System (or successor system).</text></paragraph> <paragraph id="H3C9D3D76B13A48C6A350518A57659079"><enum>(2)</enum><text>The term <term>covered member</term> means a member—</text>
+<subparagraph id="H530853675836475B9BE976F79E2579BE"><enum>(A)</enum><text>serving on active duty;</text></subparagraph> <subparagraph id="H74A139B038964B9B82087750082567CA"><enum>(B)</enum><text display-inline="yes-display-inline">who has a covered child; and</text></subparagraph>
+<subparagraph id="H1530D7749B924AE084026F8ADE9747A2"><enum>(C)</enum><text>assigned to a duty station located more than 300 miles from the residence of such covered child.</text></subparagraph></paragraph> <paragraph id="HE9CA00A335754372AF7A2D3763188E2D"><enum>(3)</enum><text>The term <term>covered reassignment</term> means a request—</text>
+<subparagraph id="H3B99B0CA68CE46488F0CB76A42ADD3AB"><enum>(A)</enum><text>by a covered member; and</text></subparagraph> <subparagraph id="H68F67F3CBB6F4B429E7818FC5D2EB6C1"><enum>(B)</enum><text>for a permanent change of station, or a unit transfer, to a duty station located within 300 miles of the residence of the covered child of such covered member.</text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section>
+</legis-body>
+</bill> 
+
+

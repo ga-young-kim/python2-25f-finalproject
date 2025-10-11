@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6FEA5F9AA81B459897B53A0BC766A7F3" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3318 IH: To amend title 23, United States Code, to establish an axle weight tolerance for certain commercial motor vehicles transporting dry bulk goods, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3318</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230515">May 15, 2023</action-date><action-desc><sponsor name-id="C001087">Mr. Crawford</sponsor> (for himself and <cosponsor name-id="C001112">Mr. Carbajal</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 23, United States Code, to establish an axle weight tolerance for certain commercial motor vehicles transporting dry bulk goods, and for other purposes.</official-title></form><legis-body id="H7DA13652B55D4CD7B55083CA9BAC3EFF" style="OLC"> 
+<section id="H39FD8DAD36C64D80A541B4AB66DDCE46" section-type="section-one"><enum>1.</enum><header>Dry bulk weight tolerance</header><text display-inline="no-display-inline">Section 127 of title 23, United States Code, is amended by adding at the end the following: </text> <quoted-block style="USC" id="HB08F4DDE62784C08B2FE8B7A823B33A0" display-inline="no-display-inline"> <subsection id="H9B663A4943104B9CA4E18F48B0359996"><enum>(x)</enum><header>Dry bulk weight tolerance</header> <paragraph id="H9009CC24F58B4378A4E5F889F5E08948"><enum>(1)</enum><header>Weight tolerance</header><text display-inline="yes-display-inline">Notwithstanding any other provision of this section, except for the maximum gross vehicle weight limitation, a commercial motor vehicle transporting dry bulk goods may not exceed 110 percent of the maximum weight on any axle or axle group described in subsection (a), including any enforcement tolerance.</text></paragraph>
+<paragraph id="HEF45BD66BC2847C2A01E7059EDBDA84E"><enum>(2)</enum><header>Dry bulk goods defined</header><text display-inline="yes-display-inline">In this subsection, the term <quote>dry bulk goods</quote> means any homogeneous unmarked nonliquid cargo being transported in a trailer specifically designed for that purpose.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </section> </legis-body></bill>
+

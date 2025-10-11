@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA35AC2E3573942678E8AAB3930C7C955" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5286 IH: Defending Veterans’ Second Amendment Rights Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-08-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5286</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230825">August 25, 2023</action-date><action-desc><sponsor name-id="R000614">Mr. Roy</sponsor> (for himself, <cosponsor name-id="C001132">Mr. Crane</cosponsor>, <cosponsor name-id="G000589">Mr. Gooden of Texas</cosponsor>, <cosponsor name-id="C001116">Mr. Clyde</cosponsor>, <cosponsor name-id="H001052">Mr. Harris</cosponsor>, and <cosponsor name-id="M001211">Mrs. Miller of Illinois</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the Secretary of Veterans Affairs from transmitting certain information to the Department of Justice for use by the national instant criminal background check system.</official-title></form><legis-body id="HE6AEA99042EA4270B00804B75677C1E1" style="OLC"> 
+<section id="HD642C2871AFC4AACB0D83905600B9440" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Defending Veterans’ Second Amendment Rights Act</short-title></quote>. </text></section> <section id="H5E09F70CB2234A9EBA6D7FE1D4AE14C2"><enum>2.</enum><header>Prohibition on Secretary of Veterans Affairs transmittal of certain information to the Department of Justice for use by the national instant criminal background check system</header><text display-inline="no-display-inline">The Secretary of Veterans Affairs may not transmit to any entity in the Department of Justice, for use by the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act, personally identifiable information on veterans and other beneficiaries, solely on the basis of a determination by the Secretary under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/11">chapter 11</external-xref> of title 38, United States Code, that a person has a service-connected disability.</text></section> 
+</legis-body></bill>
+

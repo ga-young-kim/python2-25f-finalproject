@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H45E6163060624419B399F75BB0B9FC05" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6741 IH: Sentinel Program Risk Mitigation Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-12-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6741</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231213">December 13, 2023</action-date><action-desc><sponsor name-id="B001298">Mr. Bacon</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To authorize the Secretary of Defense to enter into a limited number of cost-plus incentive-fee contracts for the Sentinel Intercontinental Ballistic Missile program, and for other purposes.</official-title></form><legis-body id="HFBF66B6F4BB24007B15887A9E0B5F858" style="OLC"> 
+<section id="H53F77A5762EC4526870F00FE261C8BB2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Sentinel Program Risk Mitigation Act of 2023</short-title></quote>.</text></section> <section id="H7A32B83CE23446EBAA1AB7C0B85ACE02"><enum>2.</enum><header>Form of contracting authorized to mitigate risk to Sentinel program schedule and cost</header><text display-inline="no-display-inline">Notwithstanding section 3323 of title 10, United States Code, the Secretary of Defense may authorize the use of contracts using cost-plus incentive-fee contracting for military construction projects associated with launch facilities, launch centers, and related infrastructure of the Sentinel intercontinental ballistic missile weapon system program of the Department of Defense for not more than one low-rate initial production lot at each of the following locations:</text>
+<paragraph id="H0B7FEB598C0D4D3AA02D34528615AAC8"><enum>(1)</enum><text>F.E. Warren Air Force Base, Wyoming.</text></paragraph> <paragraph id="H3407A62433A94B63869502D1602185DA"><enum>(2)</enum><text>Malmstrom Air Force Base, Montana.</text></paragraph>
+<paragraph id="HB86A40439C854BA3B902631CDC35E1A8"><enum>(3)</enum><text>Minot Air Force Base, North Dakota.</text></paragraph></section> </legis-body></bill>
+

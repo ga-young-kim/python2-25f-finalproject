@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8BDF4CD3F820405C96542697CDA0C3DE" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6339 IH: States Choose Common Sense Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6339</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231109">November 9, 2023</action-date><action-desc><sponsor name-id="G000590">Mr. Green of Tennessee</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit withholding or revoking Federal funds based on the definition of <quote>sex</quote> used by a State, and for other purposes.</official-title></form><legis-body id="HDE206A47674848A992EB72E467B98864" style="OLC"> 
+<section id="H640DB94C98774C89B0C06C493CE2D16A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>States Choose Common Sense Act of 2023</short-title></quote>.</text></section> <section id="HB7C711FC45C04D91BF0E6591CDB21049" section-type="subsequent-section"><enum>2.</enum><header>Prohibition on withholding or revoking Federal funds based on the definition of <quote>sex</quote> used by a State</header> <subsection id="H3F0E318DF848435A80E236D433702A5A"><enum>(a)</enum><header>Prohibition</header><text display-inline="yes-display-inline">No Federal funds authorized to be made available to a State may be withheld or revoked on the basis of the State having in place any law, regulation, or policy that defines <quote>sex</quote> based on the biological sex of an individual, as determined by the anatomy or genetics of the individual at the time of birth.</text></subsection> 
+<subsection id="H951EB71103174D3FAD857A869C4CC1DA"><enum>(b)</enum><header>Definition</header><text>In this Act, the term <quote>State</quote> means the following:</text> <paragraph id="HB1226E71039340DC9B174B6927DDA590"><enum>(1)</enum><text>The 50 States of the United States.</text></paragraph> 
+<paragraph id="HEF81F44901E843A49FD67046B00875EE"><enum>(2)</enum><text>The District of Columbia.</text></paragraph> <paragraph id="H78C0C8BDDC20486588FFE116C30D757A"><enum>(3)</enum><text>A territory or possession of the United States.</text></paragraph> 
+<paragraph id="H6284536480554524907D78BDC8C91F33"><enum>(4)</enum><text display-inline="yes-display-inline">Any political subdivision, instrumentality, or authority of a State.</text></paragraph> </subsection></section> </legis-body></bill>
+

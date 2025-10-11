@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HAA07E9C2367743A6B540FDE5FEE79580" public-private="public" key="H" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4142 IH: CCP Wrongful Death Accountability Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session> 
+<legis-num display="yes">H. R. 4142</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20230615">June 15, 2023</action-date> 
+<action-desc><sponsor name-id="S001222">Mr. Santos</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To provide for a cause of action for any United States national who lost a relative due to COVID–19.</official-title> 
+</form> 
+<legis-body id="H1B7480E944E74287AA2DDF62E3F084F0" style="OLC"> 
+<section id="HF1A826D0DF434C15954AAF4855FA7BFD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>CCP Wrongful Death Accountability Act of 2023</short-title></quote>.</text></section> <section id="H6383B644B189403F92854C1D685D89CD"><enum>2.</enum><header>Cause of action</header> <subsection id="H24737BEE7FFD4C66A49CEFD7CB8F8383"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, a United States national, if an immediate relative of that national has died of COVID–19, may, in a civil action against the Government of China, recover appropriate relief. </text></subsection> 
+<subsection id="H277C7D9C642D449B837F64FF60C20C93" display-inline="no-display-inline"><enum>(b)</enum><header>Action by citizen of United States</header><text>Notwithstanding any other provision of law (including <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/85">chapter 85</external-xref> of title 28, United States Code, commonly referred to as the <quote>Foreign Sovereign Immunities Act</quote>) a citizen of the United States may bring an action for damages in an appropriate district court of the United States against the Government of the People’s Republic of China for harm suffered by the citizen as a result of the COVID–19 pandemic.</text></subsection> <subsection id="H7553223DE1B9412C8A23C250EFEFC816"><enum>(c)</enum><header>Payment by United States</header><text display-inline="yes-display-inline">If an individual is awarded damages in an action under this section, and the Government of the People’s Republic of China has not satisfied such award before the date that is one year after the date on which the damages were awarded, the individual may seek an order from the court directing the United States to pay such award to the individual. The payment by the United States of any such award shall be deducted from any interest or debt owed by the United States to the People’s Republic of China, or from any amounts made available to provide United States assistance to the People’s Republic of China.</text></subsection> 
+<subsection id="HDDF7BE57B45B4A05BAFF316EA03BA5DF"><enum>(d)</enum><header>Definition</header><text display-inline="yes-display-inline">In this section:</text> <paragraph id="HF31F89B4093C41A7AC0B615D740F2A41"><enum>(1)</enum><header>Harm</header><text>The term <term>harm</term> includes costs associated with—</text> 
+<subparagraph id="H23BB772A6E474B9E90356DA13AD5CBFD"><enum>(A)</enum><text>the payment of overtime to frontline workers;</text></subparagraph> <subparagraph id="H9604F1BB80054E97A8261283A18365F7"><enum>(B)</enum><text>purchasing masks and sanitizing products;</text></subparagraph> 
+<subparagraph id="HE51818B17DAF4F49A7B9B9BE5E744873"><enum>(C)</enum><text>purchasing vaccines;</text></subparagraph> <subparagraph id="HB8BB5E2DE5ED4A98B7789FDC65B4C8FA"><enum>(D)</enum><text>research and development;</text></subparagraph> 
+<subparagraph id="H145B480D5FA6449088553D59642530A5"><enum>(E)</enum><text>developing COVID–19 testing sites and testing individuals for COVID–19;</text></subparagraph> <subparagraph id="H9BD60506133945D7AAAFF76D84D1E003"><enum>(F)</enum><text>purchasing medical equipment related to COVID–19;</text></subparagraph> 
+<subparagraph id="H2ABF9D1CF6CD4E9CA125FBF7424D80F1"><enum>(G)</enum><text>unemployment payments; and</text></subparagraph> <subparagraph id="H5CA6F72257A04CA6A16B77B4388FFF3E"><enum>(H)</enum><text>laws to provide other assistance during the COVID–19 pandemic.</text></subparagraph></paragraph> 
+<paragraph id="HDE5A4687805B45F883A3D195EDD9C80E"><enum>(2)</enum><header>Immediate relative</header><text display-inline="yes-display-inline">The term <quote>immediate relative</quote> means a brother, sister, mother, or father, either biological or adopted. </text></paragraph></subsection></section> </legis-body> </bill> 
+

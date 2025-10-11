@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCD44AE1E6C6743469F7362DE2D022BB0" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2467 IH: Supporting Middle America’s Airports Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2467</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230403">April 3, 2023</action-date><action-desc><sponsor name-id="M001204">Mr. Meuser</sponsor> (for himself and <cosponsor name-id="T000483">Mr. Trone</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 49, United States Code, to modify the eligibility requirements for the essential air service program, and for other purposes.</official-title></form><legis-body id="H52A8EFC036184B9FBDA9CA34378BC092" style="OLC"> 
+<section id="H6086B3B5A10E4770A5A34D7CA96EE16A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Supporting Middle America’s Airports Act</short-title></quote>.</text></section> <section id="HE2C5F776834E451AABC811095A4ADA60" section-type="subsequent-section"><enum>2.</enum><header>Essential air service</header> <text display-inline="no-display-inline">Section 41731 of title 49, United States Code, is amended—</text> 
+<paragraph id="H6DF50DD0C3E040169D8394A4517BA356" commented="no"><enum>(1) </enum><text>in subsection (a)(1)—</text> <subparagraph id="H7065169579794792A88C08C684FBD646" commented="no"><enum>(A)</enum><text>subparagraph (B) by inserting <quote>and</quote> at the end; and</text></subparagraph> 
+<subparagraph id="H422E7DC050644B9091879D3BBB5C69CE" commented="no"><enum>(B)</enum><text>by striking subparagraph (D); </text></subparagraph></paragraph> <paragraph id="HDC36D5747D1B4B7F9E4C466B9BF03BCD" commented="no"><enum>(2)</enum><text>in subsection (c) by striking <quote>Subparagraphs (B), (C), and (D) of subsection (a)(1)</quote> and inserting <quote>Subparagraphs (B) and (C) of subsection (a)(1) and subsection (g)</quote>; and</text></paragraph> 
+<paragraph id="H6443881FADF84BD0A846176B26B7205A" commented="no"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block style="USC" id="H76F8E38755B54065A96C0933FF4CF6FF" display-inline="no-display-inline"> <subsection id="HB9D05AE41435464FBC80C8B24DE29687" commented="no"><enum>(g)</enum><header>Limitation on eligible places</header><text display-inline="yes-display-inline">Beginning on the day that is 3 years after the date of enactment of this subsection, the Secretary may only provide compensation to an air carrier under this subchapter for the provision of essential air service to a place if, at any time before such day, the place received essential air service under this subchapter.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body></bill>
+

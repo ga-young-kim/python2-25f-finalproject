@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H0E8719B80E51474297796FF3CE86D82B" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1147 EH: Whole Milk for Healthy Kids Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IB</distribution-code> 
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session> 
+<legis-num display="yes">H. R. 1147</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend the Richard B. Russell National School Lunch Act to allow schools that participate in the school lunch program under such Act to serve whole milk.</official-title> 
+</form> 
+<legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC" id="H61796DCD748546879E9CBB6E36C93BB4"> 
+<section id="H3503A6321CCA4A17A9F16DFD63B966E8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Whole Milk for Healthy Kids Act of 2023</short-title></quote>.</text></section> <section id="HF4EEA99BE60E43A38FD61A9E8F480EEF"><enum>2.</enum><header>Organic or non-organic Whole milk permissible</header><text display-inline="no-display-inline">Section 9(a)(2) of the Richard B. Russell National School Lunch Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1758">42 U.S.C. 1758(a)(2)</external-xref>) is amended—</text> 
+<paragraph id="H62BCFE88401B427B851C9712BAC48440"><enum>(1)</enum><text>by amending subparagraph (A) to read as follows:</text> <quoted-block style="OLC" id="HBEB6D0E433D54553893C4A6B8D94368F" display-inline="no-display-inline"> <subparagraph id="H92A86E40918649FA8B91CD9F1C35EBF0"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">Lunches served by schools participating in the school lunch program under this Act—</text> 
+<clause id="HF8D247D7380342C58498225D277F4A18"><enum>(i)</enum><text display-inline="yes-display-inline">shall offer students a variety of fluid milk;</text></clause> <clause id="H980B29FF5AF047FF9C85D28CCC4A8AB2"><enum>(ii)</enum><text display-inline="yes-display-inline">may offer students flavored and unflavored organic or non-organic whole, reduced-fat, low-fat and fat-free fluid milk and lactose-free fluid milk; and</text></clause> 
+<clause id="H983D34D6DACA4DB3A13252077D20544D"><enum>(iii)</enum><text display-inline="yes-display-inline">shall provide a substitute for fluid milk for students whose disability restricts their diet, on receipt of a written statement from a licensed physician that identifies the disability that restricts the student’s diet and that specifies the substitute for fluid milk.</text></clause></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></paragraph> <paragraph id="H062EADED49DC45F5A0615DA256487EE3"><enum>(2)</enum><text>by adding at the end the following:</text> 
+<quoted-block style="OLC" id="HF9568B25CF4C4DC994DC5F0638F25D59" display-inline="no-display-inline"> 
+<subparagraph id="H97A35169C50246B9975706679FC955A2" commented="no"><enum>(D)</enum><header>Saturated fat</header><text display-inline="yes-display-inline">Milk fat included in any fluid milk provided under subparagraph (A) shall not be considered saturated fat for purposes of measuring compliance with the allowable average saturated fat content of a meal under section 210.10 of title 7, Code of Federal Regulations (or successor regulations).</text></subparagraph> <subparagraph id="H457522123E094A94B1E151D78DC1737A"><enum>(E)</enum><header>Prohibition on certain purchases</header><text display-inline="yes-display-inline">The Secretary shall prohibit schools participating in the school lunch program under this Act from purchasing or offering milk produced by China state-owned enterprises.</text></subparagraph>
+<subparagraph id="H7BC548229A184DFE8A65D468DFD323C9"><enum>(F)</enum><header>Limitation on authority</header><text display-inline="yes-display-inline">The Secretary may not prohibit any school participating in the school lunch program under this Act from offering students the milk described in subparagraph (A)(ii). </text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> </legis-body> <attestation><attestation-group><attestation-date date="20231213" chamber="House">Passed the House of Representatives December 13, 2023.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> <endorsement display="yes"></endorsement> </bill> 
+

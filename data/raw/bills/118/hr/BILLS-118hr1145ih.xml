@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6D157708D773401F9975E69C8CCFBA48" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1145 IH: Safe Guns, Safe Kids Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1145</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230221">February 21, 2023</action-date><action-desc><sponsor name-id="S001208">Ms. Slotkin</sponsor> (for herself and <cosponsor name-id="S001221">Ms. Scholten</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/44">chapter 44</external-xref> of title 18, United States Code, to require the safe storage of firearms, and for other purposes.</official-title></form><legis-body id="H6BCF77B587B14C1E95E6A72015397A9A" style="OLC"> 
+<section id="HA71DCDDAA7CA477EA5EF5D78A6149830" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as <quote><short-title>Safe Guns, Safe Kids Act</short-title></quote>.</text></section> <section id="H578767019DE146BD9B3C4F58DA89232E"><enum>2.</enum><header>Secure gun storage or safety device</header><text display-inline="no-display-inline">Section 922(z) of title 18, United States Code, is amended by adding at the end the following:</text>
+<quoted-block style="OLC" display-inline="no-display-inline" id="H6F1371B3D1C74333AE7ED0E019E60FCD">
+<paragraph id="H61A8B36CED5E4B11A89481AD1977F2A8"><enum>(4)</enum><header>Secure gun storage by owners</header>
+<subparagraph id="HE80D7FAE3B6845549225707FD6FFD5D9"><enum>(A)</enum><header>Offense</header>
+<clause id="H2A05E8D3A4194FC1BF58AED02754C50B"><enum>(i)</enum><header>In general</header><text>Except as provided in clause (ii), it shall be unlawful for a person to knowingly store or keep any firearm that has moved in, or that has otherwise affected, interstate or foreign commerce on the premises of a residence under the control of the person if— </text> <subclause id="H399158987BC54BA88A98352A765397F6"><enum>(I)</enum><text>the person knows, or reasonably should know, that a minor is likely to gain access to the firearm without the permission of the parent or guardian of the minor; and</text></subclause>
+<subclause id="H5555DEA4F3CD46DCA4669AF7A669840F"><enum>(II)</enum><text display-inline="yes-display-inline">a minor obtains the firearm and uses the firearm in the commission of a crime or causes injury or death to such minor, or any other individual. </text></subclause></clause> <clause id="H3519A7C2A4C64F739E952CEB5A022838"><enum>(ii)</enum><header>Exception</header><text>Clause (i) shall not apply to a person if the person—</text>
+<subclause id="HCD814806EC3E401A9DAAF029D04A047A"><enum>(I)</enum><text>keeps the firearm—</text> <item id="H1FA73D94A73D4DACB6EE149843A59B0D"><enum>(aa)</enum><text>secure using a secure gun storage or safety device; or</text></item>
+<item id="HCA839BED43DE477EBDCA8D20821EABD5"><enum>(bb)</enum><text>in a location which a reasonable person would believe to be secure; or</text></item></subclause> <subclause id="H043BAF7D02BC4270AEA8645DE36865CA"><enum>(II)</enum><text>carries the firearm on his or her person or within such close proximity thereto that the person can readily retrieve and use the firearm as if the person carried the firearm on his or her person.</text></subclause></clause></subparagraph>
+<subparagraph id="H2C547AA3B48F44F786EA84539CDEC400"><enum>(B)</enum><header>Penalty</header><text>Whoever violates subparagraph (A) shall be fined under this title, imprisoned for not more than 5 years, or both.</text></subparagraph> <subparagraph id="H06A84B6279B242579A6C6E6AF6C5FCE6"><enum>(C)</enum><header>Minor defined</header><text>In this paragraph, the term <term>minor</term> means an individual who is less than 18 years of age.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body></bill>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HFD679CCB84994470BACDE8A47E9C013D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5774 IH: To amend the Internal Revenue Code of 1986 to clarify the treatment of distributions from health savings accounts for long-term care services.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5774</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230927">September 27, 2023</action-date><action-desc><sponsor name-id="S001172">Mr. Smith of Nebraska</sponsor> (for himself and <cosponsor name-id="P000618">Ms. Porter</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to clarify the treatment of distributions from health savings accounts for long-term care services.</official-title></form><legis-body id="HA45705F3A0C346968B4B60D6DE3DB038" style="OLC"> 
+<section id="HCA38712442ED47B69C93E87240419189" section-type="section-one"><enum>1.</enum><header>Clarification of treatment of distributions from health savings account for long-term care services</header> 
+<subsection id="H4E7EF631B3614F4F9B9F15583D200118"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/223">Section 223(d)(2)(A)</external-xref> of the Internal Revenue Code of 1986 is amended by inserting before the last sentence the following: <quote>Such term includes amounts paid for qualified long-term care services (as defined in section 7702B(c)).</quote>.</text></subsection> <subsection id="H23D09A836471454897135B2B6DB191F5" commented="no"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to amounts paid after the date of the enactment of this Act.</text></subsection> 
+<subsection id="HA50B410A59DB4DB0B95E629B5C3EE4D2" commented="no"><enum>(c)</enum><header>In inference</header><text display-inline="yes-display-inline">Nothing contained in this section or the amendment made thereby shall be construed to create any inference with respect to any amounts paid on or before such date.</text></subsection></section> </legis-body></bill>
+

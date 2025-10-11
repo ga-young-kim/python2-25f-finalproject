@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HD03575FA7E6C42C89DAE57019BF4C8DE" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6070 IH: To amend the Military Lands Withdrawal Act of 1999 to clarify the authority of Department of Defense to conduct certain military activities at the Nevada test and training range, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 6070</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231026">October 26, 2023</action-date>
+<action-desc><sponsor name-id="A000369">Mr. Amodei</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name>, and in addition to the Committee on <committee-name committee-id="HAS00">Armed Services</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Military Lands Withdrawal Act of 1999 to clarify the authority of Department of Defense to conduct certain military activities at the Nevada test and training range, and for other purposes.</official-title>
+</form>
+<legis-body id="H4A095AE187F740139500B1504C693AE6" style="OLC">
+<section id="H1F7E5EB8625440C6A5D1C008CD8E4EB1" section-type="section-one"><enum>1.</enum><header>Clarification of authority of Department of Defense to conduct certain military activities at Nevada test and training range</header>
+<subsection id="H5376309AAC4C46469BE212EEE82D77FC"><enum>(a)</enum><header>Specification of authorized military activities</header><text display-inline="yes-display-inline">Paragraph (1) of section 3011(b) of the Military Lands Withdrawal Act of 1999 (title XXX of the National Defense Authorization Act for Fiscal Year 2000; <external-xref legal-doc="public-law" parsable-cite="pl/106/65">Public Law 106–65</external-xref>; 113 Stat. 886) is amended—</text> <paragraph id="HF0232E16FCD84809993FD9F8C0ADFC2E"><enum>(1)</enum><text>in the matter preceding subparagraph (A), by inserting <quote>, subject to the conditions set forth in subsection (a) of section 3014</quote> after <quote>Secretary of the Air Force</quote>;</text></paragraph>
+<paragraph id="H27F65809776E4B25819FFCCAE6C8EA0F"><enum>(2)</enum><text>by striking <quote>and</quote> at the end of subparagraph (C);</text></paragraph> <paragraph id="HA83B097EFA594695B20C0A21DF8E1496"><enum>(3)</enum><text>by redesignating subparagraph (D) as subparagraph (G); and</text></paragraph>
+<paragraph id="H606D273751D74848B68DA49D21E440B5"><enum>(4)</enum><text>by inserting after subparagraph (C) the following new subparagraphs:</text> <quoted-block id="H96344781EAF34F60932AD50F6DC7745C" style="OLC"> <subparagraph id="H3FDC7D307D104862BF14E63C10C2B0FB"><enum>(D)</enum><text>for emergency response;</text></subparagraph>
+<subparagraph id="H87825840FA534BCCAB0C82D0FA66D410"><enum>(E)</enum><text>for the establishment and use of existing or new electronic tracking and communications sites, including the construction of up to 15 equipment pads, no larger than 150-by-150 feet in size, along existing roads to allow placement and operation of threat emitters; </text></subparagraph> <subparagraph id="H19E25980561C4B59867A7348B23B5A08"><enum>(F)</enum><text>for the use and maintenance of roads in existence as of January 1, 2024, to allow access to threat emitters and repeaters for installation, maintenance, and periodic relocation; and</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection>
+<subsection id="HFE190937B96E43A6AABD4C599BFD1F73"><enum>(b)</enum><header>Interagency committee</header><text>Section 3011(b)(5)(G), as added by paragraph (1) of section 2844(b) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (<external-xref legal-doc="public-law" parsable-cite="pl/116/283">Public Law 116–283</external-xref>; 134 Stat. 4351), is further amended—</text> <paragraph id="H122F5C4A523246AFA189010F1B84F7DC"><enum>(1)</enum><text>by amending clause (i) to read as follows:</text>
+<quoted-block style="OLC" id="H1EA4A2E2A05C43748A4D3A0584D5540E" display-inline="no-display-inline">
+<clause id="H16736321FB704CBCB5D39E1E4C9B6E0D"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of the Interior and the Secretary of the Air Force shall jointly establish an interagency committee (referred to in this subparagraph as the ‘interagency committee’) to—</text> <subclause id="H0A41588A54504B63984E675789E704CF"><enum>(I)</enum><text display-inline="yes-display-inline">facilitate coordination, manage public access needs and requirements, and minimize potential conflict between the Department of the Interior and the Department of the Air Force with respect to joint operating areas within the Desert National Wildlife Refuge; and</text></subclause>
+<subclause id="H60EF3CB5C6DB4BEBAE7F5BF05BDF2F35"><enum>(II)</enum><text>discuss the activities authorized in paragraph (1) and provide input to the United States Fish and Wildlife Service and the Department of the Air Force when assessing whether these activities may be conducted on the joint operating areas within the Desert National Wildlife Refuge that are under the primary jurisdiction of the Secretary of the Interior in a manner that is consistent with the National Wildlife Refuge System Administration Act (<external-xref legal-doc="usc" parsable-cite="usc/16/668dd">16 U.S.C. 668dd et seq.</external-xref>) and other applicable law.</text></subclause></clause><after-quoted-block>; and</after-quoted-block></quoted-block></paragraph> <paragraph id="H6F4FFE9B10DD46FE840B784B6AF7223C"><enum>(2)</enum><text>in clause (ii)—</text>
+<subparagraph id="HBF52F096DA2942568B540900B4ABCCBF"><enum>(A)</enum><text>by inserting <quote>, including a designee of the Director of the United States Fish and Wildlife Service</quote> before the period at the end of subclause (I); and</text></subparagraph> <subparagraph id="HC425FECFDEE24ADAA07E4B8F66890787"><enum>(B)</enum><text>by inserting <quote>, including a designee of the Assistant Secretary of the Air Force for Energy, Installations, and Environment</quote> before the period at the end of subclause (II).</text></subparagraph></paragraph></subsection>
+<subsection id="HFC9C551D5814466C8D32826A2B08FB44"><enum>(c)</enum><header>Additional purpose of intergovernmental executive committee</header><text>Section 3011(b)(H)(5)(ii), as added by paragraph (2) of such section 2844(b), is amended in clause (ii)—</text> <paragraph id="HAC2580C854CB495FB22097C8FBCDE4B5"><enum>(1)</enum><text>by striking <quote>and</quote> at the end of subclause (I);</text></paragraph>
+<paragraph id="H37D491FC84CC4003B479760A85A4D954"><enum>(2)</enum><text>by striking the period at the end of subclause (II) and inserting <quote>; and</quote>; and</text></paragraph> <paragraph id="H00BDA5699D85483E92AD4F04BE98ED49"><enum>(3)</enum><text>by adding at the end the following new subclause:</text>
+<quoted-block id="HB09DA84CC88244A2A03C3467DC2D41F7" style="OLC">
+<subclause id="H0538B0FCB2FE4577B202DA89212B7651"><enum>(III)</enum><text>discussing and making recommendations to the interagency committee established under subparagraph (G) with respect to any proposal by the Secretary of the Air Force to undertake any of the activities authorized in paragraph (1) on the joint operating areas within the Desert National Wildlife Refuge.</text></subclause><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section> </legis-body> </bill> 
+

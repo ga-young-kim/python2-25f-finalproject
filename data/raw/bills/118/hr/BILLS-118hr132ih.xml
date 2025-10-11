@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDDEE0F1FCA854B9D86D08DD5F130D65D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 132 IH: Protecting Local Communities from Harmful Algal Blooms Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 132</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230109">January 9, 2023</action-date><action-desc><sponsor name-id="B001260">Mr. Buchanan</sponsor> (for himself and <cosponsor name-id="S001200">Mr. Soto</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to include algal blooms in the definition of a major disaster, and for other purposes.</official-title></form><legis-body id="H82911D7B18CD4749AD20778143DC41FB" style="OLC"> 
+<section id="H1AF27CB869E24E5C9DC502B751218372" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Local Communities from Harmful Algal Blooms Act</short-title></quote>.</text></section> <section id="H6F053A78C7EC48CA9375117F92A12427"><enum>2.</enum><header>Algal blooms</header><text display-inline="no-display-inline">Section 102(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5122">42 U.S.C. 5122</external-xref>) is amended by striking <quote>or drought</quote> and inserting <quote>drought, or algal blooms</quote>.</text></section> 
+</legis-body></bill>
+

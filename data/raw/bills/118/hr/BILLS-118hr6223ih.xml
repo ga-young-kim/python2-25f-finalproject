@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA629C369465C4D7096770DFA690C2A0A" public-private="public" key="H" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6223 IH: 1099K Elimination Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session> 
+<legis-num display="yes">H. R. 6223</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20231103">November 3, 2023</action-date> 
+<action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To amend the Internal Revenue Code of 1986 to remove a requirement for payment settlement entities to file returns relating to certain participating payees.</official-title> 
+</form> 
+<legis-body id="H1A8AD9638E794B04860156D5051873EC" style="OLC"> 
+<section id="HDF812650269549A5A1830414FC406674" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>1099K Elimination Act of 2023</short-title></quote>. </text></section> <section id="H3A2D067219F04C6DBA7E638E8C4722A3"><enum>2.</enum><header>Repeal of requirement for returns relating to payments made in settlement of payment card and third party network transactions</header> <subsection id="HE48C8EB8C90441489D37E8310F589999"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subpart B of part III of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/61">chapter 61</external-xref> of the Internal Revenue Code of 1986 is amended by striking section 6050W (and by striking the item relating to such section in the table of sections for such subpart).</text></subsection> 
+<subsection id="H313132973EA74ABD8A66204D57F7C704"><enum>(b)</enum><header>Conforming amendments</header> 
+<paragraph id="HC77895027D594985ACE19D4D996B498E"><enum>(1)</enum><text display-inline="yes-display-inline">Section 3406(b)(3) of such Code is amended by inserting <quote>or</quote> at the end of subparagraph (D), by striking the <quote>, or</quote> at the end of subparagraph (E) and inserting a period, and by striking subparagraph (F).</text></paragraph> <paragraph id="H47AB7781293A4D9DA26D2993B25014BE"><enum>(2)</enum><text>Section 6724(d) of such Code is amended—</text> 
+<subparagraph id="H73A218BCD2924F68B9205F38EF16FDFD"><enum>(A)</enum><text>in paragraph (1)(B), by striking clause (xxiii), and</text></subparagraph> <subparagraph id="H15B15DA1D9DA4E33B04B5F02A7393891"><enum>(B)</enum><text>in paragraph (2), by striking subparagraph (FF).</text></subparagraph></paragraph></subsection> 
+<subsection id="HCBFF4417DFAD4CD68ED69D41FA862640"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to returns for calendar years beginning after the date of the enactment of this section.</text> </subsection></section> </legis-body> </bill> 
+

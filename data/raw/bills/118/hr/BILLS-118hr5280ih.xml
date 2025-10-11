@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H269852B11A3E4937A09048BC5B175BCB" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5280 IH: Expediting Civil Litigation Against the Executive Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-08-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5280</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230825">August 25, 2023</action-date><action-desc><sponsor name-id="L000582">Mr. Lieu</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 28, United States Code, to provide for the expedited review of actions to which the President is a party, and for other purposes.</official-title></form><legis-body id="H984D4B7951C54753BBE5DA8A9E219095" style="OLC"> 
+<section id="H75EACCEEE674404D84206F66FF8B739C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Expediting Civil Litigation Against the Executive Act of 2023</short-title></quote>.</text></section> <section id="HD45F891608494EF5B6E49B0A2D81B545"><enum>2.</enum><header>Expedited review of actions to which the President is a party</header> <subsection id="H8305FC92BCD748448EE33F3233FF522E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/190">Chapter 190</external-xref> of title 28, United States Code, is amended by adding at the end the following: </text>
+<quoted-block style="USC" id="HCA5D6D1487DD416CA0E9308C3117CFC0" display-inline="no-display-inline">
+<section id="H52237D7E35A04AAFBAA0138B0B388530"><enum>5002.</enum><header>Expedited review of actions to which the President is a party</header>
+<subsection id="HEBBAEBDEAC774EDAB6D447DA5F1217C2"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">With respect to a covered civil action, the following shall apply:</text> <paragraph id="H3C37D79C7CA14A49A007ADEFCC5C997F"><enum>(1)</enum><text display-inline="yes-display-inline">The court shall advance on the docket and expedite to the greatest possible extent the disposition of such civil action.</text></paragraph>
+<paragraph id="H6F3171ED0DCC44FBBD7C1ECEBB293B9D"><enum>(2)</enum><text>Upon the request of a party, the civil action shall be heard by a three-judge panel pursuant to section 2284.</text></paragraph> <paragraph id="H7B2D8CBD156A43A4B85197E2228A3887"><enum>(3)</enum><text display-inline="yes-display-inline">An appeal may be taken directly to the Supreme Court of the United States from any final judgment in such a civil action, and if it has not previously ruled on the question, the Supreme Court shall accept jurisdiction over the appeal, advance the appeal on the docket, and expedite the appeal to the greatest extent possible.</text></paragraph></subsection>
+<subsection id="H684D44199B0F4D7AA8D79E9CFDFF562E"><enum>(b)</enum><header>Definition</header><text display-inline="yes-display-inline">In this section, the term <term>covered civil action</term> means a civil action in which—</text> <paragraph id="HE9B92DD418C2495CA78D8431FC3EAD49"><enum>(1)</enum> <subparagraph commented="no" display-inline="yes-display-inline" id="HD9790AC3115440F890BE6237AD931C57"><enum>(A)</enum><text>the President has a personal financial interest; or </text></subparagraph>
+<subparagraph id="H5FCDD739F20A4C11A21FC791EBE79219" indent="up1"><enum>(B)</enum><text>the President’s conduct is alleged to constitute sexual harassment, sexual assault, or other sexual misconduct;</text></subparagraph></paragraph> <paragraph id="H539C46ECA06A48CD825B63D4091DF3A2"><enum>(2)</enum><text>the President is properly joined as a party; and</text></paragraph>
+<paragraph id="H7D6E6A34FD0244008D91D44966690139"><enum>(3)</enum><text>the complainant has stated a valid claim upon which relief can be granted. </text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H9D4369B9173B417EBB80A0DAA612997A"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/190">chapter 190</external-xref> of title 28, United States Code, is amended by inserting after the item related to section 5001 the following: </text>
+<quoted-block style="USC" id="H57ACE5BB0A5F4A1D9B23D20C9709F1CF" display-inline="no-display-inline">
+<toc regeneration="no-regeneration">
+<toc-entry level="section">5002. Expedited review of actions to which the President is a party. </toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+</legis-body></bill>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0465B263D30148BA8D6EF0CCC1C94BE4" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3750 IH: To provide a 1-week extension of the public debt limit.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3750</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230530">May 30, 2023</action-date><action-desc><sponsor name-id="M001216">Mr. Mills</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To provide a 1-week extension of the public debt limit.</official-title></form><legis-body id="H6C2C563919C046EA9C645295906EE314" style="OLC"> 
+<section id="H32CE029627C44A9F93C0BF9F8C4C279E" section-type="section-one"><enum>1.</enum><header>Temporary extension of public debt limit</header> 
+<subsection id="H067C18CC02914656AA23C427246AC08E"><enum>(a)</enum><header>In General</header><text display-inline="yes-display-inline">Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of the enactment of this Act and ending on June 12, 2023.</text></subsection> <subsection id="H28D2FA2D13B34D9FA9921CCAD67CE3EA"><enum>(b)</enum><header>Special Rule Relating to Obligations Issued During Extension Period</header><text display-inline="yes-display-inline">Effective on June 11, 2023, the limitation in effect under section 3101(b) of title 31, United States Code, shall be increased to the extent that—</text> 
+<paragraph id="HADFD0C5432374F2AB26F415D773C40C9"><enum>(1)</enum><text display-inline="yes-display-inline">the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on June 11, 2023, exceeds </text></paragraph> <paragraph id="H3138C66B8F304BB69B39CA9E58D54895"><enum>(2)</enum><text>the face amount of such obligations outstanding on the date of the enactment of this Act. </text></paragraph></subsection> 
+<subsection id="H2675BBA0F2614B7A85E6EE224564BBB3"><enum>(c)</enum><header>Restoring Congressional Authority Over the National Debt</header> 
+<paragraph id="H929E9A4429F34934A37B34D118058837"><enum>(1)</enum><header>Extension Limited to Necessary Obligations</header><text>An obligation shall not be taken into account under subsection (b)(1) unless the issuance of such obligation was necessary to fund a commitment incurred pursuant to law by the Federal Government that required payment before June 11, 2023.</text></paragraph> <paragraph id="HF867466383984F93A8DFDF4FA7DB2D16"><enum>(2)</enum><header>Prohibition on creation of cash reserve during extension period</header><text display-inline="yes-display-inline">The Secretary of the Treasury shall not issue obligations during the period specified in subsection (a) for the purpose of increasing the cash balance above normal operating balances in anticipation of the expiration of such period.</text></paragraph></subsection></section> 
+</legis-body></bill>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2D5B0E6B4B0C484FA8A31BD0BDC338D9" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3163 IH: End Judge Shopping Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 3163</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230509">May 9, 2023</action-date>
+<action-desc><sponsor name-id="S001207">Ms. Sherrill</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend title 28, United States Code, to prohibit the issuance of nationwide injunctions from single-judge divisions of U.S. District Courts.</official-title>
+</form>
+<legis-body id="HAFDFF84DE3A846099B4E6207589D37CB" style="OLC">
+<section id="HDD1335CD714347C0B5BF224AE67C1D16" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>End Judge Shopping Act of 2023</short-title></quote>.</text></section> <section id="H04C661C640224874B1E65B86F6376670"><enum>2.</enum><header>Orders purporting to restrain enforcement against non-parties</header> <subsection id="H9A09A81C760E42DDB5BB35AB3F804A48"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/87">Chapter 87</external-xref> of title 28, United States Code, is amended by adding at the end the following:</text>
+<quoted-block id="H4C435C5081BC426E88B86FC8811E6742" style="USC">
+<section id="H3E6D0E0666FB4AAEAAC03BF30CFD36DC"><enum>1414.</enum><header>Civil actions seeking nationwide injunctions</header><text display-inline="no-display-inline">A civil action which seeks an order enforceable in each district and division of the United States shall be brought only in a division of a judicial district which has two or more active judges assigned.</text></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HB7553CB7B73B415EAD4BB49F704D3688"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections for such chapter is amended by adding at the end the following:</text>
+<quoted-block style="USC" id="H58E225C832FC4ECAAF7943987DE77E5B" display-inline="no-display-inline">
+<toc regeneration="no-regeneration">
+<toc-entry level="section">1414. Civil actions seeking nationwide injunctions.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section>
+</legis-body>
+</bill> 
+
+

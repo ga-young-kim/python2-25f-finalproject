@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE9EE4148A9BF46AA95BA0E555EE91719" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3463 IH: Protecting Ballot Measures From Foreign Influence Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3463</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230518">May 18, 2023</action-date><action-desc><sponsor name-id="B001299">Mr. Banks</sponsor> (for himself and <cosponsor name-id="S001209">Ms. Spanberger</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Federal Election Campaign Act of 1971 to prohibit contributions and donations by foreign nationals in connection with ballot initiatives and referenda.</official-title></form><legis-body id="HF360D1750FE340BDBA842563690F7E14" style="OLC"><section id="H93BB7150FCC146F0B44BC0A31B9B8EFB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Ballot Measures From Foreign Influence Act of 2023</short-title></quote>. </text></section><section id="HB242DD411B57442EAA5F196387E770DA" section-type="subsequent-section"><enum>2.</enum><header>Prohibition on contributions and donations by foreign nationals in connection with ballot initiatives and referenda</header><subsection id="H04142C28652A497BBE83454C4F9E9727"><enum>(a)</enum><header>Prohibition</header><text display-inline="yes-display-inline">Section 319(a)(1)(A) of the Federal Election Campaign Act of 1971 (<external-xref legal-doc="usc" parsable-cite="usc/52/30121">52 U.S.C. 30121(a)(1)(A)</external-xref>) is amended by inserting <quote>, or a State or local ballot initiative or ballot referendum</quote> after <quote>election</quote>.</text></subsection><subsection id="HA5140B1F9DEF45C89905060C9AA4BC9B"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply with respect to contributions and donations made on or after the date of enactment of this Act.</text></subsection></section></legis-body></bill> 
+

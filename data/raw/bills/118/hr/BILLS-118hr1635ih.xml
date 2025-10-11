@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2BAF8BFBD3414CC5BBBEBBD9E6415B55" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1635 IH: To amend title 38, United States Code, to increase the amount of survivors' and dependents' educational assistance provided to an eligible individual pursuing a program of education at an institution in the Republic of the Philippines.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1635</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230317">March 17, 2023</action-date><action-desc><sponsor name-id="K000399">Mrs. Kiggans of Virginia</sponsor> (for herself and <cosponsor name-id="L000593">Mr. Levin</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to increase the amount of survivors' and dependents' educational assistance provided to an eligible individual pursuing a program of education at an institution in the Republic of the Philippines.</official-title></form><legis-body id="HD6D1AC0727494547A1DFB22446ED76CD" style="OLC"> 
+<section id="HB6416992168C407C98E87E7C57A9028A" section-type="section-one"><enum>1.</enum><header>Increase of Department of Veterans Affairs educational assistance for programs of education in Republic of Philippines</header><text display-inline="no-display-inline">Section 3532 of title 38, United States Code, is amended—</text> <paragraph id="H634FACAB541A4158AA8C99915245AA0F"><enum>(1)</enum><text>by striking subsection (d); and</text></paragraph> 
+<paragraph id="H996F1CA186C04342A5D351CC2729B56F"><enum>(2)</enum><text>by resdesignating subsections (e) through (g) as subsections (d) through (f), respectively. </text> </paragraph></section> </legis-body></bill>
+

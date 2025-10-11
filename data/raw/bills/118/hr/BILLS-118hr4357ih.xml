@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1E9446E6BC1E4F019CDE6CBA37281F9E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4357 IH: Permanent CFC Look-Through Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4357</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230623">June 23, 2023</action-date><action-desc><sponsor name-id="T000478">Ms. Tenney</sponsor> (for herself and <cosponsor name-id="S001185">Ms. Sewell</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to make the look-through rule for related controlled foreign corporations permanent.</official-title></form><legis-body id="H2E127CF56DDE453F83B8FB5BFF51025B" style="OLC"><section id="H3F8510DB9FBB4C8D8ECB4FFBF0EF87E5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Permanent CFC Look-Through Act of 2023</short-title></quote>.</text></section><section id="HC9531C34FBB146C6A3CA497019DDD38E"><enum>2.</enum><header>Look-through rule for related controlled foreign corporations made permanent</header><subsection id="H10FF2C8C5D2E405E8DECE8923EF8E8E2"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/954">Section 954(c)(6)</external-xref> of the Internal Revenue Code of 1986 is amended by striking subparagraph (C).</text></subsection><subsection id="H8DAC92BD66E54D8FB5B7D57407BF0F5D"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by this section shall apply to taxable years of foreign corporations beginning after December 31, 2023, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.</text></subsection></section></legis-body></bill> 
+

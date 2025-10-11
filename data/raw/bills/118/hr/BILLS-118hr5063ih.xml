@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC308E9E3F5B6467F8C1BF4CB3DABD383" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5063 IH: Small Business Contracting Credit Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5063</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230727">July 27, 2023</action-date><action-desc><sponsor name-id="V000081">Ms. Vel&#225;zquez</sponsor> (for herself, <cosponsor name-id="G000582">Mrs. Gonz&#225;lez-Col&#243;n</cosponsor>, <cosponsor name-id="P000610">Ms. Plaskett</cosponsor>, <cosponsor name-id="M001219">Mr. Moylan</cosponsor>, and <cosponsor name-id="S001177">Mr. Sablan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSM00">Committee on Small Business</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Small Business Act to extend the period during which credit for contracting with Puerto Rico businesses and covered territory businesses are double counted, and for other purposes.</official-title></form><legis-body id="H5329C6BC35D24AC480B74FB9421317D3" style="OLC">
+<section id="HF04B09C2C4284E2EAFD0E137EE653FB7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Business Contracting Credit Act</short-title></quote>.</text></section> <section id="H033C87FCD316423CA529DF9D730775B3" section-type="subsequent-section"><enum>2.</enum><header>Extension of double credit for Puerto Rico businesses and covered territory businesses</header><text display-inline="no-display-inline">Section 15(x)(1) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/644">15 U.S.C. 644(x)(1)</external-xref>) is amended by striking <quote>during the period beginning on the date of enactment of this subsection and ending on the date that is 4 years after such date of enactment</quote> and inserting the following: <quote>during the period beginning on the date that is 90 days after the date of the enactment of the Small Business Contracting Credit Act and ending on the date that is 3 years after the date of the enactment of such Act</quote>.</text></section> 
+</legis-body></bill>
+

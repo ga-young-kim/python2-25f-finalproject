@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8EA08DE8D0B74A838631E33CF22757F5" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4044 IH: China Trade Cheating Restitution Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4044</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230612">June 12, 2023</action-date><action-desc><sponsor name-id="P000613">Mr. Panetta</sponsor> (for himself, <cosponsor name-id="V000129">Mr. Valadao</cosponsor>, <cosponsor name-id="C001059">Mr. Costa</cosponsor>, and <cosponsor name-id="S001199">Mr. Smucker</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Trade Facilitation and Trade Enforcement Act of 2015 to modify the description of interest for purposes of certain distributions of antidumping duties and countervailing duties.</official-title></form><legis-body id="H421D01C29EEC4E8D8F6FBF3D12ECDDA0" style="OLC"><section section-type="section-one" id="HF35FFD3E5AEF4B27BDF93AA78F071DA4"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>China Trade Cheating Restitution Act of 2023</short-title></quote>. </text></section><section id="H5BEF485EB12440BBAC5F9E4997510A7C"><enum>2.</enum><header>Modification of description of interest for purposes of certain distributions of antidumping duties and countervailing duties</header><text display-inline="no-display-inline">Section 605(c)(1) of the Trade Facilitation and Trade Enforcement Act of 2015 (<external-xref legal-doc="usc" parsable-cite="usc/19/4401">19 U.S.C. 4401(c)(1)</external-xref>) is amended—</text><paragraph id="HE5388E48B64D44579D90AE15B3B56D25"><enum>(1)</enum><text display-inline="yes-display-inline">by striking subparagraphs (A) and (B); and</text></paragraph><paragraph id="H0BEC4CEFF97346C0AAEA0FAA1A1F3EF2"><enum>(2)</enum><text display-inline="yes-display-inline">by striking <quote>October 1, 2014, by U.S. Customs and Border Protection under, or in connection with—</quote> and inserting <quote>October 1, 2000, by U.S. Customs and Border Protection.</quote>. </text></paragraph></section></legis-body></bill> 
+

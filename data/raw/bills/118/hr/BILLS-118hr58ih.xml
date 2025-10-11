@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7C530DBAD21D45C2ADBE9628A363D70F" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 58 IH: Federal Information Resource to Strengthen Ties with State and Local Law Enforcement Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 58</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230109">January 9, 2023</action-date>
+<action-desc><sponsor name-id="J000032">Ms. Jackson Lee</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name>, and in addition to the Committee on <committee-name committee-id="HJU00">the Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Homeland Security Act of 2002 to require an annual report on the Office for State and Local Law Enforcement.</official-title>
+</form>
+<legis-body id="HFF2122DB75244886932A4DC2C82AF593" style="OLC"> 
+<section id="H508F424ED5864573A9F9BCAB5423162A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Federal Information Resource to Strengthen Ties with State and Local Law Enforcement Act of 2023</short-title></quote> or the <quote><short-title>FIRST State and Local Law Enforcement Act of 2023</short-title></quote>.</text></section> <section id="H32F8362AA628491BA9E9B43E0F39457C"><enum>2.</enum><header>Annual report on Office for State and Local Law Enforcement</header><text display-inline="no-display-inline">Section 2006(b) of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/607">6 U.S.C. 607(b)</external-xref>) is amended—</text> 
+<paragraph id="H2D2D2ECDF1D84CAEBDFAE1BE5E1549ED"><enum>(1)</enum><text>by redesignating paragraph (5) as paragraph (6); and</text></paragraph> <paragraph id="HE3D01BAEEABA4AEA9294672F1046583A"><enum>(2)</enum><text>by inserting after paragraph (4) the following new paragraph:</text> 
+<quoted-block display-inline="no-display-inline" id="HE9223E1B98B74EF0A7E98EEF46F20281" style="OLC"> 
+<paragraph id="H9DB77F21647744E2A94950707922D01E" commented="no"><enum>(5)</enum><header>Annual report</header><text display-inline="yes-display-inline">For each of fiscal years 2023 through 2027, the Assistant Secretary for State and Local Law Enforcement shall submit to the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate a report on the activities of the Office for State and Local Law Enforcement. Each such report shall include, for the fiscal year covered by such report, a description of each of the following:</text> <subparagraph id="H83EE169AE716415585A2E8C786F32E72" commented="no"><enum>(A)</enum><text display-inline="yes-display-inline">Efforts to coordinate and share information regarding Department and component agency programs with State, local, and Tribal law enforcement agencies.</text></subparagraph> 
+<subparagraph id="H9B622D5EDF9147E4922DB2F6B04F4CC1" commented="no"><enum>(B)</enum><text display-inline="yes-display-inline">Efforts to improve information sharing through the Homeland Security Information Network by appropriate component agencies of the Department and by State, local, and Tribal law enforcement agencies.</text></subparagraph> <subparagraph commented="no" id="HA5DBAE2364044340AA6883EB70D8A510"><enum>(C)</enum><text>The status of performance metrics within the Office of State and Local Law Enforcement to evaluate the effectiveness of efforts to carry out the activities specified in subsection (a).</text></subparagraph> 
+<subparagraph id="H0C62B47852CC42A8A3DB17A6CCBA7332" commented="no"><enum>(D)</enum><text>Any feedback from State, local, and Tribal law enforcement agencies regarding the Office of State and Local Law Enforcement, including the mechanisms utilized to collect such feedback.</text></subparagraph> <subparagraph id="HC2B5D0520CB840F2BA06736A98E745A1" commented="no"><enum>(E)</enum><text>Efforts to carry out all other responsibilities of the Office of State and Local Law Enforcement.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body>
+</bill> 
+
+

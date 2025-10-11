@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA6814F4EEB6144C4AF26BC4AC6436ADF" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5364 IH: Trees Remember Each Effacing Step Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5364</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230908">September 8, 2023</action-date><action-desc><sponsor name-id="E000246">Mr. Edwards</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the installation of fences and barriers to protect old growth trees in the Joyce Kilmer-Slickrock Wilderness Area.</official-title></form><legis-body id="H34D450EB01B84B2BA12FCB99A3DD5F5C" style="OLC"> 
+<section id="H24D6980932AC44F6B52BE0110FB86EA5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Trees Remember Each Effacing Step Act</short-title></quote> or the <quote><short-title>TREES Act</short-title></quote>. </text></section> <section id="H78A4495A9F954FB287E876953CB28AF5"><enum>2.</enum><header>Installation of fences and barriers to protect old growth trees in the Joyce Kilmer-Slickrock Wilderness Area</header> <subsection id="H3B19459325AD46678F9F5BF558027D47"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, the Secretary of Agriculture, acting through the Chief of the Forest Service, shall establish fences and barriers around old growth trees (including visible roots) in the Joyce Kilmer-Slickrock Wilderness Area that are located within 10 feet of the Joyce Kilmer Memorial Trail such that the fences and barriers separate such trees from such Trail.</text></subsection> 
+<subsection id="H01BF79D362A84B12AD29CD9A8BBFB96C"><enum>(b)</enum><header>Requirements</header><text>The Secretary of Agriculture, acting through the Chief of the Forest Service, shall establish fences and barriers under subsection (a) in a manner that—</text> <paragraph id="HC18F935F740642D987B2E1B654D7747C"><enum>(1)</enum><text display-inline="yes-display-inline">is least disruptive to the wildlife and wilderness characteristics of the Joyce Kilmer-Slickrock Wilderness Area; and</text></paragraph> 
+<paragraph id="H6D82C6CD05D74CEF8EE2041A4F9F760F"><enum>(2)</enum><text>will require the least amount of maintenance.</text></paragraph> </subsection> </section> </legis-body></bill>
+

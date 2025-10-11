@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4CD8833E3D01471AB18D329DF9A828C0" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3825 IH: To prohibit the use of Department of Defense funds for adult cabaret performances.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3825</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230605">June 5, 2023</action-date><action-desc><sponsor name-id="R000103">Mr. Rosendale</sponsor> (for himself, <cosponsor name-id="H001086">Mrs. Harshbarger</cosponsor>, <cosponsor name-id="L000596">Mrs. Luna</cosponsor>, <cosponsor name-id="Z000018">Mr. Zinke</cosponsor>, <cosponsor name-id="B001317">Mr. Brecheen</cosponsor>, <cosponsor name-id="H001096">Ms. Hageman</cosponsor>, and <cosponsor name-id="P000599">Mr. Posey</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the use of Department of Defense funds for adult cabaret performances.</official-title></form><legis-body id="HA006B53FFAA24FEAB73253CA6B9B0349" style="OLC"> 
+<section id="H35D0AE10F0B746799395B328D5D385D8" section-type="section-one"><enum>1.</enum><header>Prohibition on use of funds for adult cabaret performances</header>
+<subsection commented="no" display-inline="no-display-inline" id="HB0D2E981E2954D9BAE421A17AF9F9CB6"><enum>(a)</enum><header>Prohibition</header><text>None of the funds appropriated or otherwise made available for the Department of Defense and no facilities owned or operated by Department of Defense may be used to host, advertise, or otherwise support an adult cabaret performance. </text></subsection> <subsection commented="no" display-inline="no-display-inline" id="H01061BC0995E4D3497D31994DA819910"><enum>(b)</enum><header>Adult cabaret performance defined</header><text>In this section, the term <term>adult cabaret performance</term> means a performance that features topless dancers, go-go dancers, exotic dances, strippers, or male or female impersonators who provide entertainment that appeals to prurient interest. </text></subsection></section> 
+</legis-body></bill>
+

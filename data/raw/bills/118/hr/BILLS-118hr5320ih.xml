@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4F1378FB5A2943F1A293F731C8BE875E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5320 IH: Defense Capability Development Minor Construction Enhancement Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5320</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230901">September 1, 2023</action-date><action-desc><sponsor name-id="B001298">Mr. Bacon</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 10, United States Code, to modify the authority of the Secretary of Defense to carry out the defense laboratory modernization program.</official-title></form><legis-body id="H3687D15685C34D238D93AA3233EC82ED" style="OLC"> 
+<section id="HC4E9A607F06E4CDDB4927B74D27C9BF3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Defense Capability Development Minor Construction Enhancement Act of 2023</short-title></quote>. </text></section> <section id="HA98FFABFCCDB46FD810D2F64AFF697FE"><enum>2.</enum><header>Modification of authority to carry out defense laboratory modernization program</header><text display-inline="no-display-inline">Section 2805(g)(1) of title 10, United States Code, is amended in subparagraph (D) by inserting <quote>or development, production, and sustainment of combat capabilities</quote> before the period at the end. </text> </section> 
+</legis-body></bill>
+

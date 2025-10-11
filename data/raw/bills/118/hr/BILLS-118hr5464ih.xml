@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA2C644876CB44B4890D75477FDDB9488" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5464 IH: To name the Department of Veterans Affairs community-based outpatient clinic in Guntersville, Alabama, as the “Colonel Ola Lee Mize Department of Veterans Affairs Clinic”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5464</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230914">September 14, 2023</action-date><action-desc><sponsor name-id="A000055">Mr. Aderholt</sponsor> (for himself, <cosponsor name-id="C001054">Mr. Carl</cosponsor>, <cosponsor name-id="M001212">Mr. Moore of Alabama</cosponsor>, <cosponsor name-id="R000575">Mr. Rogers of Alabama</cosponsor>, <cosponsor name-id="S001220">Mr. Strong</cosponsor>, <cosponsor name-id="P000609">Mr. Palmer</cosponsor>, and <cosponsor name-id="S001185">Ms. Sewell</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To name the Department of Veterans Affairs community-based outpatient clinic in Guntersville, Alabama, as the <quote>Colonel Ola Lee Mize Department of Veterans Affairs Clinic</quote>.</official-title></form><legis-body id="H58686617AE7543E182638F3E615BD4D9" style="OLC"> 
+<section id="H13D1B36F1A8748C9AA5A3020068BABEB" section-type="section-one"><enum>1.</enum><header>Name of Department of Veterans Affairs community-based outpatient clinic, Guntersville, Alabama</header> <text display-inline="no-display-inline">The Department of Veterans Affairs community-based outpatient clinic located at 100 Judy Smith Drive, Guntersville, Alabama, shall after the date of the enactment of this Act be known and designated as the <quote>Colonel Ola Lee Mize Department of Veterans Affairs Clinic</quote>. Any reference to such clinic in any law, regulation, map, document, paper, or other record of the United States shall be considered to be a reference to the Colonel Ola Lee Mize Department of Veterans Affairs Clinic.</text></section> </legis-body></bill>
+

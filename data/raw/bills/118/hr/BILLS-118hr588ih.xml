@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8D7F9E4C87854D35A325E9F2F3783CAF" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 588 IH: Border Construction Materials Transfer Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 588</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230127">January 27, 2023</action-date>
+<action-desc><sponsor name-id="B001307">Mr. Baird</sponsor> (for himself, <cosponsor name-id="C001126">Mr. Carey</cosponsor>, <cosponsor name-id="C001120">Mr. Crenshaw</cosponsor>, <cosponsor name-id="F000246">Mr. Fallon</cosponsor>, and <cosponsor name-id="W000798">Mr. Walberg</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Secretary of Homeland Security to transfer, without reimbursement, materials to construct roadways and physical barriers along the southern border of the United States to the Governments of the States in which such materials are located, and for other purposes.</official-title>
+</form>
+<legis-body id="H17C967B6812F47A39743AE11939C328C" style="OLC"> 
+<section id="HF47F7849C1AE4E0B9527AAEB8165002B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Border Construction Materials Transfer Act of 2023</short-title></quote>.</text></section> <section id="H3E13C45AF69D4921882AFB39556F10CC"><enum>2.</enum><header>Transfer of barrier and roadway construction materials to State Governments</header> <subsection id="H838B9D55BF884A548E798EEED2FDB2EF"><enum>(a)</enum><header>Transfer of covered materials</header><text display-inline="yes-display-inline">Beginning on the date of the enactment of this Act, the Secretary of Homeland Security shall transfer, without reimbursement—</text> 
+<paragraph id="HA3FB0BE19C144EACB2D3CF5958D7B994"><enum>(1)</enum><text>all covered materials located, as of the date of the enactment of this Act, in Texas to the Government of Texas;</text></paragraph> <paragraph id="H0C1DC1D6CD46410C86EB1BCF7BDF0F5B"><enum>(2)</enum><text>all covered materials located, as of the date of the enactment of this Act, in Arizona to the Government of Arizona;</text></paragraph> 
+<paragraph id="H0B540F83CEAE4A468376D7B38A5C6022"><enum>(3)</enum><text>all covered materials located, as of the date of the enactment of this Act, in New Mexico to the Government of New Mexico; and</text></paragraph> <paragraph id="H134F6C2227C040A1AE4DE9C9CAB06A98"><enum>(4)</enum><text>all covered materials located, as of the date of the enactment of this Act, in California to the Government of California.</text></paragraph></subsection> 
+<subsection id="H7D1CEA4D50E2430FA039A4FCBEA8A18C"><enum>(b)</enum><header>Physical relocation of materials</header><text>The Secretary of Homeland Security shall be responsible for the physical relocation of all covered materials transferred under this section to appropriate State-operated facilities.</text></subsection> <subsection id="H1A1DB9EF18CD4A369261DEEF9A44ECB4"><enum>(c)</enum><header>Covered materials</header><text>In this section, the term <term>covered materials</term> means all unused materials in the possession of the Federal Government that were purchased to construct roadways or physical barriers along the southern border of the United States.</text></subsection></section> 
+</legis-body>
+</bill> 
+
+

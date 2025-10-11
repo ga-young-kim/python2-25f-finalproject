@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HFACCE889CC164DFA868C00FFD54A1C3C" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4459 IH: Improving Contract Transparency at BARDA Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4459</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230703">July 3, 2023</action-date><action-desc><sponsor name-id="G000568">Mr. Griffith</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title III of the Public Health Service Act to specify the duration of contracts, grants, cooperative agreements, or other transactions awarded or entered into with the Biomedical Advanced Research and Development Authority, and for other purposes.</official-title></form><legis-body id="H0DE72177EB7742ADAAA1273E252845EB" style="OLC"> 
+<section id="H33759D02E204400DA0987B2F9E11CB89" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Improving Contract Transparency at BARDA Act</short-title></quote>. </text></section> <section id="H31B4FB3CA02E4F19A4218ECEDC8BF8FB"><enum>2.</enum><header>Duration of agreements with BARDA</header><text display-inline="no-display-inline">Section 319L(c)(5) of the Public Health Service Act (42 U.S.C. 247d–7e(c)(5)) is amended by adding at the end the following: </text>
+<quoted-block style="OLC" id="HE6088D7AA8B64D239921DF24A6166BC2" display-inline="no-display-inline">
+<subparagraph id="H8B72F1695BE04885BF568AC20FC85E24"><enum>(I)</enum><header>Duration</header><text display-inline="yes-display-inline">A contract, grant, cooperative agreement, or other transaction entered into under this section shall be for a period not to exceed five years, except that, in first awarding the grant or entering into the contract, cooperative agreement, or other transaction, the Secretary may provide for a longer duration, not exceeding 10 years, if the Secretary determines that complexities or other difficulties in performance under the contract, grant, cooperative agreement, or other transaction justify such a period. The contract, grant, cooperative agreement, or other transaction shall be renewable for additional periods, none of which shall exceed five years. The Secretary shall notify the vendor within 90 days of a determination by the Secretary to modify, renew, extend, or terminate such contract, grant, cooperative agreement, or other transaction.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body></bill>
+

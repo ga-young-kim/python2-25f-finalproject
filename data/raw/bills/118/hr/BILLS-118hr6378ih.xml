@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H28294FB01F1B456BB6997DA84B29BE3B" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6378 IH: To permit the remains of any Medal of Honor recipient to lie in honor in the rotunda of the United States Capitol, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6378</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231113">November 13, 2023</action-date><action-desc><sponsor name-id="E000071">Mr. Ellzey</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To permit the remains of any Medal of Honor recipient to lie in honor in the rotunda of the United States Capitol, and for other purposes.</official-title></form><legis-body id="HAAA9A2924E9B4B328B35B3A2A55A35FA" style="OLC"> 
+<section id="H0DB46C4893A244AFBAE970217088634D" section-type="section-one"><enum>1.</enum><header>Permitting remains of Medal of Honor recipients to lie in honor in Capitol rotunda</header> 
+<subsection id="H295D359916F9424AA4CF0B4C361D818D"><enum>(a)</enum><header>Request of surviving next of kin</header><text display-inline="yes-display-inline">At the request of the primary surviving next of kin of a Medal of Honor recipient, the remains of the Medal of Honor recipient shall be permitted to lie in honor in the rotunda of the United States Capitol.</text></subsection> <subsection id="H683B56162F944B77916B67C07C424238"><enum>(b)</enum><header>Responsibilities of the Architect of the Capitol</header><text>The Architect of the Capitol, under the direction of the Speaker of the House of Representatives and the President pro tempore of the Senate, shall take such steps as the Architect considers appropriate to carry out this Act, including determining the date and time during which the remains of a Medal of Honor recipient shall be permitted to lie in honor and establishing regulations to determine who is the primary surviving next of kin of a Medal of Honor recipient.</text></subsection> 
+<subsection id="H61FF9023F343491ABC49DF10E0A72589"><enum>(c)</enum><header>Definition</header><text>In this Act, the term <term>Medal of Honor recipient</term> has the meaning given such term in section 1074h of title 10, United States Code. </text></subsection> <subsection id="HB3BA839103B74F0E914E66F24711C919"><enum>(d)</enum><header>Effective date</header><text>This Act shall apply with respect to an individual who dies on or after the date of the enactment of this Act.</text> </subsection></section> 
+</legis-body></bill>
+

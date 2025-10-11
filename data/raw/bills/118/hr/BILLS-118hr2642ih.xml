@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC06E5298BBF342D3BDD1D2C41E151727" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2642 IH: Peer Education and Emergency Response for Mental Health Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 2642</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230417">April 17, 2023</action-date>
+<action-desc><sponsor name-id="B001318">Ms. Balint</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Public Health Service Act to authorize the Secretary of Health and Human Services, acting through the Assistant Secretary for Mental Health and Substance Use, to award grants for peer mental health first aid, and for other purposes.</official-title>
+</form>
+<legis-body id="H2F1E28EB0B304972BCFB1313FE1C2385" style="OLC">
+<section id="HF7AE8A5D14AB45499296CC88A831E8BB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Peer Education and Emergency Response for Mental Health Act of 2023</short-title></quote> or the <quote><short-title>PEER Mental Health Act of 2023</short-title></quote>.</text></section> <section id="H707DAED07F8D42E89444CB54EB6DF10A"><enum>2.</enum><header>Grants for peer mental health first aid</header><text display-inline="no-display-inline">Title V of the Public Health Service Act is amended by inserting after section 520J of such Act (<external-xref legal-doc="usc" parsable-cite="usc/42/290bb-41">42 U.S.C. 290bb–41</external-xref>) the following:</text>
+<quoted-block style="OLC" id="H535A3F194891428593EF6ACEF90B1709" display-inline="no-display-inline">
+<section id="H63385AD8BE3E4B07A3A9A2810DBEC887"><enum>520J–1.</enum><header>Grants for peer mental health first aid</header>
+<subsection id="H3C5883A0A7494BB7960696BF043F6F5D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary shall award grants to eligible entities—</text> <paragraph id="HA96801668B614422A17022B180426B22"><enum>(1)</enum><text display-inline="yes-display-inline">to train teachers, other relevant school personnel (including education support professionals), students, and parents and caregivers of students—</text>
+<subparagraph id="H27264055037F425AB96809503B3F0E8C"><enum>(A)</enum><text>to recognize symptoms of childhood and adolescent mental health conditions;</text></subparagraph> <subparagraph id="H921600C3897C45C5B12B0476826E8161"><enum>(B)</enum><text>to refer teachers, school personnel, students, and their family members to appropriate mental health services if necessary; and</text></subparagraph>
+<subparagraph id="H49AE31AA60B04CA0A1F86980FDE96334"><enum>(C)</enum><text display-inline="yes-display-inline">to recognize signs of immediate mental distress and, upon recognizing such signs apply mental health first aid tactics; and</text></subparagraph></paragraph> <paragraph id="H7B8C8C13651A4ABFA44F15A0E8E8BC6B"><enum>(2)</enum><text>to provide education to such teachers, personnel, students, parents, and caregivers regarding resources that are available in the community for individuals with a mental illness.</text></paragraph></subsection>
+<subsection id="HA3EE9BC05844433C98A53B2974C4F626"><enum>(b)</enum><header>Relation to other mental health awareness training grants</header><text>An eligible entity may receive grant funds under this section in addition to receiving amounts made available to such eligible entity pursuant to section 520J.</text></subsection> <subsection id="HCA48091252594D51B1867E1C0E4B889D"><enum>(c)</enum><header>Allocation for schools in rural areas</header><text>In awarding grants under this section, the Secretary shall award not less than 25 percent of the grants to eligible entities that are elementary schools and secondary schools in rural areas.</text></subsection>
+<subsection id="H1EA6B20061A34F24B8B1910F8347969C"><enum>(d)</enum><header>Application</header>
+<paragraph id="H2E3F81F082F44706955D05BF4763B9BB"><enum>(1)</enum><header>In general</header><text>To seek a grant under this section, an eligible entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require, including a plan for the rigorous evaluation of activities that are carried out with funds received through the grant.</text></paragraph> <paragraph id="HDA1D007A040D4272B7454EE9E598E74D"><enum>(2)</enum><header>Streamlined process</header><text>The Secretary shall streamline the process for applying for a grant under this section so as to keep such process from imposing an unreasonable barrier, especially for eligible entities with limited personnel available to prepare a grant application.</text></paragraph></subsection>
+<subsection id="H28CF0E438DD9453E92952C75417D65F6"><enum>(e)</enum><header>Technical assistance</header><text display-inline="yes-display-inline">The Secretary shall provide technical assistance to eligible entities applying for or receiving grants under this section.</text></subsection> <subsection id="HA490495E2F5F4F1AA9DE9E2808C97FFD"><enum>(f)</enum><header>Definition</header><text>In this section:</text>
+<paragraph id="HDD568D8E20334F23B664025335D759D0"><enum>(1)</enum><text>The terms <term>elementary school</term>, <term>local educational agency</term>, <term>secondary school</term>, and <term>State educational agency</term> have the meanings given to those terms in section 8101 of the Elementary and Secondary Education Act of 1965.</text></paragraph> <paragraph id="H60B6F39536734801917CEBD429F89FA8"><enum>(2)</enum><text>The term <term>eligible entity</term> means an elementary school, a local educational agency, a secondary school, or a State educational agency.</text></paragraph>
+<paragraph id="H6BAB283FC1274570A6B51CE65DC50DD1"><enum>(3)</enum><text display-inline="yes-display-inline">The term <term>rural area</term> refers to a rural area as defined by the Health Resources and Services Administration for purposes of awarding rural health grants.</text></paragraph></subsection> <subsection id="H36F5B58A616B4081A8288246E82C71B4"><enum>(g)</enum><header>Authorization of appropriations</header><text display-inline="yes-display-inline">To carry out this section, there is authorized to be appropriated $24,963,000 for each of fiscal years 2024 through 2028</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section>
+</legis-body>
+</bill> 
+
+

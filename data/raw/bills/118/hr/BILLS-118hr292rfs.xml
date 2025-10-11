@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Referred-in-Senate" dms-id="H792742DB1487403498901FC9F3CB8868" public-private="public" key="G" bill-type="olc" stage-count="1"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 292 : To designate the facility of the United States Postal Service located at 24355 Creekside Road in Santa Clarita, California, as the “William L. Reynolds Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IIB</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 292</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20231003">October 3, 2023</action-date><action-desc> Received; read twice and referred to the <committee-name committee-id="SSGA00" added-display-style="italic" deleted-display-style="strikethrough">Committee on Homeland Security and Governmental Affairs</committee-name></action-desc></action><legis-type>AN ACT</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 24355 Creekside Road in Santa Clarita, California, as the <quote>William L. Reynolds Post Office Building</quote>.</official-title></form><legis-body id="H6712E18026AC43789E2A7F9498440F45" style="OLC"><pagebreak></pagebreak><section id="H59BA402674574658A31074FEFC07D6DD" section-type="section-one"><enum>1.</enum><header>William L. Reynolds Post Office Building</header><subsection id="H2A3BE21F4895480BAE81B1D1035FD0F9"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 24355 Creekside Road in Santa Clarita, California, shall be known and designated as the <quote>William L. Reynolds Post Office Building</quote>.</text></subsection><subsection id="H3BB10416EA1548FAAF9039D93A4AE580"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>William L. Reynolds Office Building</quote>.</text></subsection></section></legis-body><attestation><attestation-group><attestation-date date="20231002" legis-day="20231002" chamber="House">Passed the House of Representatives October 2, 2023.</attestation-date><attestor display="yes">Kevin F. McCumber,</attestor><role>Clerk.</role></attestation-group></attestation></bill> 
+

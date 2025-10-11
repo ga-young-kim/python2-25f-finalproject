@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H156D64F5A503451DA656E6311765DDC6" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 63 IH: Grant Relief for American Children’s Elevation Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 63</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230109">January 9, 2023</action-date><action-desc><sponsor name-id="J000032">Ms. Jackson Lee</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Immigration and Nationality Act to establish certain family separation as an exceptional and extremely unusual hardship, and for other purposes.</official-title></form><legis-body id="H777B06B8F2004A8BB20604EF06E50A91" style="OLC"><section id="HAB9CC722BA2149838A1E3C0865799AF9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Grant Relief for American Children’s Elevation Act of 2023</short-title></quote> or the <quote><short-title>GRACE Act</short-title></quote>.</text></section><section id="H3EAFD6A4916D430CA9BE83864F6714E6"><enum>2.</enum><header>Exceptional and extremely unusual hardship</header><text display-inline="no-display-inline">Section 240A(b) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1229b">8 U.S.C. 1229b</external-xref>) is amended by adding at the end the following:</text><quoted-block style="OLC" id="HB7FE90809FF742CD97563903B4736C07" display-inline="no-display-inline"><paragraph id="H3D216FF76E794A21ABFE2CCCE389F42F"><enum>(7)</enum><header>Exceptional and extremely unusual hardship defined</header><text display-inline="yes-display-inline">In this subsection, the term <quote>exceptional and extremely unusual hardship</quote> shall include hardship resulting from separating a family member who is a United States citizen, a lawful permanent resident or an individual lawfully admitted to the United States and a family member who is subject to deportation or removal from the United States.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill> 
+

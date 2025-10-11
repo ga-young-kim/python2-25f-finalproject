@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H64A635FC112647D9BDF896ECCFAFC5A2" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3868 IH: Tracking and Reporting Absent Community-members Everywhere Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 3868</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230606">June 6, 2023</action-date>
+<action-desc><sponsor name-id="N000191">Mr. Neguse</sponsor> (for himself, <cosponsor name-id="B001309">Mr. Burchett</cosponsor>, <cosponsor name-id="K000385">Ms. Kelly of Illinois</cosponsor>, <cosponsor name-id="L000599">Mr. Lawler</cosponsor>, <cosponsor name-id="W000822">Mrs. Watson Coleman</cosponsor>, <cosponsor name-id="F000466">Mr. Fitzpatrick</cosponsor>, and <cosponsor name-id="L000582">Mr. Lieu</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Attorney General to include a data field in the National Missing and Unidentified Persons System to indicate whether the last known location of a missing person was confirmed or was suspected to have been on Federal land, and for other purposes.</official-title>
+</form>
+<legis-body id="H0D8CFED50F014B818EF19E6CDA78F69D" style="OLC">
+<section id="H6E924F1162B848069CBF25A6C4119144" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Tracking and Reporting Absent Community-members Everywhere Act</short-title></quote> or the <quote><short-title>TRACE Act</short-title></quote>. </text></section> <section id="H90399AC41C7248F1B30EC8954AB15F5B"><enum>2.</enum><header>Data field in the National Missing and Unidentified Persons System related to Federal land</header><text display-inline="no-display-inline">The Attorney General, acting through the Director of the National Institute of Justice, shall include in the National Missing and Unidentified Persons System a data field to indicate whether the last known location of the missing person was confirmed or was suspected to have been on Federal land, including any specific location details about the unit of Federal land that was the last known location of the missing person.</text></section>
+<section id="HB46AD6AFD3D44D929354495A6A910D43" commented="no"><enum>3.</enum><header>Report</header><text display-inline="no-display-inline">Beginning in the second calendar year that begins after the date of enactment of this Act, and annually thereafter, on January 15th, the Attorney General, acting through the Director of the National Institute of Justice, shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate a report that contains, for the previous calendar year, the number of cases in the National Missing and Unidentified Persons System for which the missing person’s last known location was confirmed or was suspected to have been on Federal land. </text></section> <section id="H1268FD7960134B99B6A7B3D235681A85"><enum>4.</enum><header>Definition</header><text display-inline="no-display-inline">In this Act, the term <term>Federal land</term> means land owned by the United States that is under the administrative jurisdiction of the Secretary of Agriculture, the Secretary of the Interior (except land held in trust for the benefit of an Indian Tribe), or the Secretary of Defense only with respect to land and water resources projects administered by the Army Corps of Engineers.</text></section>
+</legis-body>
+</bill> 
+
+

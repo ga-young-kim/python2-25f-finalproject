@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HD84A419F874840A1A7EDAE9AA53EABAD" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3077 IH: Green Star Families Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 3077</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230502">May 2, 2023</action-date>
+<action-desc><sponsor name-id="V000133">Mr. Van Drew</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend title 38, United States Code, to establish a counseling program for certain survivor of veterans deceased as the result of suicide.</official-title>
+</form>
+<legis-body id="HA1B8FFA05D8C46D5AEB5387834BE281B" style="OLC">
+<section id="H1AAB4FCB70164D4CBCD2277518B2E220" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Green Star Families Act</short-title></quote>.</text></section> <section id="H260ADC965CAC44CBAAA62108A1E79E65" section-type="subsequent-section"><enum>2.</enum><header>Counseling program for certain family members and caregivers of veterans deceased as a result of suicide</header> <subsection id="H790419E715974796821DDB688EA1AD44"><enum>(a)</enum><header>Counseling program</header><text display-inline="yes-display-inline">Subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/17">chapter 17</external-xref> of title 38, United States Code, is amended by adding at the end the following new section:</text>
+<quoted-block style="USC" id="HB3F4296F979C4E63B6684B65521259F4" display-inline="no-display-inline">
+<section id="H37B04B73E27B404390BFBD0931E19DD2"><enum>1720K.</enum><header>Counseling program for certain family members and caregivers of veterans deceased as a result of suicide</header>
+<subsection id="HCC544762259E496EA927283CFBA9453F"><enum>(a)</enum><header>Counseling program</header>
+<paragraph commented="no" display-inline="yes-display-inline" id="H2536AE33335C45F596A7915E87BC9C74"><enum>(1)</enum><text display-inline="yes-display-inline">Subject to paragraph (2), the Secretary shall furnish, at no cost to the recipient, counseling services to—</text> <subparagraph id="HF004D7EAE4B548498C6E2C2CC6F34F28" indent="up1"><enum>(A)</enum><text>the next of kin of covered veterans; and</text></subparagraph>
+<subparagraph id="H456D9FC331CB48ACABD0FF599A6D9EE7" indent="up1"><enum>(B)</enum><text>former volunteer caregivers of covered veterans.</text></subparagraph></paragraph> <paragraph id="HFA96D129196F454386BE45D4C191EAD0" indent="up1"><enum>(2)</enum><text display-inline="yes-display-inline">The Secretary may provide counseling services under this section only if the Secretary determines such counseling services are—</text>
+<subparagraph id="H18776F53708E45319C84E1EC3C37AE1C"><enum>(A)</enum><text display-inline="yes-display-inline">reasonably accessible to the an individual described in paragraph (1); and</text></subparagraph> <subparagraph id="HCC318844830D4C66B371598E1A43932D"><enum>(B)</enum><text display-inline="yes-display-inline">substantially equivalent or superior to similar services furnished by the Secretary to an individual described in paragraph (1).</text></subparagraph></paragraph>
+<paragraph id="HEC6117A1AEC047CEBB682C3CE825E6D5" display-inline="no-display-inline" indent="up1"><enum>(3)</enum><text display-inline="yes-display-inline">To carry out subsection (a), the Secretary may enter into an agreement with a Federal, State, or private entity. The Secretary may provide fair compensation to such entity pursuant to such agreement.</text></paragraph></subsection> <subsection id="H557F5132A2EB47999AFB256246A3A967"><enum>(b)</enum><header>Public awareness</header><text>In carrying out the program under subsection (a), the Secretary shall—</text>
+<paragraph id="H8C27FD88E4BF47039E45D3087C7A0F04"><enum>(1)</enum><text>publish information relating to the program on an internet website of the Department; and</text></paragraph> <paragraph id="H89590AD26E9B446ABB9CAB48932F70DF"><enum>(2)</enum><text display-inline="yes-display-inline">provide information relating to the program to any individual described in paragraph (1).</text></paragraph></subsection>
+<subsection id="H420B7049267A478C8C45A0CCD9377C8C"><enum>(c)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HF3DB68445FD744E79D357B806823D76C"><enum>(1)</enum><text>The terms <quote>covered veteran</quote> and <quote>next of kin</quote> has the meaning given that term in section 904 of title 36.</text></paragraph>
+<paragraph id="H45C8F89F183243AB8A46A57F2603AB02"><enum>(2)</enum><text>The term <quote>covered veterans service organization</quote> includes—</text> <subparagraph id="HF3F3A1E1634E45449D7D6E01BC2D0C69"><enum>(A)</enum><text display-inline="yes-display-inline">an organization recognized by the Secretary for the representation of veterans under section 5902 of this title; and</text></subparagraph>
+<subparagraph id="HB5341EB9BC314384A10AB3F142AAAF87"><enum>(B)</enum><text display-inline="yes-display-inline">an organization—</text> <clause id="H1DD5C5ECDE16438FACDC01C6FA8B2C04"><enum>(i)</enum><text>that is described in section 501(c)(3) or 501(c)(19) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Code; and</text></clause>
+<clause id="HA3A9F1982539418EB869CA232C598F03"><enum>(ii)</enum><text>that carries out activities relating to veterans and their assistance.</text></clause></subparagraph></paragraph> <paragraph id="H78E9C56DF8EA41A0A7296DDCDF031441"><enum>(3)</enum><text>The term <quote>family member</quote> means, with respect to a covered veteran, an individual—</text>
+<subparagraph id="H6AE9FD57D7A04C8EA110C289B703B9B7"><enum>(A)</enum><text display-inline="yes-display-inline">who is a member of the family of the veteran, including—</text> <clause id="HA1848AFF0CF5452E91856E86A06B52F6"><enum>(i)</enum><text>a parent or legal guardian; </text></clause>
+<clause id="HC0CEEED37B1E46ED80FEEDCF12DE27DF"><enum>(ii)</enum><text>a spouse; </text></clause> <clause id="HC1AC2BE7ECFF472C8C99AF188EAABE27"><enum>(iii)</enum><text>a child; </text></clause>
+<clause id="H0040C802679E4CD1A7A90A72E50BC8A1"><enum>(iv)</enum><text>a step-family member; and</text></clause> <clause id="H8F5CB1501F37435FA8314BCE8B28053B"><enum>(v)</enum><text>an extended family member; or</text></clause></subparagraph>
+<subparagraph id="H42D7135BD5CC4A68A85DAF0EB1482755"><enum>(B)</enum><text display-inline="yes-display-inline">who, prior to the death of the covered veteran, lived with the covered veteran.</text></subparagraph></paragraph> <paragraph id="H195813A5ADA94EDC9CE849EA61D3502D"><enum>(4)</enum><text display-inline="yes-display-inline">The term <quote>former volunteer caregiver</quote> means, with respect to a covered veteran, an individual—</text>
+<subparagraph id="HAF3539EAEAA2417BB9D771346D678963"><enum>(A)</enum><text>who is at least 18 years of age; and</text></subparagraph> <subparagraph id="HF5109E7457B14D5AAAF888228CE7B999"><enum>(B)</enum><text display-inline="yes-display-inline">who, prior to the death of the covered veteran, and in connection with a covered veterans service organization, furnished the covered veteran with counseling, social work, or other personal care services—</text>
+<clause id="HFC0A666D2FFD4DA193A7B5C64BF908CB"><enum>(i)</enum><text display-inline="yes-display-inline">without compensation to such individual; and</text></clause> <clause id="H1101DEDAE3D749388AB8979EFCAAAFFB"><enum>(ii)</enum><text>for a period of at least three months.</text></clause></subparagraph></paragraph>
+<paragraph id="HB385A34D76F04660AED1E6B7E30DB104"><enum>(5)</enum><text>The term <quote>personal care services</quote> has the meaning given that term in section 1720G of this title.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H9300AFCA9DAB4FE2876D95F8ABC8B70A"><enum>(b)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The table of sections at the beginning of subchapter II of chapter 17 of such title is amended by inserting, after the item relating to section 1720J, the following new item:</text>
+<quoted-block style="USC" id="HF615D0069CBE4EB3B88C58078141E241" display-inline="no-display-inline">
+<toc regeneration="no-regeneration">
+<toc-entry level="section">1720K. Counseling program for certain family members and caregivers of veterans deceased as a result of suicide.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H091DAA5562C242F7A93AD5A2741F1805"><enum>(c)</enum><header>Implementation deadline</header><text>The Secretary of Veterans Affairs shall carry out section 1720K of such title, as added by subsection (a), by not later than 90 days after the date of the enactment of this Act.</text></subsection></section> </legis-body> </bill> 
+

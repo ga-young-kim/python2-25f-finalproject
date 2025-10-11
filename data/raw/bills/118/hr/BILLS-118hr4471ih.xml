@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA86A3F54CD984D92B306BC22464053E5" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4471 IH: Speech Privacy Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 4471</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230706">July 6, 2023</action-date>
+<action-desc><sponsor name-id="A000377">Mr. Armstrong</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prohibit an entity of the Federal Government from collecting or requiring the submission of information on the identification of any donor to a tax-exempt organization, and for other purposes.</official-title>
+</form>
+<legis-body id="HC04EA1334A754C24BC051BBC64DEECF6" style="OLC">
+<section id="H191706903CD34F6CACDE4C0EE83564A3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Speech Privacy Act of 2023</short-title></quote>.</text></section> <section id="H4B6F7BEFF1E745AEA17FC28B3DE7AD37"><enum>2.</enum><header>Protecting privacy of donors to tax-exempt organizations</header> <subsection id="HAD09FC220BFA4154BC3C625C2416C96B"><enum>(a)</enum><header>Restrictions on collection of donor information</header> <paragraph id="HB5CC44F506B74851860D8ACEA9074C22"><enum>(1)</enum><header>Restrictions</header><text display-inline="yes-display-inline">An entity of the Federal Government may not collect or require the submission of information on the identification of any donor to a tax-exempt organization.</text></paragraph>
+<paragraph id="HA02AF4F0CC994070B060D40AE129C57D"><enum>(2)</enum><header>Exceptions</header><text>Paragraph (1) does not apply to the following:</text> <subparagraph id="HE883BB873CD944D19E955893D85F7B5D"><enum>(A)</enum><text>The Internal Revenue Service, acting lawfully pursuant to <external-xref legal-doc="usc" parsable-cite="usc/26/6033">section 6033</external-xref> of the Internal Revenue Code of 1986 or any successor provision.</text></subparagraph>
+<subparagraph id="H6C543B5EAEF04556BA0CF28CFB8F9F1C"><enum>(B)</enum><text>The Secretary of the Senate and the Clerk of the House of Representatives, acting lawfully pursuant to section 3 of the Lobbying Disclosure Act of 1995 (<external-xref legal-doc="usc" parsable-cite="usc/2/1604">2 U.S.C. 1604</external-xref>).</text></subparagraph> <subparagraph id="HA1A8F343339D4F9A9E4D5A9615C7D840"><enum>(C)</enum><text>The Federal Election Commission, acting lawfully pursuant to section 510 of title 36, United States Code.</text></subparagraph>
+<subparagraph id="H6F71778006E64D98A679B1399990ACE0"><enum>(D)</enum><text display-inline="yes-display-inline">An entity acting pursuant to a lawful order of a court or administrative body which has the authority under law to direct the entity to collect or require the submission of the information, but only to the extent permitted by the lawful order of such court or administrative body.</text></subparagraph></paragraph></subsection> <subsection id="HB7FE0DA6999549379F4A49D9D3FB80B1"><enum>(b)</enum><header>Restrictions on release of donor information</header> <paragraph id="H8DEB9634F7244D62BB3FC9C18B945E2C"><enum>(1)</enum><header>Restrictions</header><text>An entity of the Federal Government may not disclose to the public information revealing the identification of any donor to a tax-exempt organization.</text></paragraph>
+<paragraph id="H813B1168A3FC4289B4E14047A012C495"><enum>(2)</enum><header>Exceptions</header><text>Paragraph (1) does not apply to the following:</text> <subparagraph id="H4E4340F6BA2D4D06A48F63AB34372138"><enum>(A)</enum><text>The Internal Revenue Service, acting lawfully pursuant to <external-xref legal-doc="usc" parsable-cite="usc/26/6104">section 6104</external-xref> of the Internal Revenue Code of 1986 or any successor provision.</text></subparagraph>
+<subparagraph id="H6C04C8A20505459496A4BE95B4F24A43"><enum>(B)</enum><text>The Secretary of the Senate and the Clerk of the House of Representatives, acting lawfully pursuant to section 3 of the Lobbying Disclosure Act of 1995 (<external-xref legal-doc="usc" parsable-cite="usc/2/1604">2 U.S.C. 1604</external-xref>).</text></subparagraph> <subparagraph id="H6766983575344951B495583208B43839"><enum>(C)</enum><text>The Federal Election Commission, acting lawfully pursuant to section 510 of title 36, United States Code.</text></subparagraph>
+<subparagraph id="HCC8BE5800BF740D79FED0BE47F551249"><enum>(D)</enum><text display-inline="yes-display-inline">An entity acting pursuant to a lawful order of a court or administrative body which has the authority under law to direct the entity to disclose the information, but only to the extent permitted by the lawful order of such court or administrative body.</text></subparagraph> <subparagraph id="HF6B167BD795346B48B3D38D712A9B8A7"><enum>(E)</enum><text>An entity which discloses the information as authorized by the organization.</text></subparagraph></paragraph></subsection>
+<subsection id="HFF12CF8F118745BFAA2E9424FA897E4B"><enum>(c)</enum><header>Tax-Exempt organization defined</header><text display-inline="yes-display-inline">In this section, a <quote>tax-exempt organization</quote> means an organization which is described in <external-xref legal-doc="usc" parsable-cite="usc/26/501">section 501(c)</external-xref> of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Code. Nothing in this subsection may be construed to treat a political organization under section 527 of such Code as a tax-exempt organization for purposes of this section.</text></subsection> <subsection id="H7585C5C232704DFA90D49F79D8763B6B"><enum>(d)</enum><header>Penalties</header><text display-inline="yes-display-inline">It shall be unlawful for any officer or employee of the United States, or any former officer or employee, willfully to disclose to any person, except as authorized in this section, any information revealing the identification of any donor to a tax-exempt organization. Any violation of this section shall be a felony punishable upon conviction by a fine in any amount not exceeding $250,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution, and if such offense is committed by any officer or employee of the United States, he shall, in addition to any other punishment, be dismissed from office or discharged from employment upon conviction for such offense.</text></subsection></section>
+</legis-body>
+</bill> 
+
+

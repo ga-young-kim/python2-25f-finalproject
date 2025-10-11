@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H03A0DD3011314490BAC7754A69F2722C" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 47 IH: Victims Of Immigration Crime Engagement Restoration Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 47</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230109">January 9, 2023</action-date>
+<action-desc><sponsor name-id="B001301">Mr. Bergman</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To establish the Victims of Immigration Crime Engagement Office within the Department of Homeland Security, and for other purposes.</official-title>
+</form>
+<legis-body id="HAD75E056090F4C4983D8AD0459DD1122" style="OLC">
+<section id="H295D908BD28D49829FF699584072DDE5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Victims Of Immigration Crime Engagement Restoration Act</short-title></quote> or as the <quote><short-title>VOICE Restoration Act</short-title></quote>.</text></section> <section id="H06182E34AC2E4DAE856197D91A2B4F05"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+<paragraph id="HBEF4F6A9C33545B4961051EFDBF1DD5E"><enum>(1)</enum><text>In April 2017, the United States Department of Homeland Security launched the U.S. Immigration and Customs Enforcement (ICE) Victims of Immigration Crime Engagement Office (VOICE) in response to the Executive Order 13768 issued by President Donald J. Trump entitled Enhancing Public Safety in the Interior of the United States, which directed DHS to create an office to support victims of crimes committed by criminal aliens.</text></paragraph> <paragraph id="HFFB426734B0648CABA135B06D8133BA1"><enum>(2)</enum><text>In June 2021, the United States Department of Homeland Security terminated VOICE pursuant to the Executive order on the Revision of Civil Immigration Enforcement Policies and Priorities issued by President R. Joseph Jr.</text></paragraph></section>
+<section id="HA639AB90020442B0986D186AC18DA294"><enum>3.</enum><header>Victims of Immigration Crime Engagement Office</header>
+<subsection id="H4A09FAF1683F43D3BAA1B0EB0762204E"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">There is established the Victims of Immigration Crime Engagement Office (hereinafter in this Act referred to as <quote>VOICE</quote>) within the U.S. Immigration and Customs Enforcement, which shall provide assistance to victims of crimes committed by aliens present in the United States without lawful status under the immigration laws, in addition to witnesses and legal representatives of individuals acting at the request of a victim or witness.</text></subsection> <subsection id="HD89D3210B1C545AFBAF05DE645D0F06E"><enum>(b)</enum><header>Duties</header><text>The duties of VOICE are to do the following:</text>
+<paragraph id="HFE394E14759947ED842C4EA14A5CA63E"><enum>(1)</enum><text>Use a victim-centered approach to acknowledge and support persons who are victims or witnesses described in subsection (a) and their families.</text></paragraph> <paragraph id="H6EB39DC350C44961A8CF6308B8B3326E"><enum>(2)</enum><text>Promote awareness of available services to such persons.</text></paragraph>
+<paragraph id="H4232B1512DD8478CA0710BD1B39E114F"><enum>(3)</enum><text>Build collaborative partnerships with community stakeholders assisting such persons.</text></paragraph></subsection> <subsection id="H27B93560BDA14B8297D691931D3687F9"><enum>(c)</enum><header>Assistance</header><text>The types of assistance authorized to be provided by VOICE to such persons impacted by crimes committed by aliens described in subsection (a) includes—</text>
+<paragraph id="H84BDA21277834C9F9DEAC15A373F101F"><enum>(1)</enum><text>the establishment and operation of a dedicated toll-free VOICE Hotline to answer questions from victims;</text></paragraph> <paragraph id="HE99791489D0C4EB8AA8F4EC92D0D7AAC"><enum>(2)</enum><text>local contacts to help with unique requests from such persons;</text></paragraph>
+<paragraph id="HC3558BC1240A43CC9A87DA5AE93B2E51"><enum>(3)</enum><text>access to social service professionals able to refer victims to resources and service providers;</text></paragraph> <paragraph id="HE7405A93A6F74331ACD3A7C72CB84F0F"><enum>(4)</enum><text>assistance signing up to receive automated custody status information regarding an alien described in subsection (a) held in custody; and</text></paragraph>
+<paragraph id="H970D3B5B97E54CCEA03552F7E315B7A4"><enum>(5)</enum><text>additional criminal or immigration history may be available about an illegal alien to victims or their families.</text></paragraph></subsection> <subsection id="H14253904A2424BCB9D65F3FAF63CDE9E"><enum>(d)</enum><header>Report</header><text>Not later than 180 days after the date of the enactment of this Act, VOICE shall publish quarterly reports to Congress, the Secretary of Homeland Security, and the President of the United States studying the effects of the victimization by aliens described in subsection (a) present in the United States.</text></subsection></section>
+</legis-body>
+</bill> 
+
+

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H077F26AFEA254CE6AB564F339C0AEF7B" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4876 IH: Equality in Laws Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 4876</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230725">July 25, 2023</action-date>
+<action-desc><sponsor name-id="L000602">Ms. Lee of Pennsylvania</sponsor> (for herself, <cosponsor name-id="P000617">Ms. Pressley</cosponsor>, <cosponsor name-id="G000598">Mr. Robert Garcia of California</cosponsor>, and <cosponsor name-id="N000147">Ms. Norton</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Law Revision Counsel of the House of Representatives to replace masculine pronouns and nouns in the United States Code with gender-neutral language, and for other purposes.</official-title>
+</form>
+<legis-body id="H217480E03B974F10BEF8C9EEB177D7C1" style="OLC"> 
+<section id="HC1211EDB88D84C61AFFF5CD5551B56BE" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Equality in Laws Act</short-title></quote>. </text></section> <section id="H1CDB02C0BBFE45C4844B14F8AC2FB82D"><enum>2.</enum><header>Gender-neutral language in the United States Code</header> <subsection id="H6B5B30D2F3774D73A5E8C07D28324AEB"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Law Revision Counsel of the House of Representatives shall make such changes to the titles of the United States Code as are necessary to replace masculine pronouns and nouns in such titles with gender-neutral language in each case in which such revisions and amendments would not affect the substance or meaning of the relevant titles, including—</text> 
+<paragraph id="HD4784A525B5545E18E576D76A555078F"><enum>(1)</enum><text>by striking <quote>his</quote> each place it appears and, as required by the relevant context, inserting—</text> <subparagraph id="H79551253F4424F56AFB8DAB6C50DB99E"><enum>(A)</enum><text><quote>the individual’s</quote>;</text></subparagraph> 
+<subparagraph id="H2DBC9B9070DD4EB2AFBBDFF42B5D11EC"><enum>(B)</enum><text>the appropriate possessive form of the noun to which the pronoun refers;</text></subparagraph> <subparagraph id="H37F9DCF96E6F4DCFBFA18E1E5B2F74B7"><enum>(C)</enum><text><quote>their</quote> or <quote>theirs</quote>; or</text></subparagraph> 
+<subparagraph id="H4104EABB922448DA9AF2DCA40D609A85"><enum>(D)</enum><text>the appropriate possessive form of the title of the position to which the pronoun refers; and</text></subparagraph></paragraph> <paragraph id="H0421BE8DE189450B9970957D1C5C3DAB"><enum>(2)</enum><text>by striking <quote>he</quote> and <quote>him</quote> each place such words appear and, as required by the relevant context, inserting—</text> 
+<subparagraph id="H63115BF25CED486EB87577C08CECB32E"><enum>(A)</enum><text><quote>the individual</quote>;</text></subparagraph> <subparagraph id="HEC2D99B4D1AF485FA6075D2561F7AD10"><enum>(B)</enum><text>the noun to which the pronoun refers;</text></subparagraph> 
+<subparagraph id="H35BA7D7019FA426AAF68E05E523F61C1"><enum>(C)</enum><text><quote>they</quote> or <quote>them</quote>; or</text></subparagraph> <subparagraph id="H5F38C03441984B1DB88FB2DE30111FF8"><enum>(D)</enum><text>the appropriate title of the position to which the pronoun refers. </text></subparagraph></paragraph></subsection> 
+<subsection id="HE23139C61C194A499E61A90C716B27BF"><enum>(b)</enum><header>Revision of positive law titles</header><text display-inline="yes-display-inline">The Law Revision Counsel of the House of Representatives shall, pursuant to subsection (a), prepare and submit to the Committee on the Judiciary such revisions in the titles of the United States Code which have been enacted into positive law as may be necessary to strike masculine pronouns and nouns and insert gender-neutral language in each case in which such revisions conform to the understood policy, intent, and purpose of the Congress in the original enactments.</text></subsection> <subsection id="H9B36143B3B6E4EAFB0398A30282C86F6"><enum>(c)</enum><header>Amendment of nonpositive law titles</header><text display-inline="yes-display-inline">The Law Revision Counsel of the House of Representatives shall, pursuant to subsection (a), draft a bill to amend the titles of the United States Code that have not yet been enacted into positive law for the purpose of striking masculine pronouns and nouns and inserting gender-neutral language in each case in which such amendments conform to the understood policy, intent, and purpose of the Congress in the original enactments.</text></subsection> 
+<subsection id="HF24D081BA52D4FAC98D874B274DD6976"><enum>(d)</enum><header>Gender-Neutral language defined</header><text display-inline="yes-display-inline">The term <quote>gender-neutral language</quote> means language that expressly or implicitly refers to all genders without distinction between such genders and does not expressly or implicitly refer to a gender to the real or apparent exclusion of any other gender.</text></subsection></section> </legis-body> </bill> 
+

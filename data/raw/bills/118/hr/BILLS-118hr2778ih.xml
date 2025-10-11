@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H39F5404FB3E24B89A61A9CE4F715DB59" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2778 IH: Eliminating the RFS and Its Destructive Outcomes Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2778</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230420">April 20, 2023</action-date><action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> (for himself, <cosponsor name-id="M001177">Mr. McClintock</cosponsor>, <cosponsor name-id="B001302">Mr. Biggs</cosponsor>, and <cosponsor name-id="R000614">Mr. Roy</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To repeal the renewable fuel program of the Environmental Protection Agency.</official-title></form><legis-body id="HA9456684D2FD4D19B14E828FC971582B" style="OLC"> 
+<section id="HA430FFFE9F7C41789BCEAA2D53E6EED4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Eliminating the RFS and Its Destructive Outcomes Act</short-title></quote>.</text></section> <section id="H97626551D1B6410694AC8D2D4CA2F695"><enum>2.</enum><header>Repeal of renewable fuel program</header> <subsection id="H18461E6256AB4F9BB841F50487A1C41E"><enum>(a)</enum><header>Repeal</header><text display-inline="yes-display-inline">Section 211(o) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7545">42 U.S.C. 7545(o)</external-xref>) is repealed.</text></subsection>
+<subsection id="HC50A468588624FC4A820E885E44B18EA"><enum>(b)</enum><header>Conforming amendments</header>
+<paragraph id="H14F92AC9213A4A499D7B634CC5604E43"><enum>(1)</enum><header>Clean Air Act</header><text display-inline="yes-display-inline">Section 211(d) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7545">42 U.S.C. 7545(d)</external-xref>) is amended—</text> <subparagraph id="H5933EE1A211C47ABA2B73775C27A4CFB"><enum>(A)</enum><text>in paragraph (1)—</text>
+<clause id="H6AF788DF8A1E4F3BAA29A0C9C810B569"><enum>(i)</enum><text>by striking <quote>(n), or (o)</quote> each place it appears and inserting <quote>or (n)</quote>; and</text></clause> <clause id="H5F76243DB03B47489565929FB8FCF3AF"><enum>(ii)</enum><text>by striking <quote>(m), or (o)</quote> and inserting <quote>or (m)</quote>; and</text></clause></subparagraph>
+<subparagraph id="H196993790811439EB0C8E50976165C84"><enum>(B)</enum><text>in paragraph (2), by striking <quote>(n), and (o)</quote> each place it appears and inserting <quote>and (n)</quote>.</text></subparagraph></paragraph> <paragraph id="H9C552774A5E349F194A82B4B021187EA"><enum>(2)</enum><header>Petroleum Marketing Practices Act</header><text>Section 107(a)(1)(B) of the Petroleum Marketing Practices Act (<external-xref legal-doc="usc" parsable-cite="usc/15/2807">15 U.S.C. 2807(a)(1)(B)</external-xref>) is amended by inserting <quote>, as in effect on the day before the date of enactment of the <short-title>Eliminating the RFS and Its Destructive Outcomes Act</short-title></quote> after <quote>(40 CFR, part 80)</quote>.</text></paragraph></subsection></section> 
+</legis-body></bill>
+

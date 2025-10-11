@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H29E61441B0B541298F00CC2BD6AF7399" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6012 IH: Fire Safe Electrical Corridors Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 6012</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231020">October 20, 2023</action-date>
+<action-desc><sponsor name-id="C001112">Mr. Carbajal</sponsor> (for himself, <cosponsor name-id="C001135">Mrs. Chavez-DeRemer</cosponsor>, <cosponsor name-id="C001059">Mr. Costa</cosponsor>, and <cosponsor name-id="V000129">Mr. Valadao</cosponsor>) introduced the following bill</action-desc>
+</action>
+<action display="yes">
+<action-date date="20231025">October 25, 2023</action-date>
+<action-desc>Referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name>, and in addition to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To authorize the Secretary of Agriculture to permit removal of trees around electrical lines on National Forest System land without conducting a timber sale, and for other purposes.</official-title>
+</form>
+<legis-body id="H80FCF388CAE44A5CA92998F74433DE61" style="OLC"> 
+<section id="H550FB132376740A6B572E629C9A76DF3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fire Safe Electrical Corridors Act of 2023</short-title></quote>.</text></section> <section id="HB0B32DEDF6784E32B841C461751A9230"><enum>2.</enum><header>Permits and agreements with electrical utilities</header> <subsection id="HFDB603324E9649078A5A80AEB687C9D5"><enum>(a)</enum><header>In general</header><text>In any special use permit or easement on National Forest System land provided to an electrical utility, the Secretary of Agriculture may provide permission to cut and remove trees or other vegetation from within the vicinity of distribution lines or transmission lines without requiring a separate timber sale, if that cutting and removal is consistent with—</text> 
+<paragraph commented="no" display-inline="no-display-inline" id="H3041840EB9F84DDDA8F20CB2A988895B"><enum>(1)</enum><text display-inline="yes-display-inline">the applicable land and resource management plan; and </text></paragraph> <paragraph commented="no" display-inline="no-display-inline" id="HC01CF566B2304D049E19DF3861C37DB0"><enum>(2)</enum><text display-inline="yes-display-inline">other applicable environmental laws (including regulations).</text></paragraph></subsection> 
+<subsection id="H0677E67368F1407DB7B45371A2B422BB"><enum>(b)</enum><header>Use of proceeds</header><text>A special use permit or easement that includes permission for cutting and removal described in subsection (a) shall include a requirement that, if the applicable electrical utility sells any portion of the material removed under the permit or easement, the electrical utility shall provide to the Secretary of Agriculture, acting through the Chief of the Forest Service, any proceeds received from the sale, less any transportation costs incurred in the sale.</text></subsection> <subsection id="H18A25C63F6BD4D45955514B9BC2712F2"><enum>(c)</enum><header>Effect</header><text>Nothing in subsection (b) shall require the sale of any material removed under a permit or easement that includes permission for cutting and removal described in subsection (a). </text></subsection></section> 
+</legis-body>
+</bill> 
+
+

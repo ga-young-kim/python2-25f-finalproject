@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" public-private="public" dms-id="H5E625306897B4A8CBEF76589D2B8D932"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5600 IH: To establish certain grants.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session> 
+<legis-num display="yes">H. R. 5600</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20230920">September 20, 2023</action-date> 
+<action-desc><sponsor name-id="M001219">Mr. Moylan</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To establish certain grants.</official-title> 
+</form> 
+<legis-body id="HB754F76C639345E3A041DB2E63B53AB7"> 
+<section id="H4CDE107759F44C32AE57C59E8B3FFC50" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the Guam Emergency Alert System Act.</text></section> <section id="H4C80427F575947A9AAA79FDC90C5597F"><enum>2.</enum><header>Establishment of grant</header><text display-inline="no-display-inline">Subject to available appropriations, the Secretary of Homeland Security is directed to establish a $2,000,000 grant available to Guam Homeland Security and Office of Civil Defense, for the purpose of purchasing updated island-wide alarm systems in Guam, and to establish an emergency broadcasting center in Guam.</text></section> 
+</legis-body> 
+</bill> 
+
+

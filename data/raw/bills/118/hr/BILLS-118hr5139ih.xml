@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8B4E62E5300F4895AF961FF0A6DDEB4E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5139 IH: Fighting Their Fraud Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-08-04</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5139</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230804">August 4, 2023</action-date><action-desc><sponsor name-id="C001119">Ms. Craig</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Richard B. Russell National School Lunch Act to increase the fine for certain fraudulent activities related to funds for child nutrition programs, and for other purposes.</official-title></form><legis-body id="H9820C15424F04EB2BDAAD08B75A21C75" style="OLC"> 
+<section id="HCAF0C28FAA9B4A6DA41FD796C20BC706" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fighting Their Fraud Act of 2023</short-title></quote>.</text></section> <section id="HA4FFA27CDEF04CC38E2BDF60980AE4F9"><enum>2.</enum><header>Prevention of fraud under child nutrition programs</header> <text display-inline="no-display-inline">Section 12(g) of the Richard B. Russell National School Lunch Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1760">42 U.S.C. 1760(g)</external-xref>) is amended by striking <quote>$25,000</quote> and inserting <quote>$50,000</quote>.</text></section> 
+</legis-body></bill>
+

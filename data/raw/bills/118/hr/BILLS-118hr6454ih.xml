@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE76A8BB48F8D4A3A8446B674C1237DAD" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6454 IH: Chemical Tax Repeal Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6454</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231117">November 17, 2023</action-date><action-desc><sponsor name-id="V000134">Ms. Van Duyne</sponsor> (for herself, <cosponsor name-id="M001205">Mrs. Miller of West Virginia</cosponsor>, and <cosponsor name-id="C001126">Mr. Carey</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to repeal the excise taxes on taxable chemicals and taxable substances.</official-title></form><legis-body id="HEAFBA005E3CF469B83E78EFFE315836A" style="OLC"> 
+<section section-type="section-one" id="HC8BB2474CD2147A0943FFD6691BC3A5A"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Chemical Tax Repeal Act</short-title></quote>.</text></section> <section id="HEF283E177C0448DAA333D573C5F72D16"><enum>2.</enum><header>Repeal of excise taxes on certain chemicals and substances</header> <subsection commented="no" display-inline="no-display-inline" id="HAF669E2CA0DB47DBA05CBCBC0206F028"><enum>(a)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/38">Chapter 38</external-xref> of the Internal Revenue Code of 1986 is amended by striking subchapters B and C (and by striking the items relating to such subchapters in the table of subchapters for such chapter).</text></subsection>
+<subsection commented="no" display-inline="no-display-inline" id="H81F757399F4042CCB878F8F123EDEAC0"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall take effect on January 1, 2023.</text></subsection></section> </legis-body></bill>
+

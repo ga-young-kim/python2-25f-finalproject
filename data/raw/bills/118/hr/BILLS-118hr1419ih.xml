@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2D26893E17074CBC9C4B9ECFD95A616E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1419 IH: Comprehensive Grizzly Bear Management Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1419</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230307">March 7, 2023</action-date><action-desc><sponsor name-id="R000103">Mr. Rosendale</sponsor> (for himself, <cosponsor name-id="Z000018">Mr. Zinke</cosponsor>, and <cosponsor name-id="H001096">Ms. Hageman</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Secretary of the Interior to issue a new rule removing the Northern Continental Divide Ecosystem population of grizzly bears from the Federal list of endangered and threatened wildlife.</official-title></form><legis-body id="H249E0A859D4C43CDA88D65117E29094A" style="OLC"> 
+<section id="HB57E71C51EC848B494FC2D6C8F060B35" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Comprehensive Grizzly Bear Management Act of 2023</short-title></quote>. </text></section> <section id="H8983A7DD501148CF88188F8B4C98270D"><enum>2.</enum><header>Removal of Northern Continental Divide Ecosystem population of grizzly bears from Federal list of endangered and threatened wildlife</header> <text display-inline="no-display-inline">Not later than 180 days after the date of the enactment of this Act, the Secretary of the Interior shall issue a final rule removing the Northern Continental Divide Ecosystem population of grizzly bears from the Federal list of endangered and threatened wildlife without regard to any other provision of law that applies to the issuance of such rule. Such issuance and this section shall not be subject to judicial review.</text></section> 
+</legis-body></bill>
+

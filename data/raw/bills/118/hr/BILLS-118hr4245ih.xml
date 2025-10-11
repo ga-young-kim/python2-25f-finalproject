@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H139EA690D7C04EFDADB6BC127D3983B6" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4245 IH: Enforce the Caps Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4245</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230621">June 21, 2023</action-date><action-desc><sponsor name-id="G000576">Mr. Grothman</sponsor> (for himself, <cosponsor name-id="B001291">Mr. Babin</cosponsor>, <cosponsor name-id="B001282">Mr. Barr</cosponsor>, <cosponsor name-id="G000595">Mr. Good of Virginia</cosponsor>, <cosponsor name-id="G000596">Ms. Greene of Georgia</cosponsor>, <cosponsor name-id="H001052">Mr. Harris</cosponsor>, <cosponsor name-id="J000301">Mr. Johnson of South Dakota</cosponsor>, <cosponsor name-id="L000578">Mr. LaMalfa</cosponsor>, <cosponsor name-id="M001211">Mrs. Miller of Illinois</cosponsor>, <cosponsor name-id="N000190">Mr. Norman</cosponsor>, <cosponsor name-id="R000603">Mr. Rouzer</cosponsor>, and <cosponsor name-id="S001222">Mr. Santos</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBU00">Committee on the Budget</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Balanced Budget and Emergency Deficit Control Act of 1985 to provide for discretionary spending limits for each of fiscal years 2026 through 2029, and for other purposes.</official-title></form><legis-body id="HCC95A245724948EE8F3EB2F7FAD62F85" style="OLC"> 
+<section id="HA08FE443E32345B7A93EF8B667CBCE29" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Enforce the Caps Act</short-title></quote>. </text></section> <section id="H0DB64BBF837A4D0DB7AF4600B377D69E"><enum>2.</enum><header>Discretionary spending limits for fiscal years 2026 through 2029</header><text display-inline="no-display-inline">Section 251(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 (<external-xref legal-doc="usc" parsable-cite="usc/2/901">2 U.S.C. 901(c)</external-xref>), as amended by the Fiscal Responsibility Act of 2023, is further amended—</text> 
+<paragraph id="H63F731A2CCAF410599D50BF525F842EE"><enum>(1)</enum><text>in paragraph (9)(B), by striking <quote>and</quote> at the end; and</text></paragraph> <paragraph id="H4A899598264646059D2F11885F4040EC"><enum>(2)</enum><text>by inserting after paragraph (10) the following:</text> 
+<quoted-block id="H5BB189745D78486EA5499CD5B66157A3" style="OLC"> 
+<paragraph id="H14EB17CFD2314D109927E2644F2472B4"><enum>(11)</enum><text display-inline="yes-display-inline">for fiscal year 2026, for the discretionary category, $1,621,959,000,000 in new budget authority;</text></paragraph> <paragraph id="H033AB69036FE47F98CC07A119B866817"><enum>(12)</enum><text display-inline="yes-display-inline">for fiscal year 2027, for the discretionary category, $1,638,179,000,000 in new budget authority;</text></paragraph> 
+<paragraph id="HAED4B6F3521A4991993F8D96EF8E03D9"><enum>(13)</enum><text display-inline="yes-display-inline">for fiscal year 2028, for the discretionary category, $1,654,560,000,000 in new budget authority; and</text></paragraph> <paragraph id="H05E17A885A694B588481FBF4ACDE814E"><enum>(14)</enum><text display-inline="yes-display-inline">for fiscal year 2029, for the discretionary category, $1,671,106,000,000 in new budget authority;</text></paragraph> <after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body></bill>
+

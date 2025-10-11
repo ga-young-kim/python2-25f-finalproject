@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H256CF272AC0C46C292D38AC408081A90" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2807 IH: Train Noise and Vibrations Reduction Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2807</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230424">April 24, 2023</action-date><action-desc><sponsor name-id="N000147">Ms. Norton</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Secretary of Transportation to develop and submit a report to Congress on recommendations to reduce train noise and vibrations near homes, and for other purposes.</official-title></form><legis-body id="HF555953094244455961BBC9828990D07" style="OLC"> 
+<section id="H94FDB199C625486C945A3521BE767D01" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Train Noise and Vibrations Reduction Act of 2023</short-title></quote>.</text></section> <section id="H2541022E9C2A42358C9F2C9D395E3BCC"><enum>2.</enum><header>Recommendations to reduce train noise and vibrations near homes</header> <subsection id="HB923BD5B290341F0BEBAE635C06CD02B"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 1 year after the date of the enactment of this Act, the Secretary of Transportation shall develop and submit to Congress a report containing—</text>
+<paragraph id="HEB2DF0D793D547C588B7C3FE139142B2"><enum>(1)</enum><text>recommendations to reduce train noise and vibrations near homes; and</text></paragraph> <paragraph id="HE91A05D4E6CB4307BB223EE9B51D2431"><enum>(2)</enum><text>estimates of the costs and benefits of each such recommendation.</text></paragraph></subsection>
+<subsection id="H60A222585CC54C0D9A1B26F8D6D4C9C2"><enum>(b)</enum><header>Contents</header><text display-inline="yes-display-inline">The report required under subsection (a) shall, at a minimum, include such recommendations regarding—</text> <paragraph id="H6B344BCBCB26414BBFED98CA7B7A437E"><enum>(1)</enum><text>modifications to trains and tracks;</text></paragraph>
+<paragraph id="HD0AD4646B8674CDDBC6D81330FA58F5B"><enum>(2)</enum><text>modifications to train and track maintenance procedures;</text></paragraph> <paragraph id="H141A66F4313E44C5BA462599E43EDEC4"><enum>(3)</enum><text>speed limits for trains;</text></paragraph>
+<paragraph id="H02426C3323A34CE9B4C82EACE9FC2DB6"><enum>(4)</enum><text display-inline="yes-display-inline">mitigation measures between tracks and homes;</text></paragraph> <paragraph id="HA48612104AA14EF89E8221CAAEBBDB90"><enum>(5)</enum><text display-inline="yes-display-inline">the distance required between tracks and homes;</text></paragraph>
+<paragraph id="H8DAA83BCF6A64B089F4E57F85643C318"><enum>(6)</enum><text>limits on the number of trains;</text></paragraph> <paragraph id="H16C5392433FF461B8EC67BFB352CCE6E"><enum>(7)</enum><text>limits on the number of cars on trains;</text></paragraph>
+<paragraph id="H342AA5836EAB4E6B901BA4A6A52284C9"><enum>(8)</enum><text>limits on hours of operations;</text></paragraph> <paragraph id="HB53466D00FEE43E3B15918C191D90410"><enum>(9)</enum><text>building noise insulation; and</text></paragraph>
+<paragraph id="HC72A0FD1B1344C2F88BC86FA70F25552"><enum>(10)</enum><text>modifications to soil conditions. </text></paragraph></subsection></section> </legis-body></bill>
+

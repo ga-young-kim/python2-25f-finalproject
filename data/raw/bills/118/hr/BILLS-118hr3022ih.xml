@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H19AFC7C80CCB4138B937CE6C386AE0FA" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3022 IH: Workers’ Memorial Day</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3022</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230428">April 28, 2023</action-date><action-desc><sponsor name-id="N000188">Mr. Norcross</sponsor> (for himself, <cosponsor name-id="S001145">Ms. Schakowsky</cosponsor>, <cosponsor name-id="P000618">Ms. Porter</cosponsor>, <cosponsor name-id="T000481">Ms. Tlaib</cosponsor>, <cosponsor name-id="B001296">Mr. Boyle of Pennsylvania</cosponsor>, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="O000173">Ms. Omar</cosponsor>, <cosponsor name-id="A000370">Ms. Adams</cosponsor>, <cosponsor name-id="B001315">Ms. Budzinski</cosponsor>, <cosponsor name-id="M001220">Mr. McGarvey</cosponsor>, and <cosponsor name-id="C001130">Ms. Crockett</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 5, United States Code, to establish Workers&#8217; Memorial Day as a Federal holiday.</official-title></form><legis-body id="H43B6E68464DE445E9DCBD4CAB22C68A0" style="OLC"> 
+<section id="H1127388D860A46F49C091BED0DFD92E6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Workers’ Memorial Day</short-title></quote>.</text></section> <section id="HA2C454A2806B40B39E629E1256543D28"><enum>2.</enum><header>Workers’ Memorial Day</header><text display-inline="no-display-inline">Section 6103(a) of title 5, United States Code, is amended by inserting after the item relating to Washington’s Birthday, the following:</text> 
+<quoted-block style="OLC" id="H64432091BFC84E798275FB727848F8CE" display-inline="no-display-inline"> 
+<paragraph id="HF2564102A26F4FCF99888A42D42A28E2"><enum></enum><text display-inline="yes-display-inline">Workers’ Memorial Day.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body></bill>
+

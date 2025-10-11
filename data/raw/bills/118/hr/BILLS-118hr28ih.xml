@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H46ADDDE0C9D94A67B6DC08BBC8674246" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 28 IH: Illegal Alien NICS Alert Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 28</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230109">January 9, 2023</action-date><action-desc><sponsor name-id="S001214">Mr. Steube</sponsor> (for himself, <cosponsor name-id="R000610">Mr. Reschenthaler</cosponsor>, and <cosponsor name-id="F000471">Mr. Fitzgerald</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the national instant criminal background check system to notify U.S. Immigration and Customs Enforcement and the relevant State and local law enforcement agencies whenever the information available to the system indicates that a person illegally or unlawfully in the United States may be attempting to receive a firearm.</official-title></form><legis-body id="H5BA58DAC4FC842B2BD1F8F7301468464" style="OLC"> 
+<section id="H95E0E613EC0248AE85471A693C46073C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Illegal Alien NICS Alert Act</short-title></quote>.</text></section> <section id="H6FA318F5447C4032B60F5E1F2D42ADC6"><enum>2.</enum><header>Requirement that NICS notify ICE and State and local law enforcement agencies of attempted receipt of firearm by person illegally or unlawfully in the United States</header><text display-inline="no-display-inline">Section 103(e) of the Brady Handgun Violence Prevention Act (<external-xref legal-doc="usc" parsable-cite="usc/34/40901">34 U.S.C. 40901(e)</external-xref>) is amended by adding at the end the following:</text>
+<quoted-block display-inline="no-display-inline" id="H761E8D7E923841F993DD4EBD9A135439" style="OLC">
+<paragraph id="H712BBA06EC704BEC8A62988E409CC6F9"><enum>(3)</enum><header>Requirement to notify ICE and State and local law enforcement agencies of attempted receipt of firearm by person illegally or unlawfully in the United States</header><text display-inline="yes-display-inline">The Attorney General shall ensure that, whenever the information available to the system established under this section indicates that a prospective firearm transferee is illegally or unlawfully in the United States, the system shall transmit to the Immigration and Customs Enforcement Agency and to relevant State and local law enforcement agencies a notice that the person may have attempted to receive a firearm in violation of section 922(g)(5) of title 18, United States Code, and shall include with the notice all relevant information possessed by the system.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body></bill>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HBFB0F11A5D8C461E85187778C864865A" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5925 IH: Make Putin Pay Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 5925</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231011">October 11, 2023</action-date>
+<action-desc><sponsor name-id="M001218">Mr. McCormick</sponsor> introduced the following bill</action-desc>
+</action>
+<action display="yes">
+<action-date date="20231025">October 25, 2023</action-date>
+<action-desc>Referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To authorize the seizure of the property of certain sanctioned individuals for purposes of covering expenses relating to the Ukraine-Russia conflict, and for other purposes.</official-title>
+</form>
+<legis-body id="HBB8BE2FAE3124156BAE4A2BABB84E6C1" style="OLC"> 
+<section id="HFAA015B846E947159AF05465848FFDBA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Make Putin Pay Act</short-title></quote>.</text></section> <section id="HCA2ADA42934F4F16AC2466C54E5C5F9A" commented="no"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text> 
+<paragraph id="H7391C87A46F84D07A047C780D32691D3" commented="no"><enum>(1)</enum><text>On February 24th, 2022, Russian dictator Vladimir Putin launched an illegal, inhumane invasion of Ukraine in clear violation of international law.</text></paragraph> <paragraph id="HABC0D59659064F7BAA46B4039D5F6F56" commented="no"><enum>(2)</enum><text>If Putin’s illegal invasion were to have been successful, it would be devastating to the post-Cold War world and encourage other totalitarian nations such as China and Iran to act more aggressively.</text></paragraph> 
+<paragraph id="HF01556965BAF44BABD5F88BEAD42FB1E" commented="no"><enum>(3)</enum><text>United States support for Ukraine has been crucial in deterring Russian aggression. As of July of 2023, the Russian military has lost over 200,000 military personnel, more than 1,200 cruise missiles, over 7,000 vehicles and fuel tanks, and more than 4,000 tanks.</text></paragraph> <paragraph id="H1F19F55A95A04FE5A3FBA9A1958AD1DF" commented="no"><enum>(4)</enum><text>Since the beginning of the Russian invasion, the United States support to Ukraine has totaled over $113,000,000,000.</text></paragraph> 
+<paragraph id="HECAD7964BFFA4284B121D3DBE1990F9A"><enum>(5)</enum><text>The United States and allies have seized approximately $330,000,000,000 in funds related to Russian oligarchs or the Moscow bank. Any of these assets subject to the jurisdiction of the United States Government should be seized and used to reimburse the United States, pay for additional equipment and humanitarian assistance given to Ukraine and pay for reconstruction efforts after the conclusion of the war.</text></paragraph> <paragraph id="H63576B2ADC8B4C34821E242DDAC3D11A" commented="no"><enum>(6)</enum><text display-inline="yes-display-inline">Resolution 486 adopted by the NATO Parliamentary Assembly on Monday, October 9th, 2023, urges governments <quote>to ensure that Russia is held accountable for its crime of aggression its war crimes including crimes against humanity and reported acts of genocide committed in Ukraine, and the horrific and unjustified damages it has wrought, and that it helps fund reconstruction, in part, through seized and frozen Russian assets as much as it is possible under the law, and encourages all states to develop such a framework.</quote>.</text></paragraph> 
+<paragraph id="H0F269D9474A34F85A769082255413F19"><enum>(7)</enum><text display-inline="yes-display-inline">For the survival of Western civilization, the United States must continue to face authoritarian regimes head-on. The United States must continue to support Ukraine in a responsible and effective manner.</text></paragraph></section> <section id="HEEA895FD90F84C9483C9C0FA806A8539"><enum>3.</enum><header>Authorization for seizure of assets</header> <subsection id="H0CC9176D1A904C59B9F4373739841E78"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, the President, acting through the Secretary of the Treasury, is authorized to seize and confiscate all assets subject to the jurisdiction of the United States that are—</text> 
+<paragraph id="H21D21946A6124B21B4E8951138A3297B"><enum>(1)</enum><text>blocked pursuant to sanctions imposed with respect to foreign persons that derive wealth through political support for or corruption linked to Russian President Vladimir Putin; or</text></paragraph> <paragraph id="HE7AF071FE50D4FCC9BC3FF8A494F2D09"><enum>(2)</enum><text>sovereign assets of the Government of the Russian Federation or owned by the Central Bank of such country.</text></paragraph></subsection> 
+<subsection id="H93F432B6BAAE4BD4975153AB86AC749C"><enum>(b)</enum><header>Disposition of proceeds from sale of assets</header><text>The proceeds from the sale of any asset seized or confiscated pursuant to the authority provided by subsection (a) before the date described in subsection (c)(1)—</text> <paragraph id="H5D70D9E007754805B1CCDC376D2BBCB5"><enum>(1)</enum><text>shall first be made available, without subsequent appropriation, to reimburse the United States for expenses incurred during the period beginning on February 24, 2022, in connection with the Ukraine-Russia conflict; and</text></paragraph> 
+<paragraph id="H8B8D8FFEF6CE48EEB965EE4C0BF5F7E2"><enum>(2)</enum><text>to the extent such proceeds exceed the total expenses described in paragraph (1), are authorized to be made available, only for expenses incurred on or after such date of enactment in connection with such conflict.</text></paragraph></subsection> <subsection id="HEBE1FD0A71AA4B65825B0228BFBC0D78"><enum>(c)</enum><header>Report</header><text>Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter, the Secretary of the Treasury shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report that specifies the amount remaining of the proceeds described in subsection (b) as of the date of the submission of the report and itemizes each expenditure of such proceeds as of such date of submission.</text></subsection> 
+<subsection id="H8933216BEC334FF39A8B283411A289B5"><enum>(d)</enum><header>Rule of construction</header><text>Nothing in this Act may be construed to authorize the imposition of sanctions or to alter or affect any existing authority to impose sanctions that is in effect on the date of the enactment of this Act.</text> </subsection></section> </legis-body> </bill> 
+

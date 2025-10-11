@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE07703B53A4E446DACCFBCC8DA199F79" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 678 IH: Restoring Military Focus Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 678</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230131">January 31, 2023</action-date><action-desc><sponsor name-id="R000614">Mr. Roy</sponsor> (for himself, <cosponsor name-id="N000190">Mr. Norman</cosponsor>, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, <cosponsor name-id="C001120">Mr. Crenshaw</cosponsor>, <cosponsor name-id="R000103">Mr. Rosendale</cosponsor>, <cosponsor name-id="O000175">Mr. Ogles</cosponsor>, <cosponsor name-id="M001211">Mrs. Miller of Illinois</cosponsor>, <cosponsor name-id="B001317">Mr. Brecheen</cosponsor>, <cosponsor name-id="M001216">Mr. Mills</cosponsor>, <cosponsor name-id="B001311">Mr. Bishop of North Carolina</cosponsor>, and <cosponsor name-id="M001177">Mr. McClintock</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To eliminate the position of the Chief Diversity Officer of the Department of Defense, and for other purposes.</official-title></form><legis-body id="H866F7F4AA85C470B96CEA2AE3FD9B32A" style="OLC"> 
+<section id="H5D49A10DCBDE419D8C005BFD1C1A01C6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Restoring Military Focus Act</short-title></quote>.</text></section> <section id="H63454C3002E247A0980CD201B2C96466"><enum>2.</enum><header>Elimination of the Chief Diversity Officer of the Department of Defense</header> <subsection id="HD5691DD317594C238E2DB87296463020"><enum>(a)</enum><header>Repeal of position</header><text>Section 147 of title 10, United States Code, is repealed.</text></subsection> 
+<subsection id="HF5C1DD7BC7884DCBAA79C732A1949BEE"><enum>(b)</enum><header>Conforming repeal</header><text display-inline="yes-display-inline">Section 913 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (<external-xref legal-doc="public-law" parsable-cite="pl/116/283">Public Law 116–283</external-xref>) is repealed.</text></subsection></section> <section id="H9026B36DACFD4638AD04DE226CB9FA77"><enum>3.</enum><header>Prohibition on establishment of similar positions</header><text display-inline="no-display-inline">No Federal funds may be obligated or expended to establish a position within the Department of Defense that is the same as or substantially similar to—</text> 
+<paragraph id="H5CE226E8D67048BE831CEBE3BD1A2219"><enum>(1)</enum><text>the position of Chief Diversity Officer, as described in section 147 of title 10, United States Code, as such section was in effect before the date of the enactment of this Act; or</text></paragraph> <paragraph id="HDE908B1558884B40BC22AC52E7E317C3"><enum>(2)</enum><text display-inline="yes-display-inline">the position of Senior Advisor for Diversity and Inclusion, as described in section 913(b) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (<external-xref legal-doc="public-law" parsable-cite="pl/116/283">Public Law 116–283</external-xref>), as such section was in effect before the date of the enactment of this Act.</text></paragraph></section> 
+</legis-body></bill>
+
+

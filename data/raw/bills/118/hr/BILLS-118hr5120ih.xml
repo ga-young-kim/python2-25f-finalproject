@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9D81397904794022AD2C787419C36BA4" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5120 IH: Prohibit Pentagon Profiteering Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-08-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5120</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230801">August 1, 2023</action-date><action-desc><sponsor name-id="P000618">Ms. Porter</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To strengthen the prohibition on the ownership or trading of stocks in certain companies by certain officials of the Department of Defense.</official-title></form><legis-body id="H2D413F61D1E3412FBAAD822D1E70A652" style="OLC"><section id="H1FEBD0977A5A421D9F7DCBBFE92F435B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Prohibit Pentagon Profiteering Act</short-title></quote>.</text></section><section id="H23DCC470A0EB4C60BA815EE6E39707C4"><enum>2.</enum><header>Modification of prohibition on ownership or trading of stocks in certain companies by certain officials of the Department of Defense</header><text display-inline="no-display-inline">Section 988(a) of title 10, United States Code, is amended by striking <quote>if that company is one of the 10 entities awarded the most amount of contract funds by the Department of Defense in a fiscal year during the five preceding fiscal years</quote> and inserting <quote>if, during the preceding calendar year, the company received more than $1,000,000,000 in revenue from the Department of Defense, including through one or more contracts with the Department</quote>.</text></section></legis-body></bill> 
+

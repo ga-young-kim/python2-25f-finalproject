@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE16C4E1176A2470898E3A7AC9B708807" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 201 IH: Voluntary School Prayer Protection Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 201</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230109">January 9, 2023</action-date>
+<action-desc><sponsor name-id="R000603">Mr. Rouzer</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prohibit the provision of Federal funds to any State or local educational agency that denies or prevents participation in constitutionally protected prayer in schools, and for other purposes.</official-title>
+</form>
+<legis-body id="HF9818B5302B84EFBAB30634371EA3872" style="OLC">
+<section id="HB95BEB7F49324AD19B034F382D0C2D84" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Voluntary School Prayer Protection Act of 2023</short-title></quote>.</text></section> <section id="H44C04D3C71AF4DE9AC9D85B889B87361"><enum>2.</enum><header>Funding contingent on respect for constitutionally protected school prayer</header> <subsection id="H35ECA13023BE4518B8AC47A461C8A2C0"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, no funds made available through the Department of Education shall be provided to any State or local educational agency that has a policy of denying, or that effectively prevents participation in, constitutionally protected prayer in public schools by individuals on a voluntary basis.</text></subsection>
+<subsection id="H8D5B788EB30349419367285814FF9EB0"><enum>(b)</enum><header>Limitation</header><text display-inline="yes-display-inline">No person shall be required to participate in prayer or influence the form or content of any constitutionally protected prayer in public schools.</text></subsection></section> </legis-body> </bill> 
+

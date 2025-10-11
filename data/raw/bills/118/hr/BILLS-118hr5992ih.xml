@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HD1298D1DB47B44808D99D9FC895466FC" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5992 IH: Protecting Farmers from Drought Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5992</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231019">October 19, 2023</action-date><action-desc><sponsor name-id="H001090">Mr. Harder of California</sponsor> (for himself and <cosponsor name-id="M000871">Mr. Mann</cosponsor>) introduced the following bill</action-desc></action><action display="yes"><action-date date="20231025">October 25, 2023</action-date><action-desc>Referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Federal Crop Insurance Act to modify eligibility for prevented planting insurance under certain drought conditions, and for other purposes.</official-title></form><legis-body id="HDF7E2FF2648041579F4EE9B13E55E222" style="OLC"> 
+<section id="H2D42E3396EB54745B8F68DBBD008A33F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Farmers from Drought Act of 2023</short-title></quote>.</text></section> <section commented="no" display-inline="no-display-inline" id="H5EDE60F519E442D39C24DC6237B570B1"><enum>2.</enum><header>Eligibility for prevented planting insurance under certain drought conditions</header><text display-inline="no-display-inline">Section 508A(c) of the Federal Crop Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/7/1508a">7 U.S.C. 1508a(c)</external-xref>) is amended by adding at the end the following:</text>
+<quoted-block style="OLC" display-inline="no-display-inline" id="HB1CDB81AE099400F9EEA3616B22D9FD2">
+<paragraph commented="no" display-inline="no-display-inline" id="H00E641D527834DB092AF48043F49D8A7"><enum>(6)</enum><header>1-in-5 rule for certain drought conditions</header>
+<subparagraph commented="no" display-inline="no-display-inline" id="H97C935A054B04F998EB65B472493E50B"><enum>(A)</enum><header display-inline="yes-display-inline">Definitions</header><text>In this paragraph:</text> <clause commented="no" display-inline="no-display-inline" id="HFD88F39C2AA445B4B3738A28CEE9EE2A"><enum>(i)</enum><header>Covered county</header><text display-inline="yes-display-inline">The term <term>covered county</term> means a county that experienced, in each of 3 consecutive years, extreme drought (D3 or worse intensity), as measured by, and indicated in a report of, the United States Drought Monitor, in any area of the county at any time during the normal planting period.</text></clause>
+<clause commented="no" display-inline="no-display-inline" id="HF143D493F1FD497481540AE3A511A78E"><enum>(ii)</enum><header>Covered rule</header><text>The term <term>covered rule</term> means the eligibility requirement for prevented planting insurance, described in section 17(f)(8) of the most recent version of the Common Crop Insurance Policy Basic Provisions, under which planting of a crop must have occurred once in the 4 most recent crop years preceding the current crop year (commonly referred to as the <quote>1 in 4 rule</quote>).</text></clause></subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="H6D1DDF04277542E794731620B7BDAB01"><enum>(B)</enum><header>1-in-5 rule</header><text>The covered rule shall be modified for a covered county to require the planting of a crop once in the 5 most recent crop years preceding the current crop year.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body></bill>
+

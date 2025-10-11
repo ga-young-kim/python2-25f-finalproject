@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6384E3A826F3413FA72710DDBD34E81E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1384 IH: Middle Class Mortgage Insurance Premium Act of 2021</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1384</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230307">March 7, 2023</action-date><action-desc><sponsor name-id="B001260">Mr. Buchanan</sponsor> (for himself and <cosponsor name-id="P000613">Mr. Panetta</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to increase the income cap for and make permanent the mortgage insurance premium deduction.</official-title></form><legis-body id="HD4BD1D80610D4917A6023538003D62B9" style="OLC"><section id="HB4BB20C1A9EB4C608DFB54C52C4189DD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Middle Class Mortgage Insurance Premium Act of 2021</short-title></quote>. </text></section><section id="H0DE2B9278C8A4123886A4043CCB342F5"><enum>2.</enum><header>Increasing the income cap for and making permanent the mortgage insurance premium deduction</header><subsection id="H1141B727F4B04E9794C7312DBDDF6C68"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">(1) <external-xref legal-doc="usc" parsable-cite="usc/26/163">Section 163(h)(3)(E)</external-xref> of the Internal Revenue Code of 1986 is amended—</text><paragraph id="H37FE8731E1154E7ABCAFDAC3E4962EC9"><enum>(1)</enum><text>in clause (ii), by striking <quote>$100,000 ($50,000)</quote> and inserting <quote>$200,000 ($100,000)</quote>, and</text></paragraph><paragraph id="HD8567469954E4EA8B686B2BC04081638"><enum>(2)</enum><text>by striking clause (iv). </text></paragraph></subsection><subsection id="H8366084410BB4873A3101723E9AB0880"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this Act shall apply to taxable years beginning after December 31, 2021.</text></subsection></section></legis-body></bill> 
+

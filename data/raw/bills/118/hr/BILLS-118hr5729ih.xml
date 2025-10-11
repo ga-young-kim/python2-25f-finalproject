@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA663FA5C0D8C49BF831E8F93D1AEB48A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5729 IH: To prohibit the use of Federal funds to establish a Homeland Intelligence Experts Group, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5729</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230926">September 26, 2023</action-date><action-desc><sponsor name-id="P000048">Mr. Pfluger</sponsor> (for himself, <cosponsor name-id="G000590">Mr. Green of Tennessee</cosponsor>, <cosponsor name-id="M001157">Mr. McCaul</cosponsor>, <cosponsor name-id="H001077">Mr. Higgins of Louisiana</cosponsor>, and <cosponsor name-id="E000235">Mr. Ezell</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the use of Federal funds to establish a Homeland Intelligence Experts Group, and for other purposes.</official-title></form><legis-body id="H8DF1C45AD3794A098894115E326D73F9" style="OLC"> 
+<section id="HDB031E43981C44D6BFA8C2A9AA7ABDDA" section-type="section-one"><enum>1.</enum><header>Prohibition on establishment of a Homeland Intelligence Experts Group</header> 
+<subsection id="HC6E0B0DF131C4B8EAB08441A74EE676E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">No Federal funds authorized to be appropriated or otherwise made available to the Secretary of Homeland Security may be made available for—</text> <paragraph id="H7B018B6194EE4A4A9A897DFA5410E593"><enum>(1)</enum><text>the establishment of a Homeland Intelligence Experts Group;</text></paragraph> 
+<paragraph id="H6E4F8F034C8F47D198A4423B928EBAF2"><enum>(2)</enum><text>the establishment of any group, program, initiative, or other similar effort that is equivalent to a Homeland Intelligence Experts Group; or</text></paragraph> <paragraph id="H0BA18C1DFD80432CBE2CB76B62A289C4"><enum>(3)</enum><text>the authorization of any activities at the Department of Homeland Security that are equivalent to the activities of the Homeland Intelligence Experts Group.</text></paragraph></subsection> 
+<subsection id="H823F27A0E0F34C62893E736F39BF751E"><enum>(b)</enum><header>Funding restriction</header><text>Beginning on the date of the enactment of this Act, the Secretary of Homeland Security may not direct Federal funds to be used for—</text> <paragraph id="HCFD5C2C98AA648918B6745CE6F436125"><enum>(1)</enum><text>the establishment of a Homeland Intelligence Experts Group;</text></paragraph> 
+<paragraph id="HA51C445EACCF40FA8FE89EFA32236330"><enum>(2)</enum><text>the establishment of any group, program, initiative, or other similar effort that is equivalent to a Homeland Intelligence Experts Group; or</text></paragraph> <paragraph id="H835288AD5C8441829AF23C310C8097E6"><enum>(3)</enum><text>the authorization of any activities at the Department of Homeland Security that are equivalent to the activities of the Homeland Intelligence Experts Group.</text></paragraph></subsection></section> 
+</legis-body></bill>
+

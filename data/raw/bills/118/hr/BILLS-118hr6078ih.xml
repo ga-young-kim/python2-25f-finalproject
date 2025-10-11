@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H97051C4AF918458C8CA6F2E9372F6FB6" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6078 IH: Grants for Resources in Occupational and Workforce Training for Healthcare Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 6078</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231026">October 26, 2023</action-date>
+<action-desc><sponsor name-id="C001133">Mr. Ciscomani</sponsor> (for himself, <cosponsor name-id="C001127">Mrs. Cherfilus-McCormick</cosponsor>, <cosponsor name-id="J000307">Mr. James</cosponsor>, <cosponsor name-id="T000483">Mr. Trone</cosponsor>, <cosponsor name-id="K000399">Mrs. Kiggans of Virginia</cosponsor>, and <cosponsor name-id="G000600">Ms. Perez</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Public Health Service Acts to make community colleges eligible to participate in the Nurse Education, Practice, Quality, and Retention–Pathway to Registered Nurse Program, and for other purposes.</official-title>
+</form>
+<legis-body id="HBD15A4C6220B4554AF337ADB9E132F04" style="OLC">
+<section id="HC7F88FCA8D7C40F4A5E8D1FFE2A7BC74" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Grants for Resources in Occupational and Workforce Training for Healthcare Act of 2023</short-title></quote> or the <quote><short-title>GROWTH Act of 2023</short-title></quote>.</text></section> <section id="H94EA2B7E377C4F71AF9FF649CA9F671C"><enum>2.</enum><header>Participation of community colleges in the Nurse Education, Practice, Quality, and Retention–Pathway to Registered Nurse Program</header> <subsection id="H3C1AFC17CB7748929060FE183F1E4C2B"><enum>(a)</enum><header>Eligibility To participate</header><text display-inline="yes-display-inline">Section 831(f) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/296p">42 U.S.C. 296p(f)</external-xref>) is amended to read as follows:</text>
+<quoted-block style="OLC" id="H5449F2073A114E459EA62C296A22DBBA" display-inline="no-display-inline">
+<subsection id="HF74C7D4AFC294175A22615FE1372CE78"><enum>(f)</enum><header>Definitions</header><text display-inline="yes-display-inline">For purposes of this section:</text> <paragraph id="HA2E4FFAFBA6A42E3B690810AD9D5E048"><enum>(1)</enum><text>The term <term>eligible entity</term> includes—</text>
+<subparagraph id="H8F24308BD30041598FB90CC074930E0F"><enum>(A)</enum><text>a school of nursing;</text></subparagraph> <subparagraph id="HCD51D340BEB1468BAFF4C2115CFC5EA0"><enum>(B)</enum><text display-inline="yes-display-inline">a junior or community college;</text></subparagraph>
+<subparagraph id="H230F0EDC320746F2A7AA7FB5A0A29529"><enum>(C)</enum><text>a health care facility, such as a Federally qualified health center or nurse-managed health clinic; and</text></subparagraph> <subparagraph id="H87EEF12E51884C12A1B4F03117F375A8"><enum>(D)</enum><text>a partnership of such a school or college and such a facility.</text></subparagraph></paragraph>
+<paragraph id="HD8286C993023407D880E3708E4D96911"><enum>(2)</enum><text display-inline="yes-display-inline">The term <term>junior or community college</term> means—</text> <subparagraph id="H023477ACD19B4EC6A48B670C14BEEDBE"><enum>(A)</enum><text>a public institution of higher education, including additional locations, at which the highest awarded degree, or the predominantly awarded degree, is an associate degree; or</text></subparagraph>
+<subparagraph id="HE908D41AD57348CF8B0E8DF0DAAA3DD9"><enum>(B)</enum><text>any Tribal College or University (as defined in section 316 of the Higher Education Act of 1965).</text></subparagraph></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H8BA60368FE3443DEB4F4F9E7C80DA997"><enum>(b)</enum><header>Allocation of funds</header><text display-inline="yes-display-inline">Section 831 of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/296p">42 U.S.C. 296p</external-xref>), as amended, is further amended by adding at the end the following:</text>
+<quoted-block style="OLC" id="H4A8AB43634294488BC4A36284D8AF11C" display-inline="no-display-inline">
+<subsection id="H49B9CA6857554F788D6D39E4A2D6868E"><enum>(g)</enum><header>Allocation of funds</header><text display-inline="yes-display-inline">Of the total amount awarded to eligible entities under this section for a fiscal year, the Secretary shall, with respect to a portion of such total amount to be determined by the Secretary, not to exceed 50 percent of such total amount, give priority to eligible entities that are—</text> <paragraph id="HDFEFCCC18E3243098BE072D9A2D158CD"><enum>(1)</enum><text display-inline="yes-display-inline">a junior or community college with an existing nursing program; or</text></paragraph>
+<paragraph id="HBD9238E1262249FAB230B7D8C572F36D"><enum>(2)</enum><text>a partnership referred to in subsection (f)(1)(D).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body> </bill> 
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8B00217F80224CA99D96AAAA49B5E3D1" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4558 IH: Limiting Incredulous Zealots Against Restricting Drilling Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4558</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230711">July 11, 2023</action-date><action-desc><sponsor name-id="P000048">Mr. Pfluger</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Secretary of the Interior to withdraw a proposed rule relating to the endangered species status of the dunes sagebrush lizard.</official-title></form><legis-body id="H2F39279F0872408197C784E154A70DFE" style="OLC"><section id="HFAAC08CF33524BF58F24C8E70E4C481B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Limiting Incredulous Zealots Against Restricting Drilling Act</short-title></quote> or the <quote><short-title>LIZARD Act</short-title></quote>. </text></section><section id="HEB94DC07BA8A4CD18BC2F094E0B7789F"><enum>2.</enum><header>Withdrawal of proposed rule relating to endangered species status of dunes sagebrush lizard</header><text display-inline="no-display-inline">The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service—</text><paragraph id="H8C27CEE251E74A68868E435EAAAD5808"><enum>(1)</enum><text>shall, upon the date of the enactment of this Act, withdraw the proposed rule entitled <quote>Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Dunes Sagebrush Lizard</quote> (88 Fed. Reg. 42661 (July 3, 2023)); and</text></paragraph><paragraph id="H7EAFAF47041245CF85F1B29C787ED06C"><enum>(2)</enum><text display-inline="yes-display-inline">may not take any action to finalize, implement, or enforce the proposed rule described in paragraph (1) or any substantially similar rule.</text></paragraph></section></legis-body></bill> 
+

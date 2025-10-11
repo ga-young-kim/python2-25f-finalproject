@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H902144B7E74C4A3C991651D2DA50D74E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5197 IH: To amend title 38, United States Code, to require the Secretary of Veterans Affairs to furnish memorial headstones and markers for eligible spouses and dependent children of veterans whose remains are unavailable, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-08-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5197</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230811">August 11, 2023</action-date><action-desc><sponsor name-id="P000599">Mr. Posey</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to require the Secretary of Veterans Affairs to furnish memorial headstones and markers for eligible spouses and dependent children of veterans whose remains are unavailable, and for other purposes.</official-title></form><legis-body id="H23B5C491EF40499087D766078F1A1FEA" style="OLC"> 
+<section id="H7E9DE49DC7C64D808E4EAC36E94F9E84" section-type="section-one"><enum>1.</enum><header>Eligibility for Department of Veterans Affairs memorial headstones and markers of veterans’ spouses and dependent children whose remains are unavailable</header><text display-inline="no-display-inline">Section 2306(b)(2) of title 38, United States Code, is amended—</text> <paragraph id="H052D55972E0249169AA77C54DE4CC1CB"><enum>(1)</enum><text>in subparagraph (B), by striking <quote>An individual who dies on or after November 11, 1998, who is the</quote> and inserting <quote>The</quote>;</text></paragraph> 
+<paragraph id="H430FDBD562AF4BC2B77BA7E0C924AC5A"><enum>(2)</enum><text>in subparagraph (C), by striking <quote>An individual who dies on or after November 11, 1998, who is an</quote> and inserting <quote>An</quote>; and</text></paragraph> <paragraph id="H76A67D16F20B4EA3BD62DE7EB5D541CD"><enum>(3)</enum><text>by adding at the end the following new paragraph:</text>
+<quoted-block style="USC" id="HCC84432BDE5F472D9B043A8709D1C119" display-inline="no-display-inline">
+<paragraph id="H6A27D1A72E85416980F3203CB2A8CC26"><enum>(6)</enum><text display-inline="yes-display-inline">In the case of an eligible individual described in paragraph (2)(B) or (C), the Secretary may furnish a marker under paragraph (1) by—</text> <subparagraph id="HE3DDF1CFEB2B46C2A2174F29FEC7EDA8"><enum>(A)</enum><text>affixing the individual’s name, dates of birth and death, and relationship to the veteran to an existing marker for the veteran; or</text></subparagraph>
+<subparagraph id="H40D1C8D4BB4E44758BAEC706BBF7EBC0"><enum>(B)</enum><text>if necessary, by furnishing a suitable replacement marker for the veteran that includes such individual’s name, dates of birth and death, and relationship to the veteran.</text></subparagraph></paragraph> <paragraph id="HFA94927D3F194DFE85C93351D81A85F8"><enum>(7)</enum><text display-inline="yes-display-inline">For the purpose of expediting the provision of a marker under paragraph (1) for an eligible individual described in paragraph (2)(B) or (C), the Secretary may accept, but may not require, funds contributed by a survivor of the veteran or eligible person.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body></bill>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE9D56EB17DE7408CBC30138035BBDBC6" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3891 IH: Mortgage Insurance Tax Deduction Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3891</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230607">June 7, 2023</action-date><action-desc><sponsor name-id="B001285">Ms. Brownley</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to make permanent the deduction for mortgage insurance premiums.</official-title></form><legis-body id="H1D8D15870B394C3DA4D22529E73132BA" style="OLC"> 
+<section id="H99A18F40422940F4B2A2798481C854C2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Mortgage Insurance Tax Deduction Act of 2023</short-title></quote>. </text></section> <section id="H78DD50BFE8944E2DB65F724B44553202"><enum>2.</enum><header>Deduction for mortgage insurance premiums made permanent</header> <subsection id="H5D4111A2680D4017AF0EED9C9414DAB5"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/163">Section 163(h)(3)(E)</external-xref> of the Internal Revenue Code of 1986 is amended by striking clause (iv).</text></subsection> 
+<subsection id="HA285621B00B544F8AF3E76D69A5E59A8"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to amounts paid or accrued after December 31, 2022.</text></subsection></section> </legis-body></bill>
+

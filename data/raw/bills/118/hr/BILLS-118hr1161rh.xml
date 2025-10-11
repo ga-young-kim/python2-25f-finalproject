@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Reported-in-House" dms-id="HDE7952E6D24A4BA290D8322C05A5A6CF" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1161 RH: Aligning SEC Regulations for the World Bank’s International Development Association Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-12-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">IB</distribution-code>
+<calendar display="yes">Union Calendar No. 233</calendar>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 1161</legis-num>
+<associated-doc role="report" display="yes">[Report No. 118–289]</associated-doc>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230224">February 24, 2023</action-date>
+<action-desc><sponsor name-id="W000187">Ms. Waters</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action>
+<action display="yes">
+<action-date date="20231201">December 1, 2023</action-date>
+<action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc>
+<action-instruction>Strike out all after the enacting clause and insert the part printed in italic</action-instruction>
+<action-instruction>For text of introduced bill, see copy of bill as introduced on February 24, 2023</action-instruction>
+</action>
+<action>
+<action-desc><pagebreak/></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To accord securities issued by the International Development Association the same exemption from the securities laws that applies to the securities of other multilateral development banks in which the United States is a member.<pagebreak/></official-title>
+</form>
+<legis-body display-enacting-clause="yes-display-enacting-clause" changed="added" style="OLC" committee-id="HBA00" reported-display-style="italic" id="HF1DC36A3277C42CA818D0BED62140D34"> 
+<section id="HBCE04A18235D44D3B3F2DC467CC2C351" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Aligning SEC Regulations for the World Bank’s International Development Association Act</short-title></quote>.</text></section> <section id="H3997EB64BDDC409A938A7A45344763EA"><enum>2.</enum><header>Exemption of securities of the International Development Association from the securities laws</header> <subsection id="H02BC58F3DED247478A9502732CC49EB9"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The International Development Association Act (<external-xref legal-doc="usc" parsable-cite="usc/22/284-284cc">22 U.S.C. 284–284cc</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" id="HAC0B9EC5B116496894CE3FDA0344E0BF" display-inline="no-display-inline"> 
+<section id="H4E1392C3932D4B30BBE3C417A49C5B61"><enum>32.</enum><header>Exemption of securities of the International Development Association from the securities laws</header> 
+<subsection id="H330B5F676150460E9A53115972C848B8"><enum>(a)</enum><header>Exemption from securities laws; reports to Securities and Exchange Commission</header><text display-inline="yes-display-inline">Any securities issued by the Association (including any guaranty by the Association, whether or not limited in scope) and any securities guaranteed by the Association as to both principal and interest shall be deemed to be exempted securities within the meaning of section 3(a)(2) of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77c">15 U.S.C. 77c(a)(2)</external-xref>) and section 3(a)(12) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">15 U.S.C. 78c(a)(12)</external-xref>). The Association shall file with the Securities and Exchange Commission such annual and other reports with regard to such securities as the Commission shall determine to be appropriate in view of the special character of the Association and its operations and necessary in the public interest or for the protection of investors.</text></subsection> <subsection id="H65522B0AADCF4A1788A155F43C951F0D"><enum>(b)</enum><header>Authority of Securities and Exchange Commission to suspend exemption; reports to Congress</header><text>The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of subsection (a) of this section at any time as to any or all securities issued or guaranteed by the Association during the period of such suspension. The Commission shall include in its annual reports to the Congress such information as it shall deem advisable with regard to the operations and effect of this section.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="H20BB7F9439394B978EEE30DE03E13385"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall take effect 30 days after the date of the enactment of this Act.</text></subsection></section> </legis-body> <endorsement display="yes"> <action-date date="20231201">December 1, 2023</action-date> <action-desc>Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action-desc></endorsement> </bill> 
+

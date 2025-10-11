@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2D4F98E5893F44E9A66F06E4AAD52448" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5731 IH: To direct the Secretary of Defense to report on illicit drug use and overdoses by members of the Armed Forces serving on active duty.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5731</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230926">September 26, 2023</action-date><action-desc><sponsor name-id="R000579">Mr. Ryan</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Secretary of Defense to report on illicit drug use and overdoses by members of the Armed Forces serving on active duty.</official-title></form><legis-body id="HF8E3D9ECD8D84242ADCC6FFB7416E7BA" style="OLC"> 
+<section id="HA5BF910CBE194E61895EC0FC5791AEFE" section-type="section-one"><enum>1.</enum><header>Report on illicit drug use and overdoses by members of the Armed Forces serving on active duty</header><text display-inline="no-display-inline">Not later than December 1, 2023, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report regarding illicit drug use by members of the Armed Forces serving on active duty, and monitoring and prevention systems within the Department of Defense regarding such use. The report shall include the following elements:</text> <paragraph id="H30BC1008F3D84B96B62F6392921CBA85"><enum>(1)</enum><text>The number of instances of such drug use and overdoses among such members during the calendar year preceding the date of the report.</text></paragraph>
+<paragraph id="H160FD70C386340FDB68506FACD2A4C09"><enum>(2)</enum><text display-inline="yes-display-inline">The number of instances described in paragraph (1) that were related to fentanyl.</text></paragraph> <paragraph id="HCB6DA770CA354558AFF271B5F903A996"><enum>(3)</enum><text>An explanation of how the Secretary uses urinalysis and other tests to monitor such use, and an assessment of the efficacy of such tests.</text></paragraph>
+<paragraph id="H95FF4D313B47478D9BC5888B0B4E6BD0"><enum>(4)</enum><text>The extent to which fentanyl has contributed to such overdoses when combined with other, less deadly substances.</text></paragraph> <paragraph id="HA7B74A685E4744F7BC3E5A917F383E2F"><enum>(5)</enum><text>The policies of the Department designed to prevent retaliation against such members who seek treatment or inform a commanding officer of their illicit drug use.</text></paragraph>
+<paragraph id="H63BD045D42614156AFC285C4BDAFDE9E"><enum>(6)</enum><text>Demographic data and ranks of such members who suffered a fentanyl overdose.</text></paragraph> <paragraph id="HF1220CA747914F46B256EA000355A355"><enum>(7)</enum><text>Shortcomings (including strategic or budgetary) identified by the Secretary of the counternarcotics programs of the Department regarding military installations.</text></paragraph>
+<paragraph id="HF5DF1B3ABF9F4A9EAC09C32DF2D8FC67"><enum>(8)</enum><text>A thorough review of the support and treatment options offered to such a member who reports addiction or illicit drug use, including—</text> <subparagraph id="H92C3C0B193D54354875DB0957F568F19"><enum>(A)</enum><text>any wait time before receiving care; and</text></subparagraph>
+<subparagraph id="H204921C1882E41E59B56E4DF29FEADA7"><enum>(B)</enum><text>the type of care offered across each Armed Force.</text></subparagraph></paragraph> <paragraph id="H48C31E1EBB2743D3A8A147294A176286"><enum>(9)</enum><text>Any other matter the Secretary determines appropriate.</text></paragraph></section> 
+</legis-body></bill>
+

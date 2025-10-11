@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="HA7F9538E687945B8AF8B89A30639E86A" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3395 EH: U.S. Supply Chain Security Review Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IB</distribution-code> 
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session> 
+<legis-num display="yes">H. R. 3395</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To direct the Chairman of the Federal Maritime Commission to seek to enter into an agreement with a federally funded research and development center to evaluate foreign ownership of marine terminals at the 15 largest United States container ports, and for other purposes.</official-title> 
+</form> 
+<legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC" id="H4292B4842C6B44A295C8DB6AC7383421"> 
+<section id="H1ED8AA4E74B24F5BB4C6E0B3E8A51E4A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>U.S. Supply Chain Security Review Act of 2023</short-title></quote>. </text></section> <section id="HAEC001AF551A4152B00BED8D6066DD9E"><enum>2.</enum><header>Study on foreign ports</header> <subsection id="H7DC9D511B0EE447AA721AA3A2386482C"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 90 days after the date of enactment of this Act, the Chairman of the Federal Maritime Commission shall seek to enter into an agreement with a federally funded research and development center to evaluate how foreign ownership of marine terminals at the 15 largest United States container ports affects or could affect United States economic security.</text></subsection> 
+<subsection id="H7BF6C9E66B384D60B8AC19813DC9EB5B"><enum>(b)</enum><header>Contents</header><text>In carrying out the study under subsection (a), the center selected under such subsection shall—</text> <paragraph id="H81BA9DFD81884515BFB46CFF8D504C19"><enum>(1)</enum><text>consider—</text> 
+<subparagraph id="H2A2D437C9DB746A8BD7FAA145A1C5E90"><enum>(A)</enum><text display-inline="yes-display-inline">changes in ownership of the 15 largest United States container ports over the past 10 years as well as announced ownership changes from 2023 and 2024;</text></subparagraph> <subparagraph id="HBC350CB673154EE795BA18D0A9F0FBF1"><enum>(B)</enum><text>instances of ownership in individual marine terminals and cumulative ownership by Chinese or Russian entities or nationals;</text></subparagraph> 
+<subparagraph id="H3F572ABA9E45463F954F68E96F4924B0"><enum>(C)</enum><text>instances of ownership in individual marine terminals and cumulative ownership by any foreign entity;</text></subparagraph> <subparagraph id="H39D91CD9344B49AA85ED6AADE94082E8"><enum>(D)</enum><text>the amount of—</text> 
+<clause id="H558B9F247840404CB4FEAB5AA5C6AC23"><enum>(i)</enum><text>Port Infrastructure Development Grant funds since fiscal year 2018 that have gone to ports and marine terminals that are owned wholly or partially foreign owned; and </text></clause> <clause id="H2BAEB58FC80843808DC5A2EE7B1F5F2D"><enum>(ii)</enum><text>Port Security Grant funds since fiscal year 2003 that have gone to ports and marine terminals that are owned wholly or partially foreign owned; and </text></clause></subparagraph> 
+<subparagraph id="H30BB4C47235349DABA63C983863AF9E5"><enum>(E)</enum><text>where ownership exists, a detailed description of foreign operational control including both affirmative and negative control; and </text></subparagraph></paragraph> <paragraph id="H1C85D68FC5FC4FD1B18CCBDAD945EF5B"><enum>(2)</enum><text>offer recommendations on—</text> 
+<subparagraph id="H9DC015DCCBCF4F8E8B2873EDEAD7C148"><enum>(A)</enum><text>policies by ports and marine terminal operators to prevent excessive foreign ownership that could threaten United States economic security;</text></subparagraph> <subparagraph id="H9CF29539D80C4D85B79F1CC66D90AAEA"><enum>(B)</enum><text>whether ownership affords the foreign owner access to operational technology and information unique to the United States and otherwise unavailable; and</text></subparagraph> 
+<subparagraph id="H1B26072E757645B8BA917988A604F6AE"><enum>(C)</enum><text>whether foreign ownership has or could affect the supply chain and policies related to the prioritization of certain cargoes.</text></subparagraph></paragraph></subsection> <subsection id="HBC9C7AEA1B0043B9B690DE7BD67931C3"><enum>(c)</enum><header>Report</header><text display-inline="yes-display-inline">Not later than 1 year after the initiation of the evaluation under subsection (a), the Chairman of the Federal Maritime Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives the results of such evaluation. </text></subsection></section> 
+</legis-body><attestation><attestation-group><attestation-date date="20230726" chamber="House">Passed the House of Representatives July 26, 2023.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> 
+<endorsement display="yes"></endorsement> 
+</bill> 
+
+

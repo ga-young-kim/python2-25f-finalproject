@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3C7229AD7C244B8C99E4ED571B61AF24" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3260 IH: Northern Mariana Islands Medicaid Equivalence Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3260</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230511">May 11, 2023</action-date><action-desc><sponsor name-id="S001177">Mr. Sablan</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XI of the Social Security Act to increase the payment limit under Medicaid for the Northern Mariana Islands.</official-title></form><legis-body id="H24A463CA73F741E2A39A27AF5E02D057" style="OLC"><section id="HEBE23DBB012F4F4584B6981256AD9F4F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Northern Mariana Islands Medicaid Equivalence Act</short-title></quote>.</text></section><section id="H36EF5F4C6BF94FA283D6FB6D8D191916"><enum>2.</enum><header>Increasing payment limit under Medicaid for the Northern Mariana Islands</header><text display-inline="no-display-inline">Section 1108(g)(2)(D) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1308">42 U.S.C. 1308(g)(2)(D)</external-xref>) is amended—</text><paragraph id="HBDCBEA20E625403F8D10FE7963DBCAC8"><enum>(1)</enum><text>in clause (i), by striking <quote>clause (ii)</quote> and inserting <quote>clauses (ii) through (iv)</quote>;</text></paragraph><paragraph id="HEA3355BD0A734F4C958A519DCA88162C"><enum>(2)</enum><text>in clause (ii), by striking <quote>and</quote> at the end; and</text></paragraph><paragraph id="H308046425FE241279DF509F31FAE52F1"><enum>(3)</enum><text>by adding at the end the following new clause:</text><quoted-block style="OLC" id="HD53DD2BD612C42108DF152EEFD3442C3" display-inline="no-display-inline"><clause id="H8DA04427BDC047188C0E800DA48E1779"><enum>(iv)</enum><text display-inline="yes-display-inline">for fiscal year 2024, the amount determined under subparagraph (E) with respect to American Samoa for such fiscal year; and</text></clause><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></legis-body></bill> 
+

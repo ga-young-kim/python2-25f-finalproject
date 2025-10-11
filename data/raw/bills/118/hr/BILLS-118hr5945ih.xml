@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC3C95219B4564F689397EDEA9884EA43" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5945 IH: Freezing and Halting Any More Alleviation of Sanctions Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 5945</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231012">October 12, 2023</action-date>
+<action-desc><sponsor name-id="M001204">Mr. Meuser</sponsor> (for himself, <cosponsor name-id="R000610">Mr. Reschenthaler</cosponsor>, <cosponsor name-id="M000317">Ms. Malliotakis</cosponsor>, <cosponsor name-id="D000032">Mr. Donalds</cosponsor>, <cosponsor name-id="M000871">Mr. Mann</cosponsor>, <cosponsor name-id="T000480">Mr. Timmons</cosponsor>, <cosponsor name-id="H001093">Mrs. Houchin</cosponsor>, <cosponsor name-id="S001213">Mr. Steil</cosponsor>, <cosponsor name-id="Y000067">Mr. Yakym</cosponsor>, <cosponsor name-id="B001298">Mr. Bacon</cosponsor>, <cosponsor name-id="N000190">Mr. Norman</cosponsor>, <cosponsor name-id="T000478">Ms. Tenney</cosponsor>, and <cosponsor name-id="M001215">Mrs. Miller-Meeks</cosponsor>) introduced the following bill</action-desc>
+</action>
+<action display="yes">
+<action-date date="20231025">October 25, 2023</action-date>
+<action-desc>Referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name>, and in addition to the Committees on <committee-name committee-id="HBA00">Financial Services</committee-name>, <committee-name committee-id="">Oversight and Accountability</committee-name>, and <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To reinstate certain sanctions imposed with respect to Iran.</official-title>
+</form>
+<legis-body id="H08B45D7C522D4758B6C38BF9140C0C2F" style="OLC"> 
+<section id="HD1911B9141C046A2A629C5B4917AD6EA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Freezing and Halting Any More Alleviation of Sanctions Act</short-title></quote> or the <quote><short-title>Freezing HAMAS Act</short-title></quote>.</text></section> <section id="H5B4F7218340043B39724C8547B110A37" section-type="subsequent-section"><enum>2.</enum><header>Reinstatement of certain sanctions imposed with respect to Iran</header><text display-inline="no-display-inline">Any statutory sanctions imposed with respect to Iran pursuant to section 1244(c)(1) or 1247(a) of the Iran Freedom and Counter-Proliferation Act of 2012 (<external-xref legal-doc="usc" parsable-cite="usc/22/8803">22 U.S.C. 8803(c)(1)</external-xref> and 8806(a)), or section 1245(d)(1) of the National Defense Authorization Act for Fiscal Year 2012 (<external-xref legal-doc="usc" parsable-cite="usc/22/8513a">22 U.S.C. 8513a(d)(1)</external-xref>), that were waived, suspended, reduced, or otherwise relieved pursuant to an agreement between the United States and the Islamic Republic of Iran, including any waiver that is the subject of the document entitled <quote>Waiver of Sanctions with Respect to the Transfer of Funds from the Republic of Korea to Qatar</quote> and transmitted to Congress on September 11, 2023, are hereby reinstated and any action by the United States Government to facilitate the release of funds or assets to Iran pursuant to such agreement, or provide any further waiver, suspension, reduction, or other relief pursuant to such agreement, is hereby prohibited.</text></section> 
+</legis-body>
+</bill> 
+
+

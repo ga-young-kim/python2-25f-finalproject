@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF8FFC98732324289A0FD2946268085EF" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5419 IH: Direct Seller and Real Estate Agent Harmonization Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5419</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230912">September 12, 2023</action-date><action-desc><sponsor name-id="W000798">Mr. Walberg</sponsor> (for himself, <cosponsor name-id="C001097">Mr. Cárdenas</cosponsor>, <cosponsor name-id="M001213">Mr. Moore of Utah</cosponsor>, and <cosponsor name-id="C001063">Mr. Cuellar</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Fair Labor Standards Act of 1938 to clarify the definition of employee as it relates to direct sellers and real estate agents, and for other purposes.</official-title></form><legis-body id="H8AEC598BADF1401088B48882A86515F9" style="OLC"><section id="H9BD2A5DEF4FD436D90EB24210CA95967" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Direct Seller and Real Estate Agent Harmonization Act</short-title></quote>.</text></section><section id="H03DFAF41469549BC9FEA46F33493CDFE"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">Section 3(e) of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/203">29 U.S.C. 203(e)</external-xref>) is amended by inserting after paragraph (5) the following:</text><quoted-block id="H61ADD06F8471446C8CE2679DC1BCFB9B" style="OLC"><paragraph id="H3508384809A04918AC9C89AF8E662D2E" indent="up1"><enum>(6)</enum><text display-inline="yes-display-inline">The term <term>employee</term> does not include any direct seller or qualified real estate agent (as such terms are defined in <external-xref legal-doc="usc" parsable-cite="usc/26/3508">section 3508(b)</external-xref> of the Internal Revenue Code of 1986).</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill> 
+

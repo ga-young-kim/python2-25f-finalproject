@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H11DC3DCE36E24EC89D227E03F951533B" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6460 IH: No Taxpayer Abortions for Unaccompanied Minors Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6460</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231121">November 21, 2023</action-date><action-desc><sponsor name-id="B001317">Mr. Brecheen</sponsor> (for himself, <cosponsor name-id="K000388">Mr. Kelly of Mississippi</cosponsor>, <cosponsor name-id="R000103">Mr. Rosendale</cosponsor>, <cosponsor name-id="G000595">Mr. Good of Virginia</cosponsor>, <cosponsor name-id="L000578">Mr. LaMalfa</cosponsor>, <cosponsor name-id="D000615">Mr. Duncan</cosponsor>, <cosponsor name-id="M001211">Mrs. Miller of Illinois</cosponsor>, <cosponsor name-id="H001091">Mrs. Hinson</cosponsor>, <cosponsor name-id="M001194">Mr. Moolenaar</cosponsor>, <cosponsor name-id="L000564">Mr. Lamborn</cosponsor>, and <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the Secretary of Health and Human Services from issuing, finalizing, implementing, or enforcing any rule or guidance to facilitate abortions or access to abortions for an unaccompanied alien child.</official-title></form><legis-body id="H624EFDCAE6B4483C9D46B819B7FA4423" style="OLC"> 
+<section id="H4C5DD5C15E8D4E95B3E7EE93131E7D1B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Taxpayer Abortions for Unaccompanied Minors Act</short-title></quote>.</text></section> <section id="H935AD8BB7763418481C526DDBC603E64"><enum>2.</enum><header>Prohibition on rules to facilitate abortions or access to abortions</header> <subsection id="H86ABEAE9ACD24B44BB354F7E94FABD22"><enum>(a)</enum><header>In general</header><text>Notwithstanding any other provision of law, the Secretary of Health and Human Services may not issue, finalize, implement, or enforce any rule or guidance to facilitate abortions or access to abortions (including expenses for travel or lodging for the purpose of obtaining an abortion) for an unaccompanied alien child.</text></subsection> 
+<subsection id="HDD4050F5A9284E678D2423CF3FCCFB83"><enum>(b)</enum><header>Definition</header><text display-inline="yes-display-inline">In this section, the term <term>unaccompanied alien child</term> has the meaning given such term in section 462(g)(2) of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/279">6 U.S.C. 279(g)(2)</external-xref>).</text></subsection></section> </legis-body></bill>
+

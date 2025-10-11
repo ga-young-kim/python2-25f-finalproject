@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCC66BECBC7434320A543FC8B952FF2BD" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2738 IH: Make the Migrant Protection Protocols Mandatory Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2738</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230420">April 20, 2023</action-date><action-desc><sponsor name-id="W000816">Mr. Williams of Texas</sponsor> (for himself and <cosponsor name-id="G000593">Mr. Gimenez</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend section 235(b)(2)(C) of the Immigration and Nationality Act to require the implementation of the Migrant Protection Protocols.</official-title></form><legis-body id="H9CEBE9680E3C40C0A205B520703F0BBC" style="OLC"><section id="H60593760FFD144B69B0D1584DDEDD690" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Make the Migrant Protection Protocols Mandatory Act of 2023</short-title></quote>.</text></section><section id="H67E969CD09204532BCDB65D7BDA7BD3A"><enum>2.</enum><header>Mandatory implementation of the Migrant Protection Protocols</header><text display-inline="no-display-inline">Section 235(b)(2)(C) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1225">8 U.S.C. 1225(b)(2)(C)</external-xref>) is amended by striking <quote>may</quote> and inserting <quote>shall</quote>.</text></section></legis-body></bill> 
+

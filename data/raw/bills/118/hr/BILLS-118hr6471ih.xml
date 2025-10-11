@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H03DAC53B3A004E01BD7DBBDC1CFCB025" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6471 IH: Stop Foreign Interference in Ballot Measures Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6471</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231121">November 21, 2023</action-date><action-desc><sponsor name-id="P000618">Ms. Porter</sponsor> (for herself, <cosponsor name-id="G000579">Mr. Gallagher</cosponsor>, <cosponsor name-id="S001185">Ms. Sewell</cosponsor>, <cosponsor name-id="C001133">Mr. Ciscomani</cosponsor>, <cosponsor name-id="K000381">Mr. Kilmer</cosponsor>, <cosponsor name-id="L000578">Mr. LaMalfa</cosponsor>, <cosponsor name-id="T000474">Mrs. Torres of California</cosponsor>, <cosponsor name-id="D000633">Mr. Duarte</cosponsor>, and <cosponsor name-id="K000397">Mrs. Kim of California</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Federal Election Campaign Act of 1971 to prohibit contributions and donations by foreign nationals in connection with State or local ballot initiatives or referenda and recall elections.</official-title></form><legis-body id="HC5D2E433C1BF49C2AC1A99D526834421" style="OLC"> 
+<section id="HDDC367D997844608B28E8AE6342E13A5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Stop Foreign Interference in Ballot Measures Act</short-title></quote>.</text></section> <section id="H64C4618454F2408EA901C0E8AD0EE6AD" section-type="subsequent-section"><enum>2.</enum><header>Prohibition on contributions and donations by foreign nationals in connection with ballot initiatives and referenda and recall elections</header> <subsection id="HD086A4C72B9A44E69B02C501AFAAAE40"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 319(a)(1)(A) of the Federal Election Campaign Act of 1971 (<external-xref legal-doc="usc" parsable-cite="usc/52/30121">52 U.S.C. 30121(a)(1)(A)</external-xref>) is amended by striking <quote>election;</quote> and inserting the following: <quote>election, including a State or local ballot initiative or referendum or recall election;</quote>. </text></subsection> 
+<subsection id="HCDCC6096272544859D2998EE44CB4F02"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by this Act shall apply with respect to elections held in 2024 or any succeeding year.</text></subsection></section> </legis-body></bill>
+

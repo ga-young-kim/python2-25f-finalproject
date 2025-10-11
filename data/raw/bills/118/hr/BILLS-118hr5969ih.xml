@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5B57A7CBA0EA4B04AEE783A150B3A3B5" public-private="public" key="H" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5969 IH: Improving Travel for Families Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session> 
+<legis-num display="yes">H. R. 5969</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20231017">October 17, 2023</action-date> 
+<action-desc><sponsor name-id="L000603">Mr. Luttrell</sponsor> introduced the following bill</action-desc> 
+</action> 
+<action display="yes"> 
+<action-date date="20231025">October 25, 2023</action-date> 
+<action-desc>Referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name>, and in addition to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To direct the Secretary of Homeland Security to revise certain regulations to permit certain children to accompany their parents or legal guardians through Global Entry airport lanes, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H5F2EF42096A64926BA6434DD6D3271F1" style="OLC"> 
+<section id="H7067484E42E74FF8AB377BA9B6A45132" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Improving Travel for Families Act</short-title></quote>. </text></section> <section id="H79D9D412039A48469A0C3E89936C8FF1"><enum>2.</enum><header>Extension of Global Entry to certain children</header> <subsection id="H7564825E747345E68341D804B1104BF3"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Homeland Security shall revise section 235.12 of title 8, Code of Federal Regulations, to permit a child who is 10 or under who is not a member of Global Entry in accordance with such section and who is traveling with such child’s parent or legal guardian who is a member of Global Entry in accordance with such section to accompany such parent or legal guardian through a Global Entry lane upon arrival at an international airport in the United States.</text></subsection> 
+<subsection id="HFAE8FCC446394312A92CA4F5B6B0F138"><enum>(b)</enum><header>Appointments</header><text>The Secretary of Homeland Security shall take such actions as may be necessary to permit a parent or legal guardian of up to four children described in subsection (a) who is applying for membership in Global Entry on behalf of such children to schedule a single appointment for an interview relating to such membership for all such children.</text></subsection></section> </legis-body> </bill> 
+

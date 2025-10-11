@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4E6E78919AC145B9A313B20F0627D50F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3823 IH: To prohibit the Secretary of Transportation from issuing any rule, regulation, or guidance that promotes the use of traffic photo enforcement, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3823</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230605">June 5, 2023</action-date><action-desc><sponsor name-id="P000605">Mr. Perry</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the Secretary of Transportation from issuing any rule, regulation, or guidance that promotes the use of traffic photo enforcement, and for other purposes.</official-title></form><legis-body id="H8157A9ADE93C42B9B26100122AB61D82" style="OLC"> 
+<section id="H564FE7B680BB467080AE5C74E0E3D98A" section-type="section-one"><enum>1.</enum><header>Prohibition on rule promoting use of traffic photo enforcement</header><text display-inline="no-display-inline">Notwithstanding any other provision of law, the Secretary of Transportation may not propose, issue, or implement any rule, regulation, or guidance that promotes the use of traffic photo enforcement.</text></section> </legis-body></bill>
+

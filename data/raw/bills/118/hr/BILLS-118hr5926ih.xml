@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5FE3A50AFE68477DA04663817DD616DF" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5926 IH: Exposing China’s Belt and Road Investment in America Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 5926</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231011">October 11, 2023</action-date>
+<action-desc><sponsor name-id="M001194">Mr. Moolenaar</sponsor> (for himself, <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>, <cosponsor name-id="M000194">Ms. Mace</cosponsor>, and <cosponsor name-id="B001311">Mr. Bishop of North Carolina</cosponsor>) introduced the following bill</action-desc>
+</action>
+<action display="yes">
+<action-date date="20231025">October 25, 2023</action-date>
+<action-desc>Referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name>, and in addition to the <committee-name committee-id="HFA00">Committees on Foreign Affairs</committee-name>, and <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To require the review by the Committee on Foreign Investment in the United States of greenfield investments by the People’s Republic of China.</official-title>
+</form>
+<legis-body id="H45B63CCD80CB41438094783B7566A862" style="OLC"> 
+<section section-type="section-one" id="HBF69D1E487884AC187A5C5E0D817CE08"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Exposing China’s Belt and Road Investment in America Act of 2023</short-title></quote>.</text></section> <section section-type="subsequent-section" id="HE4133511EB2E4C57900F040152E55537"><enum>2.</enum><header>Review by Committee on Foreign Investment in the United States of greenfield investments by People's Republic of China</header> <subsection id="H5CF4DAFB6267495D99A3B6BC7662255C"><enum>(a)</enum><header>Inclusion in definition of covered transaction</header><text>Section 721(a)(4) of the Defense Production Act of 1950 (<external-xref legal-doc="usc" parsable-cite="usc/50/4565">50 U.S.C. 4565(a)(4)</external-xref>) is amended—</text> 
+<paragraph id="H8C9E43E9714A432B9BC21F7F917777E5"><enum>(1)</enum><text>in subparagraph (A)—</text> <subparagraph id="H042351E55B614CFF8A68B918C41B90F9"><enum>(A)</enum><text>in clause (i), by striking <quote>; and</quote> and inserting a semicolon;</text></subparagraph> 
+<subparagraph id="H1BBB3032BD004E46821AA792574813E3"><enum>(B)</enum><text>in clause (ii), by striking the period at the end and inserting <quote>; and</quote>; and</text></subparagraph> <subparagraph id="HDF6E7957C39A40148641670B3B15A6AC"><enum>(C)</enum><text>by adding at the end the following:</text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="H4B53E5D0C8BD4F8690E9E6C84A540DF2"> 
+<clause id="HC9BA19FECD0A45A496585F14671303DF"><enum>(iii)</enum><text>any transaction described in subparagraph (B)(vi) proposed or pending on or after the date of the enactment of this clause.</text></clause><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph></paragraph> <paragraph id="HD1E744BE3ED6467E8BFE9A75CD675D74"><enum>(2)</enum><text>in subparagraph (B), by adding at the end the following:</text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="HAEAA8284F04F4915A7C021645163CB8D"> 
+<clause id="HB8B97136D2724CAA90F68BBBF62D1310"><enum>(vi)</enum><text>An investment by a foreign person that—</text> <subclause id="H69EF9B26473F419B99FB86AF1AC0E0EB"><enum>(I)</enum><text>involves—</text> 
+<item id="H2C59CC5F08ED4EE8AE09964E6C63BD24"><enum>(aa)</enum><text> the completed or planned purchase or lease by, or a concession to, the foreign person of private or public real estate in the United States; and</text></item> <item id="H55DBC55A8BBE46C5B7354711D74DBA9F"><enum>(bb)</enum><text>the establishment of a United States business to operate a factory or other facility on that real estate; and</text></item></subclause> 
+<subclause id="H3C79AF19CE19494AAC6A96366307DAF2"><enum>(II)</enum><text>could result in control, including through formal or informal arrangements to act in concert, of that United States business by—</text> <item id="H32368EAFD4174B0B8651E10700C6B972"><enum>(aa)</enum><text>the Government of the People’s Republic of China; </text></item> 
+<item id="H78797F9B5F16422ABAC91BB3501C358F"><enum>(bb)</enum><text>a person owned or controlled by, or acting on behalf of, that Government;</text></item> <item id="HFC62D353EE8B43DAAE6DBB84601F160F"><enum>(cc)</enum><text>an entity in which that Government has, directly or indirectly, including through formal or informal arrangements to act in concert, a 5 percent or greater interest;</text></item> 
+<item id="H6BD322A1E83B4A618CB20B88539C5532"><enum>(dd)</enum><text>an entity in which that Government has, directly or indirectly, the right or power to appoint, or approve the appointment of, any members of the board of directors, board of supervisors, or an equivalent governing body (including external directors and other individuals who perform the duties usually associated with such titles) or officers (including the president, senior vice president, executive vice president, and other individuals who perform duties normally associated with such titles) of any other entity that held, directly or indirectly, including through formal or informal arrangements to act in concert, a 5 percent or greater interest in the entity in the preceding 3 years; or </text></item> <item id="H5FA81AF13EA44ED69EC198AF48C9C79C"><enum>(ee)</enum><text>an entity in which any members or officers described in item (dd) of any other entity holding, directly or indirectly, including through formal or informal arrangements to act in concert, a 5 percent or greater interest in the entity are members of the Chinese Communist Party or have been members of the Chinese Communist Party in the preceding 3 years. </text></item></subclause></clause><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="HD5624AD753F94084B83DA8489BE29FC1"><enum>(b)</enum><header>Definition of Government of People's Republic of China</header><text>Section 721(a) of the Defense Production Act of 1950 (<external-xref legal-doc="usc" parsable-cite="usc/50/4565">50 U.S.C. 4565(a)</external-xref>) is amended—</text> <paragraph id="HF8AFB8F298144642805C765F069DEA90"><enum>(1)</enum><text>by redesignating paragraphs (8) through (13) as paragraphs (9) through (14), respectively; and</text></paragraph> 
+<paragraph id="H67FDDF4F3592497C8920D15614741493"><enum>(2)</enum><text>by inserting after paragraph (7) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H4FE3F28ACEC64B0FAE547BB48CFF030B"> <paragraph id="H560A016D9A614A3F8AD3E25DE7A8A5A6"><enum>(7)</enum><header>Government of People's Republic of China</header><text>The term <term>Government of the People's Republic of China</term> includes the national and subnational governments within the People’s Republic of China, including any departments, agencies, or instrumentalities of such governments.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="H31A5F3F55DA64D0EB349D06D1A240056"><enum>(c)</enum><header>Mandatory filing of declarations</header><text>Section 721(b)(1)(C)(v)(IV)(bb) of the Defense Production Act of 1950 (50 U.S.C. 4565(b)(1)(C)(v)(IV)(bb)) is amended by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H0F6A4066B2AD461BAA4FDC2490DF7B16"> <subitem id="H7E9BBCC4C3CA4EB6A93DAB110430B55D"><enum>(DD)</enum><header>Greenfield investments by People’s Republic of China</header><text>The parties to a covered transaction described in subsection (a)(4)(B)(vi) shall submit a declaration described in subclause (I) with respect to the transaction.</text></subitem><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+</legis-body>
+</bill> 
+
+

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HACDD65435C174DBF823493470A2ACCD4" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1270 IH: To exclude certain amounts relating to compensating victims of the East Palestine train derailment, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1270</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230301">March 1, 2023</action-date><action-desc><sponsor name-id="J000292">Mr. Johnson of Ohio</sponsor> (for himself, <cosponsor name-id="B001306">Mr. Balderson</cosponsor>, <cosponsor name-id="M001222">Mr. Miller of Ohio</cosponsor>, <cosponsor name-id="L000566">Mr. Latta</cosponsor>, <cosponsor name-id="D000626">Mr. Davidson</cosponsor>, <cosponsor name-id="J000295">Mr. Joyce of Ohio</cosponsor>, <cosponsor name-id="W000815">Mr. Wenstrup</cosponsor>, <cosponsor name-id="S001223">Mrs. Sykes</cosponsor>, <cosponsor name-id="T000463">Mr. Turner</cosponsor>, <cosponsor name-id="J000289">Mr. Jordan</cosponsor>, and <cosponsor name-id="C001126">Mr. Carey</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To exclude certain amounts relating to compensating victims of the East Palestine train derailment, and for other purposes.</official-title></form><legis-body id="H22E13D15E15E4AE7AF62A5F01DF3579F" style="OLC"> 
+<section id="HEAD1E502DB2345B196ED58638078E4EA" section-type="section-one"><enum>1.</enum><header>East Palestine disaster relief payments</header> 
+<subsection id="HE0CA11E21014491D9A6DD3ED83AD18C9"><enum>(a)</enum><header>Disaster relief payments to victims of East Palestine train derailment</header><text display-inline="yes-display-inline">The East Palestine train derailment is hereby deemed to be a qualified disaster for the purposes of <external-xref legal-doc="usc" parsable-cite="usc/26/139">section 139(c)</external-xref> of the Internal Revenue Code of 1986.</text></subsection> <subsection id="HE65549090E534362845481EB8D6212B9"><enum>(b)</enum><header>Exclusion from gross income of business interruption payments</header><text display-inline="yes-display-inline">For purposes of the Internal Revenue Code of 1986, gross income does not include any amounts provided to a taxpayer to compensate such taxpayer for lost business income resulting from the East Palestine train derailment by a—</text> 
+<paragraph id="H5BAA02BEA68D4DD2B93246DCEA9DEE40"><enum>(1)</enum><text>Federal, State, or local government agency,</text></paragraph> <paragraph id="HC7DA14E0C1EE4CAB9B843588A5D9B70A"><enum>(2)</enum><text>Norfolk Southern Railway, or</text></paragraph> 
+<paragraph id="HD3F768181EE047C394515D4C76978885"><enum>(3)</enum><text>any subsidiary, insurer, or agent of Norfolk Southern Railway or any related person.</text></paragraph></subsection> <subsection id="H43ABD06DAC3642F5982C08620DBD904B"><enum>(c)</enum><header>Train derailment</header><text>For purposes of this section, the term <quote>East Palestine train derailment</quote> means the derailment of a train in East Palestine, Ohio, on February 3, 2023.</text></subsection>
+<subsection id="H7202356BA2514F66910896C2F54249A4"><enum>(d)</enum><header>Effective date</header><text>This section shall apply to amounts received on or after February 3, 2023.</text> </subsection></section> </legis-body></bill>
+

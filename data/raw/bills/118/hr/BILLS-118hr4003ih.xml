@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" public-private="public" dms-id="H66D45477D613468BB06D6314754BF84C"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4003 IH: Let Freedom Sing Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session> 
+<legis-num display="yes">H. R. 4003</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20230612">June 12, 2023</action-date> 
+<action-desc><sponsor name-id="W000795">Mr. Wilson of South Carolina</sponsor> (for himself, <cosponsor name-id="T000480">Mr. Timmons</cosponsor>, <cosponsor name-id="F000478">Mr. Fry</cosponsor>, <cosponsor name-id="M000194">Ms. Mace</cosponsor>, <cosponsor name-id="N000190">Mr. Norman</cosponsor>, and <cosponsor name-id="D000615">Mr. Duncan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name>, and in addition to the Committee on <committee-name committee-id="HGO00">Oversight and Accountability</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To prohibit any regulations on the singing of the National Anthem on any Federal property.</official-title> 
+</form> 
+<legis-body id="H2393BE88CE82445BB0A87316B999E696"> 
+<section id="H09ECC086BFC74083AA48B3D4EE3CBEA4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Let Freedom Sing Act</short-title></quote>.</text></section> <section id="H178F0F38C7664D8EB4393C005FB2EA69"><enum>2.</enum><header>Findings and purpose</header> <subsection id="HB06D4EEA7C97415CAF09FDD27EA42B5D"><enum>(a)</enum><header>Findings</header><text>Congress finds the following:</text> 
+<paragraph id="H668FC50D17064361BC9AC46ACE11AF32"><enum>(1)</enum><text>Singing of the National Anthem is an officially recognized national unity ritual. Inspired by the sight of the American flag still waving at Fort McHenry after 25 hours of continual bombardment by British forces, Francis Scott Key wrote the words of the Star-Spangled Banner in 1814. In 1931, Congress declared that the Star-Spangled Banner is the national anthem of the United States in section 301 of title 36, United States Code.</text></paragraph> <paragraph id="H65D58A96536E4A62966A5DC9388623E3"><enum>(2)</enum><text>Recognizing that the First Amendment states <quote>Congress shall make no law … abridging the freedom of speech</quote>.</text></paragraph> 
+<paragraph id="HCDBEEC7582344ADCA6A1D7518A1581E3"><enum>(3)</enum><text>Further recognizes that singing the National Anthem is an ultimate demonstration of freedom of speech, and any restrictions placed upon singing the National Anthem in a means that is non-disruptive would be a violation of the First Amendment.</text></paragraph> <paragraph id="H8BF0A6365BE24A9081D6464474CC4155"><enum>(4)</enum><text>Continues that Federal properties such as the U.S. Capitol should be included as <quote>traditional public forums</quote> and that singing the National Anthem in public spaces which does not interfere with the operation of the Federal Government’s official business shall not be viewed as a form of protest.</text></paragraph> 
+<paragraph id="HF28311CD30244C5D87748288F5972EC5"><enum>(5)</enum><text>Recognizes that specific spaces in the U.S. Capitol such as National Statuary Hall are a part of the shared American heritage, and access to these spaces for national unity rituals shall not be limited, as singing the National Anthem is not a form of disruptive protest.</text></paragraph></subsection> <subsection id="H328DC48B4CF741E2AD837AC58547A700"><enum>(b)</enum><header>Purpose</header><text>It is the purpose of this Act to protect and to preserve national unity and freedom of speech guaranteeing that the right to sing the National Anthem in federally owned public spaces such as the U.S. Capitol shall not be restricted for any purposes, when the actions do not interfere with the operation of the Federal Government.</text></subsection></section> 
+<section id="H4BC09A57CA124E46BA69CE5E32E986CB"><enum>3.</enum><header>Prohibition</header> 
+<subsection id="HBBAE10B7DC6D4EBB9BF1D81A5D4A5EE9"><enum>(a)</enum><header>Prohibition</header> 
+<paragraph id="H906DC24C4C5F4A36AFE1D0A900699EBA"><enum>(1)</enum><text>Prohibits musical performances from being listed as an activity requiring permits from U.S. Capitol Police or the Sergeant at Arms for activities in the U.S. Capitol.</text></paragraph> <paragraph id="HC7FE295520B34A0F8866D3BC85F2C51C"><enum>(2)</enum><text>Overrules D.C. Code § 22–1307 with exclusive regard to the U.S. Capitol to ensure that in public spaces within the U.S. Capitol, specifically National Statuary Hall, where it does not interfere with the flow of official business it is lawful to sing the National Anthem without prior authorization being required and that it shall not be considered a form of unpermitted protest.</text> </paragraph> 
+<paragraph id="HB85ED2EC7A254B3CABC4340508E605C7"><enum>(3)</enum><text>Places the sole discretion to limit musical performances in the Capitol on the Speaker of the House and President of the Senate, to be exercised at a shared discretion only to permit official business to continue uninterrupted.</text></paragraph></subsection> </section> </legis-body> </bill> 
+

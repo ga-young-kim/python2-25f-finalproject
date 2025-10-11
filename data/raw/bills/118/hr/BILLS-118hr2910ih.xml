@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H60DD7D64DD4B444883A565C1F1BACA00" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2910 IH: To amend title 28, United States Code, to authorize holding court for the Central Division of Utah in Moab and Monticello.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2910</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230426">April 26, 2023</action-date><action-desc><sponsor name-id="S001192">Mr. Stewart</sponsor> (for himself and <cosponsor name-id="C001114">Mr. Curtis</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 28, United States Code, to authorize holding court for the Central Division of Utah in Moab and Monticello.</official-title></form><legis-body id="H722ADC1895AF4A099CA87E5448B7BE51" style="OLC"> 
+<section id="H27ECD22A49904F72AA7CD6B78A3A2DF0" section-type="section-one"><enum>1.</enum><header>Judicial district</header><text display-inline="no-display-inline">Section 125 of title 28, United States Code, is amended by striking <quote>and St. George</quote> and inserting <quote>St. George, Moab, and Monticello.</quote> </text> </section> </legis-body></bill>
+

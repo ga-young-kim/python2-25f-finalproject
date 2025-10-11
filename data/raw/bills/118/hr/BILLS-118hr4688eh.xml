@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H3DEA23EEBCF24649BCDA75767104AC0F" public-private="public" key="H" bill-type="olc" stage-count="1">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4688 EH: To direct the Administrator of General Services to sell the property known as the Webster School.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IB</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 4688</legis-num>
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<legis-type>AN ACT</legis-type>
+<official-title display="yes">To direct the Administrator of General Services to sell the property known as the Webster School.</official-title>
+</form>
+<legis-body id="HE09BA96D19A84FA9A9B53044DFD6E73C" style="OLC">
+<section id="HAEC18748789E4DB3ACE36A3BD6DC88E2" section-type="section-one"><enum>1.</enum><header>Sale of Webster School</header>
+<subsection id="HA2B85374870B4F7DB9487C7FB568E799"><enum>(a)</enum><header>Sale</header><text display-inline="yes-display-inline">Not later than December 31, 2025, the Administrator of General Services shall sell the property described in subsection (b) at fair market value and at highest and best use.</text></subsection> <subsection id="H4F51ACE47E904322893883CB93B9BEB9"><enum>(b)</enum><header>Property described</header><text display-inline="yes-display-inline">The property described in this subsection is property located in the District of Columbia generally consisting of Lot 822 of Square 375 at 940 H Street Northwest in Washington, District of Columbia, including the building known as the Webster School, subject to survey and as determined by the Administrator of General Services.</text></subsection>
+<subsection id="H050073D6E0CE4E339307429FBB3B0023"><enum>(c)</enum><header>Treatment of net proceeds; future appropriation</header><text display-inline="yes-display-inline">Any net proceeds received from the sale under this section shall be paid into an account in the Federal Buildings Fund established under section 592 of title 40, United States Code. Upon deposit, the net proceeds from the sale may be expended only subject to a specific future appropriation.</text></subsection></section> </legis-body><attestation><attestation-group><attestation-date date="20231204" chamber="House">Passed the House of Representatives December 4, 2023.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> <endorsement display="yes"></endorsement> </bill> 
+

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H546259B13DC5421A842F1D97D69CED22" public-private="public" key="G" bill-type="olc" star-print="no-star-print" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4468 EH: Choice in Automobile Retail Sales Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IB</distribution-code> 
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session> 
+<legis-num display="yes">H. R. 4468</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To prohibit the Administrator of the Environmental Protection Agency from finalizing, implementing, or enforcing a proposed rule with respect to emissions from vehicles, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HFB70F897296F48E2AC85393BB19B3F67" style="OLC"> 
+<section id="HB1698900ACE448F4AE794BF5FDC5709E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Choice in Automobile Retail Sales Act of 2023</short-title></quote>.</text></section> <section id="H32AC539E5BC34B99B4D2327AFEFFA9B9"><enum>2.</enum><header>Prohibition against finalizing, implementing, or enforcing a proposed rule with respect to emissions from vehicles</header><text display-inline="no-display-inline">The Administrator of the Environmental Protection Agency may not finalize, implement, or enforce the proposed rule titled <quote>Multi-Pollutant Emissions Standards for Model Years 2027 and Later Light-Duty and Medium-Duty Vehicles</quote> published by the Environmental Protection Agency in the Federal Register on May 5, 2023 (88 Fed. Reg. 29184).</text></section> 
+<section id="H3A2387AC600A4025988D3E321C5F57CA"><enum>3.</enum><header>Ensuring tailpipe regulations do not limit the availability of new motor vehicles</header> 
+<subsection id="HD11643A3307B4C37B5004FF498AE3ABE"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 202(a)(2) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7521">42 U.S.C. 7521(a)(3)</external-xref>) is amended—</text> <paragraph id="H3AB215E3344341579237113A3F904EB2"><enum>(1)</enum><text>by striking <quote>(2) Any regulation</quote> and inserting <quote>(2)(A) Any regulation</quote>; and</text></paragraph> 
+<paragraph id="H917A69184D6D4B339B63827C7DD136AC"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block style="OLC" id="HD41745225B48498D927C1682FF03ED0E" display-inline="no-display-inline"> <subparagraph id="HF715021A4FE04DE29A69433BC9FB4EAB" indent="up1"><enum>(B)</enum><text display-inline="yes-display-inline">Any regulation proposed or prescribed, including any revision to a regulation, under paragraph (1) on or after January 1, 2021, shall not—</text> 
+<clause id="HC1236B047ED3460B92E35B55140D5474"><enum>(i)</enum><text>mandate the use of any specific technology; or</text></clause> <clause id="HD213A835E45E474D8F73E56B266D51FA"><enum>(ii)</enum><text>result in limited availability of new motor vehicles based on the type of new motor vehicle engine in such new motor vehicles.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="HAD863FB116BF45EE90FE8AEE27BB8788"><enum>(b)</enum><header>Necessary revisions to regulations</header><text display-inline="yes-display-inline">Not later than 24 months after the date of enactment of this Act, the Administrator of the Environmental Protection Agency shall promulgate such revisions to regulations as may be necessary to conform such regulations to section 202(a)(2)(B) of the Clean Air Act, as added by subsection (a).</text></subsection></section> </legis-body><attestation><attestation-group><attestation-date date="20231206" chamber="House">Passed the House of Representatives December 6, 2023.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> <endorsement display="yes"></endorsement> </bill> 
+

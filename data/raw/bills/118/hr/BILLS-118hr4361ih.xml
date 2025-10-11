@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H44145A097C864BDABBFA80CEFE270D84" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4361 IH: Smarter Pretrial Detention for Drug Charges Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4361</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230623">June 23, 2023</action-date><action-desc><sponsor name-id="T000483">Mr. Trone</sponsor> (for himself, <cosponsor name-id="M000194">Ms. Mace</cosponsor>, <cosponsor name-id="M000687">Mr. Mfume</cosponsor>, <cosponsor name-id="S001205">Ms. Scanlon</cosponsor>, and <cosponsor name-id="N000147">Ms. Norton</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To give Federal courts additional discretion to determine whether pretrial detention is appropriate for defendants charged with nonviolent drug offenses in Federal criminal cases.</official-title></form><legis-body id="H8E200F3F0A75497A8D71A85B25E899DD" style="OLC"> 
+<section section-type="section-one" id="H1C0F3E6822A44D50BA8B51B36251F9CF"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Smarter Pretrial Detention for Drug Charges Act of 2023</short-title></quote>.</text></section> <section commented="no" id="H2755C45FE67D4E30B08877BAAD8AB992"><enum>2.</enum><header>Release conditions and detention in Federal criminal cases</header><text display-inline="no-display-inline">Section 3142 of title 18, United States Code, is amended—</text>
+<paragraph commented="no" display-inline="no-display-inline" id="H23D120AA1C6F4343AF0E43857EBE706B"><enum>(1)</enum><text display-inline="yes-display-inline">by striking <quote>(<external-xref legal-doc="usc" parsable-cite="usc/42/14135a">42 U.S.C. 14135a</external-xref>)</quote> each place it appears and inserting <quote>(<external-xref legal-doc="usc" parsable-cite="usc/34/40702">34 U.S.C. 40702</external-xref>)</quote>; and</text></paragraph> <paragraph commented="no" id="HA95A033FFF524460A743DB2E455241C9"><enum>(2)</enum><text>in subsection (e)(3)—</text>
+<subparagraph commented="no" id="HA13E794147084D06965B29D7297894CF"><enum>(A)</enum><text>by striking subparagraph (A); and</text></subparagraph> <subparagraph commented="no" id="H09320DB41DE040A2958EB8E5B8B06A8E"><enum>(B)</enum><text>by redesignating subparagraphs (B), (C), (D), and (E) as subparagraphs (A), (B), (C), and (D), respectively.</text></subparagraph></paragraph></section> 
+</legis-body></bill>
+

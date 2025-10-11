@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB7906442A4CC4C06960CC85575B7C075" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1469 IH: To prohibit a mask mandate to prevent the spread of COVID–19 on a military installation in the United States.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1469</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230308">March 8, 2023</action-date><action-desc><sponsor name-id="N000190">Mr. Norman</sponsor> (for himself, <cosponsor name-id="B001311">Mr. Bishop of North Carolina</cosponsor>, <cosponsor name-id="D000615">Mr. Duncan</cosponsor>, <cosponsor name-id="G000595">Mr. Good of Virginia</cosponsor>, <cosponsor name-id="G000596">Ms. Greene of Georgia</cosponsor>, <cosponsor name-id="M001211">Mrs. Miller of Illinois</cosponsor>, and <cosponsor name-id="S001214">Mr. Steube</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit a mask mandate to prevent the spread of COVID–19 on a military installation in the United States.</official-title></form><legis-body id="H655FD4BA44634D6182090F15515DD0B0" style="OLC"><section id="H931FC8BB465342C3B0C87FD79880D4B7" section-type="section-one"><enum>1.</enum><header>Prohibition of mask mandate to prevent the spread of COVID–19 on a military installation in the United States</header><text display-inline="no-display-inline">The Secretary of Defense may not require that an individual wear a mask, in order to prevent the spread of COVID–19, on a military installation inside the United States.</text></section></legis-body></bill> 
+

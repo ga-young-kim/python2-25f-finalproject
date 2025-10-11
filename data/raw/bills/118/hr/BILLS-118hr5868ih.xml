@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB2785030A5ED47EEBE894D495902121D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5868 IH: District of Columbia Courts Home Rule Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5868</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231002">October 2, 2023</action-date><action-desc><sponsor name-id="N000147">Ms. Norton</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the District of Columbia Home Rule Act to permit the Council of the District of Columbia to enact laws with respect to the organization and jurisdiction of the District of Columbia courts.</official-title></form><legis-body id="HB226A08F3E454B2C846C9924C84E10FF" style="OLC"> 
+<section id="H3594C9B3328C463789BEB80FD5941424" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>District of Columbia Courts Home Rule Act</short-title></quote>.</text></section> <section id="HAA1BCA1AE4E04D0DBF65A1C27C9D0FDE"><enum>2.</enum><header>Authority of Council of District of Columbia to enact laws with respect to District of Columbia Courts</header><text display-inline="no-display-inline">Section 602(a) of the District of Columbia Home Rule Act (sec. 1–206.02(a), D.C. Official Code) is amended by striking paragraph (4).</text></section> 
+</legis-body></bill>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7CFB80353FAF4041AE97DCEFDF210C99" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1020 IH: Bringing Aquaculture Indemnities To Speed Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 1020</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230214">February 14, 2023</action-date>
+<action-desc><sponsor name-id="M001212">Mr. Moore of Alabama</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Agricultural Act of 2014 to include certain farm-raised fish losses under the livestock indemnity payment program, and for other purposes.</official-title>
+</form>
+<legis-body id="HC90159EAC85045F5884BCB977A6ADC9B" style="OLC">
+<section id="HABDE2B1D7B6A40AAAC52ECE5AE7B448F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Bringing Aquaculture Indemnities To Speed Act</short-title></quote> or the <quote><short-title>BAITS Act</short-title></quote>. </text></section> <section id="HE4809724A4044680B98B3F9F393FE01B"><enum>2.</enum><header>Inclusion of certain farm-raised fish losses under livestock indemnity payment program</header><text display-inline="no-display-inline">Section 1501 of the Agricultural Act of 2014 (<external-xref legal-doc="usc" parsable-cite="usc/7/9081">7 U.S.C. 9081</external-xref>) is amended—</text>
+<paragraph id="HE009EE12052240CCAE157AFD13D30A74"><enum>(1)</enum><text display-inline="yes-display-inline">in subsection (a)(4)—</text> <subparagraph id="H3361C5EC50B4453E98D157E543DC0FFA"><enum>(A)</enum><text>in subparagraph (F), by striking <quote>and</quote> at the end;</text></subparagraph>
+<subparagraph id="H8E4493841A814206979C7C75A5706E10"><enum>(B)</enum><text>by redesignating subparagraph (G) as subparagraph (H); and</text></subparagraph> <subparagraph id="H894B685BFDB249658519B52E4958C0AC"><enum>(C)</enum><text>by inserting after subparagraph (F) the following: </text>
+<quoted-block style="OLC" display-inline="no-display-inline" id="H34D94AAC4937483BA9D89B629ED51C51">
+<subparagraph id="H4990A787392F444A99B1FD1B0DE96C44"><enum>(G)</enum><text display-inline="yes-display-inline">for purposes of subsection (b), farm-raised fish; and</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph></paragraph> <paragraph id="H1423AA2204EE44C184255008F84067E1"><enum>(2)</enum><text>in subsection (b), by adding at the end the following:</text>
+<quoted-block style="OLC" id="H327BDA41608741688ECA29B2B1AA2488" display-inline="no-display-inline">
+<paragraph id="H468801A161D844F78AFB328702700302"><enum>(5)</enum><header>Special rule for farm-raised fish</header><text display-inline="yes-display-inline">The Secretary may only make a payment under this subsection with respect to livestock described in subsection (a)(4)(G) if the loss or reduced sale of such livestock is due to a cause described in subparagraph (A) or (C) of paragraph (1). </text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> </legis-body> </bill> 
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8B50E78D7C89491A8CEFE07CC62DF247" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6335 IH: Voter Population Accuracy Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6335</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231109">November 9, 2023</action-date><action-desc><sponsor name-id="E000246">Mr. Edwards</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Bureau of the Census to collect information on citizenship status through the decennial census, and for other purposes.</official-title></form><legis-body id="H5A1798E2FE9E47D2B6C0AB3BFD8531DE" style="OLC"><section id="H2E710B687E3D4728B3716755F84B3A65" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Voter Population Accuracy Act</short-title></quote>.</text></section><section id="H3BB4B3BAB74443D291CF2930C7F90AE2"><enum>2.</enum><header>Citizenship status on decennial census</header><text display-inline="no-display-inline">Section 141 of title 13, United States Code, is amended—</text><paragraph id="H73BE4DB7CD1E49ED981BC0FA42708BDD"><enum>(1)</enum><text>by redesignating subsection (g) as subsection (h); and</text></paragraph><paragraph id="H6535CC23A1C64588A3912E7EADE51E92"><enum>(2)</enum><text display-inline="yes-display-inline">by inserting after subsection (f) the following:</text><quoted-block style="USC" display-inline="no-display-inline" id="H2B2A09049740438E8DFA11E07F5AFF29"><subsection id="H4BD848D3F33A46FEB104B9983C2DB51E" display-inline="no-display-inline"><enum>(g)</enum><text>In conducting the 2030 decennial census and each decennial census thereafter, the Secretary shall include in any questionnaire distributed or otherwise used for the purpose of determining the total population by States a checkbox or other similar option for the respondent to indicate, for the respondent and for each of the members of the household of the respondent, whether such individual is a citizen or national of the United States.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></legis-body></bill> 
+

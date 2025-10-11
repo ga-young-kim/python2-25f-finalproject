@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H831B49B685D14F1DBF584A42190FEF2B" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1739 IH: Transparency in College Foreign Payments Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1739</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230323">March 23, 2023</action-date><action-desc><sponsor name-id="B000740">Mrs. Bice</sponsor> (for herself, <cosponsor name-id="M001136">Mrs. McClain</cosponsor>, <cosponsor name-id="L000564">Mr. Lamborn</cosponsor>, and <cosponsor name-id="S001212">Mr. Stauber</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Higher Education Act of 1965 to strengthen the disclosure requirements for institutions of higher education related to foreign gifts and contracts.</official-title></form><legis-body id="H114ABFAD51B442C6871D6A162A44388E" style="OLC"> 
+<section id="H155332CB1ABB4F6098A630E1AB83715C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Transparency in College Foreign Payments Act</short-title></quote>.</text></section> <section id="H966867A67CB14AE7923FE49E5A72B4F2"><enum>2.</enum><header>Disclosure of foreign gifts and contracts</header><text display-inline="no-display-inline">Section 117 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1011f">20 U.S.C. 1011f</external-xref>) is amended—</text> 
+<paragraph id="HD996B787D0AD4D0FAA1BE95064B7B64E"><enum>(1)</enum><text display-inline="yes-display-inline">in subsection (a), by striking <quote>the value</quote> and all that follows through <quote>calendar year,</quote>;</text></paragraph> <paragraph id="HDEB53E8C460A4072B6F0417B43B36E38"><enum>(2)</enum><text display-inline="yes-display-inline">in subsection (b)—</text> 
+<subparagraph id="H7F1EB4949FBE4D46B2183FD1155A5FE7"><enum>(A)</enum><text>in paragraph (1), by inserting <quote>the identity of each foreign source (whether a natural person or a legal entity), and</quote> before <quote>the aggregate dollar</quote>; and</text></subparagraph> <subparagraph id="H3F744B61A8AA429C8BC2C29539F411CA"><enum>(B)</enum><text>in paragraph (2), by inserting <quote>, and the name of each foreign government (including the name of each specific government agency or department, if applicable)</quote> before the period; and</text></subparagraph></paragraph> 
+<paragraph id="HB90120D4FBCB445B8A151D911A648F9E"><enum>(3)</enum><text>in paragraph (1) of subsection (c)—</text> <subparagraph id="H97242AEE02AB46B89259D0D3543631DF"><enum>(A)</enum><text>by inserting <quote>the identity of the foreign source,</quote> before <quote>the amount,</quote>; and</text></subparagraph> 
+<subparagraph id="H342CA1724DBA4C85AAC11358784C9AA4"><enum>(B)</enum><text>by striking <quote>and a description of</quote> and inserting <quote>the identity of the specific department, college, project, or other division of the institution that is the recipient (if applicable), and a description of the intended purpose and</quote>.</text></subparagraph></paragraph></section> </legis-body></bill>
+

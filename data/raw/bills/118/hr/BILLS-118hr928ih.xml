@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDBF32C4DA3D2467B8055AC61124E5C7A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 928 IH: To repeal the High-Efficiency Electric Home Rebate Program and transfer funds under such program to the Edward Byrne Memorial Justice Assistance Grant Program.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 928</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230209">February 9, 2023</action-date><action-desc><sponsor name-id="J000292">Mr. Johnson of Ohio</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HJU00">the Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To repeal the High-Efficiency Electric Home Rebate Program and transfer funds under such program to the Edward Byrne Memorial Justice Assistance Grant Program.</official-title></form><legis-body id="HAD8B516550B647DCA2C42B5A304704D1" style="OLC"> 
+<section id="H36B9DFA759164C5495C668715C3C8A5D" section-type="section-one"><enum>1.</enum><header>Transfer of funds from the High-Efficiency Electric Home Rebate Program to the Edward Byrne Memorial Justice Assistance Grant Program</header> 
+<subsection id="HA075EDB144734BE5A19777B9FBED42B1"><enum>(a)</enum><header>Repeal</header><text display-inline="yes-display-inline">Section 50122 of <external-xref legal-doc="public-law" parsable-cite="pl/117/169">Public Law 117–169</external-xref> is repealed.</text></subsection> <subsection id="H5D974A431B3D4DFFB3DF82B99F525D26"><enum>(b)</enum><header>Transfer of funds</header><text display-inline="yes-display-inline">The unobligated balance of funds available under such section 50122 (as in effect on the day before the date of enactment of this Act) is transferred to, and merged with, amounts available for the Edward Byrne Memorial Justice Assistance Grant program as authorized by subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/34/10151">34 U.S.C. 10151 et seq.</external-xref>).</text></subsection> 
+<subsection id="H7EB7D540540C4EEF95E0E05878E92D3A"><enum>(c)</enum><header>Conforming amendments</header> 
+<paragraph id="H073DC440E612498584DE2363A1BB60C9"><enum>(1)</enum><text display-inline="yes-display-inline">Section 50121(c)(7) of the <external-xref legal-doc="public-law" parsable-cite="pl/117/169">Public Law 117–169</external-xref> is amended by striking <quote>, including a rebate provided under a high-efficiency electric home rebate program (as defined in section 50122(d)),</quote>.</text></paragraph> <paragraph id="H6425851625CB43F7B2F30CCA8514EA28"><enum>(2)</enum><text>Section 50123(a) of the <external-xref legal-doc="public-law" parsable-cite="pl/117/169">Public Law 117–169</external-xref> is amended by striking <quote>or a high-efficiency electric home rebate program (as defined in section 50122(d))</quote>.</text> </paragraph></subsection></section> 
+</legis-body></bill>
+
+

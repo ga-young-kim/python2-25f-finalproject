@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HAFF5D67340D7417D9603915E90615427" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6701 IH: To amend the Internal Revenue Code of 1986 to increase and adjust for inflation the above-the-line deduction for teachers.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-12-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6701</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231211">December 11, 2023</action-date><action-desc><sponsor name-id="L000599">Mr. Lawler</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to increase and adjust for inflation the above-the-line deduction for teachers.</official-title></form><legis-body id="HC24FA4E350974DAFA61EA6B18A3337F2" style="OLC"><section id="H33F89DD09B994803A6E343B9B17C3D3B" section-type="section-one"><enum>1.</enum><header>Increase in deduction for certain expenses of elementary and secondary school teachers</header><subsection id="H49DC6F1733F546EE9F708F17B88C58B0"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/62">Section 62(a)(2)(D)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>$250</quote> and inserting <quote>$600</quote>.</text></subsection><subsection id="H6498DF8BD79E4B3B9247F1271C148979"><enum>(b)</enum><header>Conforming amendments</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/62">Section 62(d)(3)</external-xref> of the Internal Revenue Code of 1986 is amended—</text><paragraph id="H637E4DB63FA5498EB49D794C9C58D0C1"><enum>(1)</enum><text>by striking <quote>2015</quote> and inserting <quote>2023</quote>, </text></paragraph><paragraph id="H4CCA982045874AF6BC5B395CC1E5920B"><enum>(2)</enum><text>by striking <quote>$250</quote> and inserting <quote>$600</quote>, and</text></paragraph><paragraph id="H5A4AF7B4085049D099D8BD0B99727340"><enum>(3)</enum><text>by striking <quote>calendar year 2014</quote> and inserting <quote>calendar year 2022</quote>. </text></paragraph></subsection><subsection id="HEE499FE9079A472BA81D1FE713CACD65"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply with respect to taxable years beginning after December 31, 2022.</text></subsection></section></legis-body></bill> 
+

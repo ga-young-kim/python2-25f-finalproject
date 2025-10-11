@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC75CF696DA564937B00BADCC399340DE" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4316 IH: Citizen Ballot Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4316</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230623">June 23, 2023</action-date><action-desc><sponsor name-id="P000609">Mr. Palmer</sponsor> (for himself, <cosponsor name-id="E000246">Mr. Edwards</cosponsor>, <cosponsor name-id="C001116">Mr. Clyde</cosponsor>, <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>, <cosponsor name-id="H001077">Mr. Higgins of Louisiana</cosponsor>, <cosponsor name-id="D000615">Mr. Duncan</cosponsor>, <cosponsor name-id="C001120">Mr. Crenshaw</cosponsor>, <cosponsor name-id="B001302">Mr. Biggs</cosponsor>, and <cosponsor name-id="B001295">Mr. Bost</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the National Voter Registration Act of 1993 to permit a State to include as part of the mail voter registration form a requirement that applicants provide proof of citizenship, and for other purposes.</official-title></form><legis-body id="HC0B3FE277CD04A99A182FC44E076186D" style="OLC"> 
+<section id="H60A786C0735C46D2AC2EE43D608CB30A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Citizen Ballot Protection Act</short-title></quote>. </text></section> <section id="H041D7A6A647A405B963B13A727436F9E"><enum>2.</enum><header>Contents of State mail voter registration form</header> <subsection id="HDC5EFE52BF924F75A7E7363774F32DE0"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 6(a) of the National Voter Registration Act of 1993 (<external-xref legal-doc="usc" parsable-cite="usc/52/20505">52 U.S.C. 20505(a)</external-xref>) is amended—</text> 
+<paragraph id="H7B657E06ECBE4877AF50C2B2AA76ADEC"><enum>(1)</enum><text>in paragraph (1), by inserting <quote>, except that a State may, in addition to the criteria stated in section 9(b), require that an applicant provide proof that the applicant is a citizen of the United States</quote> after <quote>elections for Federal office</quote>; and </text></paragraph> <paragraph id="H77E0A6C21DB64686BCA408DD9D38AB3B"><enum>(2)</enum><text>in paragraph (2), by inserting <quote>and such form may include a requirement that the applicant provide proof that the applicant is a citizen of the United States</quote> after <quote>elections for Federal office</quote>.</text></paragraph></subsection> 
+<subsection id="H2C7B11B262734E84A7539EB5E0A2DA75"><enum>(b)</enum><header>Effective date</header><text>This section shall take effect on the date of the enactment of this Act.</text></subsection></section> </legis-body></bill>
+

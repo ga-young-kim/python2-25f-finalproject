@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HBD3F564E695B4CA38A2FD6D3D33EC6FE" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6651 IH: To designate the facility of the United States Postal Service located at 603 West 3rd Street in Necedah, Wisconsin, as the “Sergeant Kenneth E. Murphy Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-12-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6651</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231206">December 6, 2023</action-date><action-desc><sponsor name-id="T000165">Mr. Tiffany</sponsor> (for himself, <cosponsor name-id="M001160">Ms. Moore of Wisconsin</cosponsor>, <cosponsor name-id="G000579">Mr. Gallagher</cosponsor>, <cosponsor name-id="S001213">Mr. Steil</cosponsor>, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="V000135">Mr. Van Orden</cosponsor>, <cosponsor name-id="F000471">Mr. Fitzgerald</cosponsor>, and <cosponsor name-id="G000576">Mr. Grothman</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 603 West 3rd Street in Necedah, Wisconsin, as the <quote>Sergeant Kenneth E. Murphy Post Office Building</quote>.</official-title></form><legis-body id="HF45BEC98005A4CB6B4217F23BC492B7A" style="OLC"><section id="H52F3C8D63F294E5E92156D1EEF6A1E0A" section-type="section-one"><enum>1.</enum><header>Sergeant Kenneth E. Murphy Post Office Building</header><subsection id="H0D93BD2A59FC428989460BE1A1A1346A"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 603 West 3rd Street in Necedah, Wisconsin, shall be known and designated as the <quote>Sergeant Kenneth E. Murphy Post Office Building</quote>.</text></subsection><subsection id="H0EA480B337D94DFA9032C590279A027A"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Sergeant Kenneth E. Murphy Post Office Building</quote>.</text></subsection></section></legis-body></bill> 
+

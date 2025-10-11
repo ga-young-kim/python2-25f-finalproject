@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF3242BDA996F4A1789C344D0D16FF27D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4113 IH: No Altering Public Comments Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4113</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230614">June 14, 2023</action-date><action-desc><sponsor name-id="D000032">Mr. Donalds</sponsor> (for himself, <cosponsor name-id="B001302">Mr. Biggs</cosponsor>, <cosponsor name-id="G000576">Mr. Grothman</cosponsor>, and <cosponsor name-id="B001316">Mr. Burlison</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit agencies from removing or altering public comments on their websites.</official-title></form><legis-body id="H1125A6F2956240DEBB8651DD344D0238" style="OLC"> 
+<section id="HFF501DEFCE254C738EB5032E1F2D61D1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Altering Public Comments Act</short-title></quote>.</text></section> <section id="HFA4B0E68496B4706B008397BDA3AD2C8"><enum>2.</enum><header>Prohibition from deleting public comments on agency websites</header> <subsection id="H1C6EC780AD644591B5F04C1E100A5EBE"><enum>(a)</enum><header>Prohibition</header><text display-inline="yes-display-inline">An agency may not remove or alter any public comment submitted to or published on the website of an agency unless such comment is threatening or harms national security.</text></subsection> 
+<subsection id="HD0BDB0A3C22F4C4C9A0A15F0DEF381B7" commented="no"><enum>(b)</enum><header>Agency defined</header><text>In this section, the term <term>agency</term> has the meaning given that term in section 551 of title 5, United States Code. </text> </subsection></section> </legis-body></bill>
+

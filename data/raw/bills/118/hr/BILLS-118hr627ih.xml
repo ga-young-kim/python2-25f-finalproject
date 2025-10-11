@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3AE210F793B44EA3A18C47A7CB8418D3" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 627 IH: Verification Of The Electorate Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 627</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230130">January 30, 2023</action-date>
+<action-desc><sponsor name-id="F000246">Mr. Fallon</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the National Voter Registration Act of 1993 to prohibit an individual from registering to vote in elections for Federal office held in the State unless the individual provides documentary proof that the individual is a citizen of the United States.</official-title>
+</form>
+<legis-body id="HB96E2DC4DB4842D69472A2BB1CB73B5F" style="OLC"> 
+<section id="H3CC23623457640A4AD76AAEC8E01081C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Verification Of The Electorate Act</short-title></quote> or the <quote><short-title>VOTE Act</short-title></quote>.</text></section> <section id="HDD8712631A8442359944CDF36D283284"><enum>2.</enum><header>Prohibiting registration to vote of individuals who fail to provide proof of United States citizenship</header> <subsection id="HBA81D485546D403299E159341EC53A19"><enum>(a)</enum><header>In General</header><text display-inline="yes-display-inline">Section 8 of the National Voter Registration Act of 1993 (<external-xref legal-doc="usc" parsable-cite="usc/52/20507">52 U.S.C. 20507</external-xref>) is amended—</text> 
+<paragraph id="H41184E1255044CCDAE1A904D88BB3D56"><enum>(1)</enum><text>by redesignating subsection (j) as subsection (k); and</text></paragraph> <paragraph id="H9B83E29E7783475F9961B37AD435CB5D"><enum>(2)</enum><text>by inserting after subsection (i) the following new subsection:</text> 
+<quoted-block display-inline="no-display-inline" id="HBBE03318F374466CB6D30EDCF3586F5B" style="OLC"> 
+<subsection id="H7AC27016F8614FFBA07D9491EB24FA22"><enum>(j)</enum><header>Prohibiting registration of individuals not providing proof of United States citizenship</header> 
+<paragraph id="H14784B0EE0694DDE8BC48165970BEAD5"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of this Act, an individual may not register to vote in elections for Federal office held in the State unless, at the time the individual applies to register to vote, the individual provides documentary proof that the individual is a citizen of the United States. The chief State election official of a State shall, in consultation with the Election Assistance Commission, determine which documents an individual must provide to prove that the individual is a citizen of the United States for purposes of this paragraph.</text></paragraph> <paragraph id="HBA26B669C1194ED997EB6EA8AF877F28"><enum>(2)</enum><header>Applicability</header><text>Paragraph (1) applies with respect to an individual who applies to register to vote under section 5, 6, or 7 (including an individual who submits the mail voter registration application form prescribed by the Election Assistance Commission pursuant to section 9), or who applies under any other method of voter registration available in the State.</text></paragraph> 
+<paragraph id="H06144D9AEB16432A88D90170126E2D43"><enum>(3)</enum><header>Application of criminal penalty</header><text>An individual who violates this subsection shall be subject to the criminal penalty described in section 12(2).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="H1027011A20D248DC8D3D378A53D756D6"><enum>(b)</enum><header>Effective Date</header><text>The amendment made by subsection (a) shall apply with respect to applications for voter registration which are submitted on or after the date of the enactment of this Act.</text></subsection></section> 
+</legis-body>
+</bill> 
+
+

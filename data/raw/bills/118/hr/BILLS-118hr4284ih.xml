@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HFBDA2F6794E943C38A9C9A855128557A" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4284 IH: Northeast Fisheries Heritage Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 4284</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230622">June 22, 2023</action-date>
+<action-desc><sponsor name-id="G000592">Mr. Golden of Maine</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prohibit commercial offshore wind energy development in Lobster Management Area 1 in the Gulf of Maine, and for other purposes.</official-title>
+</form>
+<legis-body id="H206678F290B2409B828A9750AD1DA015" style="OLC">
+<section id="HBB1663A251D34B1E95AC281C1B642960" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Northeast Fisheries Heritage Protection Act</short-title></quote>.</text></section> <section id="HCF39A1DF41F6439097A96D081BA0AC5E"><enum>2.</enum><header>Prohibition on commercial offshore wind energy development in Lobster Management Area 1</header> <subsection id="HAD43A75AA01F4E5E811109C96E17800F"><enum>(a)</enum><header>Findings</header><text display-inline="yes-display-inline">Congress finds the following:</text>
+<paragraph id="H4471915398824241A1E2913F24ABD77F"><enum>(1)</enum><text>The New England fishing industry has been an integral part of the history, culture, and economy of the region for over 400 years.</text></paragraph> <paragraph id="HD7CE58B170F248FCB9C88278FB0DF2F0"><enum>(2)</enum><text>In 2021, New England commercial fisheries landed an estimated 501,143,142 pounds of catch, valued at $1,968,086,375, which supports thousands of fishermen, their families, and communities that depend on these ocean resources.</text></paragraph>
+<paragraph id="HA299CEF49E42494C9AABEBD5D62D299C"><enum>(3)</enum><text>The United States lobster fishery, with Maine and Massachusetts producing 93 percent of the lobster harvest, is one of the most valuable fisheries in the country with commercial landings totaling 134,700,000 pounds valued at $925,000,000.</text></paragraph> <paragraph id="HD1FAF0890FF04E0095E03346CA29BABF"><enum>(4)</enum><text>Lobster Management Area 1 in the Gulf of Maine is a critical and highly productive fishing ground for halibut, tuna, flounder, redfish, black sea bass, monkfish, mackerel, rock and sand crab, mussels, hardshell and softshell clams, oysters, scallops, conchs, squid, and lobster.</text></paragraph>
+<paragraph id="HBE5B14F6DF2D4080B87161D7B0D44819"><enum>(5)</enum><text display-inline="yes-display-inline">The Bureau of Ocean Energy Management recently published <quote>Commercial Leasing for Wind Power Development on the Gulf of Maine Outer Continental Shelf (OCS)–Call for Information and Nominations</quote> (88 Fed. Reg. 25427; published April 26, 2023), which invites public comment on potential commercial wind energy development in the Gulf of Maine.</text></paragraph> <paragraph id="HB37E943323FC4A98A53CD56A62CC661A"><enum>(6)</enum><text>The Call identifies approximately 9,800,000 million acres to site potential commercial offshore wind projects in the Gulf of Maine, including Lobster Management Areas 1 and 3 and other areas that are closed to fishing either permanently or seasonally in an effort to protect the endangered North Atlantic right whale.</text></paragraph>
+<paragraph id="H7FE4F720FB0F4AB2B68CE6A318271CC4"><enum>(7)</enum><text display-inline="yes-display-inline">Siting offshore wind development outside of Lobster Management Area 1 would avoid conflict with the New England commercial and recreational fishing industries and preserve a vital fishing ground for future generations.</text></paragraph></subsection> <subsection id="HB0D8F760DB314FCF8FE73076200C51FD"><enum>(b)</enum><header>Prohibition on commercial offshore wind development in Lobster Management Area 1</header><text display-inline="yes-display-inline">Notwithstanding section 8 of the Outer Continental Shelf Lands Act (<external-xref legal-doc="usc" parsable-cite="usc/43/1337">43 U.S.C. 1337</external-xref>), no lease, license, permit, or other authorization may be issued for the development of commercial offshore wind energy in Lobster Management Area 1.</text></subsection>
+<subsection id="H90A52E87024E49D88B10D7D73BE0E260"><enum>(c)</enum><header>Gulf of Maine offshore wind project environmental review process study</header>
+<paragraph id="HEBBBB51697824EAD9873BEF73FF43FFF"><enum>(1)</enum><header>In general</header><text>Not later than 120 days after the date of the enactment of this section, the Comptroller General shall conduct a study to assess the sufficiency of the environmental review processes of the national Marine Fisheries Service, the Bureau of Ocean Energy Management, and any other relevant Federal agency for offshore wind projects in the Gulf of Maine in place as of the date of enactment of this section.</text></paragraph> <paragraph id="H813097F441BF46D8963ACC2F3D799B84"><enum>(2)</enum><header>Contents</header><text>The study required under paragraph (1) shall include consideration of the following:</text>
+<subparagraph id="HAC84DEDF5E944F16AD5AC8FA3D8460B8"><enum>(A)</enum><text>The impacts of offshore wind projects in the Gulf of Maine on—</text> <clause id="H8651708C689D4FDDB1564A309C883745"><enum>(i)</enum><text>marine mammals, including whales;</text></clause>
+<clause id="H97D3F2403CA841D3A91BB75890551649"><enum>(ii)</enum><text>finfish;</text></clause> <clause id="HC9DA482CA5CE4CA88B6C892E9723A7BB"><enum>(iii)</enum><text>benthic resources;</text></clause>
+<clause id="HA1871EC04EFD4F85873F2AD69605B996"><enum>(iv)</enum><text>the commercial and recreational fishing industries, including marine equipment retailers, onshore processors, fish markets, and other shoreside businesses;</text></clause> <clause id="H035354367F6348C4B6D424766E470925"><enum>(v)</enum><text>air quality and greenhouse gas emissions;</text></clause>
+<clause id="H8A357272C20C41638192367F6523C15E"><enum>(vi)</enum><text>cultural, historical, and Tribal resources;</text></clause> <clause id="HA9FAC40CAAF34F9AB342601AF7F31F4F"><enum>(vii)</enum><text>marine invertebrates;</text></clause>
+<clause id="H5B1516A69D314AACB461FD72231C1125"><enum>(viii)</enum><text display-inline="yes-display-inline">essential fish habitat (as that term is defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (<external-xref legal-doc="usc" parsable-cite="usc/16/1802">16 U.S.C. 1802</external-xref>));</text></clause> <clause id="H24181709356A422C9D9F138EF20E40D2"><enum>(ix)</enum><text>plankton abundance and distribution;</text></clause>
+<clause id="H52D373416FDD4E798B49A02446A244A5"><enum>(x)</enum><text>recreation and tourism; and</text></clause> <clause id="H5B1D17C6A8EB45E386A607EF4BBCC76A"><enum>(xi)</enum><text>fisheries-dependent communities.</text></clause></subparagraph>
+<subparagraph id="HA13A04BC908841F5913E4C9506801121"><enum>(B)</enum><text>How each agency described in paragraph (1) determines which stakeholders to consult with regard to offshore wind projects in the Gulf of Maine and if a timely, comprehensive comment period is provided for local representatives and interested parties with regard to such offshore wind projects.</text></subparagraph></paragraph></subsection> <subsection id="HEDCAA97E34F944B081856DA7701AF971"><enum>(d)</enum><header>Lobster Management Area 1 defined</header><text>In this section, the term <term>Lobster Management Area 1</term> has the meaning given the term <term>EEZ Nearshore Management Area 1</term> in section 697.18 of title 50, Code of Federal Regulations (or a successor regulation).</text></subsection></section>
+</legis-body>
+</bill> 
+
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8542E42C71FE461DBFB22B8E7C8AA362" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4167 IH: Protecting America’s Distribution Transformer Supply Chain Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4167</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230615">June 15, 2023</action-date><action-desc><sponsor name-id="H001067">Mr. Hudson</sponsor> (for himself, <cosponsor name-id="G000568">Mr. Griffith</cosponsor>, <cosponsor name-id="B001257">Mr. Bilirakis</cosponsor>, <cosponsor name-id="A000372">Mr. Allen</cosponsor>, <cosponsor name-id="B001306">Mr. Balderson</cosponsor>, <cosponsor name-id="H001086">Mrs. Harshbarger</cosponsor>, <cosponsor name-id="M001215">Mrs. Miller-Meeks</cosponsor>, and <cosponsor name-id="W000798">Mr. Walberg</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the Secretary of Energy from changing energy conservation standards for distribution transformers for a certain period, and for other purposes.</official-title></form><legis-body id="H8D6DCC07D9AB4DF287C6F2D431770B7C" style="OLC"><section id="HBE9E183D798748B1965F91BAB5F66C44" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting America’s Distribution Transformer Supply Chain Act</short-title></quote>.</text></section><section id="H79C458653B83444D85441FA615729A82"><enum>2.</enum><header>Energy conservation standards for distribution transformers</header><text display-inline="no-display-inline">Notwithstanding any provision of part B or part C of title III of the Energy Policy and Conservation Act (<external-xref legal-doc="usc" parsable-cite="usc/42/6291">42 U.S.C. 6291 et seq.</external-xref>), the Secretary of Energy may not, before the date that is 5 years after the date of enactment of this section, propose, finalize, implement, administer, or enforce any rule establishing any requirements under such Act for distribution transformers that are different than the requirements for distribution transformers under the final rule titled <quote>Energy Conservation Program: Energy Conservation Standards for Distribution Transformers</quote> and published in the Federal Register on April 18, 2013 (78 Fed. Reg. 23336).</text></section></legis-body></bill> 
+

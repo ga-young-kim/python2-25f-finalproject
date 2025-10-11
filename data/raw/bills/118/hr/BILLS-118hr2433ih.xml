@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6198CB2BF782465C811B3D35627F6DF5" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2433 IH: Fairness for Rural Teaching Hospitals Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2433</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230330">March 30, 2023</action-date><action-desc><sponsor name-id="M001204">Mr. Meuser</sponsor> (for himself, <cosponsor name-id="W000826">Ms. Wild</cosponsor>, and <cosponsor name-id="M001194">Mr. Moolenaar</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XVIII of the Social Security Act to update the calculation of the hospital specific rate for such hospitals, and for other purposes.</official-title></form><legis-body id="H6E7F784DC2F845EA9D06EC6AA19B1EBA" style="OLC"> 
+<section id="H706A40EB3A4E4BA296BF82F536D2B323" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fairness for Rural Teaching Hospitals Act of 2023</short-title></quote>.</text></section> <section id="H70EA342FD8F1422A82F7D31AC22A51D6"><enum>2.</enum><header>Update to calculation of hospital specific rate for medicare-dependent hospitals</header><text display-inline="no-display-inline">Section 1886(d)(5)(G) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ww">42 U.S.C. 1395ww(d)(5)(G)</external-xref>) is amended by inserting after clause (ii) the following:</text> 
+<quoted-block style="OLC" id="H65877FA93DFE45D6AF89116F78A2C5E7" display-inline="no-display-inline"> 
+<quoted-block-continuation-text quoted-block-continuation-text-level="section">For purposes of clause (ii)(II), in calculating the amount determined under paragraph (1)(A)(iii) with respect to discharges occurring on or after the first day of the first fiscal year following the date of enactment of the <quote>Fairness for Rural Teaching Hospitals Act of 2023</quote>, the Secretary shall exclude an estimate of indirect medical costs in accordance with the requirements specified in paragraph (2)(C)(i). Following such calculation, the Secretary shall provide for an additional payment to a hospital for the indirect medical costs incurred by such hospital.</quoted-block-continuation-text><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body></bill>
+

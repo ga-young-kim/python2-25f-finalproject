@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC117FAB8CE814FD29F63E60FF72485AC" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3191 IH: Defund the OTF Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3191</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230510">May 10, 2023</action-date><action-desc><sponsor name-id="O000175">Mr. Ogles</sponsor> (for himself, <cosponsor name-id="H001077">Mr. Higgins of Louisiana</cosponsor>, <cosponsor name-id="P000605">Mr. Perry</cosponsor>, <cosponsor name-id="B000825">Mrs. Boebert</cosponsor>, and <cosponsor name-id="G000565">Mr. Gosar</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the availability of Federal funds for the Open Technology Fund, and for other purposes.</official-title></form><legis-body id="HF39CD238AD43479B87398F434681F50F" style="OLC"> 
+<section id="H68CD1E2F4DBC4E21BDF72B7F2061AA6C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Defund the OTF Act of 2023</short-title></quote>.</text></section> <section id="H863B5613BFD544C2BEB57DA8EEA8847F"><enum>2.</enum><header>Prohibition on availability of Federal funds for Open Technology Fund</header><text display-inline="no-display-inline">No Federal funds may be made available for the Open Technology Fund established under section 309A of the United States International Broadcasting Act of 1994 (<external-xref legal-doc="usc" parsable-cite="usc/22/6208a">22 U.S.C. 6208a</external-xref>).</text> </section> 
+</legis-body></bill>
+

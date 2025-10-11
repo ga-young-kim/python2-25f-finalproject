@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HAB9D601C6B0B46C380AF309B138F948C" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 921 IH: No Asylum for Criminals Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 921</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230209">February 9, 2023</action-date><action-desc><sponsor name-id="G000595">Mr. Good of Virginia</sponsor> (for himself, <cosponsor name-id="D000615">Mr. Duncan</cosponsor>, <cosponsor name-id="P000599">Mr. Posey</cosponsor>, <cosponsor name-id="B001302">Mr. Biggs</cosponsor>, and <cosponsor name-id="M001212">Mr. Moore of Alabama</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Immigration and Nationality Act to provide that an alien who has been convicted of a crime is ineligible for asylum, and for other purposes.</official-title></form><legis-body id="HD6554575422A478DB86EDAEB851FB290" style="OLC"> 
+<section id="HC5ECE314AE4642D1A503C3967C47AB26" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Asylum for Criminals Act of 2023</short-title></quote>.</text></section> <section id="H8FBBD459E04340179AEADE03BE410679"><enum>2.</enum><header>Aliens convicted of crimes ineligible for asylum</header><text display-inline="no-display-inline">Clause (ii) of section 208(b)(2) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1158">8 U.S.C. 1158</external-xref>) is amended—</text>
+<paragraph id="HA0BD894082624A339B0B21CF2E3160FB"><enum>(1)</enum><text>by amending clause (ii) of subparagraph (A) to read as follows: </text> <quoted-block style="OLC" id="H961EF999D0D44FDC85FC301F1C3AA1E5" display-inline="no-display-inline"> <clause id="HBFF80B84F5BF4F0E9C6DEA030946960D"><enum>(ii)</enum><text display-inline="yes-display-inline">except as provided in subparagraph (B), the alien has been finally convicted of a crime; </text></clause><after-quoted-block>; and </after-quoted-block></quoted-block></paragraph>
+<paragraph id="HD6AD190B42BD45EBB0D30ABBF117F11A"><enum>(2)</enum><text>by amending subparagraph (B) to read as follows: </text> <quoted-block style="OLC" id="H5ACBC37E980A479080F33009F124F1F2" display-inline="no-display-inline"> <subparagraph id="HC86627AC43934DF093701E0CE86F63F3"><enum>(B)</enum><header>Exception</header><text display-inline="yes-display-inline">The Secretary of Homeland Security may designate by regulation political offenses committed outside the United States that will be not considered to be a crime described in clause (ii). The authority under this subparagraph is limited to political offenses committed outside the United States. </text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body></bill>
+
+

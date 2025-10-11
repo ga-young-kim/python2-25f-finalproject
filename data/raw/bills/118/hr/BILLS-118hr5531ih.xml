@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HD7EE77CBB7BB4569AAF20E66F653118C" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5531 IH: End U.N. Censorship Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5531</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230918">September 18, 2023</action-date><action-desc><sponsor name-id="C001118">Mr. Cline</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the use of United States contributions to the United Nations to support the iVerify tool developed by the United Nations Development Programme, and for other purposes.</official-title></form><legis-body id="H7BB2AB3981BE4F33AB07E78D902379A2" style="OLC"> 
+<section id="H3D0904B0CF614F41ABB9C1A1C578812A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline"> This Act may be cited as the <quote><short-title>End U.N. Censorship Act</short-title></quote>.</text></section> <section id="H49957C9407A34BE8856E570916880FF6"><enum>2.</enum><header>Prohibition</header> <subsection id="HF43CD8842D094A8C93900A3AF2ACAF29"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">No Federal funds made available to the Department of State or any other department or agency may be used—</text> 
+<paragraph id="HEA1A16FBCE0D44CB8F5E745AD07B4A2C"><enum>(1)</enum><text>to develop, implement, or otherwise support the iVerify tool developed by the United Nations Development Programme;</text></paragraph> <paragraph id="H5407B88B9FB34D1B9D94104715FA6FED"><enum>(2)</enum><text display-inline="yes-display-inline">for any other effort that seeks to label speech or expression as mal-, mis-, or dis-information;</text></paragraph> 
+<paragraph id="H13AEC77BED71456D8E3E0C47712E321D"><enum>(3)</enum><text>to make any voluntary contributions to the United Nations or any entity of the United Nations that—</text> <subparagraph id="H1B997CFB5C7F48A5BCF47D2BA7ABD304"><enum>(A)</enum><text display-inline="yes-display-inline">fund, implement, develop, or otherwise support the iVerify platform or any similar platform; or</text></subparagraph> 
+<subparagraph id="H955BBA9DF9C04671AB62569D48224792"><enum>(B)</enum><text>otherwise support initiatives that seek to label speech or expression as mal-, mis-, or disinformation; or</text></subparagraph></paragraph> <paragraph id="H16F9E22004B54EA2AAB46543B56D3A06"><enum>(4)</enum><text display-inline="yes-display-inline">to make any contribution to any other international organization for the purposes of funding, implementing, developing, or otherwise supporting the iVerify platform or any similar effort that seeks to label speech or expression as mal-, mis-, or disinformation.</text></paragraph></subsection> 
+<subsection id="HBA70DDAFE87A4F42ACB3B166A47FC5B7"><enum>(b)</enum><header>Rescission</header><text>Any amounts withheld pursuant to this section—</text> <paragraph id="HDAB9C36C14AE450F950824FCD9078273"><enum>(1)</enum><text>shall be permanently rescinded as of the date on which the Secretary makes the determination described in subsection (a)(1);</text></paragraph> 
+<paragraph id="H8430F0548CA843418A3DBBCF9066F4A4"><enum>(2)</enum><text>shall be deposited in the general fund of the Treasury; and</text></paragraph> <paragraph id="HED899EFB2F634834ABEA4CE8B4833E41"><enum>(3)</enum><text>shall not be considered arrears to be repaid to the United Nations or any entity of the United Nations.</text></paragraph></subsection></section> 
+</legis-body></bill>
+

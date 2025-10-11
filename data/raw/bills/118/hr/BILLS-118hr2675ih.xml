@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5FC841B51D714983901B60EB63574879" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2675 IH: Affordable Payment Agreements for Taxpayers Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2675</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230418">April 18, 2023</action-date><action-desc><sponsor name-id="G000574">Mr. Gallego</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to waive installment agreement fees for taxpayers with an income below 250 percent of the Federal poverty level and taxpayers using direct debit, and for other purposes.</official-title></form><legis-body id="H4B416283F2CE4EBA983BB945E5139BCD" style="OLC"> 
+<section id="HACCD4D6A1AB14BDBAF8C1541247484D0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Affordable Payment Agreements for Taxpayers Act</short-title></quote>. </text></section> <section id="H7EEF25B6489F4351BF1DAFC0DB6A05F1"><enum>2.</enum><header>Waiver of certain installment agreement fees</header> <subsection id="HF33A8C17C9114FC7AD6E569B5340ED49"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 6159(f)(2) is amended to read as follows: </text>
+<quoted-block style="OLC" id="H6898F9FEF18041BBA11E4926140F8CDE" display-inline="no-display-inline">
+<paragraph id="HBBE55F86319549D786233D276C38B797"><enum>(2)</enum><header>Waiver of fees</header>
+<subparagraph id="HE27D6921DC8145F997596FFEC60EA0BB"><enum>(A)</enum><header>Low income taxpayers</header><text display-inline="yes-display-inline">In the case of any taxpayer with an adjusted gross income, as determined for the most recent year for which such information is available, which does not exceed 250 percent of the applicable poverty level (as determined by the Secretary), no fee shall be imposed on an installment agreement under this section.</text></subparagraph> <subparagraph id="H50F309BF20CC4F5489DEF195C6630420"><enum>(B)</enum><header>Direct debit</header><text display-inline="yes-display-inline">In the case of any taxpayer who has agreed to make payments under an installment agreement by electronic payment through a debit instrument, no fee shall be imposed on an installment agreement under this section.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H505FE943D9D5453A8CB733CF172F83B9"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to agreements entered into on or after the date of the enactment of this Act. </text></subsection></section> </legis-body></bill>
+

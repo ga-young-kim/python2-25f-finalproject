@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H79846E29D24F408D99297D3D755543AF" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 318 IH: Protecting Homeowners from Disaster Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 318</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230112">January 12, 2023</action-date><action-desc><sponsor name-id="B001285">Ms. Brownley</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to repeal the limitation on deductions for personal casualty losses.</official-title></form><legis-body id="HB4F195B1C3F84CF4BC233DE140C75F6A" style="OLC"> 
+<section id="H7393FFBCF2114D3FBBCD29BF1E11C30A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Homeowners from Disaster Act of 2023</short-title></quote>.</text></section> <section id="H1675FB59D7974343AF568DC477F3C20D"><enum>2.</enum><header>Repeal of limitation on deduction for personal casualty losses</header> <subsection id="HC2E53D2D1F554DE6A04CED8D911659D9"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/165">Section 165(h)</external-xref> of the Internal Revenue Code of 1986 is amended by striking paragraph (5).</text></subsection> 
+<subsection id="H56C1EF36B27D4F7F8EA38733DEA67D95"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by this section shall apply to losses sustained in taxable years beginning after December 31, 2022.</text></subsection></section> </legis-body></bill>
+

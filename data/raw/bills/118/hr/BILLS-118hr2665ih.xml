@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H805340A5A41C45228D2C4AF36D3EBF4A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2665 IH: Supporting Safety Net Hospitals Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2665</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230418">April 18, 2023</action-date><action-desc><sponsor name-id="C001067">Ms. Clarke of New York</sponsor> (for herself, <cosponsor name-id="C001120">Mr. Crenshaw</cosponsor>, <cosponsor name-id="D000197">Ms. DeGette</cosponsor>, and <cosponsor name-id="B001248">Mr. Burgess</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XIX of the Social Security Act to delay certain disproportionate share hospital payment reductions under the Medicaid program.</official-title></form><legis-body id="HAB659F4487B14A7FB098986D7C3451FA" style="OLC"><section id="H845980F6D01B43BCB54F8F87DC020A1F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Supporting Safety Net Hospitals Act</short-title></quote>.</text></section><section id="H549335BE4317426BAD1AB4F1833D89F6"><enum>2.</enum><header>Delaying certain disproportionate share hospital payment reductions under the Medicaid program</header><text display-inline="no-display-inline">Section 1923(f)(7)(A) of the Social Security Act (42 U.S.C.1396r–4(f)(7)(A)) is amended—</text><paragraph id="H4FB4485BC8EF4349AB2457349603A94B"><enum>(1)</enum><text>in clause (i), in the matter preceding subclause (I), by striking <quote>2024</quote> and inserting <quote>2026</quote>; and</text></paragraph><paragraph id="HF80F5132E4994B359588AF98AD154889"><enum>(2)</enum><text>in clause (ii), by striking <quote>2024</quote> and inserting <quote>2026</quote>. </text></paragraph></section></legis-body></bill> 
+

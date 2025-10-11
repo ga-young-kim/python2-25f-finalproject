@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H654BC754EA9849E6B5DEA9AB9DEC2C56" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4089 IH: Safer Response Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4089</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230614">June 14, 2023</action-date><action-desc><sponsor name-id="D000632">Mr. D'Esposito</sponsor> (for himself and <cosponsor name-id="H001090">Mr. Harder of California</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Public Health Service Act to reauthorize grants for first responder training.</official-title></form><legis-body id="H7E329BC4A9124B7B9B84805468E25119" style="OLC"> 
+<section id="H27C840330BF34EF68EFA73FCEE43CC9D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Safer Response Act of 2023</short-title></quote>. </text> </section> <section id="H908A6BFA7DAF48AAA7A4DD8E71C7DC67"><enum>2.</enum><header>First responder training</header><text display-inline="no-display-inline">Section 546(h) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/290ee-1">42 U.S.C. 290ee–1(h)</external-xref>) is amending by striking <quote>$36,000,000 for each of fiscal years 2019 through 2023</quote> and inserting <quote>$56,000,000 for each of fiscal years 2024 through 2028</quote>.</text></section> 
+</legis-body></bill>
+

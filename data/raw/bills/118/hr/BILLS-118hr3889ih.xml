@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4F60A7CE78014F8D8AEF49466E74FB01" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3889 IH: No Federal Funding for CCP Spying and Persuasion In Education Settings (SPIES) Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 3889</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230607">June 7, 2023</action-date>
+<action-desc><sponsor name-id="B001299">Mr. Banks</sponsor> (for himself, <cosponsor name-id="M001194">Mr. Moolenaar</cosponsor>, <cosponsor name-id="W000804">Mr. Wittman</cosponsor>, <cosponsor name-id="W000823">Mr. Waltz</cosponsor>, and <cosponsor name-id="L000564">Mr. Lamborn</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To expand the prohibition on funding for international institutions of higher education that host Confucius Institutes and remove the authority to waive the prohibition.</official-title>
+</form>
+<legis-body id="H036E42DE3EEB443DA15877FA1D138CCE" style="OLC">
+<section id="H765AA58054B3452EAB0CFBFAB0A8C04C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Federal Funding for CCP Spying and Persuasion In Education Settings (SPIES) Act of 2023</short-title></quote>.</text></section> <section id="H5656C2B085DD43DDA0154068CCAAEE48"><enum>2.</enum><header>Prohibition on funding for international institutions of higher education that host Confucius Institutes and removal of waiver authority</header><text display-inline="no-display-inline">Section 1062 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (<external-xref legal-doc="public-law" parsable-cite="pl/116/283">Public Law 116–283</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/10/2241">10 U.S.C. 2241</external-xref> note) is amended—</text>
+<paragraph commented="no" display-inline="no-display-inline" id="H5A5D6D3461934E2388C8E4CDF431675D"><enum>(1)</enum><text>in subsection (a)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="H1475C8821C8141B2B99F689E87D49B87"><enum>(A)</enum><text display-inline="yes-display-inline">by striking <quote>Except as provided in subsection (b), none</quote> and inserting <quote>None</quote>; and</text></subparagraph>
+<subparagraph commented="no" display-inline="no-display-inline" id="H979BCDE1C277447EB2F5CFD7DCA68E10"><enum>(B)</enum><text>by inserting <quote>or international institution of higher education</quote> after <quote>institution of higher education</quote>;</text></subparagraph></paragraph> <paragraph id="HE1EDFDE9168E4F609963CD60EFCC84DF"><enum>(2)</enum><text>by striking subsection (b); and</text></paragraph>
+<paragraph commented="no" display-inline="no-display-inline" id="H5642378E01EA4F34BE746BB18AA95BD1"><enum>(3)</enum><text>by redesignating subsections (c) and (d) as subsections (b) and (c), respectively.</text></paragraph></section> </legis-body> </bill> 
+

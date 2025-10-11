@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H28E20AAFBA80402B8A4C2B77CA4D49AC" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5889 IH: Hermit’s Peak/Calf Canyon Claims Extension Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 5889</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231003">October 3, 2023</action-date>
+<action-desc><sponsor name-id="L000273">Ms. Leger Fernandez</sponsor> introduced the following bill</action-desc>
+</action>
+<action display="yes">
+<action-date date="20231025">October 25, 2023</action-date>
+<action-desc>Referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Hermit’s Peak/Calf Canyon Fire Assistance Act to extend the time period for the submission of claims, and for other purposes.</official-title>
+</form>
+<legis-body id="HA1C5AF3CA69E41C589EC833D844D63D7" style="OLC"> 
+<section id="H7BEADD782C7A42A598288546B9F0F617" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Hermit’s Peak/Calf Canyon Claims Extension Act</short-title></quote>.</text></section> <section commented="no" display-inline="no-display-inline" id="HD92678DAB2C943BB91503E668F99C680"><enum>2.</enum><header>Amendments</header><text display-inline="no-display-inline">Section 104 of the Hermit's Peak/Calf Canyon Fire Assistance Act (<external-xref legal-doc="public-law" parsable-cite="pl/117/180">Public Law 117–180</external-xref>; 136 Stat. 2170) is amended—</text> 
+<paragraph commented="no" display-inline="no-display-inline" id="H20216974212A41CCBEC08BC28DE4D8BC"><enum>(1)</enum><text display-inline="yes-display-inline">in subsection (a) by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H2270FD7A8B6F4EB6B7E47C30C740A3BF"> <paragraph id="HFEEE33D3FC004549B2B8160366B46832"><enum>(5)</enum><header>Temporary personnel</header> <subparagraph id="H6476B780F51E45DA8E8D6366DFB6034D"><enum>(A)</enum><header>In general</header><text>The Administrator may appoint temporary personnel, after serving the Office continuously for 3 years, to positions in the Federal Emergency Management Agency in the same manner that competitive service employees with competitive status are considered for transfer, reassignment, or promotion to such positions.</text></subparagraph> 
+<subparagraph id="H897971FE934F43F1A76FD8CAB6899BD9"><enum>(B)</enum><header>Career-conditional employee</header><text>An individual appointed under subparagraph (A) shall become a career-conditional employee, unless the employee has already completed the service requirements for career tenure.</text></subparagraph></paragraph><after-quoted-block>;</after-quoted-block></quoted-block></paragraph> <paragraph commented="no" display-inline="no-display-inline" id="HD1C5416990564D3DBEB541D0AA34D0C8"><enum>(2)</enum><text display-inline="yes-display-inline">in subsection (b) by striking <quote>Not later than 2 years after the date on which regulations are first promulgated under subsection (f)</quote> and inserting <quote>Not later than December 31, 2027</quote>;</text></paragraph> 
+<paragraph id="HC9D868FD52F046D89EFF088E2655BA82"><enum>(3)</enum><text>in subsection (d)(4)(C)(vii) by striking <quote>the date that is 3 years after the date on which the regulations under subsection (f) are first promulgated</quote> and inserting <quote>December 31, 2028,</quote>; and</text></paragraph> <paragraph commented="no" display-inline="no-display-inline" id="H07AEC2A5ACA14B2C8A5F23EAC3393D5D"><enum>(4)</enum><text>in subsection (d)(4)(C)(viii) by striking <quote>May 31, 2024</quote> and inserting <quote>December 31, 2028</quote>.</text></paragraph></section> 
+</legis-body>
+</bill> 
+
+

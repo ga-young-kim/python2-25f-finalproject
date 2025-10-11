@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4A2D5BAF7CCC48A9A98DF9C876926549" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5771 IH: People Before Politics Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5771</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230927">September 27, 2023</action-date><action-desc><sponsor name-id="N000193">Mr. Nunn of Iowa</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HHA00">Committee on House Administration</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Federal Election Campaign Act of 1971 to prohibit Members of Congress from making direct and personal solicitations of campaign funds when a Government shutdown is in effect, and for other purposes.</official-title></form><legis-body id="HE9B3E2CB28794DF3B59E6F2BA84F4052" style="OLC"> 
+<section id="H5D4945A55EDD48F2B0ED0C050FBCAF0C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>People Before Politics Act</short-title></quote>.</text></section> <section id="H7CA41FC6C27E49D6A346BD14B043169C"><enum>2.</enum><header>Prohibiting Members of Congress from making direct and personal solicitations of campaign funds during Government shutdown</header> <text display-inline="no-display-inline">Title III of the Federal Election Campaign Act of 1971 (<external-xref legal-doc="usc" parsable-cite="usc/52/30101">52 U.S.C. 30101 et seq.</external-xref>) is amended by adding at the end the following new section:</text> 
+<quoted-block style="OLC" id="HD8A67B2EA6B047DBBBB27D08711C906B" display-inline="no-display-inline"> 
+<section id="H58F640A1762A4750A63F89A49B8B8114"><enum>325.</enum><header>Prohibiting Members of Congress from making direct and personal solicitations of campaign funds during Government shutdown</header> 
+<subsection id="HBEF48FC9B6774401A8E6CD59BEFBDDF4"><enum>(a)</enum><header>Prohibition</header><text display-inline="yes-display-inline">An individual holding the office of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress may not make a direct and personal solicitation of funds in connection with an election for Federal office at any time during which a Government shutdown is in effect.</text> </subsection> <subsection id="H2770371C2C4D42B5BC484B8C297DB09D" display-inline="no-display-inline"><enum>(b)</enum><header>Determination of Government shutdown</header><text>For purposes of this section, a Government shutdown shall be considered to be in effect if there is a lapse in appropriations for any Federal agency or department as a result of a failure to enact a regular appropriations bill or continuing resolution.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body></bill>
+

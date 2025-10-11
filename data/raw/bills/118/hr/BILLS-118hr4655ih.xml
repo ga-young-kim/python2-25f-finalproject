@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HAAA1586F11054ED68584CF9D2EC554B9" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4655 IH: To amend the Securities Exchange Act of 1934 to prohibit the Securities and Exchange Commission from compelling the inclusion or discussion of shareholder proposals or proxy or consent solicitation materials, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4655</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230714">July 14, 2023</action-date><action-desc><sponsor name-id="N000190">Mr. Norman</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Securities Exchange Act of 1934 to prohibit the Securities and Exchange Commission from compelling the inclusion or discussion of shareholder proposals or proxy or consent solicitation materials, and for other purposes.</official-title></form><legis-body id="HA4FF1C37FC224898806E088D2ED887FF" style="OLC"> 
+<section id="H701EDBFD96B441DA9C08406C59724397" section-type="section-one"><enum>1.</enum><header>Limitation with respect to compelling the inclusion or discussion of shareholder proposals</header><text display-inline="no-display-inline">Section 14(a) of the Securities Exchange Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/15/78n">15 U.S.C. 78n(a)</external-xref>) is amended by adding at the end the following: </text> <quoted-block style="OLC" id="H1AE62086B2BB41D6A7149B4C6D64C420" display-inline="no-display-inline"> <paragraph id="H01516E2BA78B4C7FB3C35CEDF60F5029" indent="up1"><enum>(3)</enum><header>Limitation with respect to compelling discussion of shareholder proposals</header><text display-inline="yes-display-inline">Except as provided in paragraph (2), the Commission may not compel an issuer to include in a proxy statement of the issuer—</text> 
+<subparagraph id="H1D44DB665ADD41B0B62950AC3D4142B0"><enum>(A)</enum><text>any shareholder proposal; or</text></subparagraph> <subparagraph id="HFF8B6D72B8344C27A9AF1B519DE2C8B4"><enum>(B)</enum><text>any discussion (either from the issuer or otherwise) related to a shareholder proposal contained in the proxy statement.</text></subparagraph></paragraph> 
+<paragraph id="HC46679654AD34374BDDCC5AB81E3FA6E" indent="up1"><enum>(4)</enum><header>Rule of construction relating to State authority</header><text display-inline="yes-display-inline">Nothing in this Act or any other securities law shall be construed to provide the Commission the authority to preempt the State regulation of shareholder proposals or proxy or consent solicitation materials.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </section> </legis-body></bill>
+

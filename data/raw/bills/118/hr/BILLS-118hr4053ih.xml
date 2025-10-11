@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC419FF0169684F90AB21953357A8A6E1" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4053 IH: Studying Suboxone Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 4053</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230613">June 13, 2023</action-date>
+<action-desc><sponsor name-id="K000382">Ms. Kuster</sponsor> (for herself and <cosponsor name-id="C001103">Mr. Carter of Georgia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HJU00">the Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To provide for the review of the scheduling under the Controlled Substances Act of buprenorphine-naloxone combination products, and for other purposes.</official-title>
+</form>
+<legis-body id="H88E2AF75510C49BA9438E00986C91105" style="OLC"> 
+<section id="H99E8146744334D1EB13723E0726B6CF4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Studying Suboxone Act</short-title></quote>.</text></section> <section id="HF8CD282CE9E64F54A363EB2283674B66"><enum>2.</enum><header>Reviewing the scheduling of buprenorphine-naloxone combination products</header> <subsection id="H01C6C01168B5449D9FD663A07AD96CA9"><enum>(a)</enum><header>Secretary of HHS</header><text display-inline="yes-display-inline">The Secretary of Health and Human Services shall—</text> 
+<paragraph id="H7D8450FDC877413E8EE99B82787AC995"><enum>(1)</enum><text display-inline="yes-display-inline">review and, as appropriate, update the scientific and medical evaluation conducted under section 201(b) of the Controlled Substance Act (<external-xref legal-doc="usc" parsable-cite="usc/21/811">21 U.S.C. 811(b)</external-xref>) with respect to buprenorphine-naloxone combination products; and</text></paragraph> <paragraph id="H7753272AE0E94B07AD970288517891AC"><enum>(2)</enum><text>update, as necessary, the Secretary’s scheduling recommendation under such section with respect to such products.</text></paragraph></subsection> 
+<subsection id="H4BE453F7C41A4906A42EF6B1E2219F6C"><enum>(b)</enum><header>Attorney General</header><text display-inline="yes-display-inline">The Attorney General shall—</text> <paragraph id="HA3429423907D4B74A61C40C2AAA7CBB3"><enum>(1)</enum><text display-inline="yes-display-inline">review the recommendations provided by the Secretary under subsection (a), and all other relevant data with respect to the scheduling of buprenorphine-naloxone combination products;</text></paragraph> 
+<paragraph id="HF8D9DAE934E84B0F8FEE48F84943E75A"><enum>(2)</enum><text display-inline="yes-display-inline">consider the factors listed in subsection (c) of section 201 of the Controlled Substance Act (<external-xref legal-doc="usc" parsable-cite="usc/21/811">21 U.S.C. 811</external-xref>) with respect to such products; and</text></paragraph> <paragraph id="H7C736CB4291C448E8B6A2AA617583E2C"><enum>(3)</enum><text>consistent with such section 201, make such scheduling changes with respect to such products as the Secretary may determine appropriate.</text></paragraph></subsection></section> 
+</legis-body>
+</bill> 
+
+

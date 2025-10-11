@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4F96E1FE504B45CE82E4F4F584DC508D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5985 IH: To designate the facility of the United States Postal Service located at 517 Seagaze Drive in Oceanside, California, as the “Charlesetta Reece Allen Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5985</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231018">October 18, 2023</action-date><action-desc><sponsor name-id="L000593">Mr. Levin</sponsor> (for himself, <cosponsor name-id="K000397">Mrs. Kim of California</cosponsor>, <cosponsor name-id="S001156">Ms. S&#225;nchez</cosponsor>, <cosponsor name-id="S001135">Mrs. Steel</cosponsor>, <cosponsor name-id="C001110">Mr. Correa</cosponsor>, <cosponsor name-id="I000056">Mr. Issa</cosponsor>, <cosponsor name-id="P000618">Ms. Porter</cosponsor>, <cosponsor name-id="P000608">Mr. Peters</cosponsor>, <cosponsor name-id="J000305">Ms. Jacobs</cosponsor>, and <cosponsor name-id="V000130">Mr. Vargas</cosponsor>) introduced the following bill</action-desc></action><action display="yes"><action-date date="20231025">October 25, 2023</action-date><action-desc>Referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 517 Seagaze Drive in Oceanside, California, as the <quote>Charlesetta Reece Allen Post Office Building</quote>.</official-title></form><legis-body id="HDCE7AEEB0B2D4151BD02FC874F0D091D" style="OLC"> 
+<section id="HDDC371532E69494FAB515F456FE11655" section-type="section-one"><enum>1.</enum><header>Charlesetta Reece Allen Post Office Building</header> 
+<subsection id="H0F5835E47510404598A9705A174F2CFD"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 517 Seagaze Drive in Oceanside, California, shall be known and designated as the <quote>Charlesetta Reece Allen Post Office Building</quote>.</text></subsection> <subsection id="H6A1C27B7D72D46139C344751CE763813"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Charlesetta Reece Allen Post Office Building</quote>.</text> </subsection></section> 
+</legis-body></bill>
+

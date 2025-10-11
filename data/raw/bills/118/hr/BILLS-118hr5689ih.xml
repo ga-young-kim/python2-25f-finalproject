@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB2E5ACEDC1C3465CAD292D9BB2B4FF38" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5689 IH: EITC Age Parity Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5689</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230926">September 26, 2023</action-date><action-desc><sponsor name-id="C001080">Ms. Chu</sponsor> (for herself, <cosponsor name-id="M001160">Ms. Moore of Wisconsin</cosponsor>, <cosponsor name-id="E000296">Mr. Evans</cosponsor>, <cosponsor name-id="K000380">Mr. Kildee</cosponsor>, <cosponsor name-id="H001038">Mr. Higgins of New York</cosponsor>, <cosponsor name-id="G000585">Mr. Gomez</cosponsor>, <cosponsor name-id="S001185">Ms. Sewell</cosponsor>, and <cosponsor name-id="W000822">Mrs. Watson Coleman</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to modify the age limitations on eligibility for the earned income tax credit.</official-title></form><legis-body id="HBF81023007D2466EB2D0BA097608620D" style="OLC"><section id="H1D4FAE0FB802494E97875A06EE462707" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>EITC Age Parity Act of 2023</short-title></quote>. </text></section><section id="H54C4DD9F6E484BF8A7E1DA00C2CD9D8F"><enum>2.</enum><header>Modification of age limitations on eligibility for the earned income tax credit</header><subsection id="H6B1E11A932754897ADEAF5E7DAC04766"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/32">Section 32(c)(1)(A)(ii)(II)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>has attained age 25 but not attained age 65</quote> and inserting <quote>has attained age 18</quote>.</text></subsection><subsection id="H7E590E2C49FE4FA08C1801B584E2C917"><enum>(b)</enum><header>Effective date</header><text>The amendment made by this section shall apply to taxable years beginning after December 31, 2023.</text></subsection></section></legis-body></bill> 
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7258D85D4AFF4458A13BA355BDE4FBEE" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1428 IH: Free to Grow Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1428</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230307">March 7, 2023</action-date><action-desc><sponsor name-id="T000483">Mr. Trone</sponsor> (for himself, <cosponsor name-id="J000295">Mr. Joyce of Ohio</cosponsor>, <cosponsor name-id="M000194">Ms. Mace</cosponsor>, <cosponsor name-id="P000597">Ms. Pingree</cosponsor>, <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>, <cosponsor name-id="T000468">Ms. Titus</cosponsor>, and <cosponsor name-id="B001278">Ms. Bonamici</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Agricultural Marketing Act of 1946 to repeal the prohibition for certain individuals convicted of a felony offense to participate in hemp production, and for other purposes.</official-title></form><legis-body id="H7F2D816F1BEE4989826CC95B439CD089" style="OLC"><section id="H611A410DC963407687346B9D31902FD5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Free to Grow Act of 2023</short-title></quote>. </text></section><section id="H93A88BB1DB2A4E24B735EBAA8D5AFA47"><enum>2.</enum><header>Repeal of felony with respect to hemp production</header><text display-inline="no-display-inline">Section 297B(e)(3)(B) of the Agricultural Marketing Act of 1946 (<external-xref legal-doc="usc" parsable-cite="usc/7/1639p">7 U.S.C. 1639p(e)(3)(B)</external-xref>) is repealed. </text></section></legis-body></bill> 
+

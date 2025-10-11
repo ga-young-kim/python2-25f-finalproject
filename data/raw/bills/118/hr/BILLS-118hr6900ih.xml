@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDDFF58E7728E47F5B2ACFF91BFCDC0CE" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6900 IH: Continuing to Serve Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-12-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6900</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231222">December 22, 2023</action-date><action-desc><sponsor name-id="S001208">Ms. Slotkin</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 10, United States Code, to clarify the scope of the SkillBridge program of the Department of Defense, to require annual circulation of information about such program to certain members of the Armed Forces serving on active duty, and to require an annual public awareness campaign to inform potential employers of the program.</official-title></form><legis-body id="HE8F45AF75F3F4CEF84B72158CAD74A38" style="OLC"> 
+<section id="H0A840464F1824B74BE4B173AB5924249" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Continuing to Serve Act</short-title></quote>.</text></section> <section id="HFE9E4EABE46F4C99BC21BBF82624A810"><enum>2.</enum><header>Clarifying scope of SkillBridge program</header><text display-inline="no-display-inline">Section 1143(e)(1) of title 10, United States Code, is amended by inserting <quote>, which includes private and public employers and employers that are organizations described in <external-xref legal-doc="usc" parsable-cite="usc/26/501">section 501(c)(3)</external-xref> of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of such Code</quote> after <quote>civilian sector</quote>.</text></section> 
+<section id="HEBC218DCB8B6408AB228710D9B6B1F2C"><enum>3.</enum><header>Expanding participation in SkillBridge program</header><text display-inline="no-display-inline">Section 1143(e) of title 10, United States Code, as amended by section 2, is further amended by adding at the end the following:</text> <quoted-block style="USC" id="H455C4953E8B648EE8542DC34B4A6C615" display-inline="no-display-inline"> <paragraph id="H4BDAA09698E94B308F09318E91BD1C85" indent="up1"><enum>(5)</enum><text display-inline="yes-display-inline">For any program under this subsection, the Secretary concerned shall on an annual basis—</text> 
+<subparagraph id="HF1E9340353564585AFE5A677DD6AA8B6"><enum>(A)</enum><text>circulate information about the program, including information concerning eligibility for the program and the application process, to members of the armed forces serving on active duty under the jurisdiction of the Secretary concerned; and</text></subparagraph> <subparagraph id="H13F26479F3EC4D0DBE4CC04CDD8D4CA0"><enum>(B)</enum><text>engage in a public awareness campaign to inform potential employers of program participants of the existence of the program and explain to such employers how the program operates, with a focus on increasing the number and broadening the types of employers that hire program participants.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body></bill>
+

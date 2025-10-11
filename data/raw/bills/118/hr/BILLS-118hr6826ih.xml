@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H528C78CC8CA94A85A715B2374C8E9489" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6826 IH: To designate the visitor and education center at Fort McHenry National Monument and Historic Shrine as the Paul S. Sarbanes Visitor and Education Center.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-12-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6826</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231214">December 14, 2023</action-date><action-desc><sponsor name-id="M000687">Mr. Mfume</sponsor> (for himself, <cosponsor name-id="H000874">Mr. Hoyer</cosponsor>, <cosponsor name-id="S001168">Mr. Sarbanes</cosponsor>, <cosponsor name-id="H001052">Mr. Harris</cosponsor>, <cosponsor name-id="R000606">Mr. Raskin</cosponsor>, <cosponsor name-id="T000483">Mr. Trone</cosponsor>, <cosponsor name-id="R000576">Mr. Ruppersberger</cosponsor>, and <cosponsor name-id="I000058">Mr. Ivey</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the visitor and education center at Fort McHenry National Monument and Historic Shrine as the Paul S. Sarbanes Visitor and Education Center.</official-title></form><legis-body id="HB2FA499AF21543FA9682CED234879627" style="OLC"><section id="H197E7A52CA2444E2A4E902EB03CB7999" section-type="section-one"><enum>1.</enum><header>Designation</header><subsection id="H26C56D071179461BA0A72C6C7336FA53"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The visitor and education center at Fort McHenry National Monument and Historic Shrine, currently located at 2400 E Fort Ave, Baltimore, MD 21230, is designated as the <quote>Paul S. Sarbanes Visitor and Education Center</quote>.</text></subsection><subsection id="HC7333E85D134458C8E54E82E9E7CE955"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other document of the United States to the visitor center designated by subsection (a) shall be deemed to be a reference to the Paul S. Sarbanes Visitor and Education Center.</text></subsection></section></legis-body></bill> 
+

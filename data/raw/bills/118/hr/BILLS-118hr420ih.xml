@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB28B93AB4A2241C8BF97E029A3D29971" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 420 IH: Language Access for Medicare Beneficiaries Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 420</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230120">January 20, 2023</action-date><action-desc><sponsor name-id="G000585">Mr. Gomez</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XVIII of the Social Security Act to provide for enhanced Medicare beneficiary information through access to annual Medicare notifications in multiple languages.</official-title></form><legis-body id="H01D399C0356541FEB1BFCD84F30B6756" style="OLC"> 
+<section id="H898E13F211E74C5D80FA9B25FF4C864E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Language Access for Medicare Beneficiaries Act of 2023</short-title></quote>.</text></section> <section id="HAC66D77960C848B3991FA23CF8B5A1CF"><enum>2.</enum><header>Providing access to annual Medicare notifications in multiple languages</header> <subsection id="H2DA609A72F2A4B549AD52B89BBD4EF03"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1804 of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395b-2">42 U.S.C. 1395b–2</external-xref>) is amended by adding at the end the following new subsection:</text>
+<quoted-block display-inline="no-display-inline" id="H57372516E9F94D178F2E0815CB435367" style="OLC">
+<subsection id="HDAB70EBD2838469C86327E7E00DA9887"><enum>(e)</enum><text display-inline="yes-display-inline">The notice provided under subsection (a) shall be translated into languages in addition to English and Spanish. In carrying out the previous sentence, the Secretary shall prioritize translation of the notice into languages in which documents provided by the Commissioner of Social Security are translated and language that are the most frequently requested for translation for purposes of applying for old-age insurance benefits under title II.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H17E772A100B34F9083ED94BD659A6F08"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall apply to notices distributed prior to each Medicare open enrollment period beginning after January 1, 2024.</text></subsection></section> 
+</legis-body></bill>
+
+

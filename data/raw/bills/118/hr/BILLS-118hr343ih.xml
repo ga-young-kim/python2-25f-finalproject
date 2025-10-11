@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6B80A1941C8946CFBBB27B3E9F9839FB" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 343 IH: No Taxpayer Funding for the World Health Organization Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 343</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230112">January 12, 2023</action-date><action-desc><sponsor name-id="R000614">Mr. Roy</sponsor> (for himself, <cosponsor name-id="M001177">Mr. McClintock</cosponsor>, <cosponsor name-id="D000615">Mr. Duncan</cosponsor>, <cosponsor name-id="M001211">Mrs. Miller of Illinois</cosponsor>, <cosponsor name-id="C001116">Mr. Clyde</cosponsor>, <cosponsor name-id="H001086">Mrs. Harshbarger</cosponsor>, <cosponsor name-id="R000103">Mr. Rosendale</cosponsor>, <cosponsor name-id="G000596">Mrs. Greene of Georgia</cosponsor>, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, <cosponsor name-id="B001311">Mr. Bishop of North Carolina</cosponsor>, <cosponsor name-id="M001194">Mr. Moolenaar</cosponsor>, <cosponsor name-id="F000246">Mr. Fallon</cosponsor>, <cosponsor name-id="B001302">Mr. Biggs</cosponsor>, <cosponsor name-id="H001095">Mr. Hunt</cosponsor>, <cosponsor name-id="H001077">Mr. Higgins of Louisiana</cosponsor>, and <cosponsor name-id="S001214">Mr. Steube</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit United States assessed and voluntary contributions to the World Health Organization.</official-title></form><legis-body id="HDF78E01F816847A8AF651B12C08F194D" style="OLC"> 
+<section id="H196702AF843642E7ABA7C1ABEF9C6DCD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Taxpayer Funding for the World Health Organization Act</short-title></quote>.</text></section> <section id="H2F0687C192E246AA9E234501D21D67B6"><enum>2.</enum><header>Prohibition on assessed and voluntary contributions to the World Health Organization</header><text display-inline="no-display-inline">Notwithstanding any other provision of law, effective on the date of the enactment of this Act, the United States may not provide any assessed or voluntary contributions to the World Health Organization.</text></section> 
+</legis-body></bill>
+

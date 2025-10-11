@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H71BA7E4E21364FDEB1D2069EFFF8609C" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4497 IH: To expand the mission of the National Park Service to include active use of System units located in urban areas, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4497</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230706">July 6, 2023</action-date><action-desc><sponsor name-id="N000147">Ms. Norton</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To expand the mission of the National Park Service to include active use of System units located in urban areas, and for other purposes.</official-title></form><legis-body id="H79950F2115A64A0C8B77CA9ACE0F062A" style="OLC"><section id="HA47F9032A8D24E66B313F9BE80928760" section-type="section-one"><enum>1.</enum><header>Active use of System units in urban areas</header><text display-inline="no-display-inline">Title 54, United States Code, is amended as follows:</text><paragraph id="HEB87DDF8268A406886740FC3C5464B89"><enum>(1)</enum><text display-inline="yes-display-inline">In section 100101(a), by inserting <quote>‘, and to promote active use of System units located in urban areas</quote> before the final period. </text></paragraph><paragraph id="HA01F22510A6B49DD9E23E0D11BD26648"><enum>(2)</enum><text display-inline="yes-display-inline">In section 100102, by adding at the end the following:</text><quoted-block style="OLC" id="H93B0B829304D4FFA92617CBB6D0E104A" display-inline="no-display-inline"><paragraph id="HA341C5921AE94CB4A4F0A7C818B012C5"><enum>(7)</enum><header>Active use</header><text display-inline="yes-display-inline">The term <term>active use</term> means use that prioritizes current enjoyment by people and improves quality of life, and includes playgrounds, pedestrian- and bicycle-friendly infrastructure, sports and recreation facilities, community events, programming, and concessions.</text></paragraph><paragraph id="H335889521B544C0EA1B1CA0E58038DA6"><enum>(8)</enum><header>Urban area</header><text display-inline="yes-display-inline">The term <term>urban area</term> means an area that has been defined and designated in the most recent decennial census as an ‘urban area’ by the Secretary of Commerce.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></legis-body></bill> 
+

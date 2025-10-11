@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H023DFF7FA81E40FD985300822EB6A6EB" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4698 IH: To provide for a study on food animal microbiomes, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4698</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230718">July 18, 2023</action-date><action-desc><sponsor name-id="B001287">Mr. Bera</sponsor> (for himself and <cosponsor name-id="P000608">Mr. Peters</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To provide for a study on food animal microbiomes, and for other purposes.</official-title></form><legis-body id="HC829E4763D544657B6D72C6F792C91B8" style="OLC"> 
+<section id="HDEA6CF9A33E94C8A81DF37B260225B75" section-type="section-one"><enum>1.</enum><header>Study on food animal microbiomes</header> 
+<subsection id="H3CDBF497AC634DC6BEA410088185E79E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 180 days after the date of enactment of this Act, the Secretary of Agriculture shall enter into an agreement with the National Academies to conduct a study on a Federal research agenda to advance the understanding of food animal microbiomes. The study shall—</text> <paragraph id="H727C4B329F694819A0A0673F4E6BB62A"><enum>(1)</enum><text display-inline="yes-display-inline">evaluate the gaps in the current and past research at Federal agencies on food animal microbiomes that include cattle, small ruminants, poultry, and aquaculture species;</text></paragraph> 
+<paragraph id="HF399970F032849B88EA8CBA2556680DE"><enum>(2)</enum><text>assess the needs of government, research, and private industry to have a fuller understanding of the functional components of the microbiome; and</text></paragraph> <paragraph id="HE3683C3EB861475CB294CB419A08841E"><enum>(3)</enum><text>estimate the impact on animal health, food safety, and agricultural production of a fuller understanding of the animal microbiome.</text></paragraph></subsection> 
+<subsection id="H8A9D67095AA74C41AAE17F6BDC529BFD"><enum>(b)</enum><header>Report</header><text>The agreement entered into under subsection (a) shall require the National Academies to submit to Congress, not later than 18 months after the date on which the agreement is entered into, a report containing the findings of the study and the recommendations to advance the Federal research agenda on food animal microbiomes.</text></subsection> <subsection id="H218DA5B6E6524C32873441BE4EEB640D"><enum>(c)</enum><header>Authorization of appropriations</header><text>There is authorized to be appropriated to carry out this section $1,000,000 to remain available until expended.</text> </subsection></section> 
+</legis-body></bill>
+

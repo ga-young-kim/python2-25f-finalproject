@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3C262AF6A80E405687F689E21973BCA8" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1579 IH: Accredited Investor Definition Review Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 1579</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230314">March 14, 2023</action-date>
+<action-desc><sponsor name-id="H001058">Mr. Huizenga</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Securities Act of 1933 and the Dodd-Frank Wall Street Reform and Consumer Protection Act with respect to the definition of accredited investor, and for other purposes.</official-title>
+</form>
+<legis-body id="HC8EC69E939EE45D1876DCC8707EB2754" style="OLC">
+<section id="HD2E29E05D44F414CA332BC36004C89FC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Accredited Investor Definition Review Act</short-title></quote>.</text></section> <section id="H719E6EB97469444AA599C8DE4A16502A"><enum>2.</enum><header>Definition of accredited investor</header><text display-inline="no-display-inline">Section 2(a)(15) of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77b">15 U.S.C. 77b(a)(15)</external-xref>) is amended—</text>
+<paragraph id="H1FDF8B9C2E3848F9B6123140D1982EAD" display-inline="no-display-inline"><enum>(1)</enum><text>by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively;</text></paragraph> <paragraph id="HC515B0FAF6024F6AACD59ADE0605DF19"><enum>(2)</enum><text>in subparagraph (A), as so redesignated, by striking <quote>adviser; or</quote> and inserting <quote>adviser;</quote>;</text></paragraph>
+<paragraph id="H85781F68A1D84E75BE340CBED26AA52E"><enum>(3)</enum><text>in subparagraph (B), as so redesignated, by striking the period at the end and inserting <quote>; or</quote>; and</text></paragraph> <paragraph id="HF22951B7A98D4EBAB73F09D86E59D6AF"><enum>(4)</enum><text>by adding at the end the following:</text>
+<quoted-block style="OLC" id="H11AEEB9B6C214F2DB31CA5F3F8BCDB9C" display-inline="no-display-inline">
+<subparagraph id="HC3A589B8C89041FC98E55F16A8BE48A4"><enum>(C)</enum><text display-inline="yes-display-inline">an individual holding such certifications, designations, or credentials as the Commission determines necessary or appropriate in the public interest or for the protection of investors, where such list of certifications, designations, or credentials shall be no less broad than those certifications, designations, or credentials described in the amendments made to section 230.501 of title 17, Code of Federal Regulations, by the final rule of the Commission titled <quote>Accredited Investor Definition</quote> (85 Fed. Reg. 64234; published October 9, 2020).</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> <section id="H6F9F0471292C42F088844C0586283CC7"><enum>3.</enum><header>Periodic review of certifications, designations, and credentials</header><text display-inline="no-display-inline">Section 413(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (<external-xref legal-doc="usc" parsable-cite="usc/15/77b">15 U.S.C. 77b</external-xref> note) is amended by adding at the end the following:</text>
+<quoted-block style="OLC" id="H6F4757C67FC743B48E3637C3BBDD388B" display-inline="no-display-inline">
+<paragraph id="H45502210A3D944DA93A86785BC2BFBCC"><enum>(3)</enum><header>Periodic review of certifications, designations, and credentials</header><text display-inline="yes-display-inline">Not later than 18 months after the date of the enactment of this paragraph and not less frequently than once every 5 years thereafter, the Commission shall—</text> <subparagraph id="H082040DFB81D4A8988FF7C8EAA3B9530"><enum>(A)</enum><text>review the list of certifications, designations, and credentials accepted with respect to meeting the requirements of the definition of <quote>accredited investor</quote> under section 2(a)(15) of the Securities Act of 1933 (<external-xref legal-doc="usc" parsable-cite="usc/15/77b">15 U.S.C. 77b(a)(15)</external-xref>) and rules issued pursuant to such section;</text></subparagraph>
+<subparagraph id="H34E9C4A079824BA2B301CEC02741A566"><enum>(B)</enum><text>add such certifications, designations, and credentials to such list as the Commission determines are substantially similar in measuring the financial sophistication, knowledge, and experience in financial matters of an individual to the certifications, designations, and credentials included on such list at the time of such review; and</text></subparagraph> <subparagraph id="H57B07FED28D74B4D9F17907BC89023BB"><enum>(C)</enum><text>adjust or modify such list as the Commission determines necessary or appropriate in the public interest or for the protection of investors.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section>
+</legis-body>
+</bill> 
+
+

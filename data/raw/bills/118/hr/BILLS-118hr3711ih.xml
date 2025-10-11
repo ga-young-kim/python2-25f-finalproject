@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF38E7727AAAA4D74B05EED96218B93BF" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3711 IH: Schools Not Shelters Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 3711</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230525">May 25, 2023</action-date>
+<action-desc><sponsor name-id="M001221">Mr. Molinaro</sponsor> (for himself and <cosponsor name-id="L000600">Mr. Langworthy</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prohibit the use of elementary, secondary, and post-secondary school facilities to provide shelter for unlawfully present aliens, and for other purposes.</official-title>
+</form>
+<legis-body id="HA48C67A3C4DB4E6AAD6CD9CD22011738" style="OLC">
+<section id="H21DA6D1C0DBA4807B18CEBC2ED8E0A52" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Schools Not Shelters Act</short-title></quote>. </text></section> <section id="H7210742E1C6F4965B59591A516B74A17"><enum>2.</enum><header>Prohibition on use of school facilities to shelter certain aliens</header> <subsection id="H5D30D117824C4AEFA9817C2D1E2AE3E9"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">As a condition on receipt of Federal financial assistance under any applicable program by an elementary school, secondary school, or institution of higher education, the facilities of the school or institution may not be used to provide shelter for specified aliens unless—</text>
+<paragraph id="H6BC01085DC114784BBAAA7213F7B3CF8"><enum>(1)</enum><text>the facility is a dormitory facility; and</text></paragraph> <paragraph id="HC91E757F4A1049A2BD9B28A31E72D7F7"><enum>(2)</enum><text display-inline="yes-display-inline">the alien pays the amount normally assessed residents of the dormitory facility for room and board.</text></paragraph></subsection>
+<subsection id="H68D0313038B8416C82939D0497E80260"><enum>(b)</enum><header>Construction</header><text display-inline="yes-display-inline">Subsection (a) shall apply without regard to sections 401 and 411 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/2/1611">2 U.S.C. 1611</external-xref>, 1621).</text></subsection> <subsection id="H0E1EE0388ABF4633AD3ADBEEDD540E5A"><enum>(c)</enum><header>Definitions</header><text display-inline="yes-display-inline">For purposes of this Act:</text>
+<paragraph id="HD96BBC1553E2497CACFC6D15A98316DB"><enum>(1)</enum><text display-inline="yes-display-inline">The term <quote>alien</quote> has the meaning given such term in section 101(a) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1101">8 U.S.C. 1101(a)</external-xref>).</text></paragraph> <paragraph id="H4AB8892490DA45C3AC0AF5BA0E013811"><enum>(2)</enum><text display-inline="yes-display-inline">The term <quote>applicable program</quote> has the meaning such term in section 400 of the General Education Provisions Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1221">20 U.S.C. 1221</external-xref>).</text></paragraph>
+<paragraph id="HE3417EC9AAED4874B57FFC408E6AF24C"><enum>(3)</enum><text display-inline="yes-display-inline">The term <quote>dormitory facility</quote> means—</text> <subparagraph id="H87F9ECADB4EE4B99AC0AAFF29793637E"><enum>(A)</enum><text>institutionally owned or operated dormitory housing (including dining facilities inside such housing); or</text></subparagraph>
+<subparagraph id="HFC9A981EA61A4B6694502F4AA18CE56E"><enum>(B)</enum><text>another facility customarily used for housing students, faculty, or staff.</text></subparagraph></paragraph> <paragraph id="H04ACF9CC90FC4A9F85DECDF4615CB60A"><enum>(4)</enum><text>The terms <quote>elementary school</quote> and <quote>secondary school</quote> have the meaning given such terms in section 8101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>).</text></paragraph>
+<paragraph id="H4BD9A393B6504FB8A0963D519D1E7B1C"><enum>(5)</enum><text display-inline="yes-display-inline">The term <quote>Federal financial assistance</quote> has the meaning given such term in section 7501(a)(5) of title 31, United States Code.</text></paragraph> <paragraph id="H037B6BD806C14426AD2799CFFE54C0D3"><enum>(6)</enum><text>The term <quote>institution of higher education</quote> has the meaning given such term in section 101 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1001">20 U.S.C. 1001</external-xref>).</text></paragraph>
+<paragraph id="HDD871807DE5F4885A517B80A3915860A"><enum>(7)</enum><text display-inline="yes-display-inline">The term <quote>shelter</quote> excludes short-term emergency shelter made necessary by a natural disaster.</text></paragraph> <paragraph id="H4F79568BA3F04E8EA76B71E829CFF443"><enum>(8)</enum><text>The term <quote>specified alien</quote> means an alien who—</text>
+<subparagraph id="H0AB86FF9B90045C3B909C9B8B858CC1F"><enum>(A)</enum><text>is unlawfully present in the United States; or</text></subparagraph> <subparagraph id="HA8F97D2819184994932F36753E4DCC90"><enum>(B)</enum> <clause commented="no" display-inline="yes-display-inline" id="H43B8E72FC33B4601AED71E3CE6D917B1"><enum>(i)</enum><text>has not been admitted (as defined in section 101(a) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1101">8 U.S.C. 1101(a)</external-xref>));</text></clause>
+<clause id="H4E14CF3484964655A1DF436DFC2EE0F5" indent="up1"><enum>(ii)</enum><text>is in removal proceedings or has been ordered removed; and</text></clause> <clause id="H839384C6C3764345A601BA3F64DF9103" indent="up1"><enum>(iii)</enum><text>is not being detained by the Secretary of Homeland Security during the pendency of those removal proceedings or until removed.</text></clause></subparagraph></paragraph></subsection></section>
+</legis-body>
+</bill> 
+
+

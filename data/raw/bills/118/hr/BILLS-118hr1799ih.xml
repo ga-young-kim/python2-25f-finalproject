@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8BA7C4AC11B64B3991733B00B0B2F4C4" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1799 IH: Ensure Military Personnel Learn Opportunities Yielding Vocations that Employ Transitioning Servicemembers Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1799</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230324">March 24, 2023</action-date><action-desc><sponsor name-id="V000135">Mr. Van Orden</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to expand eligibility for a certain program of job counseling, training, and placement service for veterans.</official-title></form><legis-body id="H278C259881134BA7827B75B52F65607B" style="OLC">
+<section id="H13771C34FF1F47CFAE3ECF4BFB90D40B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ensure Military Personnel Learn Opportunities Yielding Vocations that Employ Transitioning Servicemembers Act</short-title></quote> or the <quote><short-title>EMPLOY VETS Act</short-title></quote>.</text></section> <section id="H92F702344CE449D5BF2C73DA1F2543C1" section-type="subsequent-section"><enum>2.</enum><header>Expansion of eligibility for a certain program of job counseling, training, and placement service for veterans</header> <subsection id="H2D27B7609C354A24B33FC35AEB098FA1"><enum>(a)</enum><header>Definition</header><text display-inline="yes-display-inline">Section 4101 of title 38, United States Code, is amended in paragraph (5)—</text> 
+<paragraph id="HD6BEB7DA5ACF45759FC199528B9A65B5"><enum>(1)</enum><text>in subparagraph (A), by striking the comma at the end and inserting a semicolon;</text></paragraph> <paragraph id="H530365DC756543F591AE958DB1DF3EBD"><enum>(2)</enum><text>in subparagraph (B), by striking <quote>power, or</quote> and inserting <quote>power;</quote></text></paragraph> 
+<paragraph id="HD6154E7E06374792B3AD3206CC34794B"><enum>(3)</enum><text>in subparagraph (C), by striking the period at the end and inserting <quote>; or</quote>; and</text></paragraph> <paragraph id="HCBDCA5F69EC94C37808CE3DADB1C83D0"><enum>(4)</enum><text>by adding at the end the following new subparagraph:</text> 
+<quoted-block style="USC" id="H3E0B8B3EC54D45FEAFA150C035B750DC" display-inline="no-display-inline"> 
+<subparagraph id="HB92516F23D984ADE939B5A19483CE0FC"><enum>(D)</enum><text display-inline="yes-display-inline">a member of the Armed Forces eligible for the Transition Assistance Program under sections 1142 and 1144 of title 10.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> <subsection id="H725991CF1FAA4F48AC457234BC138C0A"><enum>(b)</enum><header>Outreach</header><text display-inline="yes-display-inline">Section 4103A(a)(1) of such title is amended—</text> 
+<paragraph id="H00620A7F08E84169AF9C05A27D4D01F1"><enum>(1)</enum><text display-inline="yes-display-inline">in the matter preceding subparagraph (A), by inserting <quote>and certain eligible persons</quote> after <quote>eligible veterans</quote>;</text></paragraph> <paragraph id="HED04179DDDC74BBE8133FF816E539B58"><enum>(2)</enum><text display-inline="yes-display-inline">by redesignating subparagraph (C) as subparagraph (D); and</text></paragraph> 
+<paragraph id="HD30F2A0760BA40E4B4F7A6AC74BB8335"><enum>(3)</enum><text display-inline="yes-display-inline">by inserting after subparagraph (B) the following new subparagraph (C):</text> <quoted-block style="USC" id="H6FC14824CF11462F9237931FED1CAD23" display-inline="no-display-inline"> <subparagraph id="HAE617C188958464DA090E21CC687D196" indent="up1"><enum>(C)</enum><text display-inline="yes-display-inline">Eligible persons described in paragraph (5)(D) of section 4101 of this chapter.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection></section> 
+</legis-body></bill>
+

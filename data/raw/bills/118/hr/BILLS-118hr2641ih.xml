@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6CA52E4E1C16485FBCECDDDB6DC1DEAA" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2641 IH: Expanded Student Saver’s Tax Credit Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2641</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230417">April 17, 2023</action-date><action-desc><sponsor name-id="A000376">Mr. Allred</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to allow students to take the saver’s credit.</official-title></form><legis-body id="HB26C7274362A46048CB0ED1C01CC2389" style="OLC"><section id="HBADF309CE8AC4EA88ED6FACFB05B9214" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Expanded Student Saver’s Tax Credit Act</short-title></quote>.</text></section><section id="H04D5EDFAF84740978D352A857C4C052F"><enum>2.</enum><header>Credit for elective deferrals and IRA contributions allowed to individuals who are full-time students</header><subsection id="HAC8B4E9A999E44E7893C5B24A7B82CE5"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/25B">Section 25B(c)(2)</external-xref> of the Internal Revenue Code of 1986 is amended—</text><paragraph id="H6C209EA7E8C14428ABC7AB0895002360"><enum>(1)</enum><text>in the heading, by striking <quote><header-in-text level="paragraph" style="OLC">and full time students</header-in-text></quote>, and</text></paragraph><paragraph id="H9BB739406794459D966B73DC22876F37"><enum>(2)</enum><text>by striking <quote>include—</quote> and all that follows through the period and inserting <quote>include any individual with respect to whom a deduction under section 151 is allowed to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.</quote></text></paragraph></subsection><subsection id="HE2E6B73C846E41B6AE8F0010D9E3825D"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this section shall apply to contributions made after the date of the enactment of this Act. </text></subsection></section></legis-body></bill> 
+

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCFA3429AC529431BAEC4320401E0DA82" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2579 IH: Developing and Empowering our Aspiring Leaders Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2579</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230413">April 13, 2023</action-date><action-desc><sponsor name-id="B001282">Mr. Barr</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Securities and Exchange Commission to revise the definition of a qualifying investment, for purposes of the exemption from registration for venture capital fund advisers under the Investment Advisers Act of 1940, to include an equity security issued by a qualifying portfolio company and to include an investment in another venture capital fund, and for other purposes.</official-title></form><legis-body id="H847280AAE4F14024B9DE43041017C887" style="OLC"> 
+<section id="H0987C35A8D7E49B596DBB2D66628FA91" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Developing and Empowering our Aspiring Leaders Act of 2023</short-title></quote>.</text></section> <section id="H141393C915A74F0A88BF04C670A29FE0"><enum>2.</enum><header>Definitions</header><text display-inline="no-display-inline">Not later than the end of the 180-day period beginning on the date of the enactment of this Act, the Securities and Exchange Commission shall—</text> 
+<paragraph id="H62598CF3BCE5433098A48794AE49698B"><enum>(1)</enum><text>revise the definition of a qualifying investment under paragraph (c) of section 275.203(l)–1 of title 17, Code of Federal Regulations—</text> <subparagraph id="H7DD58D35D90045E5AE023C85C49F807F"><enum>(A)</enum><text>to include an equity security issued by a qualifying portfolio company, whether acquired directly from the company or in a secondary acquisition; and</text></subparagraph> 
+<subparagraph id="H086CAA411CC044D08EB85B228F143D78"><enum>(B)</enum><text display-inline="yes-display-inline">to specify that an investment in another venture capital fund is a qualifying investment under such definition; and</text></subparagraph></paragraph> <paragraph id="H4639A1F1D6FD4340A157F685E8F4A731"><enum>(2)</enum><text display-inline="yes-display-inline">revise paragraph (a) of such section to require, as a condition of a private fund qualifying as a venture capital fund under such paragraph, that the qualifying investments of the private fund are either—</text> 
+<subparagraph id="HDE364452AAEC451B912306F9D89B8201"><enum>(A)</enum><text>predominantly qualifying investments that were acquired directly from a qualifying portfolio company; or</text></subparagraph> <subparagraph id="H16D13C5C955D412B9AE2685C7A329C11"><enum>(B)</enum><text display-inline="yes-display-inline">predominantly qualifying investments in another venture capital fund or other venture capital funds.</text></subparagraph></paragraph></section> 
+</legis-body></bill>
+

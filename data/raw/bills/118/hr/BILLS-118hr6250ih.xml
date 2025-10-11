@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9946F90652AF4C2E9969B968ACB0B4B4" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6250 IH: Prevent Hamas Supporters in the U.S. Government Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 6250</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231106">November 6, 2023</action-date>
+<action-desc><sponsor name-id="M001221">Mr. Molinaro</sponsor> (for himself, <cosponsor name-id="G000583">Mr. Gottheimer</cosponsor>, <cosponsor name-id="N000190">Mr. Norman</cosponsor>, <cosponsor name-id="M001217">Mr. Moskowitz</cosponsor>, <cosponsor name-id="V000133">Mr. Van Drew</cosponsor>, and <cosponsor name-id="L000599">Mr. Lawler</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name>, and in addition to the Committees on <committee-name committee-id="HAS00">Armed Services</committee-name>, <committee-name committee-id="HJU00">the Judiciary</committee-name>, <committee-name committee-id="HHM00">Homeland Security</committee-name>, and <committee-name committee-id="HIG00">Intelligence (Permanent Select)</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To require the heads of certain Federal agencies to report to Congress ties of agency employees to Hamas or the display of support for Hamas, and for other purposes.</official-title>
+</form>
+<legis-body id="H2E8066D96CD0475E866CA165CEC3BC97" style="OLC"> 
+<section id="H80973DBBD056455B8200714C2075FC57" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Prevent Hamas Supporters in the U.S. Government Act</short-title></quote>.</text></section> <section id="H056E27E826644A8A8601B584F2DAFED4"><enum>2.</enum><header>Reports on Federal agency employee ties to PLO</header> <subsection id="HACAB32FF3580422794A6796FBCD560AC"><enum>(a)</enum><header>Inspector general reports</header><text display-inline="yes-display-inline">Not later than 90 days after the date of the enactment of this Act, the Inspector General of each covered agency shall submit to Congress a report containing a list of any employee of such covered agency who has financial, organizational, or communication ties to Hamas and a detailed description of such ties.</text></subsection> 
+<subsection id="H811426E2B103405A938D739010F35F32"><enum>(b)</enum><header>Comptroller general report</header><text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the prevalence of employees of covered agencies or each covered agency who have ties to Hamas. Such report shall include the recommendations of the Comptroller General, if any, regarding legislation to combat the hiring of individuals who have ties to Hamas.</text></subsection> <subsection id="H9D913D8DAAA14FCC8599F505ED30A602"><enum>(c)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this Act—</text> 
+<paragraph id="H3D8C50CEA1D3401397C510222F1A6C9A"><enum>(1)</enum><text>the term <term>communication</term> includes any posts by a covered agency employee on social media in support of Hamas or in support of actions taken by Hamas;</text> </paragraph> <paragraph id="H445AE154F14A432F926AB5D5F8B70C9D"><enum>(2)</enum><text>the term <term>covered agency</term> means the Department of State, the Department of Defense, the Department of Homeland Security, the Federal Bureau of Investigation, and the Central Intelligence Agency; and</text></paragraph> 
+<paragraph id="HC74ACBB7CFB1441BAE62FD3087999AED"><enum>(3)</enum><text>the term <term>employee</term> includes—</text> <subparagraph id="HC939D69952B7415E9B01F95635CDA205"><enum>(A)</enum><text>any employee (as that term is defined in section 2105 of title 5, United States Code); and</text></subparagraph> 
+<subparagraph id="H723E2D4A712B45FBB02D9230317F67EF"><enum>(B)</enum><text display-inline="yes-display-inline">any member of the Armed Forces (as that term is defined in section 2101 of such title). </text></subparagraph></paragraph></subsection></section> </legis-body> </bill> 
+

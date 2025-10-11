@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H349DE8AD6D8C45988B88C25E95B00D85" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 246 IH: Marginal Well Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 246</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230110">January 10, 2023</action-date>
+<action-desc><sponsor name-id="E000298">Mr. Estes</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Clean Air Act to prohibit the Administrator of the Environmental Protection Agency from imposing a fee on certain facilities for methane emissions.</official-title>
+</form>
+<legis-body id="HB6C41963536F463A8D2B1E9EDADB84AD" style="OLC"> 
+<section id="H7F25FA9CE6864876AA4EF48CB9479F75" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Marginal Well Protection Act</short-title></quote>.</text></section> <section id="H7CD8B39364FE477A9EACE8028D5CB356"><enum>2.</enum><header>Methane emissions and waste reduction incentive program for petroleum and natural gas systems</header><text display-inline="no-display-inline">Section 136(d) of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7436">42 U.S.C. 7436(d)</external-xref>) is amended—</text> 
+<paragraph id="HC9B2B3A9964D4FE4A5E3FD15E3EBA388"><enum>(1)</enum><text>by striking <quote>section,</quote> and inserting <quote>section:</quote>;</text></paragraph> <paragraph id="H5A5574D3747E47E8894988A3E1905A88"><enum>(2)</enum><text>by redesignating paragraphs (1) through (9) as subparagraphs (A) through (I), respectively;</text></paragraph> 
+<paragraph id="H4D3F6BF6FB294E1BA36EC2306938E87C"><enum>(3)</enum><text>by striking <quote>the term</quote> and inserting the following:</text> <quoted-block style="OLC" id="HB45DF7002E414EEE8EAD61C03D45E69F" display-inline="no-display-inline"> <paragraph id="HE893EDE1ACC0438789AB01360C93053A"><enum>(1)</enum><text display-inline="yes-display-inline">The term</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block></paragraph> 
+<paragraph id="HEE366AD3387F46BEB2666617AE4D9C09"><enum>(4)</enum><text>by adding at the end the following:</text> <quoted-block style="OLC" id="H423B6F69868F4C5CB5468ED1E894AAEF" display-inline="no-display-inline"> <paragraph id="H36FA672F4CEC4BC59261F9F2F219BD9A"><enum>(2)</enum><text display-inline="yes-display-inline">The term <term>applicable facility</term> does not include a facility that produces less than 15 barrels of oil per day and less than 90 thousand cubic feet of natural gas per day.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body>
+</bill> 
+
+

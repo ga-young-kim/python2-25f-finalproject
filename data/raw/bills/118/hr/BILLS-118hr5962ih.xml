@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC0D66ED1D31D4C43BEA5B6DDC88A4BF8" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>96 HR 5962 IH: Mount Blue Sky Wilderness Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5962</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231016">October 16, 2023</action-date><action-desc><sponsor name-id="N000191">Mr. Neguse</sponsor> (for himself and <cosponsor name-id="P000620">Ms. Pettersen</cosponsor>) introduced the following bill</action-desc></action><action display="yes"><action-date date="20231025">October 25, 2023</action-date><action-desc>Referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To redesignate the Mount Evans Wilderness as the <quote>Mount Blue Sky Wilderness</quote>, and for other purposes.</official-title></form><legis-body id="HE3B529235CA44D4DA2D640159F7DEA3D" style="OLC"><section id="H3E1493347CC84973844446560A650DBB" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Mount Blue Sky Wilderness Act</short-title></quote>.</text></section><section id="HD13377682A6742FF95401AD968445E2F"><enum>2.</enum><header>Redesignation of the Mount Evans Wilderness as the <quote>Mount Blue Sky Wilderness</quote></header><subsection id="H0A9B067012D1421D979AED35FE0EDCC4"><enum>(a)</enum><header>Redesignation</header><text>Section 102(a)(10) of <external-xref legal-doc="public-law" parsable-cite="pl/96/560">Public Law 96–560</external-xref> (<external-xref legal-doc="usc" parsable-cite="usc/16/1132">16 U.S.C. 1132</external-xref> note; 94 Stat. 3267) is amended by striking <quote>as the Mount Evans Wilderness;</quote> and inserting <quote>as the <quote>Mount Blue Sky Wilderness</quote>;</quote>.</text></subsection><subsection id="H74410C09187C448E86A82B4A543E1407"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the Mount Evans Wilderness shall be deemed to be a reference to the <quote>Mount Blue Sky Wilderness</quote>.</text></subsection></section></legis-body></bill> 
+

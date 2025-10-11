@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" public-private="public" dms-id="H9EBC7979D4DE4CEA8BCB2B8DB97C6ED8"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6155 IH: FEMA Caseworker Accountability Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session> 
+<legis-num display="yes">H. R. 6155</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20231101">November 1, 2023</action-date> 
+<action-desc><sponsor name-id="L000598">Mr. LaLota</sponsor> (for himself and <cosponsor name-id="W000808">Ms. Wilson of Florida</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To direct the Comptroller General of the United States to submit a report to Congress on case management personnel turnover of the Federal Emergency Management Agency, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H7B1432ECC6E54B2EA47F16A244EF7BD7" style="OLC"> 
+<section id="H181D5D1DC9F9436796F1CD3311B8770D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>FEMA Caseworker Accountability Act</short-title></quote>.</text></section> <section id="HCAAA3C8D5F2A4B62A7E90A8CFB8608F0"><enum>2.</enum><header>Report on staff turnover</header><text display-inline="no-display-inline">Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report containing—</text> 
+<paragraph id="H71F0A83770CB431EA7CBC8C68A7361B2"><enum>(1)</enum><text>the turnover rate for case management personnel of the Federal Emergency Management Agency;</text></paragraph> <paragraph id="H4F97DA1B80C94F98A0019A5E03A3026F"><enum>(2)</enum><text>the average and median length of employment for the personnel described in paragraph (1);</text></paragraph> 
+<paragraph id="HDA95EBE5CD5745FC97449414CE2C5F74"><enum>(3)</enum><text>the steps that the Agency is taking, or plans to take, to lower the rate of turnover for the personnel described in paragraph (1);</text></paragraph> <paragraph id="H2E58C78587364D2480B96FBB05885E6C"><enum>(4)</enum><text>the number of personnel of the Agency that is detailed to work disaster recovery and then return to such personnel’s full-time assignment after a disaster, disaggregated by full-time, part-time, temporary, and contract personnel; and</text></paragraph> 
+<paragraph id="H577EE52208344299A33B25183B1C0177"><enum>(5)</enum><text>the average time and median length of the rotations of personnel described in paragraph (4) and how often rotations and reassignment of personnel occur for each disaster recovery position and function, disaggregated by full-time, part-time, temporary, and contract personnel.</text></paragraph></section> </legis-body> </bill> 
+

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0B19F3004AF54CB185FD2377B3834471" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 433 IH: California Central Coast Conservation Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 433</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230120">January 20, 2023</action-date>
+<action-desc><sponsor name-id="P000613">Mr. Panetta</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To establish a moratorium on oil and gas leasing on public land on the Central Coast of California.</official-title>
+</form>
+<legis-body id="HAE2A7EB29C8B45BEAEA0B8BA1DAC655A" style="OLC"> 
+<section id="H9BC7727FD34444B49F6FE2DF07CD224F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>California Central Coast Conservation Act</short-title></quote>.</text></section> <section id="H740C8A2E5EA04280AF3BB0F999924E86"><enum>2.</enum><header>Moratorium on oil and gas leasing on public land on the Central Coast of California</header><text display-inline="no-display-inline">Section 17(a) of the Mineral Leasing Act (<external-xref legal-doc="usc" parsable-cite="usc/30/226">30 U.S.C. 226(a)</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block id="H58BE298183D4490AB6577ECB79B36BFA" style="OLC"> 
+<subsection id="H52903898707548B3808A445640ADA83A"><enum>(r)</enum><header>Moratorium on oil and gas leasing on public land on the Central Coast of California</header> 
+<paragraph id="HDAD545A85C8C444DBD55C18AA1AF1568"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of this Act or any other law and except as provided in paragraph (2), beginning on the date of enactment of this subsection, the Record of Decision for the Central Coast Field Office Resource Management Plan Amendment for Oil and Gas Leasing and Development published on October 7, 2019 (84 Fed. Reg. 53470), shall have no force or effect until the Bureau of Land Management Central Coast Field Office completes and circulates for public comment a supplemental environmental impact statement under section 102 of the National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4332">42 U.S.C. 4332</external-xref>) and <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/5">chapter 5</external-xref> of title 5, United States Code, that considers the environmental effects of all oil and gas development authorized to occur under the Bureau of Land Management’s preferred alternative <quote>Alternative F</quote>, which appears in the final Environmental Impact Statement published on May 10, 2019 (84 Fed. Reg. 20657), but was not included or analyzed in the Draft Environmental Impact Statement published January 6, 2017 (82 Fed. Reg. 1754), along with the environmental effects of oil and gas development that would be authorized as a result of such record of decision, including such effects on—</text> <subparagraph id="HC4C4CEB0157A46DA8B77D09EA75BAF38"><enum>(A)</enum><text>air quality;</text></subparagraph> 
+<subparagraph id="HDCB1A17F63024B1BA0392273A309183E"><enum>(B)</enum><text>greenhouse gas emissions and the climate;</text></subparagraph> <subparagraph id="HF5885A4F549E4311ACA5F7255BEA204E"><enum>(C)</enum><text>groundwater quality and availability;</text></subparagraph> 
+<subparagraph id="HC45BD27E6DDA4C50B3F55F6230DFE900"><enum>(D)</enum><text>surface water quality and availability;</text></subparagraph> <subparagraph id="H9F44B07AB9994A3D86F1C6BBCEE8EE6D"><enum>(E)</enum><text>seismicity;</text></subparagraph> 
+<subparagraph id="HF6B4D500DEEA467699C8893D8367E917"><enum>(F)</enum><text>wildlife and plant species, including threatened species and endangered species; and</text></subparagraph> <subparagraph id="HC5F8112C7005488BB77CA5B7782A2227"><enum>(G)</enum><text display-inline="yes-display-inline">low-income communities, communities of color, and indigenous communities, including federally and State-recognized Indian Tribes.</text></subparagraph></paragraph> 
+<paragraph id="HEA053FECAF6044AB969BFF0CFC0E9692"><enum>(2)</enum><header>New review</header><text display-inline="yes-display-inline">If the supplemental environmental impact statement under paragraph (1) finds any significant detrimental effects on any matter described in subparagraphs (A) through (G) of such paragraph, the Record of Decision referred to in paragraph (1) shall have no force or effect and the Director of the Bureau of Land Management shall conduct a new review of Federal oil and gas leasing on the Central Coast of California under section 102 of the National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4332">42 U.S.C. 4332</external-xref>).</text></paragraph> <paragraph id="H5B11CF729E7A4E72A78875DA59BB209D"><enum>(3)</enum><header>Environmental Protection Agency review</header> <subparagraph id="H95BDB3D6C43B44FB95C79C3B4869B65D"><enum>(A)</enum><text>After the date of the publication, pursuant to paragraph (2), of a supplemental environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (<external-xref legal-doc="usc" parsable-cite="usc/42/4332">42 U.S.C. 4332(2)(C)</external-xref>), the Administrator of the Environmental Protection Agency shall review and publish comments regarding such statement, including—</text> 
+<clause id="H97C791245BEC4E65B40A9883D2E5B4AF"><enum>(i)</enum><text display-inline="yes-display-inline">identification of any significant environmental impacts of oil and gas leasing on the Central Coast of California that should be avoided to adequately protect the region’s natural resources; or</text></clause> <clause id="H955234321EBC4B6E9EC5E88C12073736"><enum>(ii)</enum><text>a determination that the supplemental environmental impact statement does not contain sufficient information to assess such impacts.</text></clause></subparagraph> 
+<subparagraph id="H3B2C9FCEB76F44E8825837EA606C92D3"><enum>(B)</enum><text display-inline="yes-display-inline">If the Administrator identifies significant impacts under subparagraph (A)(i) or makes a determination described in subparagraph (A)(ii), the Director of the Bureau of Land Management shall consult with the Administrator before taking any action to proceed with Federal oil and gas leasing on the Central Coast of California.</text></subparagraph></paragraph> <paragraph id="HC01431192B52405C9EC2AC83BFEB05EE"><enum>(4)</enum><header>Effect</header><text>Nothing in this subsection affects any rights under leases issued under this Act before the date of enactment of this subsection.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body>
+</bill> 
+
+

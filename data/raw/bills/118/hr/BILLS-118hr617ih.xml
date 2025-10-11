@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H07FEBC1F55764109BB821F6A32208C18" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 617 IH: Paws Off Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 617</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230130">January 30, 2023</action-date><action-desc><sponsor name-id="S001183">Mr. Schweikert</sponsor> (for himself, <cosponsor name-id="W000823">Mr. Waltz</cosponsor>, <cosponsor name-id="S001211">Mr. Stanton</cosponsor>, <cosponsor name-id="G000551">Mr. Grijalva</cosponsor>, <cosponsor name-id="K000391">Mr. Krishnamoorthi</cosponsor>, <cosponsor name-id="T000468">Ms. Titus</cosponsor>, <cosponsor name-id="S000522">Mr. Smith of New Jersey</cosponsor>, <cosponsor name-id="F000466">Mr. Fitzpatrick</cosponsor>, and <cosponsor name-id="S001199">Mr. Smucker</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Federal Food, Drug, and Cosmetic Act to deem foods containing xylitol as misbranded unless the label or labeling of such foods contains a warning specifying the toxic effects of xylitol for dogs if ingested, and for other purposes.</official-title></form><legis-body id="H9636C39197154BC89AB0F9F691F9137B" style="OLC"> 
+<section id="HFD550C325CF5481BAB0F02CB6CCED430" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Paws Off Act of 2023</short-title></quote>.</text></section> <section id="H8C1CC539752A4A90B926FEE7748B6D88"><enum>2.</enum><header>Xylitol label and labeling requirements</header> <subsection id="H29A6C9413CAF48DD95CF847C9B4348B2"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 403 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/343">21 U.S.C. 343</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" id="H3D12EC03EC4449EDA28F48B28B4F71BC" display-inline="no-display-inline"> 
+<subsection id="H9E7FE832CA9A4D5DA9A880985A958D9C"><enum>(z)</enum><text display-inline="yes-display-inline">If it is a food that contains xylitol, unless the label or labeling of such food contains a warning specifying the toxic effects of xylitol for dogs if ingested.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H26EFE4ACD8F74BFA8D4AF93DCCFABE16"><enum>(b)</enum><header>Rulemaking</header> <paragraph id="H740EC961BE0844EB8E38B58B68824C95"><enum>(1)</enum><header>Interim rule</header><text>Not later than six months after the date of enactment of this Act, the Secretary shall issue an interim final rule to carry out the amendment made by subsection (a).</text></paragraph> 
+<paragraph id="HEF41B6AABD8C4D28AA7C8AB9918D30A7"><enum>(2)</enum><header>Final rule</header><text>Not later than one year after the date of enactment of this Act, the Secretary shall issue a final rule to carry out the amendment made by subsection (a).</text></paragraph></subsection> <subsection id="H6D184FF748284121B46C92D1C8585496"><enum>(c)</enum><header>Secretary defined</header><text>In this section, the term <quote>Secretary</quote> means the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs.</text></subsection></section> 
+</legis-body></bill>
+

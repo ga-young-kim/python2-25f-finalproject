@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H067396590CA04811A442B22BE5EF67C3" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5712 IH: To designate the facility of the United States Postal Service located at 220 Fremont Street in Kiel, Wisconsin, as the “Trooper Trevor J. Casper Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5712</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230926">September 26, 2023</action-date><action-desc><sponsor name-id="G000576">Mr. Grothman</sponsor> (for himself, <cosponsor name-id="S001213">Mr. Steil</cosponsor>, <cosponsor name-id="P000607">Mr. Pocan</cosponsor>, <cosponsor name-id="V000135">Mr. Van Orden</cosponsor>, <cosponsor name-id="M001160">Ms. Moore of Wisconsin</cosponsor>, <cosponsor name-id="F000471">Mr. Fitzgerald</cosponsor>, <cosponsor name-id="T000165">Mr. Tiffany</cosponsor>, and <cosponsor name-id="G000579">Mr. Gallagher</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 220 Fremont Street in Kiel, Wisconsin, as the <quote>Trooper Trevor J. Casper Post Office Building</quote>.</official-title></form><legis-body id="H8582FC1E092D4C95A8B25CD7C78CD2E1" style="OLC"> 
+<section id="H2423C0A88BCB4D5E952D66C56F6E4367" section-type="section-one"><enum>1.</enum><header>Trooper Trevor J. Casper Post Office Building</header> 
+<subsection id="H26270FE302A1415ABE07848CEB3BD5E0"><enum>(a)</enum><header>Designation</header><text>The facility of the United States Postal Service located at 220 Fremont Street in Kiel, Wisconsin, shall be known and designated as the <quote>Trooper Trevor J. Casper Post Office Building</quote>.</text></subsection> <subsection id="H0D79C7C6291342F08C7E0EEE18B92476"><enum>(b)</enum><header>References</header><text>Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Trooper Trevor J. Casper Post Office Building</quote>.</text></subsection></section> 
+</legis-body></bill>
+

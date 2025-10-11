@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1C57F0ECA3E343E1B0218CAAB393D2A2" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6240 IH: To modify a certain commercial zone in Texas to include Zapata County, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6240</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231106">November 6, 2023</action-date><action-desc><sponsor name-id="C001063">Mr. Cuellar</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To modify a certain commercial zone in Texas to include Zapata County, and for other purposes.</official-title></form><legis-body id="H6711581C147245B1B9696311E1374F50" style="OLC"> 
+<section id="H462102D27B384373811F3301CF1808C0" section-type="section-one"><enum>1.</enum><header>Modification of Cameron, Hidalgo, Starr, and Willacy Counties, Texas commercial zone</header>
+<subsection id="H13C45729644247D999CFE431C55EE3AB"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding section 13902(c)(4)(A) of title 49, United States Code, Zapata County in Texas shall be considered part of the commercial zone comprised of Cameron, Hidalgo, Starr, and Willacy Counties in Texas for purposes of transportation of property under section 13506(b) of such title.</text></subsection> <subsection id="HFD2FEFF7846F45B29B1AD51C7F0189FE"><enum>(b)</enum><header>Consultation</header><text>In carrying out this section, the Secretary of Transportation shall consult with Federal agencies that have responsibilities over traffic between the United States and Mexico. </text></subsection>
+<subsection id="H92E5C6112D0C4BFFB13F095863862970"><enum>(c)</enum><header>Submission of plan</header><text>Not later than 3 months after the date of enactment of this Act, the State of Texas shall submit to the Secretary a plan describing how the State will monitor commercial motor vehicle traffic and enforce safety regulations.</text></subsection> <subsection id="H617BD1326ABA456493A13F8D22CEDB91"><enum>(d)</enum><header>Savings provision</header><text>Nothing in this section shall affect any action commenced or pending before the Secretary or Surface Transportation Board before the date of enactment of this Act. </text></subsection>
+<subsection id="H353E9946AADD4E04A22DEDC6951AE473"><enum>(e)</enum><header>Commercial zone defined</header><text>In this section, the term <quote>commercial zone</quote> means the area that is comprised of Cameron, Hidalgo, Starr, Willacy, and Zapata Counties in Texas.</text></subsection> <subsection id="H68B0141C4F724E24935A1C8D7ABCBFB1"><enum>(f)</enum><header>Effective date</header><text display-inline="yes-display-inline">Subsection (a) shall take effect on the date that is 6 months after the date of enactment of this Act. </text></subsection></section> 
+</legis-body></bill>
+

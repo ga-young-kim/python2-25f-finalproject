@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC6ACDB359EAA4DF5985F1A4CD2B44CC2" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3475 IH: Save America’s Forgotten Equines Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3475</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230518">May 18, 2023</action-date><action-desc><sponsor name-id="B001260">Mr. Buchanan</sponsor> (for himself and <cosponsor name-id="S001145">Ms. Schakowsky</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Agriculture Improvement Act of 2018 to prohibit the slaughter of equines for human consumption.</official-title></form><legis-body id="H4011F6E7AAA44EC99195D4D1DF178F5D" style="OLC"><section id="H9D57CC9E80CE4F35898D0FC5BBB5E5BC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Save America’s Forgotten Equines Act of 2023</short-title></quote> or the <quote><short-title>SAFE Act of 2023</short-title></quote>. </text></section><section id="H8E424258261D49D0A3771FB69D1D8439"><enum>2.</enum><header>Prohibition on slaughter of equines for human consumption</header><text display-inline="no-display-inline">Section 12515 of the Agriculture Improvement Act of 2018 (<external-xref legal-doc="usc" parsable-cite="usc/7/2160">7 U.S.C. 2160</external-xref>) is amended—</text><paragraph id="H4CE3FF514A294C369F9D8ED1C9FEB63C"><enum>(1)</enum><text>in the section heading, by striking <quote><header-in-text level="section" style="OLC">dogs and cats</header-in-text></quote> and inserting <quote><header-in-text level="section" style="OLC">dogs, cats, and equines</header-in-text></quote>; and</text></paragraph><paragraph id="H58CE7627E108443FB4868B3AD7033B60"><enum>(2)</enum><text>in subsection (a), by striking <quote>a dog or cat</quote> each place it appears and inserting <quote>a dog, cat, or equine</quote>.</text></paragraph></section></legis-body></bill> 
+

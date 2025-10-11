@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA091FBEA8D8640A5B921247A091939AB" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4280 IH: Fair Accounting for Condominium Construction Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4280</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230622">June 22, 2023</action-date><action-desc><sponsor name-id="B001260">Mr. Buchanan</sponsor> (for himself and <cosponsor name-id="P000096">Mr. Pascrell</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to provide an exception to percentage of completion method of accounting for certain residential construction contracts.</official-title></form><legis-body id="H1C6CCCBE79FA445EA9E23DDB3269104A" style="OLC"> 
+<section id="HCB111418040449BF8C5E0B90A26A0088" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fair Accounting for Condominium Construction Act</short-title></quote>.</text></section> <section id="HF601B9E3CD5843289EB069D3C308F1CE"><enum>2.</enum><header>Exception to percentage of completion method of accounting for certain residential construction contracts</header> <subsection id="H2F6C87F188264934B25C5199340C4E65"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/460">Section 460(e)</external-xref> of the Internal Revenue Code of 1986 is amended—</text>
+<paragraph id="H224B33B6765040B2AE6AE54AF93C16FC"><enum>(1)</enum><text>in paragraph (1)—</text> <subparagraph id="H1400B88600CE4183977C294AE38F6FA7"><enum>(A)</enum><text>by striking <quote>home construction contract</quote> both places it appears and inserting <quote>residential construction contract</quote>, and</text></subparagraph>
+<subparagraph id="H72FE3447B2AA4F9EADDFEDDAEC365262"><enum>(B)</enum><text>by inserting <quote>(in the case of a residential construction contract which is not a home construction contract, determined by substituting <quote>3-year</quote> for <quote>2-year</quote> in subparagraph (B)(i))</quote> after <quote>the requirements of clauses (i) and (ii) of subparagraph (B) are not met</quote>,</text></subparagraph></paragraph> <paragraph id="H158D196572904C439E301A4590825F76"><enum>(2)</enum><text>in paragraph (5)(A), by striking <quote>paragraph (4)</quote> and inserting <quote>paragraph (3)</quote>, and </text></paragraph>
+<paragraph id="H298382F6186A48AE99CB2693A5B1E1AB"><enum>(3)</enum><text>by striking paragraph (4) and redesignating paragraph (5) as paragraph (4).</text></paragraph></subsection> <subsection id="H52D4B0D3352F42A883E6F10946FB7356"><enum>(b)</enum><header>Application of exception for purposes of alternative minimum tax</header><text>Section 56(a)(3) of such Code is amended by striking <quote>any home construction contract (as defined in section 460(e)(6))</quote> and inserting <quote>any residential construction contract (as defined in section 460(e)(4))</quote>.</text></subsection>
+<subsection id="HEBB0BA24D38E4A5AA0CEA1E39CD714AA"><enum>(c)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this section shall apply to contracts entered into after the date of the enactment of this Act.</text></subsection></section> </legis-body></bill>
+

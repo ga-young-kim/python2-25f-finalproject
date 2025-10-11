@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF145C78DD9F24DD1B6C917CDAC655F98" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5366 IH: Patriot Day Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5366</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230908">September 8, 2023</action-date><action-desc><sponsor name-id="F000466">Mr. Fitzpatrick</sponsor> (for himself and <cosponsor name-id="G000583">Mr. Gottheimer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 5, United States Code, to establish Patriot Day as a Federal holiday.</official-title></form><legis-body id="H2D5D63990CD04998A11764E23AAEC653" style="OLC"> 
+<section id="H482D2181379446428FAC5BD4563EB4D1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Patriot Day Act</short-title></quote>.</text></section> <section id="H4E42A429ABDA4C849FEFCFE5FE81ECBF"><enum>2.</enum><header>Patriot Day</header><text display-inline="no-display-inline">Section 6103(a) of title 5, United States Code, is amended by inserting after the item relating to Labor Day the following:</text>
+<quoted-block style="USC" display-inline="no-display-inline" id="H770E27EEB1784F778EA202EE2B18C86F"> 
+<paragraph id="H12D13A721A254D2FBCA268C5AD5862FB" indent="up1"><enum></enum><text display-inline="yes-display-inline">Patriot Day.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </section> </legis-body></bill>
+

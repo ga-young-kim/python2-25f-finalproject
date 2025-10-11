@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H69C0B751D8F84A2EA3A98135E2712484" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5882 IH: To amend the Internal Revenue Code of 1986 to modify the rehabilitation credit to allow such credit to be taken in one taxable year.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5882</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231003">October 3, 2023</action-date><action-desc><sponsor name-id="C001126">Mr. Carey</sponsor> (for himself and <cosponsor name-id="S001190">Mr. Schneider</cosponsor>) introduced the following bill</action-desc></action><action display="yes"><action-date date="20231025">October 25, 2023</action-date><action-desc>Referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to modify the rehabilitation credit to allow such credit to be taken in one taxable year.</official-title></form><legis-body id="HEB284A8C0C784D349ECA2465957A7FD2" style="OLC"><section id="HC26F64362DFD46FDB9C47A0AD85CF28A" section-type="section-one"><enum>1.</enum><header>Reinstatement of one-year rehabilitation credit</header><subsection id="H9B74296736504036AB2C22A9CD63E24E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/47">Section 47(a)</external-xref> of the Internal Revenue Code of 1986 is amended to read as follows:</text><quoted-block style="OLC" id="H1DCAB3E18C0D43C38529703337B3287D" display-inline="no-display-inline"><subsection id="H1F1CF3101FCB4DB29980CAF12591A313"><enum>(a)</enum><header>General rule</header><text display-inline="yes-display-inline">For purposes of section 46, the rehabilitation credit for any taxable year is 20 percent of the qualified rehabilitation expenditures with respect to any certified historic structure.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection><subsection id="H712D466E8ED84CBD9376967FFDE35084"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to amounts paid or incurred after December 31, 2023. </text></subsection></section></legis-body></bill> 
+

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE07F561ED9BB4D22A84DC34C33ED9DCC" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 479 IH: Targeting Child Care Funds Based on Poverty Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 479</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230124">January 24, 2023</action-date><action-desc><sponsor name-id="M001205">Mrs. Miller of West Virginia</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title IV of the Social Security Act to target additional child care funds by allocating to States based on the number of children in poverty, and for other purposes.</official-title></form><legis-body id="H013AE768AD724A4FB58A2D06C9E3452A" style="OLC"> 
+<section id="HC49C2163542B493A836C9CD6195C4A25" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Targeting Child Care Funds Based on Poverty Act of 2023</short-title></quote>.</text></section> <section id="H433A60E83A544A06A2E2DE3E80C14795" section-type="subsequent-section"><enum>2.</enum><header>Distribution of additional matching funds based on share of children in poverty</header><text display-inline="no-display-inline">Section 418(a)(2)(B) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/618">42 U.S.C. 618(a)(2)(B)</external-xref>) is amended—</text>
+<paragraph id="HD0D43510AB234A1CBDB92003FB767560"><enum>(1)</enum><text>by striking all that precedes <quote>total</quote> and inserting the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H154171F8351C4947BD6B53A9FEEBE266"> <subparagraph id="HADE8FD9507C34F72B02E595F297EA2F6"><enum>(B)</enum><header>Allotments to States</header> <clause id="H02E3B099C8CF4404BDFDBA769E11CE90"><enum>(i)</enum><header>In general</header><text display-inline="yes-display-inline">Except as provided in clause (ii), the</text></clause></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></paragraph>
+<paragraph id="H51DD64A6796644D6B2D3EE9A5E05310D"><enum>(2)</enum><text>by adding after and below the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H048653336D484E48B273C4486FB167A2"> <clause id="H04A024B35BDB443A804E5B963462FF39"><enum>(ii)</enum><header>Special rule</header><text display-inline="yes-display-inline">To the extent that the total amount referred to in clause (i) for fiscal year 2024 or for any succeeding fiscal year exceeds the total amount so referred to for fiscal year 2022, the excess shall be allotted among the States based on the share of each State of the number of children in poverty who have not attained 13 years of age.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body></bill>
+
+

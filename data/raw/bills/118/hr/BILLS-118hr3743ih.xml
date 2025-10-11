@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H87DD9D21BB2D490A9703149F7169B9CD" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3743 IH: To amend the FAA Reauthorization Act of 2018 to extend the advisory committee on the air travel needs of passengers with disabilities.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3743</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230526">May 26, 2023</action-date><action-desc><sponsor name-id="S001200">Mr. Soto</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the FAA Reauthorization Act of 2018 to extend the advisory committee on the air travel needs of passengers with disabilities.</official-title></form><legis-body id="H585E438149E0430B9C4CAF7EDD6324A4" style="OLC"> 
+<section id="HAB735321399E4CD9A3FE79633D77F5D3" section-type="section-one"><enum>1.</enum><header>Advisory committee on the air travel needs of passengers with disabilities</header><text display-inline="no-display-inline">Section 439(g) of the FAA Reauthorization Act of 2018 (<external-xref legal-doc="usc" parsable-cite="usc/49/41705">49 U.S.C. 41705</external-xref> note) is amended to read as follows: </text> <quoted-block style="OLC" id="HDEFB7E4292C949F780C543EB48FEA5ED" display-inline="no-display-inline"> <subsection id="HF169A55A872A41F78C3FCD45BCF13167"><enum>(g)</enum><header>Termination</header><text display-inline="yes-display-inline">The Advisory Committee established under this section shall terminate on the date that is 5 years after the date of enactment of this subsection. </text></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </section> 
+</legis-body></bill>
+
+

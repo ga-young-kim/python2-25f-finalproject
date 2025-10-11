@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3B6ADF402F1B46828DF974D729F94D95" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5918 IH: Operation Swords of Iron Iron Dome Supplemental Appropriations Act </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 5918</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231010">October 10, 2023</action-date>
+<action-desc><sponsor name-id="T000478">Ms. Tenney</sponsor> (for herself, <cosponsor name-id="G000583">Mr. Gottheimer</cosponsor>, <cosponsor name-id="M001222">Mr. Miller of Ohio</cosponsor>, <cosponsor name-id="S001190">Mr. Schneider</cosponsor>, <cosponsor name-id="G000597">Mr. Garbarino</cosponsor>, <cosponsor name-id="S000344">Mr. Sherman</cosponsor>, <cosponsor name-id="S000522">Mr. Smith of New Jersey</cosponsor>, <cosponsor name-id="L000599">Mr. Lawler</cosponsor>, <cosponsor name-id="N000193">Mr. Nunn of Iowa</cosponsor>, <cosponsor name-id="S001196">Ms. Stefanik</cosponsor>, <cosponsor name-id="L000600">Mr. Langworthy</cosponsor>, <cosponsor name-id="S000168">Ms. Salazar</cosponsor>, <cosponsor name-id="K000392">Mr. Kustoff</cosponsor>, <cosponsor name-id="B001299">Mr. Banks</cosponsor>, <cosponsor name-id="M001217">Mr. Moskowitz</cosponsor>, <cosponsor name-id="D000632">Mr. D'Esposito</cosponsor>, <cosponsor name-id="M001177">Mr. McClintock</cosponsor>, <cosponsor name-id="F000466">Mr. Fitzpatrick</cosponsor>, and <cosponsor name-id="G000589">Mr. Gooden of Texas</cosponsor>) introduced the following bill</action-desc>
+</action>
+<action display="yes">
+<action-date date="20231025">October 25, 2023</action-date>
+<action-desc>Referred to the <committee-name committee-id="HAP00">Committee on Appropriations</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">Making supplemental appropriations for the fiscal year ending September 30, 2024.</official-title>
+</form>
+<legis-body id="HB79D1D6287E745BD9FF43B19B58CDB5D" style="OLC"> 
+<section id="HD6FE6071485C4DC0BFEA418BA109DF6A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <short-title><quote><quote>Operation Swords of Iron</quote> Iron Dome Supplemental Appropriations Act</quote> </short-title>.</text></section> <section id="H328A8FF4F87C401EA8CE6463F73A8101"><enum>2.</enum><header>Supplemental appropriation</header><text display-inline="no-display-inline">There is appropriated, out of any money in the Treasury not otherwise appropriated, $2,000,000,000, for an additional amount for fiscal year 2024, to remain available until September 30, 2025, for the Secretary of Defense to provide to the Government of Israel for the procurement of the Iron Dome defense system to counter short-range rocket threats: <italic>Provided</italic>, That such funds shall be provided to address emergent requirements in support of Operation Swords of Iron: <italic>Provided further</italic>, That such funds shall be transferred pursuant to an exchange of letters and are in addition to funds provided pursuant to the U.S.-Israel Iron Dome Procurement Agreement, as amended: <italic>Provided further</italic>, That nothing in the preceding provisos may be construed to apply to amounts made available in prior appropriations Acts for the procurement of the Iron Dome defense system.</text> </section> 
+</legis-body>
+</bill> 
+
+

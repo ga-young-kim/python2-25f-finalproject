@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF8A026AB70F24D6081EBD93FB14504CA" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3055 IH: Improving Mental Health in Schools Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3055</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230502">May 2, 2023</action-date><action-desc><sponsor name-id="H001090">Mr. Harder of California</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Elementary and Secondary Education Act of 1965 to include certain mental health professionals as specialized instructional support personnel.</official-title></form><legis-body id="H0076DC1D35E94719A90C8E687ECF3AA3" style="OLC"> 
+<section id="HDBFF57211C4449718C33621C9CF70E7D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Improving Mental Health in Schools Act</short-title></quote>. </text></section> <section id="H2A8EB7763CCE47C6A6DD1EFEC3D9B196"><enum>2.</enum><header>Specialized instructional support personnel</header><text display-inline="no-display-inline">Section 8101(47)(A)(i) of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801(47)(A)(i)</external-xref>) is amended by striking <quote>and school psychologists</quote> and inserting <quote>school psychologists, and other qualified mental health professionals involved in providing mental health services for students, including marriage and family therapists, licensed professional clinical counselors, licensed clinical social workers, and clinical psychologists (including individuals completing supervised postgraduate hours required to become a marriage and family therapist, licensed professional clinical counselor, licensed clinical social worker, or clinical psychologist)</quote>.</text></section> 
+</legis-body></bill>
+

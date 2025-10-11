@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="HFD37298A33914F4CB2111ABC33D94F89" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1107 EH: PRC Is Not a Developing Country Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session> 
+<legis-num display="yes">H. R. 1107</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To direct the Secretary of State to take certain actions with respect to the labeling of the People’s Republic of China as a developing country, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H4BF98A55FB1244D7B1C0A876DBCF9AFF" style="OLC"> 
+<section id="H6D7631B1A8C8492BB651BDA1A56F967F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>PRC Is Not a Developing Country Act</short-title></quote>. </text></section> <section id="H1F656C6DFA394FDD917034E7EDC338D4"><enum>2.</enum><header>Statement of policy</header><text display-inline="no-display-inline">It should be the policy of the United States—</text> 
+<paragraph id="H35BFD478110B46CD97BBD9B08CED4AE1" commented="no"><enum>(1)</enum><text display-inline="yes-display-inline">to oppose the labeling or treatment of the People’s Republic of China as a developing country in any treaty or other international agreement to which the United States is a party;</text></paragraph> <paragraph id="H4AFBC915C3284113B7DC85574A802EAF"><enum>(2)</enum><text>to oppose the labeling or treatment of the People’s Republic of China as a developing country in each international organization of which the United States is a member; and</text></paragraph> 
+<paragraph id="H6F41CA6F1A2D4C8EA16D8A7130245C6E"><enum>(3)</enum><text display-inline="yes-display-inline">to pursue the labeling or treatment of the People’s Republic of China as an upper middle income country, high income country, or developed country in each international organization of which the United States is a member.</text></paragraph></section> <section id="H24C68BA5A52540AB87D9BF8EC4B36DDE"><enum>3.</enum><header>Report</header><text display-inline="no-display-inline">Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate committees of Congress a report identifying all current treaty negotiations in which—</text> 
+<paragraph id="H8F71BA285A884588904774A58EA49D12"><enum>(1)</enum><text>the proposed treaty develops different standards for the enforcement of the treaty based on the development status of the member states of the treaty; and</text></paragraph> <paragraph id="H4B4D65ECF59D4FAE9655CD279E9F1529"><enum>(2)</enum><text>the People’s Republic of China is under consideration for becoming a party to the treaty.</text></paragraph></section> 
+<section id="HF7DC51AFD17C415BB4B618874A643523"><enum>4.</enum><header>Mechanisms for changing the development status of the People’s Republic of China</header> 
+<subsection id="H0EB17BBD47F245FDBBE77251EE4D7628"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">In any international organization of which the United States and the People’s Republic of China are both current member states, the Secretary, in coordination with the heads of other Federal agencies and departments as needed, shall pursue—</text> <paragraph id="H807C3D3FF0E140468C74A6F167AECBA9"><enum>(1)</enum><text display-inline="yes-display-inline">changing the status of the People’s Republic of China from developing country to upper middle income country, high income country, or developed country if a mechanism exists in such organization to make such a change in status; </text></paragraph> 
+<paragraph id="H03F6D109B9464851ABB68C14C427A50A"><enum>(2)</enum><text>proposing the development of a mechanism described in paragraph (1) to change the status of the People’s Republic of China in such organization from developing country to developed country; or</text></paragraph> <paragraph id="H9A5DF78747A740E7BE9975207EFCEE94" commented="no"><enum>(3)</enum><text display-inline="yes-display-inline">regardless of efforts made pursuant to paragraphs (1) and (2), working to ensure that the People’s Republic of China does not receive preferential treatment or assistance within the organization as a result of it having the status of a developing country.</text></paragraph></subsection> 
+<subsection id="H2FF1D0C8C8034847A1EB0E39B2B21CFC"><enum>(b)</enum><header>Waiver</header><text display-inline="yes-display-inline">The President may waive the application of subsection (a) with respect to any international organization if the President notifies the appropriate committees of Congress, not later than 10 days before the date on which the waiver shall take effect, that such a waiver is in the national interests of the United States.</text></subsection></section> <section id="H02698CF9358344B5969397465D20BFD0"><enum>5.</enum><header>Definitions</header><text display-inline="no-display-inline">In this Act:</text> 
+<paragraph id="HF0C5CAA8C3834FD484B1CF7DD6E234F4"><enum>(1)</enum><header>Appropriate committees of Congress</header><text>The term <term>appropriate committees of Congress</term> means—</text> <subparagraph id="H6342BA1EABF8470F8FF672DC1A58E330"><enum>(A)</enum><text>the Committee on Foreign Affairs and the Committee on Ways and Means of the House of Representatives; and</text></subparagraph> 
+<subparagraph id="H4FCE54270CA24BC68663FB988D374510"><enum>(B)</enum><text display-inline="yes-display-inline">the Committee on Foreign Relations of the Senate.</text> </subparagraph></paragraph> <paragraph id="H1B73BCB2A77C4AA7A0218FE1497BA036"><enum>(2)</enum><header>Secretary</header><text>The term <term>Secretary</term> means the Secretary of State.</text></paragraph></section> 
+</legis-body> <attestation><attestation-group><attestation-date date="20230327" chamber="House">Passed the House of Representatives March 27, 2023.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+<endorsement display="yes"></endorsement>
+</bill> 
+
+

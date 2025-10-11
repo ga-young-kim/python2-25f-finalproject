@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HBF1706A75F1C4ACF8F8E2FA0F929DA4B" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4118 IH: Department of Defense Student Financial Literacy Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4118</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230614">June 14, 2023</action-date><action-desc><sponsor name-id="L000560">Mr. Larsen of Washington</sponsor> (for himself, <cosponsor name-id="K000388">Mr. Kelly of Mississippi</cosponsor>, and <cosponsor name-id="S001208">Ms. Slotkin</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name>, and in addition to the Committee on <committee-name committee-id="HED00">Education and the Workforce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To include financial literacy education as a graduation requirement in high schools operated by the Department of Defense Education Activity.</official-title></form><legis-body id="HEC26992230FB4734B64BE2A82E50C0C3" style="OLC"> 
+<section id="H659DA721C859469DA41AB3DD22CA496A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Department of Defense Student Financial Literacy Act</short-title></quote>.</text></section> <section id="H38873424B68649F0B62AF865A085BB32"><enum>2.</enum><header>Financial literacy education in schools operated by the Department of Defense Education Activity</header> <subsection id="HC2805B4E605F4241B79463840C404DCA"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Defense, acting through the Director of the Department of Defense Education Activity, shall require that each student of a high school operated by the Activity complete a dedicated course of instruction in financial literacy as a prerequisite to graduating from such school.</text> </subsection> 
+<subsection id="H41C0F4AE22744C3A91D7793EE6AF1609"><enum>(b)</enum><header>Applicability</header><text display-inline="yes-display-inline">The graduation requirement under subsection (a) shall apply with respect to students of high schools operated by the Department of Defense Education Activity beginning with the cohort of students who enter ninth grade in the first school year that begins one year after the date of the enactment of this Act.</text></subsection> <subsection id="H67F19A26FD6047C4932B566736526720"><enum>(c)</enum><header>Definitions</header><text>In this Act, the term <term>high school</term> has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>).</text></subsection></section> 
+</legis-body></bill>
+

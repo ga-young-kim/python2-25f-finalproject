@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3D5443401ACA47B89F61958823444EB5" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3314 IH: Consumer Access to Broadband for Local Economies and Competition Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 3314</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230515">May 15, 2023</action-date>
+<action-desc><sponsor name-id="B001248">Mr. Burgess</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Communications Act of 1934 to prohibit franchising authorities from requiring approval for the sale of cable systems, and for other purposes.</official-title>
+</form>
+<legis-body id="H8A95C4398F1F4D7A831A21DD4488AACC" style="OLC">
+<section id="HDA9D65E35B2646F9A4D5364EF825DEA7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Consumer Access to Broadband for Local Economies and Competition Act</short-title></quote> or the <quote><short-title>CABLE Competition Act</short-title></quote>. </text></section> <section id="HD82AB171529B4E20920B678509A56023"><enum>2.</enum><header>Sales of cable systems</header> <subsection id="H8B25A2E85E084B45B1B17E5EF0773753"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 627 of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/547">47 U.S.C. 547</external-xref>) is amended to read as follows: </text>
+<quoted-block style="OLC" id="H537CFBFAEB9B40BAA60E1184BED9D72F" display-inline="no-display-inline">
+<section id="H7B413751E9E6469284BB41E4A51FE7C9"><enum>627.</enum><header>Conditions of sale or transfer</header>
+<subsection id="H79350BF7B4694694B8A678B4857B3A28"><enum>(a)</enum><header>Value of cable system upon sale or transfer</header>
+<paragraph id="H25B7ECB964114D8DA12FA0EB42E06FC0" commented="no"><enum>(1)</enum><header>After denial of franchise renewal</header><text>If a renewal of a franchise held by a cable operator is denied and the franchising authority acquires ownership of the cable system or effects a transfer of ownership of the system to another person, any such acquisition or transfer shall be at fair market value, determined on the basis of the cable system valued as a going concern but with no value allocated to the franchise itself.</text></paragraph> <paragraph id="H2943E7E76A0D460B9FDA115CBE8FDBAD" commented="no"><enum>(2)</enum><header>After revocation of franchise for cause</header><text display-inline="yes-display-inline">If a franchise held by a cable operator is revoked for cause and the franchising authority acquires ownership of the cable system or effects a transfer of ownership of the system to another person, any such acquisition or transfer shall be at fair market value, determined on the basis of the cable system valued as a going concern but with no value allocated to the franchise itself.</text></paragraph></subsection>
+<subsection id="H68B1556608754E04BBD90159720FD02E"><enum>(b)</enum><header>Limitations on authority of franchising authority with respect to transfer of franchise</header>
+<paragraph id="H281CCE92BA6A4905928E0311EE5E4547"><enum>(1)</enum><header>In general</header><text>A franchising authority may not—</text> <subparagraph id="H75AFAD939099406F97D90C03C39FA08E"><enum>(A)</enum><text>preclude a cable operator from transferring a franchise to any person to which such franchise was not initially granted; or</text></subparagraph>
+<subparagraph id="H1E567F6BB3B34613B6845DFA7E1D79FE" commented="no"><enum>(B)</enum><text display-inline="yes-display-inline">require a cable operator to which a franchise was initially granted to receive approval from the franchising authority for the transfer of such franchise to a person who accepts all of the terms of the franchise in effect for the cable operator at the time of the transfer. </text></subparagraph></paragraph> <paragraph id="HC648C6C0E6D34056BCC8D613AA7649E0"><enum>(2)</enum><header>Notification</header><text>In the case of the transfer of a franchise to a person to which such franchise was not originally granted, a franchising authority may require a cable operator to which a franchise was initially granted to, not later than 15 days after a transfer of a franchise, notify the franchising authority in writing of such transfer.</text></paragraph>
+<paragraph id="HC13A5EB31DA641A291931593C37EE6F0" commented="no"><enum>(3)</enum><header>Transfer of a franchise defined</header><text>In this subsection, the term <quote>transfer of a franchise</quote> means the transfer or assignment of any rights under a franchise through any transaction, including through—</text> <subparagraph id="H2543272E13814BF9B6FF7F7F022208BF" commented="no"><enum>(A)</enum><text>a merger involving the cable operator or cable system;</text></subparagraph>
+<subparagraph id="H6BFAEF3A65C04571985AD7D4711D7797" commented="no"><enum>(B)</enum><text>a sale of the cable operator or cable system;</text></subparagraph> <subparagraph id="H3453B38CF67E4FACBA673B94DDC9F1F4" commented="no"><enum>(C)</enum><text>an assignment of the cable operator or a cable system;</text></subparagraph>
+<subparagraph id="H37B6CFAB1B904278B16A576EEAD2DCF7" commented="no"><enum>(D)</enum><text>a restructuring of a cable operator or a cable system; or </text></subparagraph> <subparagraph id="HBC560A514CB645639F9A4D6F618B044D" commented="no"><enum>(E)</enum><text>the transfer of control of a cable operator or a cable system. </text></subparagraph></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="HC02C74FCBAC547F0B0747B4B32267353"><enum>(b)</enum><header>Effective date</header><text>This section, and the amendment made by subsection (a), shall take effect 6 months after the date of the enactment of this Act.</text></subsection> <subsection id="H6AB099BF754B446EAA6188E7C86E1548"><enum>(c)</enum><header>Application</header><text>This section, and the amendment made by subsection (a), shall apply to a franchise granted—</text>
+<paragraph id="H1B20F12200E842B8974F7ECD39AFF130"><enum>(1)</enum><text>on or after the effective date established by subsection (b); or </text></paragraph> <paragraph id="H704AFB9F3D2C48C2B136676C14A035D5" commented="no"><enum>(2)</enum><text>before such date, if—</text>
+<subparagraph id="HE0A1941529EA4279A8F8665975C2020B"><enum>(A)</enum><text>such franchise (including any renewal term thereof) is in effect on such date; or</text></subparagraph> <subparagraph id="HC6FF18F82B4243D48E4B80C367790345"><enum>(B)</enum><text>such franchise is expired and the cable operator has continued to perform under the provisions of such franchise as if such franchise were not expired.</text></subparagraph></paragraph></subsection></section>
+</legis-body>
+</bill> 
+
+

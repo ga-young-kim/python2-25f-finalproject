@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDB38ED55471A4EF694341716FC2FA9F6" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4744 IH: Lead by Example Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4744</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230719">July 19, 2023</action-date><action-desc><sponsor name-id="M001215">Mrs. Miller-Meeks</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To establish a minimum temperature for thermostats at the headquarters of the Department of Energy and the Environmental Protection Agency, and for other purposes.</official-title></form><legis-body id="HEEC45DD244884A1E9AA3E7A15CE3BC70" style="OLC"> 
+<section section-type="section-one" id="HC47331E8DE084D5B8E07B337C83FF7E8"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Lead by Example Act of 2023</short-title></quote>.</text></section> <section id="H21393A9AE6524D20AF78040FC3FCD0FA"><enum>2.</enum><header>Thermostats at DOE and EPA headquarters</header> <subsection id="HDBAA29452D2F486DB8D5EB9710E886E1"><enum>(a)</enum><header>In general</header><text>The Secretary of Energy and the Administrator of the Environmental Protection Agency shall set all thermostats in the 1 or more buildings comprising the headquarters of the Department of Energy and the Environmental Protection Agency, respectively, to not lower than 78 degrees Fahrenheit when the air conditioning system is in operation.</text></subsection>
+<subsection id="HB8136F13551E4893B6555B6ED1D5209C"><enum>(b)</enum><header>Reports</header><text>Not later than 90 days after the date of enactment of this Act, the Secretary of Energy and the Administrator of the Environmental Protection Agency shall each submit to Congress a report describing the temperature at which thermostats have been set in the 1 or more buildings comprising the headquarters of the Department of Energy and the Environmental Protection Agency, respectively, during the period beginning on January 20, 2021, and ending on the date of enactment of this Act.</text></subsection></section> </legis-body></bill>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA63925D740134E0398A34BB91B501319" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4631 IH: MilTax Awareness Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4631</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230713">July 13, 2023</action-date><action-desc><sponsor name-id="P000613">Mr. Panetta</sponsor> (for himself and <cosponsor name-id="S001214">Mr. Steube</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To raise awareness of the MilTax program and other tax preparation services provided by the Department of Defense.</official-title></form><legis-body id="HD56DEEE43B0B47EE8C54B5C331949614" style="OLC"> 
+<section id="HACA3EA2B69E74EB79AA13838F1D189D3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>MilTax Awareness Act of 2023</short-title></quote>.</text></section> <section id="H19323F2A88CF49C7BD75E80EDAFDE9BB"><enum>2.</enum><header>Promoting the MilTax program and tax preparation services</header> <subsection id="HB57C5E5FB886482B855D2F44268DF686"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Defense shall ensure that each member of an Armed Force under the jurisdiction of the Secretary of a military department receives, not later than March 1 of each calendar year, an annual written notice by mail, electronic mail, or in person, of the availability of the MilTax program and other tax preparation assistance programs furnished by the Secretary of Defense.</text></subsection> 
+<subsection id="H83CEB1F4776A4D15824E59AA4D8296BF"><enum>(b)</enum><header>Report</header><text>Not later than the date which is 6 months after the date of the enactment of this Act, the Secretary of Defense shall submit a written report to Congress regarding the rates of participation by members described in subsection (a) in the programs described in such subsection. </text></subsection></section> </legis-body></bill>
+

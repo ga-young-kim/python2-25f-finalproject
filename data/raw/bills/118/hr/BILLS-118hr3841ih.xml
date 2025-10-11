@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0A0979ACD00F4FD9A19AB311F24F4402" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3841 IH: To amend title III of the Public Health Service Act to reauthorize the program of payments to children’s hospitals that operate graduate medical education programs.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3841</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230606">June 6, 2023</action-date><action-desc><sponsor name-id="S001216">Ms. Schrier</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title III of the Public Health Service Act to reauthorize the program of payments to children&#8217;s hospitals that operate graduate medical education programs.</official-title></form><legis-body id="H201723706734476B8BAC2C11B9F41769" style="OLC"> 
+<section id="HCCCC102A66FC4438A91C72049D87A4F0" section-type="section-one"><enum>1.</enum><header>Program of payments to children’s hospitals that operate graduate medical education programs</header><text display-inline="no-display-inline">Section 340E of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/256e">42 U.S.C. 256e</external-xref>) is amended—</text> <paragraph id="H02BE3609FB9B4342A3A922510B4C2A14"><enum>(1)</enum><text>in subsection (a), by striking <quote>2023</quote> and inserting <quote>2028</quote>; and</text></paragraph> 
+<paragraph id="H7D494DBE111B420DA1BD4098E770E437"><enum>(2)</enum><text>in subsection (f)—</text> <subparagraph id="HCCB1EB41DF5A43ED8709FBDAE07DE5F5"><enum>(A)</enum><text>in paragraph (1)(A)(vi), by striking <quote>2023</quote> and inserting <quote>2028</quote>; and</text> </subparagraph> 
+<subparagraph id="H5CE24222323940D38A560EC3B106BD0E"><enum>(B)</enum><text>in paragraph (2)(F), by striking <quote>2023</quote> and inserting <quote>2028</quote>. </text> </subparagraph></paragraph></section> </legis-body></bill>
+

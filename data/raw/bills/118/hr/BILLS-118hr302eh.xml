@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H92C657DAB39F4C2AB100283DCCAC14A3" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 302 EH: Energy Cybersecurity University Leadership Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress>118th CONGRESS</congress> <session>1st Session</session> 
+<legis-num>H. R. 302</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To direct the Secretary of Energy to provide financial assistance to graduate students and postdoctoral researchers pursuing certain courses of study relating to cybersecurity and energy infrastructure, and for other purposes.</official-title> 
+</form> 
+<legis-body id="HCBCF35B95B344507936FDE597AB5AE37" style="OLC"> 
+<section id="H64514D0B3BEE4979A00F472CB2415451" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Energy Cybersecurity University Leadership Act of 2023</short-title></quote>.</text></section> <section id="HBC4063D3D9054EECA1B8CA31900D6D15"><enum>2.</enum><header>Energy cybersecurity university leadership activities</header> <subsection id="HBA9442C5E16D40FDAE3D338B4266E93F"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">In coordination with the activities authorized under title VIII of division Z of the Consolidated Appropriations Act, 2021 (<external-xref legal-doc="public-law" parsable-cite="pl/116/260">Public Law 116–260</external-xref>), the Secretary of Energy shall support the development of a next-generation energy-specific cybersecurity workforce by—</text> 
+<paragraph id="HBA6FE1FDE1F94E2FBF7EB47C5B38301A"><enum>(1)</enum><text>providing financial assistance, on a competitive basis, for scholarships, fellowships, and research and development projects at institutions of higher education to support graduate students and postdoctoral researchers pursuing a course of study that integrates cybersecurity competencies within disciplines associated with energy infrastructure needs;</text></paragraph> <paragraph id="H087755D5E06A46F094B8923B0D0416F0" commented="no"><enum>(2)</enum><text>providing graduate students and postdoctoral researchers with research traineeship experiences at National Laboratories and utilities; and</text></paragraph> 
+<paragraph id="H668EA11CB92F4E11A99F163BDA7F302E"><enum>(3)</enum><text>conducting outreach to historically Black colleges and universities, Tribal Colleges or Universities, and minority-serving institutions.</text></paragraph></subsection> <subsection id="H1EF9A17A56E348E981D6F6FFC732A0FB"><enum>(b)</enum><header>Report</header><text>Not later than one year after the date of the enactment of this Act, the Secretary of Energy shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the implementation of the activities described in subsection (a).</text></subsection> 
+<subsection id="H7088378F91F84CDC88215FD5B562AAC5"><enum>(c)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="HC7C0D538507F40ADA1C7B7E20BC8F950"><enum>(1)</enum><header>Historically Black college and university</header><text>The term <term>historically Black college and university</term> has the meaning given the term <term>part B institution</term> in section 322 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1061">20 U.S.C. 1061</external-xref>).</text></paragraph> 
+<paragraph id="HFBACAC5086A24FF896522A64B47CB160"><enum>(2)</enum><header>Institution of higher education</header><text>The term <term>institution of higher education</term> has the meaning given such term in section 101(a) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1001">20 U.S.C. 1001(a)</external-xref>).</text></paragraph> <paragraph id="HCD8B3DDB0F6648E4B556BA31814BC1DC"><enum>(3)</enum><header>Minority-serving institution</header><text>The term <term>minority-serving institution</term> means an eligible institution under section 371(a) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1067q">20 U.S.C. 1067q(a)</external-xref>).</text></paragraph> 
+<paragraph id="H106FBBB4980644F69EF16862D11C5083"><enum>(4)</enum><header>National Laboratory</header><text>The term <term>National Laboratory</term> has the meaning given such term in section 2 of the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/15801">42 U.S.C. 15801</external-xref>).</text></paragraph> <paragraph id="HCD770C2D66694E4A90FEA2F457C1D1D8"><enum>(5)</enum><header>Tribal College or University</header><text>The term <term>Tribal College or University</term> has the meaning given such term in section 316(b) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1059c">20 U.S.C. 1059c(b)</external-xref>).</text></paragraph></subsection></section> 
+</legis-body> <attestation><attestation-group><attestation-date date="20230206" chamber="House">Passed the House of Representatives February 6, 2023.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+<endorsement display="yes"></endorsement>
+</bill> 
+
+

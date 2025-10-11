@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9EE67EC96A964CC18D33A1C24B651E15" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2533 IH: Sound Insulation Treatment Repair and Replacement Program Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 2533</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230406">April 6, 2023</action-date>
+<action-desc><sponsor name-id="S000510">Mr. Smith of Washington</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend title 49, United States Code, to allow additional funds to be provided under the airport improvement program for certain noise mitigation projects, and for other purposes.</official-title>
+</form>
+<legis-body id="H2F25E74F97A344859FB031FC8C2C7A39" style="OLC">
+<section id="HEA03FB323063476A876F42895C650AD7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Sound Insulation Treatment Repair and Replacement Program Act</short-title></quote>.</text></section> <section id="HA1C9A17B13174D86A5FB923A5C96E127" section-type="subsequent-section"><enum>2.</enum><header>Sound insulation repair and replacement projects</header> <subsection id="HA938F64A2AE1468CB9A5CAB9A37E66DB"><enum>(a)</enum><header>Government share</header><text display-inline="yes-display-inline">Section 47109 of title 49, United States Code, is amended by adding at the end the following:</text>
+<quoted-block style="USC" id="H7136CD7723F945CBBCBA31D53ACECE1A" display-inline="no-display-inline">
+<subsection id="HAEE17EE1C3AE4D58AA59DB08056F9AED"><enum>(g)</enum><header>Special rule for sound insulation repair and replacement</header><text display-inline="yes-display-inline">With respect to a project to carry out sound insulation that is granted a waiver under section 47110(j), the allowable project cost for such project shall be calculated without consideration of any costs that were previously paid by the Government.</text></subsection><after-quoted-block>. </after-quoted-block></quoted-block></subsection> <subsection id="H7945C51A178E4045AB6E025BC3C18EC1"><enum>(b)</enum><header>Sound insulation treatment repair and replacement projects</header><text display-inline="yes-display-inline">Section 47110 of title 49, United States Code, is amended by adding at the end the following:</text>
+<quoted-block style="USC" id="H5C37F1B54808412C962F2AAC73199725" display-inline="no-display-inline">
+<subsection id="HE01C7DD988D84A96A2E6044F3A1D5E1D"><enum>(j)</enum><header>Special rule for sound insulation treatment repair and replacement projects</header>
+<paragraph id="H5B73863215F144A7B990AC62554F3F82"><enum>(1)</enum><header>In general</header><text>The Secretary shall provide a one-time waiver of the requirement of subsection (b)(4) for a qualifying airport as applied to projects to carry out repair and replacement of sound insulation for a residential building for which the airport previously received Federal assistance or federally authorized airport assistance under this subchapter if—</text> <subparagraph id="H70600FE7AA30424FB87B853E6DF59E92"><enum>(A)</enum><text>the Secretary determines that the additional assistance is justified due to—</text>
+<clause id="H6788692BC8FD4DE18AA86F94A8767AC4" commented="no"><enum>(i)</enum><text display-inline="yes-display-inline">increased aircraft noise, as determined by the Administrator of the Federal Aviation Administration; or</text></clause> <clause id="H024C20ECB8704018BBF160D5527BC539" commented="no"><enum>(ii)</enum><text display-inline="yes-display-inline">the residence containing sound insulation treatments or other type of sound proofing material previously installed under this subchapter that is determined to be eligible pursuant to paragraph (2); and </text></clause></subparagraph>
+<subparagraph id="H2BEF84AC586040FEB5D21887810409EC"><enum>(B)</enum><text display-inline="yes-display-inline">the building or other structure—</text> <clause id="H916A8DAFB3624A819585E4D597BE3113"><enum>(i)</enum><text>falls within the Day Night Level (DNL) 65 standard according to the most recent noise exposure map, as such term is defined in section 150.7 of title 14, Code of Federal Regulations; or</text></clause>
+<clause id="HAA6D37896D64454E8FBBCE03334682DF"><enum>(ii)</enum><text>fell within such standard at the time the initial noise mitigation was carried out and an FAA compliant noise auditor has determined that—</text> <subclause id="H9C1278F545284EDDBF75248932B02357"><enum>(I)</enum><text display-inline="yes-display-inline">such sound insulation treatment caused physical damage to the residence; or</text></subclause>
+<subclause id="H94EAE53640884C1CBBC93C5B3808D713"><enum>(II)</enum><text display-inline="yes-display-inline">the materials used for sound insulation treatment were of low quality and have deteriorated, broken, or otherwise no longer function as intended.</text></subclause></clause></subparagraph></paragraph> <paragraph id="HDD3CCF82460E4AC288C7E6CE5A58CDCD"><enum>(2)</enum><header>Eligibility determination</header><text display-inline="yes-display-inline">To be eligible for waiver under this subsection for repair or replacement of sound insulation treatment projects, an applicant shall—</text>
+<subparagraph id="HFD2123FCFE424A5B8EF6FDC8A6D14BD9"><enum>(A)</enum><text>ensure that the applicant and the property owner exhaust any amounts available through warranties, insurance coverage, and legal remedies for the sound insulation treatment previously installed on the eligible residence; and</text></subparagraph> <subparagraph id="HDA7730DF53174B758EB60DB0FCC28706"><enum>(B)</enum><text>demonstrate that an FAA compliant noise auditor conducted an inspection of the residences and determined that—</text>
+<clause id="H3375B12A8EE74130AAFFA809D69D5DE5"><enum>(i)</enum><text>the sound insulation for which Federal assistance was previously provided has resulted in structural deterioration that was not caused by failure of the property owner to repair or adequately maintain the residential building or through the negligence of the applicant or the property owner; and</text></clause> <clause id="H866D4166E540498391F6FEDA44D54ADF"><enum>(ii)</enum><text>the condition of sound insulation treatment described in subparagraph (A) is not attributed to actions taken by an owner or occupant of the residence.</text></clause></subparagraph></paragraph>
+<paragraph id="HDC32089BCADD42B3819D930612BE5FF6"><enum>(3)</enum><header>Additional authority for periodic surveys</header><text>Notwithstanding any other provision of law, the Secretary shall consider a cost allowable under this subchapter for an airport to conduct periodic surveys of properties in which repair and replacement of sound insulation was carried out as described in paragraph (1) and for which the airport previously received Federal assistance or federally authorized airport assistance under this subchapter. Such surveys shall be carried out to identify any properties described in the preceding sentence that are eligible for funds under this subsection.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> </legis-body> </bill> 
+

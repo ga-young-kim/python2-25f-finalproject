@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HACACBCA8462B4EE8A8112F1FE4CFC84B" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1727 IH: Chesapeake and Ohio Canal National Historical Park Commission Extension Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1727</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230322">March 22, 2023</action-date><action-desc><sponsor name-id="T000483">Mr. Trone</sponsor> (for himself, <cosponsor name-id="M001195">Mr. Mooney</cosponsor>, <cosponsor name-id="R000606">Mr. Raskin</cosponsor>, <cosponsor name-id="N000147">Ms. Norton</cosponsor>, <cosponsor name-id="W000825">Ms. Wexton</cosponsor>, <cosponsor name-id="C001078">Mr. Connolly</cosponsor>, and <cosponsor name-id="B001292">Mr. Beyer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Chesapeake and Ohio Canal Development Act to extend the Chesapeake and Ohio Canal National Historical Park Commission.</official-title></form><legis-body id="H186DCFF26932430BAEA8DAF5E96F0296" style="OLC"><section id="H2DE9BF8062854044AFED71E03B548970" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Chesapeake and Ohio Canal National Historical Park Commission Extension Act</short-title></quote>.</text></section><section id="H3DB4966A27FD4229A7970306BC81D838"><enum>2.</enum><header>Chesapeake and Ohio Canal National Historical Park Commission</header><text display-inline="no-display-inline">Section 6(g) of the Chesapeake and Ohio Canal Development Act (<external-xref legal-doc="usc" parsable-cite="usc/16/410y-4">16 U.S.C. 410y–4(g)</external-xref>) is amended by striking <quote>40</quote> and all that follows through the period at the end and inserting <quote>on September 30, 2034.</quote>.</text></section></legis-body></bill> 
+

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H18E9B9397612460D9C5AFEE3ECB465C2" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5345 IH: COPS Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5345</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230905">September 5, 2023</action-date><action-desc><sponsor name-id="G000594">Mr. Tony Gonzales of Texas</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 18, United States Code, to prevent the use of explosive materials to assault, resist, or impede certain officers or employees.</official-title></form><legis-body id="H72B0A09BD1B64D3DAABFCB3FBEF90042" style="OLC"> 
+<section id="H35730EF96A704FEF8747301EF5E0B7A6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Curbing Offenses on Policing Services Act</short-title></quote> or the <quote>COPS Act</quote> .</text></section> <section id="H9C4794354FA84846B7D46F0D640BF493"><enum>2.</enum><header>Assaulting, resisting, or impeding certain officers or employees</header><text display-inline="no-display-inline">Section 111(b) of title 18, United States Code, is amended—</text> 
+<paragraph id="H2D05ADAE7F794AEF83413A92D5CE5487"><enum>(1)</enum><text>by inserting after <quote>including</quote> the following: <quote>explosive materials, as defined in section 841, or</quote>;</text></paragraph> <paragraph id="H9EC496C1F9664019A550AD63C40D6E0C"><enum>(2)</enum><text>by striking <quote>shall be fined under this title</quote> and inserting <quote>shall be fined up to $500,000, notwithstanding section 3571,</quote>; and</text> </paragraph> 
+<paragraph id="HEAB2AECEE90144E1959BCADB8B3E71C7"><enum>(3)</enum><text>by striking <quote>20 years</quote> and inserting <quote>25 years</quote>.</text></paragraph></section> </legis-body></bill>
+

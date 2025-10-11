@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC2724D6F5C564BCDA3536B6B32082E44" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6032 IH: Transparency in Legacy Road and Trail Remediation Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 6032</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231024">October 24, 2023</action-date>
+<action-desc><sponsor name-id="S001216">Ms. Schrier</sponsor> (for herself and <cosponsor name-id="C001135">Mrs. Chavez-DeRemer</cosponsor>) introduced the following bill</action-desc>
+</action>
+<action display="yes">
+<action-date date="20231025">October 25, 2023</action-date>
+<action-desc>Referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name>, and in addition to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend <external-xref legal-doc="public-law" parsable-cite="pl/88/657">Public Law 88–657</external-xref> to require greater transparency in the consideration of projects for the Forest Service Legacy Road and Trail Remediation Program, and for other purposes.</official-title>
+</form>
+<legis-body id="HBD95454FEC65485FB0FD4D62EEDB88EB" style="OLC"> 
+<section id="H21C75698153D40E7AD4AA4539696A870" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Transparency in Legacy Road and Trail Remediation Act of 2023</short-title></quote>.</text></section> <section id="H8CB21A736FB74D11A12E4A2E6A87684C"><enum>2.</enum><header>Forest Service Legacy Road and Trail Remediation Program transparency</header><text display-inline="no-display-inline">Section 8 of <external-xref legal-doc="public-law" parsable-cite="pl/88/657">Public Law 88–657</external-xref> (<external-xref legal-doc="usc" parsable-cite="usc/16/538a">16 U.S.C. 538a</external-xref>) is amended—</text> 
+<paragraph id="H8F8213C4ACF14D2F9E1084076733C51A"><enum>(1)</enum><text>in subsection (c)(2)—</text> <subparagraph id="H9C01394C6D4841C0857FA272032E7687"><enum>(A)</enum><text>by striking subparagraph (B) and inserting the following:</text> 
+<quoted-block id="H957D3B8E3FEC4778808E3A2F68A74D0A" style="OLC"> 
+<subparagraph id="H389E706B62434997992F0C3274A55FF1"><enum>(B)</enum><text>solicit and consider public input regionally in selecting projects for funding under the Program by—</text> <clause id="H2BE74FB15A8D4945961A02EB73BEE1D8"><enum>(i)</enum><text>publishing annually, for each region, a list of projects considered for funding under the Program;</text></clause> 
+<clause id="H9D33F49E05CE42FE9B97F5DC0333473C"><enum>(ii)</enum><text>accepting public comment on the projects described in clause (i); and</text></clause> <clause id="H0C6F4C290BB84D1B98A79E9A8087E861"><enum>(iii)</enum><text>considering public comments in selecting projects for funding under the Program;</text></clause></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph> 
+<subparagraph id="H4509F02E86B54ED3B6E6AA664110EC40"><enum>(B)</enum><text>in subparagraph (D)—</text> <clause id="HA6F1A5245CA44F9FA91480C805FECFBA"><enum>(i)</enum><text>in the matter preceding clause (i), by inserting <quote>annually, for each region,</quote> before <quote>publish</quote>; and</text></clause> 
+<clause id="H5D7A0CA3CDFC49B2A50FFCD169104061"><enum>(ii)</enum><text>by striking clause (ii) and inserting the following:</text> <quoted-block id="H66D1C6B9FCC7451CB04706EFE8AF592B" style="OLC"> <clause id="H3120E311749943E6B08A0580F6149B72"><enum>(ii)</enum><text>a list that includes a description of—</text> 
+<subclause id="HFAE167DB216941E48DEF20A361F6574E"><enum>(I)</enum><text>each project considered for funding under the Program;</text></subclause> <subclause id="H51AD2CCF450641A99CFD90AE0FD265FB"><enum>(II)</enum><text>public comments received on each project described in subclause (I);</text></subclause> 
+<subclause id="H5C15BA17ABC94259881DE8393361AC2D"><enum>(III)</enum><text>the ranking within the applicable region of each project described in subclause (I); and</text></subclause> <subclause id="H0F987C226C78498EB8EB953B0BF8E8BC"><enum>(IV)</enum><text>the proposed outcome of each project funded under the Program for the applicable fiscal year.</text></subclause></clause><after-quoted-block>; and</after-quoted-block></quoted-block></clause></subparagraph></paragraph> 
+<paragraph id="HA2BC842C5177421C83D83416DD3D5422"><enum>(2)</enum><text>by adding at the end the following:</text> <quoted-block id="HFBEB3530C25342838FAF19298DE84303" style="OLC"> <subsection id="H8CD2AC3F56F64152880958452194CDC7"><enum>(f)</enum><header>Definition of region</header><text>In this section, the term <term>region</term> means one of the 9 regions of the Forest Service.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body>
+</bill> 
+
+

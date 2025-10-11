@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H59949D460C554F719F132611B04F1B3D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6400 IH: To amend title XVIII of the Social Security Act to extend eligibility for certain payment increases for biosimilar biological products under the Medicare program.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6400</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231114">November 14, 2023</action-date><action-desc><sponsor name-id="C001097">Mr. Cárdenas</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XVIII of the Social Security Act to extend eligibility for certain payment increases for biosimilar biological products under the Medicare program.</official-title></form><legis-body id="H804611FD27884B1B9C244821A3946839" style="OLC"><section id="H5E5B615286684C4794E2CF710E1FA06D" section-type="section-one"><enum>1.</enum><header>Extending eligibility for certain payment increases for biosimilar biological products under the Medicare program</header><text display-inline="no-display-inline">Section 1847A(b)(8)(B)(ii)(II) of the Social Security Act (42 U.S.C. 1395w–3a(b)(8)(B)(ii)(II)) is amended by striking <quote>2027</quote> and inserting <quote>2032</quote>. </text></section></legis-body></bill> 
+

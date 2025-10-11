@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H88C28CFBFE54426EABF79DD1EED381D1" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5278 IH: Preventing Presidential Election Interference Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-08-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5278</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230825">August 25, 2023</action-date><action-desc><sponsor name-id="L000582">Mr. Lieu</sponsor> (for himself, <cosponsor name-id="J000288">Mr. Johnson of Georgia</cosponsor>, <cosponsor name-id="S001193">Mr. Swalwell</cosponsor>, <cosponsor name-id="J000298">Ms. Jayapal</cosponsor>, and <cosponsor name-id="N000147">Ms. Norton</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 18, United States Code, to prohibit executive branch officials from engaging in election interference, and for other purposes.</official-title></form><legis-body id="HD7303B2B2C31410889C219EC6EF03193" style="OLC"> 
+<section id="H5CA10F08BE9E4402B6B85BC483FBCE11" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Preventing Presidential Election Interference Act</short-title></quote>.</text></section> <section id="HB6C18837CE9843A4ADDDE5E22631F29D"><enum>2.</enum><header>Interference by executive branch officials and government employees</header><text display-inline="no-display-inline">Section 595 of title 18, United States Code, is amended—</text>
+<paragraph id="HBCA40C9DE4454BDBBCF721C5646F4739"><enum>(1)</enum><text>in the section heading, by inserting <quote>a President or Vice President or</quote> before <quote>administrative employees</quote>;</text></paragraph> <paragraph id="H552F881CDFDC49DDBBE0C6F7DE830EEF"><enum>(2)</enum><text>by inserting <quote>a President or Vice President, or</quote> before <quote>a person employed</quote>; and</text></paragraph>
+<paragraph id="HB19AC627AE5944D594E80BD0911CA95A"><enum>(3)</enum><text>by striking <quote>or imprisoned not more than one year,</quote> and inserting <quote>or imprisoned not more than 3 years,</quote>. </text></paragraph></section> <section id="HA57C0916A3424341858072C6187C83B1"><enum>3.</enum><header>Coercion of political activity</header><text display-inline="no-display-inline">Section 610 of title 18, United States Code, is amended by inserting after <quote>for any person</quote> the following: <quote>, including a President or Vice President,</quote>. </text></section> 
+</legis-body></bill>
+

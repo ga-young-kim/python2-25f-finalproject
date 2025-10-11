@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9593B87EB05649A6AB62BF449C64756F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4923 IH: HOV Lanes for Heroes Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4923</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230726">July 26, 2023</action-date><action-desc><sponsor name-id="M000317">Ms. Malliotakis</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To allow certain veterans to use high occupancy vehicle lanes, including toll lanes.</official-title></form><legis-body id="H4DC8C73AE8B14E2991BCCFDFC5E5AC64" style="OLC"> 
+<section id="HAC1BCAF3699A4FADB254E20B52942AF0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>HOV Lanes for Heroes Act</short-title></quote>. </text></section> <section id="HF7CEE4FDF25D4B3DA817395FA22B7BAF"><enum>2.</enum><header>HOV facilities</header> <subsection id="HF0F7191054E54F48946D2E16D1F23492"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 166(b) of title 23, United States Code, is amended by inserting at the end the following:</text> 
+<quoted-block style="OLC" id="H91BEEC94F39F47AF943CFD39BD1F978D" display-inline="no-display-inline"> 
+<paragraph id="H4DA03F52F1FE4F1FAF63FFEC8BD9EF93"><enum>(6)</enum><header>Disabled veterans</header> 
+<subparagraph id="H4ADC326FC96A4B7E9365AFDDA837936B"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">The public authority may allow a disabled veteran to use the HOV facility if such veteran has a license plate that clearly identifies the vehicle, a registered transponder, or other method of identification the public authority considers necessary for qualification.</text></subparagraph> <subparagraph id="H7E804A27080C4386A340EEAA5BFD69A8"><enum>(B)</enum><header>Definition of disabled veteran</header><text display-inline="yes-display-inline">For purposes of this paragraph, the term <quote>disabled veteran</quote> means a veteran (as such term is defined in section 101 of title 38) who the Secretary of Veterans Affairs has determined has a service-connected (as such term is defined in such section) disability rated at or above a percentage determined to be qualifying by the public authority.</text></subparagraph> 
+<subparagraph id="H89F24856834946F5B8B5C05E712BCE97"><enum>(C)</enum><header>Occupancy exception</header><text display-inline="yes-display-inline">Notwithstanding the occupancy requirement of subsection (a)(2), 1 occupant described in subparagraph (B) of this paragraph may be permitted to use a HOV facility.</text></subparagraph> <subparagraph id="H4FAFD5DACB884B4AB72BAB3FBEB4FBA6"><enum>(D)</enum><header>No charge for tolls</header><text>Under this paragraph, a public authority may charge no toll.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="HE10C58935E174E919124DC6FF9CE10B8"><enum>(b)</enum><header>Conforming amendments</header><text>Section 166 of such title is further amended—</text> <paragraph id="H021857781D764D4FA187462A38708173"><enum>(1)</enum><text>in subsection (b)(1) by striking <quote>through (5)</quote> and inserting <quote>through (6)</quote>; and</text></paragraph> 
+<paragraph id="HE6C5A25C54FC4CE8A7E2DFAB4D3C9800"><enum>(2)</enum><text>in subsection (d)(1) by striking <quote>paragraph (4) or (5)</quote> and inserting <quote>paragraph (4), (5), or (6)</quote>. </text></paragraph></subsection></section> </legis-body></bill>
+

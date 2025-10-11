@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HABC6A68F443C451EAA2E6CB2FF5F6AB4" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2658 IH: Conspiracy to Obstruct the Electoral Count Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2658</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230417">April 17, 2023</action-date><action-desc><sponsor name-id="T000486">Mr. Torres of New York</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 18, United States Code, to impose criminal penalties on the President for engaging in actions to interfere with the determination of electoral votes in a presidential election, and for other purposes.</official-title></form><legis-body id="H2DF71254149E4C5EA8286CF0728E5215" style="OLC"> 
+<section id="H60D9954D2BBD47B29DA52EA0765520B4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Conspiracy to Obstruct the Electoral Count Act</short-title></quote>.</text></section> <section id="H729C95490C7D4BCCAB47B75CCC851B9B"><enum>2.</enum><header>Imposition of criminal penalties on President for interfering with determination of electoral votes</header> <subsection id="HF09295E78BD74A83B25CFC17BE53E4E6"><enum>(a)</enum><header>Penalties</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/29">Chapter 29</external-xref> of title 18, United States Code, is amended by adding at the end the following new section:</text>
+<quoted-block style="USC" id="H6D68F062432E48CAB7042928CB709928" display-inline="no-display-inline">
+<section id="H179FF5A926784F3FB18A2756C2C7D6F4"><enum>612.</enum><header>Interference by President with determination of electoral votes</header>
+<subsection id="HC5F0FC56E16C448096F4EEB0AAF26CDD"><enum>(a)</enum><text display-inline="yes-display-inline">It shall be unlawful for the President to—</text> <paragraph id="H3850E65413554FEE95E57B0C91052162"><enum>(1)</enum><text display-inline="yes-display-inline">obstruct the certification of electoral votes by Congress;</text></paragraph>
+<paragraph id="HA4AD8237CCC149D48256E0779C2B1558"><enum>(2)</enum><text>pressure the Vice President during the certification of electoral votes by Congress to discount a State-certified slate of electors or count an alternate slate of electors;</text></paragraph> <paragraph id="H7ED266D4B91C4914B3045535BF4E6AE3"><enum>(3)</enum><text>pressure a Federal, State, or local official to substitute an alternate slate of electors;</text></paragraph>
+<paragraph id="H473983E0450743179324410E765ED3AC"><enum>(4)</enum><text>pressure a Federal, State, or local official to find votes; or</text></paragraph> <paragraph id="H59F680BF2C2E4D4AB1A4E67B754C7F76"><enum>(5)</enum><text>pressure a Federal, State, or local official to make false claims about a presidential election.</text></paragraph></subsection>
+<subsection id="H5D5988AC16C54810B1AEB495A92DF071"><enum>(b)</enum><text>If the President violates subsection (a), the President shall be fined under this title or imprisoned for not more than the maximum term of imprisonment imposed for a violation of section 1505 of this title (relating to obstruction of proceedings), or both.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H3AC7FE3055CC43F19DB91467B888ED2F"><enum>(b)</enum><header>Clerical amendment</header><text>The table of sections for chapter 29 of such title is amended by adding at the end the following:</text>
+<quoted-block style="USC" id="H8DEE045734894232BD4A82EF2ACF7E62" display-inline="no-display-inline">
+<toc regeneration="no-regeneration">
+<toc-entry level="section">612. Interference by President with determination of electoral votes.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+</legis-body></bill>
+

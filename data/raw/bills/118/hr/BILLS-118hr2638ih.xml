@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC7002287F79240268EB7F9C4593121EF" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2638 IH: Cuban-American Unrecognized Bravery Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 2638</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230417">April 17, 2023</action-date>
+<action-desc><sponsor name-id="G000593">Mr. Gimenez</sponsor> (for himself, <cosponsor name-id="S000168">Ms. Salazar</cosponsor>, and <cosponsor name-id="M000317">Ms. Malliotakis</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Secretary of Veterans Affairs to treat certain individuals who participated in the invasion of the Bay of Pigs, Cuba, in April, 1961, as veterans for the purposes of eligibility for benefits under laws administered by the Secretary.</official-title>
+</form>
+<legis-body id="HCA907F828D734154B7EDFE14DC444929" style="OLC">
+<section id="HBD7D85252AA84AE2A07DB0ECEBD8F5FA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Cuban-American Unrecognized Bravery Act of 2023</short-title></quote> or the <quote><short-title>CUBA Act of 2023</short-title></quote>.</text></section> <section id="H5B52B377556D44E18AD2891A79038E4D"><enum>2.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text>
+<paragraph id="H3E2402CEFA3447B194A6EF2DC270DC40"><enum>(1)</enum><text display-inline="yes-display-inline">On April 16, 1961, Cubans who had been trained and equipped by the United States landed in the Bay of Pigs, Cuba, with the mission to topple the Castro regime and free Cuba from communist tyranny.</text></paragraph> <paragraph id="H490804C4682D4FFCB1D9AF6160DE94DB"><enum>(2)</enum><text display-inline="yes-display-inline">Lack of adequate support, and poor planning and execution of the invasion led to the deaths of several hundred members of the invasion force and subsequent capture and imprisonment of the survivors.</text></paragraph>
+<paragraph id="HBFE01BAFB7B241D28A7B8645310D75FD"><enum>(3)</enum><text>Many of these survivors faced harsh conditions accompanied by torture and threats of execution while they waited for their release.</text></paragraph> <paragraph id="HBDC26B80873B427098EFA5F275032CC2"><enum>(4)</enum><text>After 20 months of negotiations for their release, President John F. Kennedy welcomed back the last survivors in Miami, Florida, upon their return to the United States on December 29, 1962.</text></paragraph>
+<paragraph id="HED34194CF91447179769351B13E3EA34"><enum>(5)</enum><text display-inline="yes-display-inline">Many survivors became productive United States citizens and contributed greatly to their new home that gave them back the freedom they lost in Cuba.</text></paragraph> <paragraph id="H584DE7FA45094EC2AF488B20518EB163"><enum>(6)</enum><text>Currently, it is estimated that there are approximately 300 survivors still living from the Bay of Pigs invasion. These survivors still struggle with the emotional effects of the invasion, along with financial hardships and healthcare challenges.</text></paragraph>
+<paragraph id="H0B19A99CBB804BCCA59BB77279643FB6"><enum>(7)</enum><text display-inline="yes-display-inline">These survivors fought on behalf of the United States in a cause of freedom in the face of global communist tyranny. They were trained and sent to Cuba by the United States Government yet do not receive the benefits of veterans that they deserve and to which they ought to be entitled.</text></paragraph> <paragraph id="HA0F9238BC68A42FD995B9E3A7A44D489"><enum>(8)</enum><text>Granting these survivors eligibility for benefits under the laws administered by the Secretary of Veterans Affairs would help them and their families with financial and healthcare burdens, allow for them to receive a military funeral, and aid in healing the lingering psychological wounds left from the Bay of Pigs invasion 62 years ago.</text></paragraph></section>
+<section id="H5FE874B94B6C4A4B9392C5EF20E1E4FB"><enum>3.</enum><header>Expansion of eligibility for veterans benefits to certain individuals who served in Bay of Pigs, Cuba, in April, 1961</header>
+<subsection id="HB9E8602193474BB999BBCB614EC310B4"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">For the purposes of determining eligibility for benefits under the laws administered by the Secretary of Veterans Affairs, the Secretary shall treat a covered individual as a veteran.</text></subsection> <subsection id="HE06943D52A714656840497B7635175BC"><enum>(b)</enum><header>Applicability date</header><text display-inline="yes-display-inline">Beginning on the date that is 90 days after the date of the enactment of this Act, a covered individual may file a claim for a benefit described in subsection (a), and the Secretary shall consider and make a determination regarding such claim, without regard to any time limit applicable to such filing or claim.</text></subsection>
+<subsection id="HFA0B085B93674764BD3E0FF576D3E69D"><enum>(c)</enum><header>Covered individual defined</header><text>In this section, the term <quote>covered individual</quote> means an individual whom the Secretary determines—</text> <paragraph id="H38E9B655166947F48130434D4638475A"><enum>(1)</enum><text>was a member of the military group that invaded the Bay of Pigs, Cuba, in April, 1961;</text></paragraph>
+<paragraph id="H7A3CE51BBA794F7DBF510D7B808736BE"><enum>(2)</enum><text>is a citizen of the United States; and</text></paragraph> <paragraph id="HC3B71F3636F74705B435555278579CEB"><enum>(3)</enum><text>is not in receipt of the benefit for which the covered individual applied.</text></paragraph></subsection></section>
+</legis-body>
+</bill> 
+
+

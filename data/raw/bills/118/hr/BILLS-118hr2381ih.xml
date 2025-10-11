@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H43C8AE873FC64DFFA5C630BF108380CC" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2381 IH: Restoring Fulbright Exchanges with China and Hong Kong Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 2381</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230329">March 29, 2023</action-date>
+<action-desc><sponsor name-id="L000560">Mr. Larsen of Washington</sponsor> (for himself, <cosponsor name-id="B001292">Mr. Beyer</cosponsor>, and <cosponsor name-id="C001080">Ms. Chu</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To nullify the termination of the Fulbright exchange program with regard to China and Hong Kong with respect to future exchanges for participants traveling both from and to China or Hong Kong, and for other purposes.</official-title>
+</form>
+<legis-body id="HD75F3013F2F84951B7C8F8B28835858E" style="OLC">
+<section id="HDAF0B48929DE49BF884866831CC65DD6" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Restoring Fulbright Exchanges with China and Hong Kong Act</short-title></quote>.</text></section> <section id="HB1085372C62F4D7F9FE9D821E594B7D4"><enum>2.</enum><header>Nullification</header><text display-inline="no-display-inline">Section 3(i) of Executive Order 13936 (relating to the termination of the Fulbright exchange program with regard to China and Hong Kong with respect to future exchanges for participants traveling both from and to China or Hong Kong) is nullified and shall have no force or effect, and Fulbright exchanges with China and Hong Kong shall carry on as if such section had not been included in such Executive Order.</text></section>
+</legis-body>
+</bill> 
+
+

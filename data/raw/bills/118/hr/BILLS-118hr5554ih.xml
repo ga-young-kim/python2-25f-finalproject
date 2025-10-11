@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7F5D4F4B9E324B4F856A1EE580565A45" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5554 IH: Ban All Neurotoxic Organophosphate Pesticides From Our Food Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5554</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230918">September 18, 2023</action-date><action-desc><sponsor name-id="V000081">Ms. Vel&#225;zquez</sponsor> (for herself, <cosponsor name-id="B001223">Mr. Bowman</cosponsor>, <cosponsor name-id="M001188">Ms. Meng</cosponsor>, <cosponsor name-id="S001145">Ms. Schakowsky</cosponsor>, and <cosponsor name-id="B001300">Ms. Barrag&#225;n</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the use of organophosphate pesticides on food.</official-title></form><legis-body id="HE462FF9E9AE24A20A558F105F59BAE28" style="OLC"> 
+<section id="HC300125D4FC04619BB995DC2AC64FA7B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ban All Neurotoxic Organophosphate Pesticides From Our Food Act</short-title></quote> or the <quote><short-title>BAN OPs From Our Food Act</short-title></quote>.</text></section> <section id="H1009DA830EFE4239A331929B29EC1C9E"><enum>2.</enum><header>Prohibition on use of organophosphates on food</header><text display-inline="no-display-inline">Section 402 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/342">21 U.S.C. 342</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block id="HC60613B8ED0349418CC2745AAC49F266" style="OLC"> 
+<subsection id="HFD12C150B14A4B01A1B175B14D8E782A"><enum>(j)</enum><text display-inline="yes-display-inline">If it bears or contains any organophosphate pesticide, including any residue of an organophosphate pesticide, or any other added substance the presence of which is primarily as a result of the metabolism or other degradation of an organophosphate pesticide, regardless of whether any tolerance or exemption with respect to organophosphate is in effect under section 408.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body></bill>
+

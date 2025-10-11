@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDB4D74D62A224A79A1B80CA9A514AD1E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 936 IH: Tanning Tax Repeal Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 936</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230209">February 9, 2023</action-date><action-desc><sponsor name-id="M001205">Mrs. Miller of West Virginia</sponsor> (for herself, <cosponsor name-id="F000465">Mr. Ferguson</cosponsor>, and <cosponsor name-id="B001282">Mr. Barr</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to repeal the excise tax on indoor tanning services.</official-title></form><legis-body id="H5BA7A5CF2EB0443D851468EC552104BF" style="OLC"> 
+<section id="HBA61996298C247E5B3B15858BD72DFE9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Tanning Tax Repeal Act of 2023</short-title></quote>.</text></section> <section id="H70EDEF091A7E407D90193DD69D93E6E2"><enum>2.</enum><header>Repeal of excise tax on indoor tanning services</header> <subsection id="H28F0DA1B2CF74CC6B43C1A0C8E96D9A9"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Subtitle D of the Internal Revenue Code of 1986 is amended by striking chapter 49 and by striking the item relating to such chapter in the table of chapters of such subtitle.</text></subsection>
+<subsection id="HE298BE674C9D43498585DA75116EA54A"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to services performed after the date of the enactment of this Act.</text></subsection></section> </legis-body></bill> 
+

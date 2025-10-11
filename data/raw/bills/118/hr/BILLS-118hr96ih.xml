@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDE0DD88170054E45A6A758E7AA8F9127" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 96 IH: Protecting Arizona from Federal Land Grabs Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 96</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230109">January 9, 2023</action-date><action-desc><sponsor name-id="B001302">Mr. Biggs</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 54, United States Code, to prohibit the extension or establishment of national monuments in Arizona except by express authorization of Congress, and for other purposes.</official-title></form><legis-body id="H67D9AEC96AEF47EBA88E84D543593B21" style="OLC">
+<section id="H7256A55CCFA24EE0A31DDA21ED053656" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Arizona from Federal Land Grabs Act</short-title></quote>.</text></section> <section id="H7D1C92C3DA714A478F6C981EEEAEDFFC" section-type="subsequent-section"><enum>2.</enum><header>Limitation on extension or establishment of national monuments in Arizona</header><text display-inline="no-display-inline">Subsection (d) of section 320301 of title 54, United States Code, is amended—</text>
+<paragraph id="H2342C546D3574F309B4D0B90CFBD05E5"><enum>(1)</enum><text>by inserting <quote><header-in-text level="subsection" style="OLC">or Arizona</header-in-text></quote> after <quote><header-in-text level="subsection" style="OLC">Wyoming</header-in-text></quote>; and</text></paragraph> <paragraph id="H2C13F0DDAC334773B0E05D281BF8A5B8"><enum>(2)</enum><text>by inserting <quote>or Arizona</quote> after <quote>Wyoming</quote>.</text></paragraph></section> 
+</legis-body></bill>
+

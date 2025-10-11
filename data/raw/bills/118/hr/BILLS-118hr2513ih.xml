@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H83515768937E4542AC79220BC8F8356C" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2513 IH: Cutting Unnecessary Red Tape and Bureaucracy Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 2513</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230406">April 6, 2023</action-date>
+<action-desc><sponsor name-id="P000599">Mr. Posey</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To require that in a notice of proposed rulemaking for a new rule, the notice shall identify three rules which the agency intends to repeal.</official-title>
+</form>
+<legis-body id="H40B3B5186261445B9F4C97A976D75C72" style="OLC">
+<section id="H48F99999A4FC49CABB87AFC4817467ED" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Cutting Unnecessary Red Tape and Bureaucracy Act</short-title></quote> or the <quote><short-title>CURB Act</short-title></quote>. </text></section> <section id="H25A1AF1A4F8E473B8F9663508523C3EE"><enum>2.</enum><header>Requirement to repeal three rules before making a new rule</header><text display-inline="no-display-inline">Section 553(b) of title 5, United States Code, is amended—</text>
+<paragraph id="H67AFEB96256846559BD365701E24E27A"><enum>(1)</enum><text>in paragraph (2), by striking <quote>and</quote> at the end;</text></paragraph> <paragraph id="H303076792E9D4ADEBE9E66CE7930AC7A"><enum>(2)</enum><text>in paragraph (3), by striking the period at the end and inserting <quote>; and</quote>; and</text></paragraph>
+<paragraph id="HBE8731EB61DF49829A94B03CB20413D7"><enum>(3)</enum><text>by inserting after paragraph (3) the following:</text> <quoted-block display-inline="no-display-inline" id="HFE9896F2090544F0B5B1B1045457DEA0" style="OLC"> <paragraph id="H315F9612B36E48CBAF689461C27163CB"><enum>(4)</enum><text display-inline="yes-display-inline">in the case of a notice of proposed rule making for a new rule, except in the case of a new rule which is required by statute, an identification of three rules that the agency intends to repeal, including the date on which the agency began the rule making process in order to repeal such rules.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section>
+</legis-body>
+</bill> 
+
+

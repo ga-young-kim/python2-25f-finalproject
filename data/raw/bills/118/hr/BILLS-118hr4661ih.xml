@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDDB4D90E11074A3F9283AEFBD60FC61A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4661 IH: One Stop Shop for Small Business Licensing Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4661</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230714">July 14, 2023</action-date><action-desc><sponsor name-id="T000488">Mr. Thanedar</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HSM00">Committee on Small Business</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Director of the Office of Entrepreneurship Education of the Small Business Administration to establish and maintain a website regarding small business permitting and licensing requirements, and for other purposes.</official-title></form><legis-body id="HA0B9EB152ABE43A5800592E138D3EDF1" style="OLC"> 
+<section section-type="section-one" id="HA8B913FBEB704DD08E33DB031A055A06"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>One Stop Shop for Small Business Licensing Act of 2023</short-title></quote>.</text></section> <section id="H1291D7C598294C62A7DEDE8AA54A5DD6"><enum>2.</enum><header>Centralized website for business permit and licensing requirements</header> <subsection id="H0FE86F23768140CEB84A504CCBA2E547"><enum>(a)</enum><header>Definitions</header><text>In this section— </text>
+<paragraph id="H50E8A8193CAA402D84B9FAFFDDB50346"><enum>(1)</enum><text>the term <term>Director</term> means the Director of the Office of Entrepreneurship Education of the Small Business Administration; and</text></paragraph> <paragraph id="H936A0451CB1A4F62922865A9FEBB7F6A"><enum>(2)</enum><text>the term <term>small business concern</term> has the meaning given the term in section 3(a) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/632">15 U.S.C. 632(a)</external-xref>).</text></paragraph></subsection>
+<subsection id="HB4DD062D86B94AEA9A376887D07C261D"><enum>(b)</enum><header>Website</header><text>Not later than 1 year after the date of enactment of this Act, the Director shall establish, and thereafter the Director shall maintain, a publicly available website that provides information regarding Federal, State, and local business permitting and licensing requirements with respect to the operation of a small business concern, which shall be organized based on the location and type of small business concern.</text></subsection></section> </legis-body></bill>
+

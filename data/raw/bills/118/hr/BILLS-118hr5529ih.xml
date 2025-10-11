@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0319C90EFA3049BDBC7A4E48348B52E0" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5529 IH: To require a study of the risk of space debris impacting a metropolitan area, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5529</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230918">September 18, 2023</action-date><action-desc><sponsor name-id="S001222">Mr. Santos</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HSY00">Committee on Science, Space, and Technology</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require a study of the risk of space debris impacting a metropolitan area, and for other purposes.</official-title></form><legis-body id="HA33012CA420D48B28A50CB8E478B0545" style="OLC"> 
+<section id="H705FD4C00B8346F1AF8FDC3E07165FD8" section-type="section-one"><enum>1.</enum><header>Study of risk of space debris impacting a metropolitan area</header> 
+<subsection id="H9874C27C3887404CB5C69FAB9815CC42"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, the Secretary of Commerce, in consultation with the Administrator of the Federal Emergency Management Agency, the Administrator of the National Aeronautics and Space Administration, and the Secretary of Defense, shall carry out a study to examine the risk of space debris impacting a metropolitan area within the next 25 years.</text></subsection> <subsection id="H2ED4A772167841D7B544A82BBA4611CC"><enum>(b)</enum><header>Contents</header><text>The study required under subsection (a) shall address the following:</text> 
+<paragraph id="H7F5A4D8AF8D74093B88C42DF873912CF"><enum>(1)</enum><text>In the next 25 years, the probability of a space-based, manmade object impacting a populated area exceeding 1 million inhabitants.</text></paragraph> <paragraph id="HA9B6C15FF4214C8AAA5F8DD349213937"><enum>(2)</enum><text>The ability to predict such an incident.</text></paragraph> 
+<paragraph id="H88162427E28E48BB815A84F4B2340DBA"><enum>(3)</enum><text>The ability to warn the affected area, including regarding the amount of time needed to do so.</text></paragraph> <paragraph id="H52B35828FF5C4502B05ACC9F32D7B3BB"><enum>(4)</enum><text display-inline="yes-display-inline">Would an evacuation process be possible, and if so, how such would be carried out.</text></paragraph> 
+<paragraph id="H7F56566A6B274FCB8754BF3CC9406BB8"><enum>(5)</enum><text>How could relief via a Federal response be provided, and an identification of which agencies would be tasked with so responding.</text></paragraph> <paragraph id="H169B0688E19C49149DDCD5060E4BBBD7"><enum>(6)</enum><text>Options to defend against an imminent impact.</text></paragraph></subsection> 
+<subsection id="H76912B89951B4E12A765DAF732A8D6DD"><enum>(c)</enum><header>Report to Congress</header><text>Not later than 28 months after the date of the enactment of this Act, the Secretary of Commerce shall submit to the Committee on Science, Space, and Technology, the Committee on Homeland Security, the Committee on Armed Services, and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation, the Committee on Homeland Security and Governmental Affairs, and the Committee on Armed Services of the Senate a report containing the results of the study required under subsection (a).</text></subsection></section> </legis-body></bill>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7C04A60A0D104AD3A2B18CF643CD9AE4" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3243 IH: Small Business Stability Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 3243</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230511">May 11, 2023</action-date>
+<action-desc><sponsor name-id="L000569">Mr. Luetkemeyer</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Federal Deposit Insurance Act to allow the Board of Directors of the Federal Deposit Insurance Corporation to guarantee noninterest-bearing transaction accounts for a certain period, and for other purposes.</official-title>
+</form>
+<legis-body id="H70FC9C50D6A74470B4E836D1E5848351" style="OLC">
+<section id="H34BBE78D128E4F1BB4AFE2B42BDBCDFE" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Business Stability Act</short-title></quote>. </text></section> <section id="H04C599C78A934CAE99A33BEEFE9EF9FC"><enum>2.</enum><header>Federal Deposit Insurance Corporation guarantee of uninsured deposits for a certain period</header><text display-inline="no-display-inline">Section 13(c)(4) of the Federal Deposit Insurance Act (<external-xref legal-doc="usc" parsable-cite="usc/12/1823">12 U.S.C. 1823(c)(4)</external-xref>) is amended—</text>
+<paragraph id="H06D80C5F37CD4AF1BF626C32B2B19A53"><enum>(1)</enum><text>in subparagraph (B), by inserting <quote>and except as provided in subparagraph (H),</quote> after <quote> Fund,</quote>;</text></paragraph> <paragraph id="H66389C227FF24FAEB1C71948BD3C5E8B"><enum>(2)</enum><text>by redesignating subparagraph (H) as subparagraph (I); and</text></paragraph>
+<paragraph id="H4B42F53DC3AD4CCC86D3394E3739DF66"><enum>(3)</enum><text>by inserting after subparagraph (G) the following:</text> <quoted-block style="OLC" id="HB26AAA2819AF4F8381F12E9B63B57280" display-inline="no-display-inline"> <subparagraph id="HF5478D57BB264F9FAA45BA9949DED041"><enum>(H)</enum><header>Guarantee of uninsured deposits</header><text>In exercising the authority under this subsection with respect to any insured depository institution, the Corporation may guarantee deposits in noninterest-bearing transaction accounts for a single period not to exceed 60 days without regard for the requirements of subparagraph (B) if, upon the written recommendation of the Board of Directors (upon a vote of not less than two-thirds of the members of the Board of Directors) and the Board of Governors of the Federal Reserve System (upon a vote of not less than two-thirds of the members of such Board), the Secretary of the Treasury (in consultation with the President) determines that—</text>
+<clause id="HB9454004A8A74E0DBEFC0351640D276D"><enum>(i)</enum><text display-inline="yes-display-inline">the Corporation’s compliance with subparagraphs (A) and (E) with respect to any insured depository institution for which the Corporation proposes to guarantee deposits in noninterest-bearing transaction accounts would have serious adverse effects on the stability of the entire banking system; and</text></clause> <clause id="H0F7140B1D52546A797AF705A1AE70984"><enum>(ii)</enum><text>the Corporation’s proposed guarantee of deposits in noninterest-bearing transaction accounts would avoid or mitigate such adverse effects.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section>
+</legis-body>
+</bill> 
+
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9EE49B14BCF84B748692CC5145B44A2A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1759 IH: Economic Impact of Tolling Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1759</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230323">March 23, 2023</action-date><action-desc><sponsor name-id="M000317">Ms. Malliotakis</sponsor> (for herself and <cosponsor name-id="G000583">Mr. Gottheimer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the Secretary of Transportation from implementing a congestion pricing program until an economic impact analysis is completed and made available to the public, and for other purposes.</official-title></form><legis-body id="H6B32966C68C9474990D6A915315D590A" style="OLC"><section id="H3A1BABE44BB54F6CA522AEFC75157CD4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Economic Impact of Tolling Act</short-title></quote>.</text></section><section id="H6B86F255234D47029A71177B69364EF9"><enum>2.</enum><header>Restriction on implementation of congestion pricing program</header><text display-inline="no-display-inline">The Secretary of Transportation may not implement, or authorize the implementation of, a congestion pricing program for any toll road, bridge, or tunnel until the date on which an economic impact analysis is completed and such analysis is made available to the public. </text></section></legis-body></bill> 
+

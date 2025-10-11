@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HCB6CB54725554BB39DEF22092912FDB6" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5870 IH: Veteran Appeals Transparency Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5870</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231002">October 2, 2023</action-date><action-desc><sponsor name-id="S001224">Mr. Self</sponsor> (for himself and <cosponsor name-id="M001220">Mr. McGarvey</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to make certain improvements to the processing of claims for benefits under the laws administered by the Secretary of Veterans Affairs and the transparency of actions of Board of Veterans&#8217; Appeals, and for other purposes.</official-title></form><legis-body id="H73800E95D1134324BF0E266BE3FAD03D" style="OLC"> 
+<section id="H4BC57417F4174522AC4BF7205E03A669" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Veteran Appeals Transparency Act of 2023</short-title></quote>. </text></section> <section id="H11901564161640A481A6BE7AB2E36425"><enum>2.</enum><header>Options of claimants for benefits under laws administered by Secretary of Veterans Affairs following decision by agency of original jurisdiction</header><text display-inline="no-display-inline">Section 5104C(a) of title 38, United States Code, is amended—</text> 
+<paragraph id="H52D383BF931142C1BF3AEB68E22F00F1"><enum>(1)</enum><text>in paragraph (1), by striking <quote>any of the following</quote> and inserting <quote>one of the following</quote>; and</text></paragraph> <paragraph id="H48D46F3F30294E6B89C572385EDD058D"><enum>(2)</enum><text>in paragraph (2)(B)—</text> 
+<subparagraph id="H5D52D22627514896AF3DC3AA47121EBC"><enum>(A)</enum><text>by striking <quote>Nothing in this subsection shall prohibit a claimant from taking</quote> and inserting <quote>A claimant may take</quote>;</text></subparagraph> <subparagraph id="H74EDFAEFFE5C4A12A4EACAA2CF99AE67"><enum>(B)</enum><text>by striking <quote>in succession</quote>; and</text></subparagraph> 
+<subparagraph id="HE6CC3B931A0F4813AF3D0FC094455808"><enum>(C)</enum><text>by striking the period and inserting <quote>as long as—</quote>; and</text></subparagraph> <subparagraph id="HABC77EAB955D4BF498C4F1CE09834DEB"><enum>(D)</enum><text>by adding at the end the following new clauses:</text> 
+<quoted-block style="USC" id="H03395B8BBAB8448F9D5E45CE06554814" display-inline="no-display-inline"> 
+<clause id="HF7A6A753CF41444DA061C92006C42995" indent="up2"><enum>(i)</enum><text display-inline="yes-display-inline">the claimant only takes one such action at a time; and</text></clause> <clause id="HB8BA42B6A5544A0885D9B2F8B04D235F" indent="up2"><enum>(ii)</enum><text>any such action is taken in response to, and not later than one year after, the date of the most recent decision on the claim made by the agency of original jurisdiction</text></clause><after-quoted-block>.</after-quoted-block></quoted-block></subparagraph> </paragraph></section> 
+<section id="HE2F7F80F09D340B18CE14415E8795BDE"><enum>3.</enum><header>Board of Veterans’ Appeals publication of dates of docket activity</header><text display-inline="no-display-inline">Section 7107 of title 38, United States Code, is amended by adding at the end the following new subsection:</text> <quoted-block style="USC" id="HB2AAA409147245CC961746B3AD52098A" display-inline="no-display-inline"> <subsection id="H70EF566944EE460D8DB04CEBA12892BA"><enum>(f)</enum><header>Publication of expected actions</header><text display-inline="yes-display-inline">On a weekly basis, for each docket, the Board shall publish the docket dates of the cases assigned to a Board member for a decision for that week.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block> </section> 
+</legis-body></bill>
+

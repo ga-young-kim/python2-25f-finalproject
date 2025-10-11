@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H5F14E5C0B07A4B1DA976B71B46396B93" public-private="public" key="H" bill-type="olc" stage-count="1">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 357 EH: Ensuring Accountability in Agency Rulemaking Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">IB</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 357</legis-num>
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<legis-type>AN ACT</legis-type>
+<official-title display="yes">To require the head of an agency to issue and sign any rule issued by that agency, and for other purposes.</official-title>
+</form>
+<legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC" id="HAD78AAF1EE8047FFBA3F1E9E398B1DF4">
+<section id="HBC2829ECD76B4149831F8467E2C4D19B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ensuring Accountability in Agency Rulemaking Act</short-title></quote>.</text></section> <section id="H3BA826B4FB6C4D6A94C9D28C06F2AA42"><enum>2.</enum><header>Rulemaking requirements</header> <subsection id="H4504D19EF7C54365A35614CA4453227D"><enum>(a)</enum><header>Approval required</header> <paragraph id="H2C108DA967644D2CB947FEB9235C9D35"><enum>(1)</enum><header>Rules promulgated by Senate confirmed appointee</header><text display-inline="yes-display-inline">Except as provided in paragraph (3), any rule promulgated under section 553 of title 5, United States Code, shall be issued and signed by an individual appointed by the President, by and with the advice and consent of the Senate.</text></paragraph>
+<paragraph id="H7A3E5230B91A4F4B8E26CDAC64E1174B"><enum>(2)</enum><header>Initiation of Rulemaking and regulatory agenda</header><text display-inline="yes-display-inline">Except as provided in paragraph (3), any rule initiated under section 553 of title 5, United States Code, shall be initiated by a senior appointee.</text></paragraph> <paragraph id="HFB2AFDAFA64545578513E8ADFCF36565"><enum>(3)</enum><header>Exception</header><text>Paragraph (1) or (2) does not apply if the head of an agency—</text>
+<subparagraph id="HA293FD638400458191173AC56ADA40AC"><enum>(A)</enum><text>determines, on a nondelegable basis, that compliance with the relevant paragraph would impede public safety or security; </text></subparagraph> <subparagraph id="HC903ACA6D1844FAC9CE1F71B0BCA80D6"><enum>(B)</enum><text display-inline="yes-display-inline">submits to the Administrator a notification disclosing the reasons for the exemption; and</text></subparagraph>
+<subparagraph id="H6AFEA9A3B0B2430AB0BB3C6E5C76238E"><enum>(C)</enum><text>publishes such notification, consistent with public safety, security, and privacy interests, in the Federal Register.</text></subparagraph></paragraph></subsection> <subsection id="H7166B222620B4004BE9F9CD84FF1EA76"><enum>(b)</enum><header>Oversight</header> <paragraph id="H03B8B01944584BFEB6B760CF565F6E63"><enum>(1)</enum><header>Agency compliance</header><text display-inline="yes-display-inline">The head of each agency shall ensure that the issuance of any agency rule promulgated under section 553 of title 5, United States Code, adheres to the requirements of this section.</text></paragraph>
+<paragraph id="H11158777EA03451F8418B97B69B300F1"><enum>(2)</enum><header>OIRA guidance and compliance</header><text display-inline="yes-display-inline">The Administrator shall provide guidance on the implementation of and shall monitor agency compliance with this section.</text></paragraph></subsection> <subsection id="H3A6E90DC1BE1497295470A87FD346F88" commented="no"><enum>(c)</enum><header>Rules of construction</header><text display-inline="yes-display-inline">This section may not be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.</text></subsection>
+<subsection id="H4F0DD74BB5794C45904290113A669B34"><enum>(d)</enum><header>Definitions</header><text>In this section:</text> <paragraph id="H3AA862617AF44900A1DF55A2C902BDE0"><enum>(1)</enum><header>Administrator</header><text display-inline="yes-display-inline">The term <term>Administrator</term> means the Administrator of the Office of Information and Regulatory Affairs (OIRA) in the Office of Management and Budget (OMB).</text></paragraph>
+<paragraph id="HE513E5D958E34081A98CED525B0B6894" commented="no"><enum>(2)</enum><header>Agency</header><text display-inline="yes-display-inline">The term <term>agency</term> has the meaning given that term under section 551 of title 5, United States Code.</text></paragraph> <paragraph id="HE128A6CE5EF3468AAB33563681AA2AD6"><enum>(3)</enum><header>Rule</header><text display-inline="yes-display-inline">The term <term>rule</term> has the meaning given that term in section 551 of title 5, United States Code, and does not include any rule of agency organization, procedure, or practice that does not substantially affect the rights or obligations of non-agency parties.</text></paragraph>
+<paragraph id="H38831FA1E23942B68A719041FF8C4315" commented="no"><enum>(4)</enum><header>Senior appointee</header><text display-inline="yes-display-inline">The term <term>senior appointee</term> means an individual appointed by the President, or performing the functions and duties of an office that requires appointment by the President, or a non-career member of the Senior Executive Service (or equivalent agency system). </text></paragraph></subsection></section> </legis-body><attestation><attestation-group><attestation-date date="20231212" chamber="House">Passed the House of Representatives December 12, 2023.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> <endorsement display="yes"></endorsement> </bill> 
+

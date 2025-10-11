@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5A6F8DE3FEA245C18C2708B683234D7D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 566 IH: China Lied People Died Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 566</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230126">January 26, 2023</action-date><action-desc><sponsor name-id="N000026">Mr. Nehls</sponsor> (for himself and <cosponsor name-id="B000825">Mrs. Boebert</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the availability of Federal funds for programs, projects, or activities in the People&#8217;s Republic of China until amounts made available for COVID&#8211;19 relief in the United States have been reimbursed, and for other purposes.</official-title></form><legis-body id="H1FD110CF4B3245008FE75747D417CC2D" style="OLC">
+<section id="HA4E7D49F0D904DF1A328830C7D9E84B3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>China Lied People Died Act</short-title></quote>.</text></section> <section id="HC654B45C82EF40E78F42EE1F01DAC399" section-type="subsequent-section"><enum>2.</enum><header>Prohibition on Federal funding</header><text display-inline="no-display-inline">Notwithstanding any other provision of law, no Federal funds may be authorized to be appropriated or otherwise made available for any program, project, or activity in the People’s Republic of China, or otherwise made available to the Government of the People’s Republic of China, until the date on which the Secretary of the Treasury determines and certifies to the President that such Government has reimbursed the United States in full the $4,600,000,000,000 cost of providing relief from the effects of COVID–19. Any amounts provided to the United States in the form of such reimbursement shall be deposited in the general fund of the Treasury.</text> </section> 
+</legis-body></bill>
+

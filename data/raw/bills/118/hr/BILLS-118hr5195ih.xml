@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HD693BB56A05A452AA18599AAE5230951" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5195 IH: Seat of Government Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-08-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5195</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230811">August 11, 2023</action-date><action-desc><sponsor name-id="O000175">Mr. Ogles</sponsor> (for himself, <cosponsor name-id="D000032">Mr. Donalds</cosponsor>, and <cosponsor name-id="R000103">Mr. Rosendale</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name>, and in addition to the Committee on <committee-name committee-id="HRU00">Rules</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To repeal the District of Columbia Home Rule Act.</official-title></form><legis-body id="H51370B9A4C774195A47517BEC485AF09" style="OLC"> 
+<section id="H2D857C83F32A416CA86FB4F7E1BC50F9" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Seat of Government Act</short-title></quote>.</text></section> <section id="H887FCCB7499D4807AE40BA67B7E02B4C"><enum>2.</enum><header>Repeal of District of Columbia Home Rule Act</header><text display-inline="no-display-inline">The District of Columbia Home Rule Act (sec. 1–201.01 et seq., D.C. Official Code) is hereby repealed.</text> </section> 
+</legis-body></bill>
+

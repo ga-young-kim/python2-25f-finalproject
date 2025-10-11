@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H65FE7124861C408FACCDA78A2EB09E9F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3317 IH: Rolling Stock Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3317</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230515">May 15, 2023</action-date><action-desc><sponsor name-id="C001087">Mr. Crawford</sponsor> (for himself, <cosponsor name-id="N000026">Mr. Nehls</cosponsor>, and <cosponsor name-id="P000605">Mr. Perry</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 49, United States Code, to remove the lifetime exemption from the prohibition on procurement of rolling stock from certain vehicle manufacturers for parties to executed contracts.</official-title></form><legis-body id="H02341EC826A346938D3D5EF00FE5322F" style="OLC"> 
+<section id="HE8EC5E50E5C64C60A3A4399FA02DC5E3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Rolling Stock Protection Act</short-title></quote>.</text></section> <section id="H4BB3ABD6090447CCA1FFAB094D8849A4" section-type="subsequent-section"><enum>2.</enum><header>Removal of lifetime exemption from prohibition on procurement of rolling stock for parties to executed contracts</header><text display-inline="no-display-inline">Section 5323(u)(5) of title 49, United State Code, is amended—</text>
+<paragraph id="HFF01575119F94143BF061252913AA43B"><enum>(1)</enum><text>in subparagraph (B) by striking <quote>Except as provided in subparagraph (C) and for a contract or subcontract that is not described in subparagraph (A)</quote> and inserting <quote>Except as provided in subparagraph (B)</quote>;</text></paragraph> <paragraph id="H48C6D5B111BC4658AB86821038568DBB"><enum>(2)</enum><text>in subparagraph (C) by striking <quote>Subparagraph (B)</quote> and inserting <quote>Subparagraph (A)</quote>; </text></paragraph>
+<paragraph id="H29FBD467FB4847F984DA7C63A3340C2B"><enum>(3)</enum><text>by striking subparagraph (A); and</text></paragraph> <paragraph id="HDCFF7B9FCA904165ADAB7DAD715B2156"><enum>(4)</enum><text display-inline="yes-display-inline">by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively.</text></paragraph></section> 
+</legis-body></bill>
+

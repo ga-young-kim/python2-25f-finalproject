@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4A8F4DD99AE44B86992A37C9B2A1A75D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5338 IH: No Discrimination in My Benefits Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5338</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230905">September 5, 2023</action-date><action-desc><sponsor name-id="G000595">Mr. Good of Virginia</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Employee Retirement Income Security Act of 1974 to establish that fiduciaries must act with prudence and loyalty when selecting service providers for pension plans.</official-title></form><legis-body id="H6CA3D621BD2E4C638DA4C2CE28DC8F38" style="OLC"> 
+<section id="H68327369E11F4E73B1F914FDDB35BA48" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Discrimination in My Benefits Act</short-title></quote>.</text></section> <section id="H5596801C115E43349A9DF966D567823D" section-type="subsequent-section"><enum>2.</enum><header>Selection of service providers</header><text display-inline="no-display-inline">Section 404(a)(1) of the Employee Retirement Income Security Act of 1974 (<external-xref legal-doc="usc" parsable-cite="usc/29/1104">29 U.S.C. 1104(a)(1)</external-xref>) is amended—</text> 
+<paragraph id="H4128B31B370F47189848DAAC27FB6B8A"><enum>(1)</enum><text>in subparagraph (C), by striking <quote>and</quote>;</text></paragraph> <paragraph id="H4C5BE063346445889BF6D23910B2E517"><enum>(2)</enum><text>in subparagraph (D), by striking the period at the end and inserting <quote>; and</quote>; and</text></paragraph> 
+<paragraph id="HE069AF8A6103486F927BE42CC715B5FA"><enum>(3)</enum><text>by adding at the end the following new subparagraph:</text> <quoted-block id="H84B7C30712EE4F99A92B4947A383FE0B" style="OLC"> <subparagraph id="H5C64FBB2E5F24C5A803FD43319BAE3C4"><enum>(E)</enum><text>by selecting, monitoring, and retaining any fiduciary, counsel, employee, or service provider of the plan—</text> 
+<clause id="HB163FEEABC604891BB2819DBE5475128"><enum>(i)</enum><text>in accordance with subparagraphs (A) and (B); and</text></clause> <clause id="HF536CEA3EE804B6D866428604B56D8D2"><enum>(ii)</enum><text>without regard to race, color, religion, sex, or national origin.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body></bill>
+

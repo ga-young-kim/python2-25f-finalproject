@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC5ACFEAD27FC4FFA8C361F6591F597F9" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5914 IH: To amend title 38, United States Code, to improve the processes to approve programs of education for purposes of the educational assistance programs of the Department of Veterans Affairs, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 5914</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231010">October 10, 2023</action-date>
+<action-desc><sponsor name-id="V000135">Mr. Van Orden</sponsor> introduced the following bill</action-desc>
+</action>
+<action display="yes">
+<action-date date="20231025">October 25, 2023</action-date>
+<action-desc>Referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend title 38, United States Code, to improve the processes to approve programs of education for purposes of the educational assistance programs of the Department of Veterans Affairs, and for other purposes.</official-title>
+</form>
+<legis-body id="H43F4572984BA41F9BA8E679321FB9FB3" style="OLC">
+<section id="H406F0750234B44C3AF90BB93D1DBF4F6" section-type="section-one"><enum>1.</enum><header>Processes to approve programs of education for purposes of the educational assistance programs of the Department of Veterans Affairs</header>
+<subsection id="H5F06DE99860F446B838154EF6A281A71"><enum>(a)</enum><header>Limitation of disapproval of programs of education for failure To provide certain forms</header><text>Section 3679(f)(1)(A) of title 38, United States Code, is amended by inserting <quote>to the maximum extent practicable,</quote> before <quote>provide</quote>.</text></subsection> <subsection id="H3EE81A06A38344FB92DD526808368719"><enum>(b)</enum><header>Publication of information about training for school certifying officials</header><text>The Secretary of Veterans Affairs shall establish a website to serve as a central location for the publication of information about the training that the Department of Veterans Affairs provides for school certifying officials and shall update such information on a regular basis.</text></subsection></section>
+</legis-body>
+</bill> 
+
+

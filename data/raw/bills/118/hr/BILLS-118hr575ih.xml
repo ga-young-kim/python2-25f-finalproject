@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HEC8AD8B6ED9B4E029850E7A2EA1F6FAC" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 575 IH: Moving H–2A to United States Department of Agriculture Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 575</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230126">January 26, 2023</action-date><action-desc><sponsor name-id="S001214">Mr. Steube</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To transfer the administration of the H&#8211;2A program from the Secretary of Labor to the Secretary of Agriculture, and for other purposes.</official-title></form><legis-body id="H297C2C6ED51F4120A6C80D457BF0A233" style="OLC"> 
+<section id="HF481A0B6949F4277A59A8AE354A84F38" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Moving H–2A to United States Department of Agriculture Act of 2023</short-title></quote>. </text></section> <section id="H2784CEC5A6A243A2AFCC4F9BCD5581D3"><enum>2.</enum><header>Administration of H–2A program</header> <subsection id="H9F68BE74B883482CBE500BE927C83C8B"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 218 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1188">8 U.S.C. 1188</external-xref>) is amended—</text> 
+<paragraph id="H3BB188D81FD142EF8F9278980AF7C1A3"><enum>(1)</enum><text>by striking <quote>Secretary of Labor</quote> and inserting <quote>Secretary of Agriculture</quote>; and</text></paragraph> <paragraph id="H514AC8738B6E41619943A1C9A9DD13B9"><enum>(2)</enum><text>by striking <quote>Attorney General</quote> and inserting <quote>Secretary of Homeland Security</quote>.</text></paragraph></subsection> 
+<subsection id="H52C875FFDB444F558ACD9F414FC1C6D5"><enum>(b)</enum><header>Timing</header> 
+<paragraph id="H2724F787E61249008644D099856286C5"><enum>(1)</enum><header>Effective date of amendments</header><text>The amendments made in subsection (a) shall take effect on the date that is 60 days after the date of the enactment of this section.</text></paragraph> <paragraph id="HE345072BF0284008AF4AA2BEC8556219"><enum>(2)</enum><header>Transfer of program administration</header><text>On the date that is 60 days after the date of the enactment of this section, the Secretary of Labor shall take such actions as are necessary to provide to the Secretary of Agriculture any personnel, funding, and other materials necessary to transfer administration of the H–2A program under section 218 of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1188">8 U.S.C. 1188</external-xref>), to the Secretary of Agriculture.</text></paragraph></subsection></section> 
+</legis-body></bill>
+

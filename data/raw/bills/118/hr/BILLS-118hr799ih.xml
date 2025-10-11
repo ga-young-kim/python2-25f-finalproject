@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB691DE7B331C4BCC9905B90C322E0888" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 799 IH: Shielding All Federal Employees and Consumers from Actionable Recall Situations Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 799</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230202">February 2, 2023</action-date>
+<action-desc><sponsor name-id="K000391">Mr. Krishnamoorthi</sponsor> (for himself and <cosponsor name-id="S001145">Ms. Schakowsky</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prohibit the sale, lease, or use of recalled motor vehicles by Federal agencies, and for other purposes.</official-title>
+</form>
+<legis-body id="H105C3B75C0FD41E6BE62F65F66E091C4" style="OLC">
+<section id="HFCB091E00A4F48268869E3D5F0475B84" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Shielding All Federal Employees and Consumers from Actionable Recall Situations Act of 2023</short-title></quote> or the <quote><short-title>SAFE CARS Act of 2023</short-title></quote>.</text></section> <section id="HE07A56A37CDA4E9A95BF1C2E62D909A1"><enum>2.</enum><header>Prohibition on sale, lease, or use of recalled motor vehicles by Federal agencies</header> <subsection id="H3FFE69C57DD04172AB4673CF5DE7FFEE"><enum>(a)</enum><header>Motor vehicles owned by Federal agencies</header><text display-inline="yes-display-inline">If the head of an agency of the Federal Government has received notification under section 30119 of title 49, United States Code, that a motor vehicle owned by the agency, or an item of replacement equipment used in or on the vehicle, contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under chapter 301 of such title—</text>
+<paragraph id="HD486FEC8FE244543A1D2E493EE3B621A"><enum>(1)</enum><text>the head of the agency may not—</text> <subparagraph id="H4D6C98A2D80E48C39AA4C52DCC064BBC"><enum>(A)</enum><text>sell the vehicle unless—</text>
+<clause id="H49B7A2E32F8043638AAAFBFA44452045"><enum>(i)</enum><text>if a remedy for the defect or noncompliance has been made available by the manufacturer at the time of sale, the defect or noncompliance has been remedied as required under section 30120 of such title; or</text></clause> <clause id="HB2244122CC4144C7950968E5F28CEAE6"><enum>(ii)</enum><text>if a remedy for the defect or noncompliance has not been made available by the manufacturer at the time of sale, the head of the agency notifies the purchaser of the vehicle of the defect or noncompliance before the time of sale; or</text></clause></subparagraph>
+<subparagraph id="H0E8EB75B09CC4274933711FE7E81E0B9"><enum>(B)</enum><text>enter into an agreement to lease the vehicle to an individual or entity unless—</text> <clause id="HC9E37C75ADA748AD90A03F01B6B8C82B"><enum>(i)</enum><text>if a remedy for the defect or noncompliance has been made available by the manufacturer at the time when the agreement is entered into, the defect or noncompliance has been remedied as required under section 30120 of such title; or</text></clause>
+<clause id="H864A10FE954F4B499E5114CFA66A6BEA" commented="no"><enum>(ii)</enum><text>if a remedy for the defect or noncompliance has not been made available by the manufacturer at the time when the agreement is entered into, the head of the agency notifies the individual or entity of the defect or noncompliance before such time;</text></clause></subparagraph></paragraph> <paragraph id="HFF172AC45A3B45219284A3E2D4D75F0B"><enum>(2)</enum><text display-inline="yes-display-inline">in the case in which the head of the agency has entered into an agreement to lease the vehicle to an individual or entity, and such agreement has not expired at the time of the notification, the head of the agency shall—</text>
+<subparagraph id="H46DACBB6E69E45E7985527D5D6A4256A"><enum>(A)</enum><text display-inline="yes-display-inline">notify such individual or entity that the agency has received such notification; and </text></subparagraph> <subparagraph id="H9FDD9901EFCA4C0CBEA9719A74533749"><enum>(B)</enum><text display-inline="yes-display-inline">in the case in which such individual or entity is not the head of an agency of the Federal Government, encourage such individual or entity to make all reasonable efforts to—</text>
+<clause id="H9490066E141E44F7A1B81CB663E1382D"><enum>(i)</enum><text>have the defect or noncompliance remedied as required under section 30120 of such title; and</text></clause> <clause id="HAF1F47D9A3D6478685E7DE696623C94C"><enum>(ii)</enum><text display-inline="yes-display-inline">prevent the use of such vehicle until the defect or noncompliance has been remedied as required under section 30120 of such title; and </text></clause></subparagraph></paragraph>
+<paragraph id="H89787CA452E54C9E97D95A2D059B4C20"><enum>(3)</enum><text display-inline="yes-display-inline">the head of the agency shall make all reasonable efforts to prevent the use of such vehicle by individuals of the agency until the defect or noncompliance has been remedied as required under section 30120 of such title, unless the head of the agency makes a written determination that use of the vehicle by individuals of the agency is necessary for a critical mission purpose and that such purpose outweighs any risks to health and safety caused by using the vehicle before the defect or noncompliance is remedied as required under section 30120 of such title. </text></paragraph></subsection> <subsection id="HAEB750291B934E8D9CE01A7875C8DD9F"><enum>(b)</enum><header>Motor vehicles leased by Federal agencies</header><text display-inline="yes-display-inline">If an entity notifies the head of an agency of the Federal Government that such entity has received a notification under section 30119 of title 49, United States Code, that a vehicle leased by the entity to the head of the agency, or an item of replacement equipment used in or on the vehicle, contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under chapter 301 of such title, the head of the agency shall make all reasonable efforts to prevent the use of such vehicle by individuals of the agency until the defect or noncompliance has been remedied as required under section 30120 of such title, unless the head of the agency makes a written determination that use of the vehicle by individuals of the agency is necessary for a critical mission purpose and that such purpose outweighs any risks to health and safety caused by using the vehicle before the defect or noncompliance is remedied as required under section 30120 of such title.</text></subsection></section>
+</legis-body>
+</bill> 
+
+

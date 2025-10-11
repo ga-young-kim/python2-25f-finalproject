@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H53CF6837430445D5965324141D297EE7" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3947 IH: To designate the facility of the United States Postal Service located at 859 North State Road 21 in Melrose, Florida, as the “Pamela Jane Rock Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3947</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230609">June 9, 2023</action-date><action-desc><sponsor name-id="B001314">Mr. Bean of Florida</sponsor> (for himself and <cosponsor name-id="C001039">Mrs. Cammack</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 859 North State Road 21 in Melrose, Florida, as the <quote>Pamela Jane Rock Post Office Building</quote>.</official-title></form><legis-body id="H86EED2D5551545C3997791A21D3BF1B1" style="OLC"><section id="HA9390A111CDF454E961CA2EB6E729C43" section-type="section-one"><enum>1.</enum><header>Pamela Jane Rock Post Office Building</header><subsection id="H8FFC09BA5036444DAA14D2113C5EBB84"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 859 North State Road 21 in Melrose, Florida, shall be known and designated as the <quote>Pamela Jane Rock Post Office Building</quote>.</text></subsection><subsection id="H8C4AAE1266D1435FAC9E67159C3217B3"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Pamela Jane Rock Post Office Building</quote>.</text></subsection></section></legis-body></bill> 
+

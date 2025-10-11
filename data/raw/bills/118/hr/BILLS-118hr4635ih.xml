@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HBA94781D1C6945D8BB6281000648B613" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4635 IH: Clean Slate through Repayment Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4635</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230713">July 13, 2023</action-date><action-desc><sponsor name-id="R000305">Ms. Ross</sponsor> (for herself, <cosponsor name-id="S001215">Ms. Stevens</cosponsor>, <cosponsor name-id="W000788">Ms. Williams of Georgia</cosponsor>, and <cosponsor name-id="A000370">Ms. Adams</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Higher Education Act of 1965 to remove the record of default on a loan made, insured, or guaranteed under title IV from a borrower&#8217;s credit history upon repayment of the full amount due on such loan.</official-title></form><legis-body id="H7F90F9918448471FA41AEC3A19F83B0E" style="OLC"> 
+<section id="H9027EBAD85124CEE93BB47EE156FF676" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Clean Slate through Repayment Act of 2023</short-title></quote>.</text></section> <section id="HC0550F6BE8604F5A803963AE8F7BC4C4" section-type="subsequent-section"><enum>2.</enum><header>Removal of record of default</header><text display-inline="no-display-inline">Part G of title IV of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1088">20 U.S.C. 1088 et seq.</external-xref>) is amended by adding at the end the following:</text>
+<quoted-block display-inline="no-display-inline" id="HE465276FD5004F9DAA2AD146037B37C9" style="OLC">
+<section id="H290511219BBB4A02897000DFACC27DA7"><enum>495.</enum><header>Removal of record of default</header><text display-inline="no-display-inline">Upon repaying in full the amount due on a defaulted loan made, insured, or guaranteed under this title, the Secretary, guaranty agency, or other holder of the loan shall request any consumer reporting agency to which the Secretary, guaranty agency, or holder, as applicable, reported the default of the loan, to remove any adverse item of information relating to such loan from the borrower's credit history. </text></section><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body></bill>
+

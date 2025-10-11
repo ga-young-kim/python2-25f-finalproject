@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H807CBF89D5234CB89A130AE36D900AF0" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3397 IH: To require the Director of the Bureau of Land Management to withdraw a rule of the Bureau of Land Management relating to conservation and landscape health.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3397</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230517">May 17, 2023</action-date><action-desc><sponsor name-id="C001114">Mr. Curtis</sponsor> (for himself, <cosponsor name-id="F000469">Mr. Fulcher</cosponsor>, <cosponsor name-id="S001192">Mr. Stewart</cosponsor>, <cosponsor name-id="H001096">Ms. Hageman</cosponsor>, <cosponsor name-id="S001212">Mr. Stauber</cosponsor>, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, <cosponsor name-id="N000189">Mr. Newhouse</cosponsor>, <cosponsor name-id="L000564">Mr. Lamborn</cosponsor>, <cosponsor name-id="M001213">Mr. Moore of Utah</cosponsor>, <cosponsor name-id="O000086">Mr. Owens</cosponsor>, <cosponsor name-id="B000668">Mr. Bentz</cosponsor>, <cosponsor name-id="A000369">Mr. Amodei</cosponsor>, <cosponsor name-id="R000103">Mr. Rosendale</cosponsor>, and <cosponsor name-id="Z000018">Mr. Zinke</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Director of the Bureau of Land Management to withdraw a rule of the Bureau of Land Management relating to conservation and landscape health.</official-title></form><legis-body id="H1DCA3114B9C741C8B80621B0F6311F08" style="OLC"><section id="H6BAE88CCEB4646B5A5515F6D5E3DD2C1" section-type="section-one"><enum>1.</enum><header>Withdrawal of BLM proposed rule</header><text display-inline="no-display-inline">The Director of the Bureau of Land Management—</text><paragraph commented="no" display-inline="no-display-inline" id="H584073A4E3CA4D81A9CD328F4788A1C8"><enum>(1)</enum><text display-inline="yes-display-inline">shall withdraw the proposed rule of the Bureau of Land Management entitled <quote>Conservation and Landscape Health</quote> (88 Fed. Reg. 19583 (April 3, 2023)); and</text></paragraph><paragraph commented="no" display-inline="no-display-inline" id="HC86C8E5C67A5462F86E81B09FA2600ED"><enum>(2)</enum><text>may not take any action to finalize, implement, or enforce the proposed rule described in paragraph (1) or any substantially similar rule.</text></paragraph></section></legis-body></bill> 
+

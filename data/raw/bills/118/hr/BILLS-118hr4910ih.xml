@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5F866A4C9CC84D57BE26A8DB4EB7DF73" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4910 IH: Deplatform Drug Dealers Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4910</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230726">July 26, 2023</action-date><action-desc><sponsor name-id="G000558">Mr. Guthrie</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend section 230 of the Communications Act of 1934 to provide that such section has no effect on certain laws relating to controlled substances and drugs, and for other purposes.</official-title></form><legis-body id="H68B2B84B0E924EA19F4C63599EBFD3F7" style="OLC"> 
+<section id="H56223F5548D0403AA882D516300386B4" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Deplatform Drug Dealers Act</short-title></quote>.</text></section> <section id="HB9A2CDA909A945F797338775BBF594C9"><enum>2.</enum><header>No effect on certain laws relating to controlled substances and drugs</header><text display-inline="no-display-inline">Section 230(e) of the Communications Act of 1934 (<external-xref legal-doc="usc" parsable-cite="usc/47/230">47 U.S.C. 230(e)</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block id="H49329EB10A774FF0AEB111DCD4A11AAC" style="OLC"> 
+<paragraph id="H323A44CB05864E1EB5A53542743A20C0"><enum>(6)</enum><header>No effect on certain laws relating to controlled substances and drugs</header><text>In addition to the exception provided by paragraph (1) for Federal criminal statutes, nothing in this section (other than subsection (c)(2)(A)) shall be construed to impair or limit any action for civil penalties, damages, or equitable relief based on advertising or offering to sell, deliver, distribute, dispense, or introduce into interstate commerce a controlled substance (as defined in section 102 of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/802">21 U.S.C. 802</external-xref>)) or drug (as defined in section 201 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/321">21 U.S.C. 321</external-xref>)) in violation of—</text> <subparagraph id="HD81C895F7CD144BA8B520E40B6CF6BD8"><enum>(A)</enum><text>section 401(h) or 403(c)(2) of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/841">21 U.S.C. 841(h)</external-xref>; 843(c)(2)); or</text></subparagraph> 
+<subparagraph id="HB0D2C9705C0D41919DEE521742828C27"><enum>(B)</enum><text>section 301(a), 301(d), or 505(a) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/331">21 U.S.C. 331(a)</external-xref>; 331(d); 355(a)).</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body></bill>
+

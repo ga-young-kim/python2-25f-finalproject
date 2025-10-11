@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7056C068432F4437A2D97A15975554ED" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4554 IH: Ukraine Aid Oversight Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 4554</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230711">July 11, 2023</action-date>
+<action-desc><sponsor name-id="M001218">Mr. McCormick</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name>, and in addition to the Committee on <committee-name committee-id="HAS00">Armed Services</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To require a report on international assistance for Ukraine.</official-title>
+</form>
+<legis-body id="H1E6D1093604C4D96B1E23B59629B82D9" style="OLC"> 
+<section id="H16E07525403E40E9B493FCE6689CB224" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ukraine Aid Oversight Act</short-title></quote>.</text></section> <section id="H4ED9F8CC2BFB4FC9ABEB8BFA5F978FB7"><enum>2.</enum><header>Report on international assistance for Ukraine</header> <subsection id="HA01548CE524C4E25AFB59F01BAE93C5F"><enum>(a)</enum><header>Report</header> <paragraph id="HA1D94E119F77474498D3248B013B3775"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">The Office of Inspector General of the Department of Defense, the Office of Inspector General of the Department of State, and the Office of Inspector General of the United States Agency for International Development shall submit to Congress and make publicly available on a quarterly basis a report on international assistance for Ukraine, including recommendations on policy changes to ensure increased oversight of such assistance, any other matters relating to oversight of such assistance, and that such assistance is being used in accordance with applicable law.</text></paragraph> 
+<paragraph id="H44BBCA2A14264DBEAB867CCE31BBFED5"><enum>(2)</enum><header>Matters to be included</header><text display-inline="yes-display-inline">The report required by paragraph (1) shall include at a minimum the following:</text> <subparagraph id="HB83355CDAF0B45F78D768C2288510627"><enum>(A)</enum><text>An update as to the sufficiency of the oversight frameworks being used and whether there are any gaps in oversight over the activities and funds for assistance to Ukraine.</text></subparagraph> 
+<subparagraph id="HF0F9AF014433443B99B49603728864B7"><enum>(B)</enum><text>A notification of any failures by United States, bilateral, or multilateral organizations to work with such Inspectors General in a timely and transparent manner.</text></subparagraph> <subparagraph id="HE182BAC25FB840C9AD8E12101B32699F"><enum>(C)</enum><text>An updated description of the footprint in Europe of such Inspectors General for purposes of oversight of assistance to Ukraine, including presence and access in Ukraine.</text></subparagraph> 
+<subparagraph id="H938B3DE3967D4B71B5B4BE50A6E7BC0A"><enum>(D)</enum><text>A description of any known incidents of the misuse of assistance to Ukraine, including incidents of waste, fraud, abuse, diversion, or corruption.</text></subparagraph> <subparagraph id="H6887F99B05CF4317AF66A06716511C85"><enum>(E)</enum><text>Any lessons learned from the manner in which oversight over assistance to Ukraine has been conducted.</text></subparagraph> 
+<subparagraph id="H35514F84C1D449B385DFB4AB62C4229A"><enum>(F)</enum><text>Any findings or recommendations with respect to assistance to Ukraine.</text></subparagraph> <subparagraph id="HBB93C1600A154790B19414F4A9F86C8B"><enum>(G)</enum><text>A list of acquisitions in which the Department of Defense used sole source contracting authority.</text></subparagraph> 
+<subparagraph id="H5D25D99F934E4250A476683B9668F242"><enum>(H)</enum><text>Any legislative or budgetary assistance to better help conduct oversight of assistance to Ukraine.</text></subparagraph></paragraph> <paragraph id="H5A8179FFED2D49D08FE9C818CD484E1A"><enum>(3)</enum><header>Form</header><text>The report required by paragraph (1) may contain a classified appendix if necessary. </text></paragraph></subsection> 
+<subsection id="H5A2CBA8511264F7BA9A02EFD2AC44333"><enum>(b)</enum><header>Staff</header> 
+<paragraph id="HDDEE5F98709A4EEF8718344B63870649"><enum>(1)</enum><header>In general</header><text>Each Office of Inspector General listed in subsection (a) shall designate at least one staff member of each such Office to be deployed on the ground in Ukraine for purposes of assisting in preparing the report required by subsection (a).</text></paragraph> <paragraph id="H117F5D771F2743F2851D1FB0B30DC29A"><enum>(2)</enum><header>Additional staff</header><text display-inline="yes-display-inline">Each Office of Inspector General listed in subsection (a) may, without regard to sections 3309 through 3318 of title 5, United States Code, recruit and appoint candidates to fill temporary and term appointments within such Office upon a determination that those expedited procedures are necessary and appropriate to enable such Office to carry out this Act.</text></paragraph> 
+<paragraph id="HEC6E43B4AD5F4626B291AD91D8790E99"><enum>(3)</enum><header>Accommodations</header><text display-inline="yes-display-inline">The Secretary of State shall make proper and necessary accommodations for the arrival of the personnel described in this subsection.</text></paragraph></subsection> <subsection id="HF77313FB6C214F57BEC0AAC669AE2E56"><enum>(c)</enum><header>Sunset</header><text>This Act shall terminate on the later of—</text> 
+<paragraph id="HE30AC16D1FB142A784A4E6E920321B39"><enum>(1)</enum><text>January 1, 2030; or</text></paragraph> <paragraph id="H1F653B367449452B8ACD56C4B61CD817"><enum>(2)</enum><text display-inline="yes-display-inline">the date on which the Secretary of Defense, the Secretary of State, and the Administrator of the United States Agency for International Development certify to Congress that the war and post-war reconstruction efforts in Ukraine have ended.</text> </paragraph></subsection></section> 
+</legis-body>
+</bill> 
+
+

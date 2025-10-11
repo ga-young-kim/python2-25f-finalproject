@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H966895AFE8E2401F9E0EF539EDA1ED02" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6677 IH: Seawall Expansion Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-12-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6677</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231207">December 7, 2023</action-date><action-desc><sponsor name-id="L000562">Mr. Lynch</sponsor> (for himself and <cosponsor name-id="M001196">Mr. Moulton</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the National Levee Safety Act of 2007 to include in the definition of levee hard or manmade structures, and for other purposes.</official-title></form><legis-body id="H81CE871A586D4821B0A587373431FC68" style="OLC">
+<section id="H8B1ED93F8D6843978416F39AD5306DCE" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Seawall Expansion Act</short-title></quote>.</text></section> <section id="HBAD2FA37CCD9413BBB9FD5517309C87F" section-type="subsequent-section"><enum>2.</enum><header>Definition of levee</header><text display-inline="no-display-inline">Section 9002(7) of the National Levee Safety Act of 2007 (<external-xref legal-doc="usc" parsable-cite="usc/33/3301">33 U.S.C. 3301</external-xref>) is amended—</text> 
+<paragraph id="HECA4BB7C361046C4A16BBA2E42CD345D"><enum>(1)</enum><text>in subparagraph (A), in the matter preceding clause (i)—</text> <subparagraph id="H1A074DA5A79647168D3E9813CA2076FA"><enum>(A)</enum><text>by striking <quote>manmade barrier</quote> and inserting <quote>hard or manmade structure or barrier</quote>; </text></subparagraph> 
+<subparagraph id="H49554CC8F60A4645A2D09B9F883A1F58"><enum>(B)</enum><text>by inserting <quote>, seawall, revetment, bulkhead, groin, jetty, breakwater, dike, levee</quote> after <quote>floodwall</quote>; and</text></subparagraph> <subparagraph id="HAF4C4C6B9F924AD2A4EF77268A3BB95D"><enum>(C)</enum><text>by inserting <quote>or soft infrastructure (including a beach, dune, or coastal bank)</quote> after <quote>other structure)</quote>; and</text></subparagraph></paragraph> 
+<paragraph id="H100BC664D06B49D6BC1978DF40E5C088"><enum>(2)</enum><text>in subparagraph (C)—</text> <subparagraph id="HE401EE93AE4348F1A31D56E523728C07"><enum>(A)</enum><text>in clause (iii), by inserting <quote>or</quote> after the semicolon;</text></subparagraph> 
+<subparagraph id="H959DFE05AFCB4E16838BA514F702EBDB"><enum>(B)</enum><text>in clause (iv)(V), by striking <quote>; or</quote> and inserting a period; and</text></subparagraph> <subparagraph id="H07FBC0B749D74A079C603B1AC160B927"><enum>(C)</enum><text display-inline="yes-display-inline">by striking clause (v).</text> </subparagraph></paragraph></section> 
+</legis-body></bill>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H211F9111080D4872B191985B7268E628" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4355 IH: Rural Veterinary Workforce Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4355</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230623">June 23, 2023</action-date><action-desc><sponsor name-id="S001172">Mr. Smith of Nebraska</sponsor> (for himself, <cosponsor name-id="L000557">Mr. Larson of Connecticut</cosponsor>, <cosponsor name-id="F000470">Mrs. Fischbach</cosponsor>, and <cosponsor name-id="P000613">Mr. Panetta</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to provide for an exclusion for assistance provided to participants in certain veterinary student loan repayment or forgiveness programs.</official-title></form><legis-body id="H6DE2F10A085446C3B424F102CF77A54E" style="OLC"> 
+<section id="HAC625BCFA1994C2DB016682FC0DA18B0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Rural Veterinary Workforce Act</short-title></quote>.</text></section> <section id="H931D6021932545358CC80858D60AA18B" section-type="subsequent-section"><enum>2.</enum><header>Exclusion for assistance provided to participants in certain veterinary student loan repayment or forgiveness programs</header> <subsection id="H5B2AD134E5684BF9B6F0A2B8F41D5E4F"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/108">Section 108(f)(4)</external-xref> of the Internal Revenue Code of 1986 is amended—</text>
+<paragraph id="HF9A4EC9364BA4204B2B48F8FE4782360"><enum>(1)</enum><text>by striking <quote>or</quote> after <quote>such Act,</quote>;</text></paragraph> <paragraph id="H8627F42F2A6E4B22BE5D545BC5C84145"><enum>(2)</enum><text>by striking the period at the end and inserting <quote>, under section 1415A of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (<external-xref legal-doc="usc" parsable-cite="usc/7/3151a">7 U.S.C. 3151a</external-xref>), or under any other State loan repayment or loan forgiveness program that is intended to provide for increased access to veterinary services in such State.</quote>; and</text></paragraph>
+<paragraph id="H219FD37AF6A34758BDADD094375998F6"><enum>(3)</enum><text>by striking <quote><header-in-text level="paragraph" style="OLC">state</header-in-text></quote> in the heading and inserting <quote><header-in-text level="paragraph" style="OLC">other</header-in-text></quote>.</text></paragraph></subsection> <subsection id="H60D2F8E0029248A6B114C8B3930D6F03"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to amounts received by an individual in taxable years beginning after December 31, 2023.</text></subsection></section> 
+</legis-body></bill>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H36FFCCB7C6DD4485B799BCC114514305" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4210 IH: Closing the Enhanced Prudential Standards Loophole Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4210</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230620">June 20, 2023</action-date><action-desc><sponsor name-id="W000187">Ms. Waters</sponsor> (for herself, <cosponsor name-id="V000081">Ms. Vel&#225;zquez</cosponsor>, <cosponsor name-id="S000344">Mr. Sherman</cosponsor>, <cosponsor name-id="G000553">Mr. Green of Texas</cosponsor>, <cosponsor name-id="C001061">Mr. Cleaver</cosponsor>, <cosponsor name-id="B001281">Mrs. Beatty</cosponsor>, <cosponsor name-id="V000130">Mr. Vargas</cosponsor>, <cosponsor name-id="G000587">Ms. Garcia of Texas</cosponsor>, and <cosponsor name-id="T000481">Ms. Tlaib</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Financial Stability Act of 2010 to apply the enhanced supervision and prudential standards applicable under such Act with respect to bank holding companies to large banks that do not have a bank holding company, and for other purposes.</official-title></form><legis-body id="H6C0690893A1D4419A6B86DDFC812F79C" style="OLC"> 
+<section id="HD9DD6AD92B674D15A5AD4C1DF3925F4C" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Closing the Enhanced Prudential Standards Loophole Act</short-title></quote>.</text></section> <section id="H0A6D57CE650B4EBDB590FC709DDFFF2F" section-type="subsequent-section"><enum>2.</enum><header>Enhanced supervision and prudential standards for banks with no bank holding company</header><text display-inline="no-display-inline">Section 165 of the Financial Stability Act of 2010 (<external-xref legal-doc="usc" parsable-cite="usc/12/5365">12 U.S.C. 5365</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" id="HDAA9CED5FFA94E48B64F15C00D23718F" display-inline="no-display-inline"> 
+<subsection id="HEAF250C04DBB4AC58D643C48A9C92B5A"><enum>(l)</enum><header>Application to banks with no bank holding company</header><text display-inline="yes-display-inline">The provisions of this section shall apply to a bank that does not have a bank holding company to the same extent as such provisions apply to a bank holding company with the same amount of total consolidated assets as the bank.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body></bill>
+

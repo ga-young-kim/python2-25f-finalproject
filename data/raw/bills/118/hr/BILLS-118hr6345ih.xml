@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H608A79F70BA942FD96880D6DF27718B7" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6345 IH: Hire Student Veterans Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6345</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231109">November 9, 2023</action-date><action-desc><sponsor name-id="L000590">Ms. Lee of Nevada</sponsor> (for herself and <cosponsor name-id="S001135">Mrs. Steel</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to provide the work opportunity tax credit with respect to hiring veterans who are receiving educational assistance under laws administered by the Secretary of Veterans Affairs or Defense.</official-title></form><legis-body id="HEA0D0C2620EE4D5E9EE1F1F209084168" style="OLC"> 
+<section section-type="section-one" id="H772A2873D8064A7B84CB0C520ACBD842"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Hire Student Veterans Act</short-title></quote>.</text></section> <section id="H6A8FFE153D4A45D5B7B441F2566E7BE4"><enum>2.</enum><header>Work opportunity tax credit for hiring veterans receiving educational assistance under laws administered by the Secretary of Veterans Affairs or Defense</header> <subsection id="H6C661DDBED024C9AAA26381F307D1D8D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/51">Section 51(d)(3)(A)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>or</quote> at the end of clause (iii), by striking the period at the end of clause (iv) and inserting <quote>, or</quote>, and by adding at the end the following new clause:</text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="HF6C2662108224806941641E877AAF5A6"> 
+<clause id="H5EF939D644664681A037C5743C9BE8BC"><enum>(v)</enum><text display-inline="yes-display-inline">attending an educational institution by means of educational assistance provided under chapter 30, 31, 32, 33, or 34 of title 38, United States Code, or chapter 1606 or 1607 of title 10, United States Code.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H85AFB46F547D4F24AF56F301BB90969A"><enum>(b)</enum><header>Modification of minimum employment period</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/51">Section 51(i)(3)(A)</external-xref> of the Internal Revenue Code of 1986 is amended by inserting <quote>(other than a qualified veteran described in subsection (d)(3)(A)(v))</quote> after <quote>In the case of an individual</quote>.</text></subsection> 
+<subsection id="H13F195238D49443DA261A92F7C4AE9CE"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to individuals who begin work for the employer after the date of the enactment of this Act.</text></subsection></section> </legis-body></bill>
+

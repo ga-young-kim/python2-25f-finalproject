@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0F0FAB2FBE5B494FB2CC508426E8DB99" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6395 IH: Recognizing the Importance of Critical Minerals in Healthcare Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6395</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231114">November 14, 2023</action-date><action-desc><sponsor name-id="C001114">Mr. Curtis</sponsor> (for himself and <cosponsor name-id="D000197">Ms. DeGette</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Energy Act of 2020 to require the Secretary of the Interior to include the Secretary of Health and Human Services in consultations regarding designations of critical minerals, elements, substances, and materials.</official-title></form><legis-body id="HC158AE95E47148749ACAFEC3A17ADB56" style="OLC"><section id="H26CF68E753A54B8EB7D57C67A128912A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Recognizing the Importance of Critical Minerals in Healthcare Act of 2023</short-title></quote>.</text></section><section id="H5CD47DA6973348D686A4A60AF80A2C90"><enum>2.</enum><header>Required consultation with the Secretary of Health and Human Services</header><text display-inline="no-display-inline">Paragraphs (4)(C) and (5)(A) of section 7002(c) of the Energy Act of 2020 (<external-xref legal-doc="usc" parsable-cite="usc/30/1606">30 U.S.C. 1606(c)(4)(C)</external-xref> and (5)(A)) are each amended by inserting <quote>Health and Human Services,</quote> after <quote>Agriculture,</quote>. </text></section></legis-body></bill> 
+

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE5C2469DC0C44F5F83B83E7A6C8AC54F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6218 IH: To provide for an overtime pay exception for protective services.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6218</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231103">November 3, 2023</action-date><action-desc><sponsor name-id="K000398">Mr. Kean of New Jersey</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To provide for an overtime pay exception for protective services.</official-title></form><legis-body id="H49644BF1AE66474FBEC45612A5974596" style="OLC"> 
+<section id="H371DC12734C64532AC6E538A7AB511A7" section-type="section-one"><enum>1.</enum><header>Overtime pay exception for protective services</header> 
+<subsection id="HEAB905337B0C414CA25B62C1A7436EF2"><enum>(a)</enum><header>Covered employee defined</header><text display-inline="yes-display-inline">In this section, the term “covered employee” means any Diplomatic Security special agent who performs protective services for an individual or event protected by the Diplomatic Service. </text></subsection> <subsection id="H86FEF7B740D341878D5214B94348BE0E"><enum>(b)</enum><header>Exception to the limitation on premium pay for Protective Services</header><text>Notwithstanding any other provision of law, and only to the extent that an appropriation is provided specifically in an appropriations Act for premium pay for a given calendar year in excess of the annual equivalent of the limitation on the rate of pay contained in section 5547(a) of title 5, United States Code, any covered employee may receive premium pay for overtime performed while conducting protective security functions. </text></subsection> 
+<subsection id="HC0548ED76D524D90B8A4B198F5C889E4"><enum>(c)</enum><header>Treatment of additional pay</header><text>If subsection (b) results in the payment of additional premium pay to a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay may not—</text> <paragraph id="H560DEC0812B84AD0AEE16412506C3BD3"><enum>(1)</enum><text>be considered to be basic pay of the covered employee for any purpose; or </text></paragraph> 
+<paragraph id="HAA79716B2FED4AAB950E17779ECE7504"><enum>(2)</enum><text>be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave. </text></paragraph></subsection> <subsection id="H7A8956FAC068459CAAA2967CCE35AD7D"><enum>(d)</enum><header>Aggregate limit</header><text>With respect to the application of section 5307 of title 5, United States Code, the payment of any additional premium pay to a covered employee as a result of subsection (b) shall not be counted as part of the aggregate compensation of the covered employee. </text></subsection> </section> 
+</legis-body></bill>
+

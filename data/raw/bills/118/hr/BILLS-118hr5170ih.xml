@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H59A67A0DE96E4530985596F8C7AC4E9F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5170 IH: Commission of Fine Arts District of Columbia Home Rule Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-08-08</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5170</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230808">August 8, 2023</action-date><action-desc><sponsor name-id="N000147">Ms. Norton</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 40, United States Code, to prohibit the Commission of Fine Arts from exercising authority over non-Federal property in the District of Columbia, and for other purposes.</official-title></form><legis-body id="H85C7CCEF20B849E18123B23D998C5E7F" style="OLC"> 
+<section id="H230957F56BA4432ABC32718AFDE85C0A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Commission of Fine Arts District of Columbia Home Rule Act</short-title></quote>.</text></section> <section id="H2AC30709C31047BC81630270AAB427D5"><enum>2.</enum><header>Prohibiting Commission of Fine Arts from exercising authority over non-Federal property in the District of Columbia</header> <subsection id="H0A562917E9BD4B3AA0A22808419674D1"><enum>(a)</enum><header>Limiting authority over location of statues, fountains, and monuments</header><text display-inline="yes-display-inline">Section 9102(a)(1) of title 40, United States Code, is amended by striking <quote>District of Columbia</quote> and inserting <quote>District of Columbia which are owned by the Federal Government</quote>.</text></subsection>
+<subsection id="HA2F34E71454C45AA80C1664792CA372B"><enum>(b)</enum><header>Clarification of limitations on authority</header><text>Section 9102(c) of such title is amended to read as follows:</text> <quoted-block style="USC" id="HC1CE0E48C8A4454AA9F0E9262F4B6BBA" display-inline="no-display-inline"> <subsection id="H4499FC8454C24A1DA3D11AE6DC8B2F6A"><enum>(c)</enum><header>Nonapplication</header><text display-inline="yes-display-inline">The authority of the Commission under this section does not apply to any of the following:</text>
+<paragraph id="H6628D585228D4C309E6F772D3F1CBD87"><enum>(1)</enum><text>The United States Capitol.</text></paragraph> <paragraph id="H7083AD597E4542638A374F036E74DF19"><enum>(2)</enum><text>Any building of the Library of Congress.</text></paragraph>
+<paragraph id="H3A4C6AB9FDE6442ABED0E648FD97BD5A"><enum>(3)</enum><text>Any building, property, or project which is owned by the District of Columbia.</text></paragraph> <paragraph id="HEB7206B36B5B4D72A0477E0EE63D0181"><enum>(4)</enum><text>Any private building, property, or project.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+</legis-body></bill>
+

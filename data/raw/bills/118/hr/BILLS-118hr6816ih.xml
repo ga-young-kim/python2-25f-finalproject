@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC768C186FC2448AC887D1A4E4D65D63E" public-private="public" key="G" bill-type="olc" star-print="first-star-print">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6816 IH: Promoting Responsible Oversight To Eliminate Communist Teachings for Our Kids Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-12-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 6816</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231214">December 14, 2023</action-date>
+<action-desc><sponsor name-id="H001082">Mr. Hern</sponsor> (for himself, <cosponsor name-id="S001196">Ms. Stefanik</cosponsor>, <cosponsor name-id="W000798">Mr. Walberg</cosponsor>, <cosponsor name-id="V000134">Ms. Van Duyne</cosponsor>, <cosponsor name-id="R000603">Mr. Rouzer</cosponsor>, <cosponsor name-id="A000379">Mr. Alford</cosponsor>, <cosponsor name-id="B001291">Mr. Babin</cosponsor>, <cosponsor name-id="G000595">Mr. Good of Virginia</cosponsor>, <cosponsor name-id="C001118">Mr. Cline</cosponsor>, <cosponsor name-id="E000071">Mr. Ellzey</cosponsor>, <cosponsor name-id="B001317">Mr. Brecheen</cosponsor>, <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>, <cosponsor name-id="L000266">Mr. LaTurner</cosponsor>, <cosponsor name-id="J000304">Mr. Jackson of Texas</cosponsor>, <cosponsor name-id="O000175">Mr. Ogles</cosponsor>, <cosponsor name-id="O000086">Mr. Owens</cosponsor>, <cosponsor name-id="H001058">Mr. Huizenga</cosponsor>, <cosponsor name-id="F000472">Mr. Scott Franklin of Florida</cosponsor>, <cosponsor name-id="C001116">Mr. Clyde</cosponsor>, <cosponsor name-id="A000055">Mr. Aderholt</cosponsor>, <cosponsor name-id="W000795">Mr. Wilson of South Carolina</cosponsor>, <cosponsor name-id="A000372">Mr. Allen</cosponsor>, <cosponsor name-id="M001224">Mr. Moran</cosponsor>, <cosponsor name-id="E000246">Mr. Edwards</cosponsor>, <cosponsor name-id="L000578">Mr. LaMalfa</cosponsor>, <cosponsor name-id="B001307">Mr. Baird</cosponsor>, <cosponsor name-id="S001189">Mr. Austin Scott of Georgia</cosponsor>, <cosponsor name-id="L000589">Mrs. Lesko</cosponsor>, and <cosponsor name-id="D000628">Mr. Dunn of Florida</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To prohibit the availability of Federal education funds for elementary and secondary schools that receive direct or indirect support from the Government of the People’s Republic of China.</official-title>
+</form>
+<legis-body id="HDCFA939DDAAC4870BAC66DD6DC2ACA4B" style="OLC">
+<section id="H847D5DB7CD0942F1A2F67B0269E49F84" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Promoting Responsible Oversight To Eliminate Communist Teachings for Our Kids Act</short-title></quote> or the <quote><short-title>PROTECT Our Kids Act</short-title></quote>.</text></section> <section id="HC21F6B8AB8D1449389E02B3E83D19177" section-type="subsequent-section"><enum>2.</enum><header>Prohibition on availability of funds</header> <subsection id="H4BE938996CA64FC8B777AC2490809358"><enum>(a)</enum><header>Prohibition</header><text>Notwithstanding any other provision of law, no funds may be made available under an applicable program to any elementary school or secondary school that—</text>
+<paragraph id="H641A5C4288A64B7389290E6692DCE221"><enum>(1)</enum><text>has a partnership in effect with a cultural or language institute directly or indirectly funded by the Government of the People's Republic of China, including a Confucius Institute;</text></paragraph> <paragraph id="H393AEBE923F54D22977A2135B225DFCB"><enum>(2)</enum><text display-inline="yes-display-inline">operates a learning center directly or indirectly supported by the Government of the People's Republic of China (commonly referred to as a <quote>Confucius Classroom</quote>); or</text></paragraph>
+<paragraph id="H54C7D679D4CF4290A8F4B215BE9A8DAA"><enum>(3)</enum><text display-inline="yes-display-inline">otherwise receives support from an individual or entity acting directly or indirectly on behalf of the Government of the People’s Republic of China, including support in the form of teaching materials, personnel, funds, or other resources.</text></paragraph></subsection> <subsection id="H9065EB68AC4248A7BFC5B919708D2C47"><enum>(b)</enum><header>Effective date</header><text>The prohibition under subsection (a) shall take effect on the date that is one year after the date of enactment of this Act.</text></subsection>
+<subsection id="HE4BC6421F97440678878C99D9DB2FFC2"><enum>(c)</enum><header>Notice to affected schools</header><text>Not later than 90 days after the date of enactment of this Act, the Secretary of Education shall provide notice to elementary and secondary schools of the requirements of this Act together with guidance for achieving compliance with such requirements. </text></subsection> <subsection id="HB92B486BFFDD4501BC1BF54EFFEB7E1D"><enum>(d)</enum><header>Definitions</header><text>In this Act:</text>
+<paragraph id="H3FAB5322B1034ACBBFA6663E8A5122C6"><enum>(1)</enum><header>Applicable program</header><text>The term <quote>applicable program</quote> has the meaning given that term in section 400(c)(1) of the General Education Provisions Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1221">20 U.S.C. 1221(c)(1)</external-xref>).</text></paragraph> <paragraph id="H350488D71C234FFFB7BFA7C5CA5F1C30"><enum>(2)</enum><header>ESEA Terms</header><text>The terms <term>elementary school</term> and <term>secondary school</term> have the meanings given those terms in section 8101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>).</text></paragraph></subsection></section>
+</legis-body>
+</bill> 
+
+

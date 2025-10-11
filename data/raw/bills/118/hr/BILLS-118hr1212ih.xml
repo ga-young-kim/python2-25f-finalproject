@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB4EADEE3BA8943D8830FB7CEF993B533" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1212 IH: Death Penalty for Dealing Fentanyl Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 1212</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230227">February 27, 2023</action-date>
+<action-desc><sponsor name-id="G000565">Mr. Gosar</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Controlled Substances Act to provide for punishment for the knowing distribution of fentanyl, if death results, and for other purposes.</official-title>
+</form>
+<legis-body id="H926AF4D1FBB5479395F9CEE1AF92DA24" style="OLC"> 
+<section id="H1539292123494E9EB8D3583DE8036C3B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Death Penalty for Dealing Fentanyl Act of 2023</short-title></quote>.</text></section> <section id="H0DA4266B27794D4AB89829C1B177416C"><enum>2.</enum><header>Knowing distribution of fentanyl where death results</header><text display-inline="no-display-inline">Part D of the Controlled Substances Act is amended by adding at the end the following: </text> 
+<quoted-block style="OLC" id="H11482B7BD63B4871950DA430FDF26DE0" display-inline="no-display-inline"> 
+<section id="HF69ECA2BCCAD49CDA9BD5EB709781BB6"><enum>424.</enum><header>Knowing distribution of fentanyl where death results</header><text display-inline="no-display-inline">Any person who knowingly violates section 401(a)(1) or section 416 by distributing, possessing with intent to distribute, or manufacturing fentanyl shall, if death results, be punished—</text> <paragraph id="HE19AF7F066A144D4A5C9403766DFDC03"><enum>(1)</enum><text>by death or imprisonment for any term of years or for life; and</text></paragraph> 
+<paragraph id="HD6795D4C458E41D78AC149A3845938A5"><enum>(2)</enum><text>by a fine under title 18, United States Code.</text></paragraph> </section><after-quoted-block>.</after-quoted-block></quoted-block> </section> </legis-body> </bill> 
+

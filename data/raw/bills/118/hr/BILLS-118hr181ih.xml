@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H48F8D55E9AA24EF488FA2A54F7F1C5E4" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 181 IH: To promote accountability and transparency in future executive orders.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 181</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230109">January 9, 2023</action-date><action-desc><sponsor name-id="M000871">Mr. Mann</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To promote accountability and transparency in future executive orders.</official-title></form><legis-body id="H47E2312A0A554212AB1211484AFA4AD4" style="OLC"> 
+<section id="H8F23B27975624FDCAFFCD3E71D69C76E" section-type="section-one"><enum>1.</enum><header>Notification respecting certain executive orders</header> 
+<subsection id="HA8488DD5CA4C454484491381E9AB958E"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 30 days before issuing a qualifying executive order, the President shall transmit to the Congress, and make publicly available, a notification with respect to such executive order. Such notification shall contain—</text> <paragraph id="H77483FE098E7433C83EDF6130C7E539F"><enum>(1)</enum><text>the text of the executive order;</text></paragraph> 
+<paragraph id="H8370BDAF650D416AB33AFDD44804D052"><enum>(2)</enum><text>the Federal law or laws affected by the executive order that is the subject of the notification;</text></paragraph> <paragraph id="H5F82DAB6BE5E41E4A1FC5C6E66B5460D"><enum>(3)</enum><text>how the President is working within the parameters specified in Federal law and the Constitution;</text></paragraph> 
+<paragraph id="H4B02C5B7E7ED444CA140D46C05873AD3"><enum>(4)</enum><text>the means by which the executive order will be accomplished, including through any related Federal agencies or departments; and</text></paragraph> <paragraph id="H0DDE60177B864A5799DEEB291C10CC83"><enum>(5)</enum><text>a comprehensive list of organizations, businesses, and other parties or entities the President, or the President’s designee, engaged with prior to the issuance of such executive order.</text></paragraph></subsection> 
+<subsection id="H76C434EB253E494F980CFCCA7AA8C69C"><enum>(b)</enum><header>Reports</header><text>Not later than 6 months after the date of the enactment of this Act, and every 12 months thereafter, the President shall submit to the Congress a report on the outcome of each qualifying executive order issued during the period covered by the report. </text></subsection> <subsection id="H187F436AF4D14B36B5BF799F2BEF09E6"><enum>(c)</enum><header>Qualifying executive order</header><text display-inline="yes-display-inline">The term <term>qualifying executive order</term> means any executive order (including an executive order that revokes or nullifies a previous executive order) issued on or after the date of the enactment of this Act, relating to abortion, including the prohibition on the use of Federal funds for abortions, as specified in sections 506 and 507 of division H of the Consolidated Appropriations Act, 2021 (<external-xref legal-doc="public-law" parsable-cite="pl/116/260">Public Law 116–260</external-xref>) (commonly referred to as the <quote>Hyde amendment</quote>), and the right to life guaranteed by the 14th Amendment to the Constitution.</text></subsection></section> 
+</legis-body></bill>
+

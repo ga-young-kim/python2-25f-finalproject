@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE538319030B546D8B895B55CA32F8D3F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1272 IH: To designate the facility of the United States Postal Service located at 4400 East Paisano Drive in El Paso, Texas, as the “Enedina Sanchez Cordero Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1272</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230301">March 1, 2023</action-date><action-desc><sponsor name-id="E000299">Ms. Escobar</sponsor> (for herself, <cosponsor name-id="V000131">Mr. Veasey</cosponsor>, <cosponsor name-id="A000376">Mr. Allred</cosponsor>, <cosponsor name-id="C001091">Mr. Castro of Texas</cosponsor>, <cosponsor name-id="G000581">Mr. Vicente Gonzalez of Texas</cosponsor>, <cosponsor name-id="C001130">Ms. Crockett</cosponsor>, <cosponsor name-id="G000587">Ms. Garcia of Texas</cosponsor>, <cosponsor name-id="D000399">Mr. Doggett</cosponsor>, <cosponsor name-id="C001131">Mr. Casar</cosponsor>, <cosponsor name-id="C001063">Mr. Cuellar</cosponsor>, <cosponsor name-id="J000032">Ms. Jackson Lee</cosponsor>, <cosponsor name-id="F000468">Mrs. Fletcher</cosponsor>, and <cosponsor name-id="G000553">Mr. Green of Texas</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 4400 East Paisano Drive in El Paso, Texas, as the <quote>Enedina Sanchez Cordero Post Office Building</quote>.</official-title></form><legis-body id="HA5366116B9D54A94A5F1E4A3F307F078" style="OLC"> 
+<section id="H827998D1F907464FB33AE71448CC0A1A" section-type="section-one"><enum>1.</enum><header>Enedina Sanchez Cordero Post Office Building</header>
+<subsection id="H5D633BE68ABC4EA288D80E6406197DCF"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 4400 East Paisano Drive in El Paso, Texas, shall be known and designated as the <quote>Enedina Sanchez Cordero Post Office Building</quote>.</text></subsection> <subsection id="HEF4DB2D50D9248AD9E89384572D3581C"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Enedina Sanchez Cordero Post Office Building</quote>.</text></subsection></section> 
+</legis-body></bill>
+

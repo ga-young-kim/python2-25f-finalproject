@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5387F4B6E7F24BD1A43E90D176D0F965" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>117 HR 6389 IH: District of Columbia National Guard Federal Employee Leave Fairness Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6389</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231113">November 13, 2023</action-date><action-desc><sponsor name-id="N000147">Ms. Norton</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To eliminate the reduction in pay of a Federal employee or District of Columbia employee as a result of such employee serving as a member of the National Guard of the District of Columbia, and for other purposes.</official-title></form><legis-body id="H909D18C8876947D6AC185AF6D9B2DEAF" style="OLC"><section id="H7C856A84EA0D409E827F3545765A87E5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>District of Columbia National Guard Federal Employee Leave Fairness Act</short-title></quote>.</text></section><section id="HD3D52BCE9339432F82E01E72E6BE4428"><enum>2.</enum><header>Limitation on crediting amounts received against pay of Federal employee or D.C. employee serving as a member of the National Guard of the District of Columbia</header><text display-inline="no-display-inline"> The amendment made by section 1109 of title XI of division A of the National Defense Authorization Act for Fiscal Year 2022 (<external-xref legal-doc="public-law" parsable-cite="pl/117/81">Public Law 117–81</external-xref>) shall apply to any amounts credited, by operation of section 5519 of title 5, United States Code, against the pay of an employee or individual described under section 6323(c) of such title during the period beginning on May 29, 2020, and ending on December 26, 2021.</text></section></legis-body></bill> 
+

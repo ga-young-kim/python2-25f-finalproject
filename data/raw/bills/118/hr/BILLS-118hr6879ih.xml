@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5825F5663F3A44EE8CAB409C663F9E34" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6879 IH: Farm Freedom to Repair Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-12-19</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6879</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231219">December 19, 2023</action-date><action-desc><sponsor name-id="S000929">Mrs. Spartz</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 17, United States Code, to provide for the diagnosis, maintenance, and repair of certain digital electronic agricultural equipment.</official-title></form><legis-body id="H097775CD3DC84EA29620242A73E8856D" style="OLC"> 
+<section id="HA66E195C991D4CE1BA8220E95F5F4D5A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Farm Freedom to Repair Act</short-title></quote>.</text></section> <section id="H2771C558007B4E5491700ADB257FD4C0"><enum>2.</enum><header>Diagnosis, maintenance, and repair of certain digital electronic agricultural equipment</header><text display-inline="no-display-inline">Section 1201 of title 17, United States Code, is amended by adding at the end the following new subsection:</text> 
+<quoted-block style="OLC" id="HBA2BC56F64694571B0DC346C31B521A0" display-inline="no-display-inline"> 
+<subsection id="HF8A1E715AE4640CBA1566C3489438257"><enum>(l)</enum><header>Diagnosis, maintenance, and repair of digital electronic agricultural equipment</header> 
+<paragraph id="HBBC2A518DFB04CF2A3717BC8D3B6FE1C" display-inline="yes-display-inline"><enum>(1)</enum><text>Notwithstanding the provisions of subsection (a)(1)(A), it is not a violation of that subsection for a person, for the purpose of the diagnosis, maintenance, or repair of digital electronic agricultural equipment, to circumvent a technological measure that effectively controls access to a work protected under this title.</text></paragraph> <paragraph id="HC5A0A17DA2C343F89947A505803BC4E6" indent="up1"><enum>(2)</enum><text>Notwithstanding the provisions of subsection (a)(2), it is not a violation of that subsection for a person, for the purpose of the diagnosis, maintenance, or repair of digital electronic agricultural equipment, to manufacture, import, offer to the public, provide, or otherwise traffic in any technology, product, service, device, component, or part thereof described in that subsection.</text></paragraph> 
+<paragraph id="H394E710F0AFA4559BE6182E8BAC9508D" indent="up1"><enum>(3)</enum><text>Notwithstanding the provisions of subsection (b)(1), it is not a violation of that subsection for a person, for the purpose of the diagnosis, maintenance, or repair of digital electronic agricultural equipment, to manufacture, import, offer to the public, provide, or otherwise traffic in any technology, product, service, device, component, or part thereof described in that subsection.</text></paragraph> <paragraph id="HCC42F43D0C1B4877B8B10BF746546666" indent="up1"><enum>(4)</enum><text display-inline="yes-display-inline">For the purposes of this subsection, the term <term>digital electronic agricultural equipment</term> means any agricultural product dependent, in whole or in part, upon attached or embedded digital electronics to function.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body></bill>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2F6C6C3C4C224769A2E0DB872F97EE5C" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1545 IH: Restoring Competitive Property Insurance Availability Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-10</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 1545</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230310">March 10, 2023</action-date>
+<action-desc><sponsor name-id="H001077">Mr. Higgins of Louisiana</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Internal Revenue Code of 1986 to exclude from gross income certain income from providing real property insurance following certain federally declared disasters.</official-title>
+</form>
+<legis-body id="H05B1D75C5DD94BC6892147489146A6F7" style="OLC">
+<section id="H27DEA7B00B4444F8A525FF40FF1E39F8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Restoring Competitive Property Insurance Availability Act</short-title></quote>. </text></section> <section id="H05275149417042FDB672C7A0285B235D"><enum>2.</enum><header>Exclusion of certain income from providing real property insurance following certain federally declared disasters</header> <subsection id="HD574A29777EB4DAAAA7E2EE0DB896F6D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Part II of subchapter L of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+<quoted-block style="OLC" id="HD52F22090F8F4A0D934C3D902CE67CDD" display-inline="no-display-inline">
+<section id="HD96B77916C69435AAB0EA9A8C5F207EB"><enum>836.</enum><header>Exclusion of certain income from providing real property insurance following certain federally declared disasters</header>
+<subsection id="H1BDB3E91948642A8AA47F57753323035"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">In the case of each taxable year in the recovery period, there shall be excluded from the gross income of each specified insurance company the qualified real property insurance income of such company for such taxable year with respect to any disaster area.</text></subsection> <subsection id="H1F4724B8B6F5410BB63CF7A07FE19016"><enum>(b)</enum><header>Specified insurance company</header><text>For purposes of this section, the term <quote>specified insurance company</quote> means, with respect to any disaster area, any insurance company (other than a life insurance company) which, immediately prior to the incident date with respect to such disaster area, provided real property insurance with respect to property located in such disaster area.</text></subsection>
+<subsection id="H020C99813D9444B1B6F49F0D290FF922"><enum>(c)</enum><header>Qualified real property insurance income</header><text>For purposes of this section, the term <quote>qualified real property insurance income</quote> means, with respect to any specified insurance company for any taxable year, the excess of—</text> <paragraph id="H95C115371D694378B6450718D852D3AC"><enum>(1)</enum><text>the premiums received by such insurance company for real property insurance with respect to property located in the disaster area, over</text></paragraph>
+<paragraph id="H90A671238347488D8A61D28331D2A704"><enum>(2)</enum><text>deductions properly allocable to such premiums.</text></paragraph></subsection> <subsection id="HA76DBD2425694823A3452EFE8C04B384"><enum>(d)</enum><header>Real property insurance</header><text>For purposes of this section, the term <quote>real property insurance</quote> shall include the coverage of risks associated with personal property if such risks are covered under the same policy that covers risks associated with real property and such personal property is located on such real property.</text></subsection>
+<subsection id="HE617DCE4E9D54233B7B3D5A6E1E9E36A"><enum>(e)</enum><header>Recovery period</header><text display-inline="yes-display-inline">For purposes of this section, the term <quote>recovery period</quote> means, with respect to any disaster area, the first 5 taxable years ending after the incident date with respect to such disaster area.</text></subsection> <subsection id="HCE5FC9DBAD504EBAB15F4C58B0F7626E"><enum>(f)</enum><header>Disaster area</header><text display-inline="yes-display-inline">For purposes of this section, the term <quote>disaster area</quote> has the meaning given such term in section 7508A(d)(3).</text></subsection>
+<subsection id="H8AD9F6E5DA214896A784BB17904D81BD"><enum>(g)</enum><header>Incident date</header><text display-inline="yes-display-inline">For purposes of this section, the term <quote>incident date</quote> means, with respect to any disaster area, the earliest incident date specified in the declaration with respect to such disaster area.</text></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="HE14BEFC0CDFE491AACB1FE16E555EA80"><enum>(b)</enum><header>Clerical amendment</header><text display-inline="yes-display-inline">The table of sections for part II of subchapter L of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new item:</text>
+<quoted-block style="OLC" id="HEEB569377B414771AE0379EE748307FE" display-inline="no-display-inline">
+<toc container-level="quoted-block-container" quoted-block="no-quoted-block" lowest-level="section" idref="HD52F22090F8F4A0D934C3D902CE67CDD" regeneration="yes-regeneration" lowest-bolded-level="division-lowest-bolded">
+<toc-entry idref="HD96B77916C69435AAB0EA9A8C5F207EB" level="section">Sec. 836. Exclusion of certain income from providing real property insurance following certain federally declared disasters.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="HBADC2F7151474000B6C94F0201A463FD"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to disaster areas the incident date (as defined in <external-xref legal-doc="usc" parsable-cite="usc/26/836">section 836(g)</external-xref> of the Internal Revenue Code of 1986, as added by this section) of which is after December 31, 2022.</text></subsection></section> </legis-body> </bill> 
+

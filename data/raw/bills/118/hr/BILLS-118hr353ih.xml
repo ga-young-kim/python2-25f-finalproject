@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2A669CABEAB24B968595FEF6B290F38A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 353 IH: Protect Local Farms Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 353</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230112">January 12, 2023</action-date><action-desc><sponsor name-id="W000828">Mr. Williams of New York</sponsor> (for himself, <cosponsor name-id="T000478">Ms. Tenney</cosponsor>, <cosponsor name-id="S001196">Ms. Stefanik</cosponsor>, <cosponsor name-id="M001221">Mr. Molinaro</cosponsor>, and <cosponsor name-id="L000600">Mr. Langworthy</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Fair Labor Standards Act of 1938 to provide for the preemption of certain State overtime laws for agricultural employees.</official-title></form><legis-body id="HE69D4C6EF54A485184D1339CCD4485C9" style="OLC"> 
+<section id="HEDB9D2411E0A485384E720D373479ED8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protect Local Farms Act</short-title></quote>. </text></section> <section id="H63058A2DCC6648B483725CE2741B0C79"><enum>2.</enum><header>Preemption of certain State overtime laws for agricultural employees</header><text display-inline="no-display-inline">Section 18 of the Fair Labor Standards Act of 1938 (<external-xref legal-doc="usc" parsable-cite="usc/29/218">29 U.S.C. 218</external-xref>) is amended—</text> 
+<paragraph id="HF6BD6345E5824BA49CE7FFE3A2FE9B72"><enum>(1)</enum><text>in subsection (a), by striking <quote>No provision of this Act or of any order thereunder</quote> and inserting <quote>Except as provided in subsection (c), no provision of this Act or of any order thereunder</quote>; and</text></paragraph> <paragraph id="HE66A942CAE63453C966767343D07B1BB"><enum>(2)</enum><text>by adding at the end the following:</text> 
+<quoted-block style="OLC" id="H07487A455CC04B2290402F78035FE661" display-inline="no-display-inline"> 
+<subsection id="H6A8287CF5F1946E9A01C1CBCB3E9F8DF"><enum>(c)</enum><text display-inline="yes-display-inline">The provisions of this Act shall preempt any State law that provides for a maximum workweek for employees employed in agriculture of less than 60 hours.</text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> </legis-body></bill>
+

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H07D522CEDBCE4DA2A5F3B9828D0975CB" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4478 IH: Freeing Americans Detained Abroad Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 4478</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230706">July 6, 2023</action-date>
+<action-desc><sponsor name-id="C001115">Mr. Cloud</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To facilitate access to existing resources with respect to United States citizens arbitrarily detained or kidnapped overseas, and for other purposes.</official-title>
+</form>
+<legis-body id="H0C8B0948021E43E3AB323A59A60FC14B" style="OLC">
+<section id="HC5C99E9B57C945819A0C6ACF3A77EF92" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Freeing Americans Detained Abroad Act</short-title></quote>.</text></section> <section id="HB802A2CFA2BA417AA2BF84F0F8B569E2"><enum>2.</enum><header>Additional resources with respect to United States citizens detained or kidnapped overseas</header> <subsection id="HBC8E31856099496BBD38D2C455ECC19A"><enum>(a)</enum><header>Availability of existing resources</header><text display-inline="yes-display-inline">The Secretary of State shall display on a publicly available website of the Department a list of resources for which United States citizens who have been detained or kidnapped overseas may be eligible and may be accessed by friends or family of such citizens. Such resources shall include legal services whether offered pro bono or with any other payment or fee structure.</text></subsection>
+<subsection id="H3EA60257A53040958C8744C69185CBC7"><enum>(b)</enum><header>Training required</header><text>The Secretary of State shall ensure that each Foreign Service officer serving at any diplomatic or consular post overseas is trained, prior to such posting, with respect to cases of detention of United States citzens. Such training shall include each of the following:</text> <paragraph id="H0E4ECFFA231D43E68B4D830775E7DF99"><enum>(1)</enum><text display-inline="yes-display-inline">What detention and arbitrary detention cases are and how to identify cases of United States citizens being arbitrarily detained.</text></paragraph>
+<paragraph id="HB0603E46960A4E90AD4996A14A0BBE17"><enum>(2)</enum><text>How to engage with United States citizens overseas and family members of detained citizens.</text></paragraph> <paragraph id="H3CBE343CFA01470B93927ED8D47DC8A1"><enum>(3)</enum><text>How to connect United States citizens or their family members with legal assistance resources overseas.</text></paragraph>
+<paragraph id="HF7ECFA2A942348FF89416CDA20A27B88"><enum>(4)</enum><text display-inline="yes-display-inline">How to liaise with the Special Presidential Envoy for Hostage Affairs office with respect to cases of arbitrary detention or kidnapping.</text></paragraph></subsection> <subsection id="HA298835C45C545108888769B29839232"><enum>(c)</enum><header>Hostage affairs officers</header><text display-inline="yes-display-inline">The Secretary of State, or an appropriate designee, shall designate one Foreign Service officer at each overseas diplomatic or consular post as a <quote>hostage affairs officer</quote>, who shall—</text>
+<paragraph id="H4927EE38D80842C79735A23DD3F0E31B"><enum>(1)</enum><text display-inline="yes-display-inline">serve as a principle liaison between the post and the Special Presidential Envoy for Hostage Affairs office;</text></paragraph> <paragraph id="H3EA09571ABC34849B5E4B7BAB240DEA7"><enum>(2)</enum><text>coordinate with the Special Presidential Envoy for Hostage Affairs, the Ambassador to the host country, and the Deputy Chief of Mission on efforts to free United States citizens detained or kidnapped in the host country;</text></paragraph>
+<paragraph id="HD18FB45508E0451DAC1D2F98E334DA7B"><enum>(3)</enum><text>monitor and track all cases of United States citizens detained or kidnapped in the host country and the efforts to free such citizens;</text></paragraph> <paragraph id="HC1A6ADD5460443278532D1B24433D169"><enum>(4)</enum><text display-inline="yes-display-inline">connect family members of individuals arbitrarily detained or kidnapped overseas with the resources described in subsection (a) and other appropriate resources, including resources specific to the host country;</text></paragraph>
+<paragraph id="H5F1A5CDA1CAF4FD19A896366ADB9CC29"><enum>(5)</enum><text>coordinate efforts within the post to ensure United States citizens detained overseas are provided with appropriate assistance, including—</text> <subparagraph id="HA0125A37B437406BAAF87F263FC80408"><enum>(A)</enum><text display-inline="yes-display-inline">at least monthly meetings with a member of the United States Embassy;</text></subparagraph>
+<subparagraph id="HC1B40E077DF3401BB3AB85BCC3D348F8"><enum>(B)</enum><text>legal assistance;</text></subparagraph> <subparagraph id="H471A7F79E5D5418DB0A236EC2CB2FDB5"><enum>(C)</enum><text>medical assistance; and</text></subparagraph>
+<subparagraph id="H89BAE4A391BE4B699378B04FA0870D2B"><enum>(D)</enum><text display-inline="yes-display-inline">establishing an trust account through the Office of Overseas Citizens Services; </text></subparagraph></paragraph> <paragraph id="HC7D3B9DFF4574479AF69F6272D004B0F"><enum>(6)</enum><text display-inline="yes-display-inline">ensure that any incoming or newly designated hostage affairs officer is thoroughly briefed on all ongoing cases of United States citizens detained in the host country and the status of all efforts to free those detained or kidnapped and shall make available all information and materials collected in accordance with paragraph (3) of this subsection; and</text></paragraph>
+<paragraph id="H9536F8264A0E49B49AC566B0B1C8D25C"><enum>(7)</enum><text display-inline="yes-display-inline">report to the Special Presidential Envoy for Hostage Affairs office cases of detention as such cases are identified by hostage affairs officer.</text></paragraph></subsection> <subsection id="HEEE555DF30FE48D29C4A17E0323835F9"><enum>(d)</enum><header>Report</header><text>Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report that includes—</text>
+<paragraph id="HB76991F56EAD4925AEBEACACDE820868"><enum>(1)</enum><text>a description of the curriculum developed to satisfy the training requirement under subsection (b);</text></paragraph> <paragraph id="H85E7F29A4FD04C6EA9E82DCB3732E924"><enum>(2)</enum><text display-inline="yes-display-inline">the number of consular officers trained in accordance with subsection (b) on overseas detention of United States citizens;</text></paragraph>
+<paragraph id="H2AF34E28EB9046AFA7B82D679991C972"><enum>(3)</enum><text>the number of diplomatic and consular posts, as of the date of the submission of the report, that have a designated hostage affairs officer in accordance with subsection (c); and</text></paragraph> <paragraph id="H40272EEF30D441699957FD226C074BB4"><enum>(4)</enum><text display-inline="yes-display-inline">the number of cases of arbitrary detention, including those designated as arbitrarily detained or kidnapped, of United States citizens in each country at which the United States maintains a diplomatic or consular post.</text></paragraph></subsection></section>
+</legis-body>
+</bill> 
+
+

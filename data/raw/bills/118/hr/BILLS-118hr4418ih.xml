@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF0C8E08C4B7646689FF5A3436314ACC3" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4418 IH: Military Access to Reproductive Care and Health for Military Servicemembers Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4418</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230630">June 30, 2023</action-date><action-desc><sponsor name-id="H001085">Ms. Houlahan</sponsor> (for herself, <cosponsor name-id="J000305">Ms. Jacobs</cosponsor>, and <cosponsor name-id="S001159">Ms. Strickland</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 10, United States Code, to repeal the restriction on the use of funds and facilities of the Department of Defense for abortion care.</official-title></form><legis-body id="H59AF659C40554DC79C08B15C3146D240" style="OLC"> 
+<section id="H4DC2F04217424C8EB6CECB54CEFFD6E0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Military Access to Reproductive Care and Health for Military Servicemembers Act</short-title></quote> or the <quote><short-title>MARCH for Military Servicemembers Act</short-title></quote>. </text></section> <section id="HDF92F91DC232494882FFDE6112F8691A"><enum>2.</enum><header>Repeal of restriction on use of funds and facilities of Department of Defense for abortion care</header> <text display-inline="no-display-inline">Section 1093 of title 10, United States Code, is repealed.</text></section> 
+</legis-body></bill>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1AC1DCAB56C1440E93B4172CB277AB41" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2653 IH: Flightmare Prevention Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2653</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230417">April 17, 2023</action-date><action-desc><sponsor name-id="P000618">Ms. Porter</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Administrator of the Federal Aviation Administration to issue regulations that establish minimum requirements for aviation enterprise resource planning systems, and for other purposes.</official-title></form><legis-body id="H422838E737DE4BEBB6BBE7970EF4D32F" style="OLC"> 
+<section id="HCE778FF19E634BE5AB52AA1478239613" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Flightmare Prevention Act of 2023</short-title></quote>.</text></section> <section id="H70D84406627E47889DEB130C7330B6D6"><enum>2.</enum><header>Minimum requirements for aviation information technology systems</header> <subsection id="H2F0183D780464FF78EAD84DA5FDC3C8B"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the Administrator of the Federal Aviation Administration shall issue regulations that establish minimum requirements for aviation enterprise resource planning systems that are—</text> 
+<paragraph id="HF122AC7DFA564F4CA248ED73B9C88CE2"><enum>(1)</enum><text>used by air carriers operating interstate air transportation or intrastate air transportation; and</text></paragraph> <paragraph id="H5902F9F7197741FEA6FFEDDCB37B3A1D"><enum>(2)</enum><text>necessary for the safety of passengers.</text></paragraph></subsection> 
+<subsection id="HBBB58F2A09334C9F9954250DCEF8447F"><enum>(b)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text> <paragraph id="H5AB31584A02F48DA87B0BA32747DD098"><enum>(1)</enum><header>Aviation enterprise resource planning system</header><text display-inline="yes-display-inline">The term <term>aviation enterprise resource planning system</term> means a technology system or software used by air carriers for operational management, including for—</text> 
+<subparagraph id="HFE9C2AF266544B0ABA595031176C8119"><enum>(A)</enum><text>crew planning;</text></subparagraph> <subparagraph id="HA83A6AD180444E869D8FB844628A796F"><enum>(B)</enum><text>crew communication;</text></subparagraph> 
+<subparagraph id="HAF9B74C473D740278411529A0169663E"><enum>(C)</enum><text>building daily, monthly, and annual flight schedules;</text></subparagraph> <subparagraph id="H7205600B604D4204BA2261A9BF6074EB"><enum>(D)</enum><text>making changes to flight paths; and</text></subparagraph> 
+<subparagraph id="H9382A599915C4604B1A059AE732FF764"><enum>(E)</enum><text>other purposes, as determined by the Secretary</text></subparagraph></paragraph> <paragraph id="H450D1072250548B7B43B395D4E336867"><enum>(2)</enum><header>Title 49</header><text>The definitions contained in section 40102(a) of title 49, United States Code, apply.</text> </paragraph></subsection></section> 
+</legis-body></bill>
+

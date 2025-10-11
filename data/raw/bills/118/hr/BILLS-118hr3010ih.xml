@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H15A2428FDC8F4B8EACF31D2A2C286FAE" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3010 IH: Community Colleges and Universities Safety Grant Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3010</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230428">April 28, 2023</action-date><action-desc><sponsor name-id="K000388">Mr. Kelly of Mississippi</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Attorney General to make campus law enforcement agencies eligible for certain grants, and for other purposes.</official-title></form><legis-body id="HBDF65AD9AEA242B397706343EB5E1B42" style="OLC"><section id="HA90649FF0A6C4066B51FAA62C4FD4D03" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Community Colleges and Universities Safety Grant Act</short-title></quote>. </text></section><section id="H0E4EC9093C2441B994D1321AB5450AD9"><enum>2.</enum><header>To make campus law enforcement agencies eligible for certain grants</header><subsection id="HE63C0BBE8E2042C3BD759C17CB5E82B2"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Beginning on the date of the enactment of this Act, the Attorney General shall consider a campus law enforcement agency to be eligible to apply for any program or grant that is administered by the Department of Justice for which a State law enforcement agency or local law enforcement agency is eligible to apply. </text></subsection><subsection id="HBC3743783EEF4B9D8CEB03320FAE094C"><enum>(b)</enum><header>Campus law enforcement agency defined</header><text>In this section, the term <quote>campus law enforcement agency</quote> means any entity of an institution of higher education (as such term is defined in section 101(a) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1001">20 U.S.C. 1001(a)</external-xref>) authorized to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of criminal law and certified by an independent credentialing body approved by the Attorney General.</text></subsection></section></legis-body></bill> 
+

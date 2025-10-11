@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC3F7623D61754EC080BB00209D503D31" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6025 IH: Leave No Americans Behind Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6025</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231024">October 24, 2023</action-date><action-desc><sponsor name-id="D000624">Mrs. Dingell</sponsor> (for herself and <cosponsor name-id="M000312">Mr. McGovern</cosponsor>) introduced the following bill</action-desc></action><action display="yes"><action-date date="20231025">October 25, 2023</action-date><action-desc>Referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the State Department Basic Authorities Act of 1956 to eliminate the repatriation loan program, and for other purposes.</official-title></form><legis-body id="H0B5F4BDA23104E11A87DAB6D4EE47AE0" style="OLC"> 
+<section id="H3C72ECE316B5420CBD2577DDB3577090" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Leave No Americans Behind Act of 2023</short-title></quote>.</text></section> <section id="H52F0B59906CF402AA20335986C50E606"><enum>2.</enum><header>Elimination of repatriation loans by Department of State</header><text display-inline="no-display-inline">Section 4 of the State Department Basic Authorities Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/22/2671">22 U.S.C. 2671</external-xref>) is amended—</text>
+<paragraph id="HFC93D80AADA54B71BA9BB763CF2254DF"><enum>(1)</enum><text>in subsection (b)(2)(A)(ii), by striking <quote>, on a reimbursable basis to the maximum extent practicable, with such reimbursements to be credited to the applicable Department of State appropriation and to remain available until expended, except that no reimbursement under this clause shall be paid that is greater than the amount the person evacuated would have been charged for a reasonable commercial air fare immediately prior to the events giving rise to the evacuation</quote>; and</text></paragraph> <paragraph id="H532383074DC246ECB15B7BAE296E6CF7"><enum>(2)</enum><text>by striking subsection (d).</text></paragraph></section> 
+</legis-body></bill>
+

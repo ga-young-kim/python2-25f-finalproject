@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H996B0C688F6942A88E54D31596C03D6F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4591 IH: Clean Slate through Consolidation Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4591</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230712">July 12, 2023</action-date><action-desc><sponsor name-id="S001215">Ms. Stevens</sponsor> (for herself, <cosponsor name-id="A000370">Ms. Adams</cosponsor>, <cosponsor name-id="R000305">Ms. Ross</cosponsor>, and <cosponsor name-id="W000788">Ms. Williams of Georgia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Higher Education Act of 1965 to require the removal of the record of default from credit history upon obtaining a Federal Direct Consolidation Loan that discharges the defaulted loan.</official-title></form><legis-body id="H39D6748B09724387A6D414652DD814BB" style="OLC"><section id="H4F6EC6A2E2FC4DF4B3330C1A226BF01B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Clean Slate through Consolidation Act</short-title></quote>.</text></section><section id="H8E1D5AECBA734732AB47690319CAFA1A"><enum>2.</enum><header>Removal of record of default from credit history upon loan consolidation</header><text display-inline="no-display-inline">Section 455(g) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1087e">20 U.S.C. 1087e(g)</external-xref>) is amended by adding at the end the following:</text><quoted-block id="H2774FFC5F58B4A618519F04EE66EEEF8" style="OLC"><paragraph id="H558C236C97BF49D4A74F1B8D86AA02D8"><enum>(3)</enum><header>Consumer reporting agencies</header><text display-inline="yes-display-inline">Upon obtaining a Federal Direct Consolidation Loan that discharges the liability on a defaulted loan made, insured, or guaranteed under this title, the Secretary, guaranty agency, or other holder of the loan shall request any consumer reporting agency to which the Secretary, guaranty agency or holder, as applicable, reported the default of the loan, to remove any adverse item of information relating to such loan from the borrower’s credit history.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill> 
+

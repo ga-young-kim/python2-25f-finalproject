@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1796D531004F4E5D97AB4189210BEDCD" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5709 IH: To amend the Internal Revenue Code of 1986 to allow individuals entitled to Medicare Part A to make contributions to health savings accounts.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 5709</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230926">September 26, 2023</action-date>
+<action-desc><sponsor name-id="F000470">Mrs. Fischbach</sponsor> (for herself and <cosponsor name-id="M000317">Ms. Malliotakis</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Internal Revenue Code of 1986 to allow individuals entitled to Medicare Part A to make contributions to health savings accounts.</official-title>
+</form>
+<legis-body id="HB0BD90DADF49429990BF5DD621427F32" style="OLC">
+<section id="H946B90FC9B60447F9C92A1F3731E73C4" section-type="section-one"><enum>1.</enum><header>Individuals entitled to part A of Medicare by reason of age allowed to contribute to health savings accounts</header>
+<subsection id="H4D23B6F6920B4CBDA0FD95A50BB9C6B8"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/223">Section 223(c)(1)(B)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>and</quote> at the end of clause (ii), by striking the period at the end of clause (iii) and inserting <quote>, and</quote>, and by adding at the end the following new clause:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H956988F0EE7D43568D85BAAD89856DC8"> <clause id="H657F31CE52EB4C50980EEE10B277CC97"><enum>(iv)</enum><text display-inline="yes-display-inline">entitlement to hospital insurance benefits under part A of title XVIII of the Social Security Act by reason of section 226(a) of such Act.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H21455052C0A14D529414CFDADDC4A744"><enum>(b)</enum><header>Treatment of health insurance purchased from account</header><text>Section 223(d)(2)(C)(iv) of such Code is amended by inserting <quote>and who is not an eligible individual</quote> after <quote>who has attained the age specified in section 1811 of the Social Security Act</quote>.</text></subsection> <subsection id="HC80779BB74C2492A8FE72EFB40C96CC0"><enum>(c)</enum><header>Coordination with penalty on distributions not used for qualified medical expenses</header><text>Section 223(f)(4)(C) of such Code is amended by striking <quote>Subparagraph (A)</quote> and inserting <quote>Except in the case of an eligible individual, subparagraph (A)</quote>.</text></subsection>
+<subsection id="H5165CFE8DD154D879560AE484C8FA7B1" commented="no"><enum>(d)</enum><header>Conforming amendment</header><text>Section 223(b)(7) of such Code is amended by inserting <quote>(other than an entitlement to benefits described in subsection (c)(1)(B)(iv))</quote> after <quote>Social Security Act</quote>.</text></subsection> <subsection id="H21E6939FA5DE47C695DF6AFA9B30CFC9" commented="no" display-inline="no-display-inline"><enum>(e)</enum><header>Effective date</header><text>The amendments made by this section shall apply to months beginning after December 31, 2023, in taxable years ending after such date.</text></subsection></section>
+</legis-body>
+</bill> 
+
+

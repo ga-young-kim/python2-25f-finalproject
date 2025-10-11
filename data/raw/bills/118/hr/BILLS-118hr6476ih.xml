@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC71B35BE375F40B096245410FC3872CD" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6476 IH: To adjust the boundary of the Sacramento-San Joaquin Delta National Heritage Area, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6476</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231121">November 21, 2023</action-date><action-desc><sponsor name-id="T000460">Mr. Thompson of California</sponsor> (for himself and <cosponsor name-id="G000559">Mr. Garamendi</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To adjust the boundary of the Sacramento-San Joaquin Delta National Heritage Area, and for other purposes.</official-title></form><legis-body id="H766DAD891EE54DE495D5FBC074B05644" style="OLC"> 
+<section id="HE53B060543FE4CCE88835D3508F2B826" section-type="section-one"><enum>1.</enum><header>Sacramento-San Joaquin Delta National Heritage Area</header><text display-inline="no-display-inline">Section 6001(a)(4)(A) of the John D. Dingell, Jr. Conservation, Management, and Recreation Act (<external-xref legal-doc="public-law" parsable-cite="pl/116/9">Public Law 116–9</external-xref>) is amended by adding at the end the following: <quote>In addition, the Sacramento-San Joaquin Delta National Heritage Area shall include the area depicted as <quote>Rio Vista/Expansion Area</quote> on the map entitled <quote>Sacramento-San Joaquin Delta National Heritage Area Proposed Boundary Expansion</quote> and dated February 2021.</quote>.</text></section> </legis-body></bill>
+

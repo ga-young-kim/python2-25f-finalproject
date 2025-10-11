@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB029AD68724C45F79A19546FE54299E6" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 301 IH: Unmasking the Origins of COVID–19 Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 301</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230111">January 11, 2023</action-date><action-desc><sponsor name-id="R000612">Mr. Rose</sponsor> (for himself, <cosponsor name-id="M001184">Mr. Massie</cosponsor>, <cosponsor name-id="B001298">Mr. Bacon</cosponsor>, and <cosponsor name-id="H001086">Mrs. Harshbarger</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the State Department Basic Authorities Act of 1956 to authorize rewards regarding the identification of credible information regarding the origins of COVID&#8211;19, and for other purposes.</official-title></form><legis-body id="H540322F24D9E4258AE3D99E081807F0B" style="OLC"> 
+<section id="H758401838B314EAD943D9DE249D660F1" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Unmasking the Origins of COVID–19 Act</short-title></quote>.</text></section> <section id="H9CA2BD8C162548D3ADF6C8C0F66232F9"><enum>2.</enum><header>Authorization for reward</header><text display-inline="no-display-inline">Subsection (b) of section 36 of the State Department Basic Authorities Act of 1956 (<external-xref legal-doc="usc" parsable-cite="usc/22/2708">22 U.S.C. 2708</external-xref>) is amended—</text>
+<paragraph id="HA5CF800610FB41D08700E8AE9C0EE997"><enum>(1)</enum><text>in paragraph (12), by striking <quote>or</quote> after the semicolon at the end;</text></paragraph> <paragraph id="HB501E9A08B754C1CB2233E1C8C41947E"><enum>(2)</enum><text>in paragraph (13), by striking the period at the end and inserting <quote>; or</quote>; and</text></paragraph>
+<paragraph id="H7CB0B42C57DA44CE821EDE89601D75B0"><enum>(3)</enum><text>by adding at the end the following new paragraph:</text> <quoted-block id="H4BE369688C394DC0817F33FDCD85406C" style="OLC"> <paragraph id="H2B766249D0334B6CAC59F545FCDC0783"><enum>(14)</enum><text>the identification of—</text>
+<subparagraph id="H010CFA970075405AB717590AD1CAAB61"><enum>(A)</enum><text>the origins of COVID–19;</text></subparagraph> <subparagraph id="HAA9DC6E4BE0944DE9373517F49909DF3"><enum>(B)</enum><text>any person or entity involved in the coverup of the origins of COVID–19; or</text></subparagraph>
+<subparagraph id="HEA426A8494C04C658968E3EE70DD8D1B"><enum>(C)</enum><text>nonpublic information related to gain of function research conducted at or in connection with Chinese laboratories, including the Wuhan Institute of Virology, with respect to coronaviruses, that has been covered up by the Government of the People’s Republic of China or the Chinese Communist Party.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> </legis-body></bill>
+

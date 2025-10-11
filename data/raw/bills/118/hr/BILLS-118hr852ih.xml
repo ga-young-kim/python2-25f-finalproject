@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2FA8DBA0067646C0BD3AC6C7672A1D46" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 852 IH: Investing in Safer Traffic Stops Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 852</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230206">February 6, 2023</action-date>
+<action-desc><sponsor name-id="T000486">Mr. Torres of New York</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the Committee on <committee-name committee-id="HPW00">Transportation and Infrastructure</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the Attorney General to establish a grant program for civilian traffic violation enforcement.</official-title>
+</form>
+<legis-body id="H68BDCB9F43E94BCC979713D19D88951C" style="OLC">
+<section id="HC835DD0C7A3746C78F2F4CB78DF99A52" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Investing in Safer Traffic Stops Act of 2023</short-title></quote>.</text></section> <section id="H58B2306E75774FA7B22490A8C3563A0A"><enum>2.</enum><header>Grant for civilian traffic violation enforcement</header> <subsection id="H1306A35C4F55455586088CEC5F07696D"><enum>(a)</enum><header>Establishment</header><text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, the Attorney General shall establish a civilian traffic violation enforcement grant program (in this Act referred to as the <quote>Program</quote>) to provide funding to local, State, or Tribal government entities to ensure that the enforcement of traffic violations is carried out by a civilian or traffic monitoring technology, instead of a law enforcement officer.</text></subsection>
+<subsection id="H6AF12912A63644FF9866D8B11BD9985D"><enum>(b)</enum><header>Eligible recipient</header><text display-inline="yes-display-inline">The Attorney General shall make grants under the Program to local, State, or Tribal government entities. </text></subsection> <subsection id="H7EA9E811C4E743CBBFF0DA8E7B72AC96"><enum>(c)</enum><header>Eligible activities</header><text display-inline="yes-display-inline">Amounts from a grant awarded under the Program may only be used for the purposes of ensuring that the enforcement of traffic violations is carried out by a civilian or traffic monitoring technology, including for the purchasing of such technology and the hiring of civilians. </text></subsection>
+<subsection id="H9F02B8665A6F4E739B976952DFDCB400"><enum>(d)</enum><header>Authorization of appropriations</header><text display-inline="yes-display-inline">There is authorized to be appropriated $100,000,000 for each of the fiscal years 2024 through 2029 to carry out the Program.</text></subsection> <subsection id="H5346A383FE494FC496942BC71454586E"><enum>(e)</enum><header>Civilian defined</header><text>In this Act, the term <quote>civilian</quote> means an individual employed by a local, State, or Tribal government entity to enforce traffic laws, who is not a law enforcement officer. </text></subsection></section>
+</legis-body>
+</bill> 
+
+

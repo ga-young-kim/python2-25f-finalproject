@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="HD27539AE7F1F473B9A2B19FE88D4E209" public-private="public" key="H" bill-type="olc" stage-count="1">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3944 EH: To designate the facility of the United States Postal Service located at 120 West Church Street in Mount Vernon, Georgia, as the “Second Lieutenant Patrick Palmer Calhoun Post Office”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 3944</legis-num>
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<legis-type>AN ACT</legis-type>
+<official-title display="yes">To designate the facility of the United States Postal Service located at 120 West Church Street in Mount Vernon, Georgia, as the <quote>Second Lieutenant Patrick Palmer Calhoun Post Office</quote>.</official-title>
+</form>
+<legis-body id="H27B7E3DF0213408D9EE0B608C6489D8D" style="OLC">
+<section id="H8AC7DEC86EEB405198453811E935EE1D" section-type="section-one"><enum>1.</enum><header>Second Lieutenant Patrick Palmer Calhoun Post Office</header>
+<subsection id="H0D753F3AA56148BFB8D5C01E5FAF93A0"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 120 West Church Street in Mount Vernon, Georgia, shall be known and designated as the <quote>Second Lieutenant Patrick Palmer Calhoun Post Office</quote>.</text></subsection> <subsection id="H53B639D3882D42498F05F2B63458DD8C"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Second Lieutenant Patrick Palmer Calhoun Post Office</quote>.</text></subsection></section>
+</legis-body><attestation><attestation-group><attestation-date date="20231002" legis-day="20231002" chamber="House">Passed the House of Representatives October 2, 2023.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+<endorsement display="yes"></endorsement>
+</bill> 
+
+

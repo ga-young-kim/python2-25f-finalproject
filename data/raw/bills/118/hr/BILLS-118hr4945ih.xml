@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC6007A1A3BE04207A496D89A2343210F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4945 IH: Creating Opportunities to Thrive and Advance Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4945</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230726">July 26, 2023</action-date><action-desc><sponsor name-id="T000467">Mr. Thompson of Pennsylvania</sponsor> (for himself, <cosponsor name-id="B001278">Ms. Bonamici</cosponsor>, <cosponsor name-id="F000475">Mr. Finstad</cosponsor>, and <cosponsor name-id="K000381">Mr. Kilmer</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Workforce Innovation and Opportunity Act to raise public awareness for skilled trade programs, and for other purposes.</official-title></form><legis-body id="HEF1C03AB879048EBB2F1557882C5ADBD" style="OLC"> 
+<section id="H63D7CDB9AFD64A58B9EF129CABDAF043" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Creating Opportunities to Thrive and Advance Act</short-title></quote> or the <quote><short-title>COTA Act</short-title></quote>.</text></section> <section id="HB5870EB32B3240C588C0925C5AC4950E"><enum>2.</enum><header>Career guidance and public awareness for skilled trade programs</header><text display-inline="no-display-inline">Section 223(a)(2) of the Workforce Innovation and Opportunity Act (<external-xref legal-doc="usc" parsable-cite="usc/29/3303">29 U.S.C. 3303(a)(2)</external-xref>) is amended—</text>
+<paragraph id="H577361B3A94945949809389ADD329AB6"><enum>(1)</enum><text>by redesignating subparagraph (M) as subparagraph (O); and</text></paragraph> <paragraph id="H7B9B7F14C19B452CA0CBB77D1A6DBBC2"><enum>(2)</enum><text>by inserting after subparagraph (L) the following:</text>
+<quoted-block style="OLC" id="H06AF477C1B354513B148D166A1B71B95" display-inline="no-display-inline">
+<subparagraph id="H7686360EDBAE4BAE8ACD8347AFA0EE24"><enum>(M)</enum><text display-inline="yes-display-inline">Providing guidance on career options in high-skill, high-wage, or in-demand industry sectors or occupations in current or emerging professions (including skilled trades).</text></subparagraph> <subparagraph id="HE77B5A4A0500429094F3AA98F0738B5F"><enum>(N)</enum><text display-inline="yes-display-inline">Raising public awareness and conducting public service announcements about career and technical education programs and community-based organizations, including through social media campaigns and other endeavors, focused on programs that prepare students for high-skill, high-wage, or in-demand industry sectors or occupations in current or emerging professions (including skilled trades). </text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body></bill>
+

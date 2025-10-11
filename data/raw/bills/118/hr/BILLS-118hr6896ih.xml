@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3C39DA51F6C542C1AB7FD82F6D27CEB8" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6896 IH: To require a briefing on the national security threats associated with Chinese autonomous ground vehicles operating in the United States.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-12-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6896</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231222">December 22, 2023</action-date><action-desc><sponsor name-id="S001208">Ms. Slotkin</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require a briefing on the national security threats associated with Chinese autonomous ground vehicles operating in the United States.</official-title></form><legis-body id="HAD8F9CBDDDFB4AF5809810939672069F" style="OLC"><section id="HFEB5611CD80F499BAE2D10971B24A03E" section-type="section-one"><enum>1.</enum><header>Briefing on national security threats associated with Chinese autonomous ground vehicles operating in the United States</header><subsection id="HD644F685A1144E9DBA358C4709FACFF9"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">The Secretary of Defense, acting through Under Secretary of Defense for Policy and in coordination with the Under Secretary of Defense for Acquisitions and Sustainment and other United States Government agencies as appropriate, to provide a briefing to the Committees on Armed Services of the House of Representatives and the Senate not later than March 30, 2024, on the national security threats associated with Chinese autonomous ground vehicles operating in the United States, especially those with access to or operating in the vicinity of Department of Defense military bases and installations and other sensitive United States Government facilities, and potentially sharing geospatial and other data with the Chinese Communist Party (CCP).</text></subsection><subsection id="H90DF2671E4AF4496A34E8E9D5AD4683F"><enum>(b)</enum><header>Matters To be included</header><text>The briefing required by subsection (a) should include the type of data that can be collected, the dual-use implications of autonomous ground vehicle technologies and their enabling factors, and how the CCP or People’s Liberation Army could potentially use the data it collects in the United States to support its military operational planning.</text></subsection></section></legis-body></bill> 
+

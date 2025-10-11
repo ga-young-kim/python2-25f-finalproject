@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HAAA984B98D204FB8A460AC6BA406E94D" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4323 IH: Protecting Whales, Human Safety and the Economy Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4323</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230623">June 23, 2023</action-date><action-desc><sponsor name-id="C001103">Mr. Carter of Georgia</sponsor> (for himself, <cosponsor name-id="P000619">Mrs. Peltola</cosponsor>, <cosponsor name-id="M001210">Mr. Murphy</cosponsor>, <cosponsor name-id="R000609">Mr. Rutherford</cosponsor>, and <cosponsor name-id="M000194">Ms. Mace</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the issuance of an interim or final rule that amends, updates, modifies, or replaces the North Atlantic Right Whale vessel strike reduction rule until mitigation protocols are fully developed and deployed.</official-title></form><legis-body id="HA2F75C4E4A204FD590FCEB3741006800" style="OLC"> 
+<section id="HD2116B1CF7FB461087B17DC7D89C180A" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting Whales, Human Safety and the Economy Act of 2023</short-title></quote>.</text></section> <section id="H7C2ADC9632284891945E9C54762062FF"><enum>2.</enum><header>Conditions for rules related to the North Atlantic Right Whale vessel strike reduction rule</header><text display-inline="no-display-inline">The Administrator of the National Oceanic and Atmospheric Administration shall not issue an interim or final rule that amends, updates, modifies, or replaces the North Atlantic Right Whale vessel strike reduction rule under section 224.105 of title 50, Code of Federal Regulations, as in effect on January 3, 2023, until the date—</text> 
+<paragraph id="H305A047B53B24A9DBE78EBC3CABBCD12"><enum>(1)</enum><text>the mitigation protocols under section 11303(e) of the Don Young Coast Guard Authorization Act of 2022 (<external-xref legal-doc="usc" parsable-cite="usc/16/1391">16 U.S.C. 1391(e)</external-xref>) are fully developed and deployed; and</text></paragraph> <paragraph id="H766251BD3EEA439EAFE5C5A8B5F30530"><enum>(2)</enum><text>the Secretary provides a report to the Committee on Appropriations of the Senate, the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Appropriations of the House of Representatives, and the Committee on Natural Resources of the House of Representatives on how the mitigation protocols will inform any proposed changes to section 224.105 of title 50, Code of Federal Regulations.</text></paragraph></section> 
+</legis-body></bill>
+

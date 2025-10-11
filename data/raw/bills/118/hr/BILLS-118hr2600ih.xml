@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HAC18DD4573314A3C967FFBC1C7EAAC0C" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2600 IH: Protect Local Taxpayers Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 2600</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230413">April 13, 2023</action-date>
+<action-desc><sponsor name-id="L000600">Mr. Langworthy</sponsor> (for himself, <cosponsor name-id="T000478">Ms. Tenney</cosponsor>, and <cosponsor name-id="W000828">Mr. Williams of New York</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend title XIX of the Social Security Act to ensure the equitable treatment of political subdivisions contributing to State expenditures under the Medicaid program.</official-title>
+</form>
+<legis-body id="HC5E3619421654E81A4FDC3A8927BE291" style="OLC">
+<section id="H9AAA627C087247E5A170417A3E166491" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protect Local Taxpayers Act of 2023</short-title></quote>.</text></section> <section id="HB7F7A0A13F1544BFA13094EAA05100AF"><enum>2.</enum><header>Ensuring the equitable treatment of political subdivisions contributing to State expenditures under the Medicaid program</header> <subsection id="H0D2FA47949EB4CD0BBBE0BDD15197E0F"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1905(cc) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396d">42 U.S.C. 1396d(cc)</external-xref>) is amended—</text>
+<paragraph id="H578653DF9E0D40C0A1729BB55D408C5B"><enum>(1)</enum><text>in the first sentence, by striking <quote>if it requires</quote> and all that follows through the period and inserting <quote>unless, with respect to amounts received by the State attributable to such increases, the State agrees to distribute to each such subdivision an amount that bears the same ratio to such amounts received as such contribution of such subdivision bears to such non-Federal share of expenditures.</quote>; and</text></paragraph> <paragraph id="H10CB3B2CBB4E4C5FA08FD9503ED231EB"><enum>(2)</enum><text>in the third sentence, by striking <quote>, except that</quote> and all that follows through the period and inserting a period. </text></paragraph></subsection>
+<subsection id="H467EDF757ECC43A6A8420F53A15753BE"><enum>(b)</enum><header>Effective date</header><text>The amendments made by subsection (a) shall apply with respect to increases in the Federal medical assistance percentage of a State for medical assistance furnished in calendar quarters beginning on or after January 1, 2024.</text></subsection></section> </legis-body> </bill> 
+

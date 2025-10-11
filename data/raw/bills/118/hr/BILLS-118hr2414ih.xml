@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0A0006D0033243DFA97888E26C1E73B7" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2414 IH: CHAMPVA Children’s Care Protection Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2414</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230330">March 30, 2023</action-date><action-desc><sponsor name-id="B001285">Ms. Brownley</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 38, United States Code, to increase the maximum age for children eligible for medical care under the CHAMPVA program, and for other purposes.</official-title></form><legis-body id="H7E3306BA1A10483284379798AFFDBD46" style="OLC"> 
+<section id="H6A52AA23BA3D46E9ABC7B1FB1CEE74A5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>CHAMPVA Children’s Care Protection Act of 2023</short-title></quote>.</text></section> <section id="H858EACCB55E640708D6DFD4741B34E44"><enum>2.</enum><header>Increase of maximum age for children eligible for medical care under CHAMPVA program</header> <subsection id="H61F4517589044BC881C6E19BC293C8BB"><enum>(a)</enum><header>Increase</header><text>Subsection (c) of section 1781 of title 38, United States Code, is amended to read as follows:</text>
+<quoted-block display-inline="no-display-inline" id="H9EFCDD7FCF2C49CA9EBBFEDD518E65A0" style="OLC">
+<subsection id="H079F9D479A3942DDA98B834B6D68A36C"><enum>(c)</enum>
+<paragraph commented="no" display-inline="yes-display-inline" id="HFB9C86674BD042B18B1FEAC998431C30"><enum>(1)</enum><text>Notwithstanding clauses (i) and (iii) of section 101(4)(A) of this title and except as provided in paragraph (2), for purposes of this section, a child is eligible for benefits under subsection (a) until the child's 26th birthday, regardless of the child's marital status.</text></paragraph> <paragraph id="H819C078834B4480C9B475C108DA148AB" indent="up1"><enum>(2)</enum><text>This subsection shall not be construed to limit eligibility for benefits under subsection (a) of a child described in section 101(4)(A)(ii) of this title.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H4F2CE0B4170348E28AFC71765102ED50"><enum>(b)</enum><header>Effective Date</header><text>Such subsection, as so amended, shall apply with respect to medical care provided on or after the date of the enactment of this Act.</text></subsection></section> </legis-body></bill>
+

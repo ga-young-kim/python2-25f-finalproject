@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9ECDD8E45FD84D439D108E07BEFD3CC6" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4339 IH: Preserving Local Medicaid Access Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-23</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4339</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230623">June 23, 2023</action-date><action-desc><sponsor name-id="L000599">Mr. Lawler</sponsor> (for himself and <cosponsor name-id="D000632">Mr. D'Esposito</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XIX of the Social Security Act to ensure enhanced Federal funding made available to States under the Medicaid program is equitably distributed to political subdivisions.</official-title></form><legis-body id="HD49AD3F922AF4D1896E939644BF7E3F5" style="OLC"> 
+<section id="H676F90EB21624F4B90CA2BE39EE0760F" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Preserving Local Medicaid Access Act of 2023</short-title></quote>.</text></section> <section id="H29B1BD579CC84F65B8AC3221A35FB54C"><enum>2.</enum><header>Ensuring enhanced Federal funding made available to States under the Medicaid program is equitably distributed to political subdivisions</header> <subsection id="H10F1C11077454E418E8FFE09409286F2"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 1905(cc) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1396d">42 U.S.C. 1396d(cc)</external-xref>) is amended, in the first sentence, by inserting <quote>, and shall not be so eligible unless, with respect to amounts received by the State attributable to such increases, the State agrees to distribute to each such subdivision an amount that bears the same ratio to such amounts received as such contribution of such subdivision bears to such non-Federal share of expenditures</quote> before the period.</text></subsection> 
+<subsection id="HC011A1019A424DFEB2BBBCB1444CAAF8"><enum>(b)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendment made by subsection (a) shall apply with respect to increases in the Federal medical assistance percentage of a State for medical assistance furnished in calendar quarters beginning on or after October 1, 2022. </text> </subsection></section> </legis-body></bill>
+

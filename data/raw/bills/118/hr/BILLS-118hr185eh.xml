@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H8FA9EA4C95724D8ABD0965E33E6C4350" public-private="public" key="H" bill-type="olc" stage-count="1">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 185 EH: To terminate the requirement imposed by the Director of the Centers for Disease Control and Prevention for proof of COVID–19 vaccination for foreign travelers, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 185</legis-num>
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<legis-type>AN ACT</legis-type>
+<official-title display="yes">To terminate the requirement imposed by the Director of the Centers for Disease Control and Prevention for proof of COVID–19 vaccination for foreign travelers, and for other purposes.</official-title>
+</form>
+<legis-body id="HDA88C3E62504470FAAC37DB8D254CB19" style="OLC">
+<section id="H9F0D6062EE6847D7B1D81E5F47A185DD" section-type="section-one"><enum>1.</enum><header>Terminating CDC requirement for proof of COVID–19 vaccination for foreign travelers</header>
+<subsection id="H4209F9F13B5B448A81D1C4429E2DE594"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Beginning on the date of the enactment of this Act, the air travel vaccination requirement for foreign travelers shall have no force or effect.</text></subsection> <subsection id="H5B458F063212420F9D2674F0E931995F"><enum>(b)</enum><header>Prohibition on funding</header><text display-inline="yes-display-inline">Beginning on the date of the enactment of this Act, no Federal funds may be used to administer, implement, or enforce the air travel vaccination requirement for foreign travelers. </text></subsection>
+<subsection id="H31EED121F5894BA9A387B6BFCFCCCBCE"><enum>(c)</enum><header>Air travel vaccination requirement for foreign travelers</header><text display-inline="yes-display-inline">In this Act, the term <quote>air travel vaccination requirement for foreign travelers</quote> refers to the requirement specified in—</text> <paragraph id="H48C411E166F34868ABFBAC3A25E02C52"><enum>(1)</enum><text>the order issued by the Director of the Centers for Disease Control and Prevention entitled <quote>Amended Order Implementing Presidential Proclamation on Advancing the Safe Resumption of Global Travel During the COVID–19 Pandemic</quote> and published in the Federal Register on April 7, 2022 (87 Fed. Reg. 20405 et seq.), for proof of COVID–19 vaccination for air travelers who are covered individuals (as defined in such order); or</text></paragraph>
+<paragraph id="HE3421AE688AC420985B3AC30FAB4D1F5"><enum>(2)</enum><text>any successor or subsequent order of the Centers for Disease Control and Prevention requiring foreign persons traveling by air to show proof of COVID–19 vaccination as a condition on entering the United States.</text></paragraph></subsection></section> <section id="HC9BA043087144C98AF9E2CCF067D7FE5"><enum>2.</enum><header>Report</header><text display-inline="no-display-inline">Not later than 90 days after the date of the enactment of this Act, the Director of the Centers for Disease Control and Prevention shall submit a report to Congress on the number of visitors denied entry under the order specified in subsection (c)(1) during the period beginning on April 7, 2022, and ending on the date of the enactment of this Act.</text></section>
+<section id="H8F4BCB9ED8324DBD8EB43208A198C728"><enum>3.</enum><header>Rule of construction</header><text display-inline="no-display-inline">Nothing in this Act may be construed to suggest that the provisions of section 1 shall effect the order issued by the Director of the Centers for Disease Control and Prevention entitled <quote>Requirements for Negative Pre-Departure COVID–19 Test Results or Documentation of Recovery from COVID–19 for Aircraft Passengers Traveling to the United States From the People’s Republic of China</quote> and published in the Federal Register on January 5, 2023 (88 Fed. Reg. 864) for proof of negative pre-departure COVID–19 test results or documentation of recovery from COVID–19 for aircraft passengers traveling to the United States from the People’s Republic of China or departing from a designated airport if such passenger has been in the People’s Republic of China within the 10 days prior to departure for the United States.</text></section> </legis-body><attestation><attestation-group><attestation-date date="20230208" chamber="House">Passed the House of Representatives February 8, 2023.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> <endorsement display="yes"></endorsement> </bill> 
+

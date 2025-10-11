@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HBD3AE0D61D6342FBAA99ECA5F8EC9EFC" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4291 IH: To direct the United States Postal Service to modify the ZIP Code for Goose Creek, South Carolina, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4291</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230622">June 22, 2023</action-date><action-desc><sponsor name-id="M000194">Ms. Mace</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the United States Postal Service to modify the ZIP Code for Goose Creek, South Carolina, and for other purposes.</official-title></form><legis-body id="HC7D37A7E858E4F5184276D0F499DC259" style="OLC"> 
+<section id="H8B19143C342B442DBB69DA70412411EC" section-type="section-one"><enum>1.</enum><header>ZIP Code modification for Goose Creek, South Carolina</header><text display-inline="no-display-inline">Not later than 45 days after the date of enactment of this section, the United States Postal Service shall modify the boundaries of the ZIP Code applicable to Goose Creek, South Carolina, to conform with the boundaries set forth in the map titled <quote>ZIP Code Boundaries Proposal 1</quote>, dated June 7, 2023, published by the City of Goose Greek GIS Department.</text> </section> </legis-body></bill>
+

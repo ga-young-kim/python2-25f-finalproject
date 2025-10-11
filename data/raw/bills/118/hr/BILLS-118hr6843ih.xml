@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5E9B110D4A8E4AA3AB11AC664F224D6C" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6843 IH: To expand the boundaries of the Atchafalaya National Heritage Area to include Lafourche Parish, Louisiana.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-12-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6843</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231215">December 15, 2023</action-date><action-desc><sponsor name-id="S001176">Mr. Scalise</sponsor> (for himself, <cosponsor name-id="G000577">Mr. Graves of Louisiana</cosponsor>, <cosponsor name-id="L000595">Ms. Letlow</cosponsor>, <cosponsor name-id="H001077">Mr. Higgins of Louisiana</cosponsor>, and <cosponsor name-id="C001125">Mr. Carter of Louisiana</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To expand the boundaries of the Atchafalaya National Heritage Area to include Lafourche Parish, Louisiana.</official-title></form><legis-body id="H752804152F2348FCBAA96B0F9D8A2B01" style="OLC"> 
+<section id="H64099A24F9534F28A3A46CB3D62CAEA2" section-type="section-one"><enum>1.</enum><header>Atchafalaya National Heritage Area expansion</header><text display-inline="no-display-inline">Section 213 of the Atchafalaya National Heritage Area Act (subtitle B of title II of <external-xref legal-doc="public-law" parsable-cite="pl/109/338">Public Law 109–338</external-xref>) is amended—</text> <paragraph id="HCB1D3EDAC87344E88917EF9E5201C45D"><enum>(1)</enum><text>in subsection (b), by striking <quote>and Ascension Parish</quote> and inserting <quote>Ascension, and Lafourche Parish</quote>; and</text></paragraph>
+<paragraph id="H22E90F6D01D047BF9CDEBAF2A2C5BCF5"><enum>(2)</enum><text>in subsection (c)(2), by striking <quote>14</quote> and inserting <quote>15</quote>. </text> </paragraph></section> </legis-body></bill>
+

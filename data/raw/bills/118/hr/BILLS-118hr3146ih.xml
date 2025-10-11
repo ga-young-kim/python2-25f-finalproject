@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H04AE2BB3FCD4474894F557E0FE8C1334" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3146 IH: To amend the Internal Revenue Code of 1986 to modify the cover over of certain distilled spirits taxes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 3146</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230509">May 9, 2023</action-date>
+<action-desc><sponsor name-id="G000582">Mrs. González-Colón</sponsor> (for herself and <cosponsor name-id="P000610">Ms. Plaskett</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Internal Revenue Code of 1986 to modify the cover over of certain distilled spirits taxes.</official-title>
+</form>
+<legis-body id="HD0635CBC6BE34974A41460C9951FCC75" style="OLC">
+<section id="HFBBD68172E024ECA950DD918A15A2200" section-type="section-one"><enum>1.</enum><header>Cover over of certain distilled spirits taxes</header>
+<subsection id="H847BD01ED3AA4993BFF4CD9308C0883C" display-inline="no-display-inline"><enum>(a)</enum><header>Repeal of limitation on cover over of distilled spirits taxes to Puerto Rico and Virgin Islands</header>
+<paragraph id="HCF8B44A202AA4E09A63E12DE1BACF9EE"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/7652">Section 7652</external-xref> of the Internal Revenue Code of 1986 is amended by striking subsection (f).</text></paragraph> <paragraph id="HA3C89986078A490D91F43A3B54600D23"><enum>(2)</enum><header>Conforming amendment</header><text>Section 7652(g)(1) of such Code is amended—</text>
+<subparagraph id="H36AC4B88D93F48BAB7B6C30D3BFD2504"><enum>(A)</enum><text>by striking subparagraph (B), and</text></subparagraph> <subparagraph id="H566B343B48834532B3DAC76360308A48"><enum>(B)</enum><text>by striking <quote>as if—</quote> and all that follows through <quote>the use and tax</quote> and inserting <quote>as if the use and tax</quote>. </text></subparagraph></paragraph>
+<paragraph id="HDD9104CC23784D3AB70B9EF2B30700EA"><enum>(3)</enum><header>Effective date</header><text display-inline="yes-display-inline">The amendments made by this subsection shall apply to distilled spirits brought into the United States after December 31, 2021.</text></paragraph></subsection> <subsection id="HC08FE9D4FA1F43ACAB0C4F70DAC2A61E"><enum>(b)</enum><header>Required transfer to Puerto Rico Conservation Trust Fund of portion of Puerto Rico rum cover over</header> <paragraph id="H63BA90681B1140CA8C7219A7B0DD5B5C"><enum>(1)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/7652">Section 7652(a)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:</text>
+<quoted-block id="HD97922AD338B4EB092829E4A5779AAC8" style="OLC">
+<paragraph id="H6D29DBFB2B584B19A14A6094D8DA4E83"><enum>(4)</enum><header>Required transfer to Puerto Rico conservation trust fund of portion of rum taxes covered over</header>
+<subparagraph id="HFABED7D7BAFD4A809F2C58CF58B8DD10"><enum>(A)</enum><header>In general</header><text display-inline="yes-display-inline">From any taxes collected on rum transported to the United States that are covered into the treasury of Puerto Rico under paragraph (3) at a rate equal to or greater than $10.50 per proof gallon, Puerto Rico shall transfer to the Puerto Rico Conservation Trust Fund an amount per proof gallon equal to or greater than <fraction>1/6</fraction> of the difference between $10.50 and the rate, not to exceed $13.25, at which such taxes are covered into such treasury. Puerto Rico’s obligations under this paragraph shall not modify or impair payment priorities established under Puerto Rico law and in effect on December 31, 2022.</text></subparagraph> <subparagraph id="HCBEE070FB4784C4089BAF81BB73C5F79"><enum>(B)</enum><header>Puerto Rico conservation trust fund</header><text display-inline="yes-display-inline">For purposes of this section, the term <quote>Puerto Rico Conservation Trust Fund</quote> means the fund which—</text>
+<clause id="HE1DC28FC61454CBCA1773EF621ABA749"><enum>(i)</enum><text>was established pursuant to a Memorandum of Understanding between the United States Department of the Interior and the Commonwealth of Puerto Rico, dated December 24, 1968, and</text></clause> <clause id="H2EFABB7A37724B9088DF25EFE1FD0AC0"><enum>(ii)</enum><text>provides for the conservation of natural areas in Puerto Rico, including through sustainable agriculture efforts and the reforestation and restoration of Puerto Rico’s natural habitats.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph>
+<paragraph id="H2C4ACA485ADD430987EEAB49C0707BE1"><enum>(2)</enum><header>Cover over determined without regard to certain rate reductions</header><text>Section 7652(i) of such Code, as amended by subsection (c), is amended by inserting <quote>(a)(4),</quote> after <quote>(a)(3),</quote>.</text></paragraph> <paragraph id="H724A3C4105254D4AA1FF70CDF5CBD15E"><enum>(3)</enum><header>Effective date</header><text>The amendments made by this subsection shall apply to articles containing distilled spirits brought into the United States after December 31, 2021.</text></paragraph></subsection>
+<subsection id="H1B380CB0186F4F69AE3A90F951F73F0A"><enum>(c)</enum><header>Retroactive application of rules relating to determination of cover over</header><text display-inline="yes-display-inline">Notwithstanding section 107(a)(3) of division EE of <external-xref legal-doc="public-law" parsable-cite="pl/116/260">Public Law 116–260</external-xref>—</text> <paragraph id="H10024E04212543E08752AC89711A9325"><enum>(1)</enum><text>the amendments made section 107(a)(2)(A) thereof shall take effect as if included in section 13807 of <external-xref legal-doc="public-law" parsable-cite="pl/115/97">Public Law 115–97</external-xref>, and</text></paragraph>
+<paragraph id="HA132E96CD5DA442DBC3E79C8E003D63E"><enum>(2)</enum><text>the amendments made by section 107(a)(2)(B) thereof shall take effect as if included in section 41102 of <external-xref legal-doc="public-law" parsable-cite="pl/115/123">Public Law 115–123</external-xref>.</text></paragraph></subsection></section> </legis-body> </bill> 
+

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H693596F5D9384A66827871766E177D56" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3763 IH: Farmers Undertake Environmental Land Stewardship Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3763</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230531">May 31, 2023</action-date><action-desc><sponsor name-id="C001087">Mr. Crawford</sponsor> (for himself and <cosponsor name-id="G000546">Mr. Graves of Missouri</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Water Resources Reform and Development Act of 2014 with respect to the application of the Spill Prevention, Control, and Countermeasure rule to certain farms, and for other purposes.</official-title></form><legis-body id="HA846C6E63BFE47FBBA68785041A08667" style="OLC"> 
+<section id="H1302B1FA3D664434938A6139401B78BE" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Farmers Undertake Environmental Land Stewardship Act</short-title></quote> or the <quote><short-title>FUELS Act</short-title></quote>.</text></section> <section id="H630BA02CB680420096811B556FE6B0B6"><enum>2.</enum><header>Applicability of Spill Prevention, Control, and Countermeasure rule</header><text display-inline="no-display-inline">Section 1049 of the Water Resources Reform and Development Act of 2014 (<external-xref legal-doc="usc" parsable-cite="usc/33/1361">33 U.S.C. 1361</external-xref> note) is amended—</text> 
+<paragraph id="H12ED96AC4ABA47A38BD056FF72ED68F9"><enum>(1)</enum><text>in subsection (b)—</text> <subparagraph id="H3CB657BDDB8C4F069AC8626505F98BAE"><enum>(A)</enum><text>in paragraph (1)(B), by striking <quote>20,000</quote> and inserting <quote>42,000</quote>;</text></subparagraph> 
+<subparagraph id="H7BB96AED723942E8A90959E973FABD7A"><enum>(B)</enum><text>by amending paragraph (2)(A) to read as follows:</text> <quoted-block display-inline="no-display-inline" id="H3373314D31074FB38D8DC32B6E9C56D4" style="OLC"> <subparagraph id="H677C237BFF3C415792AA3C97EBB6A73B"><enum>(A)</enum><text display-inline="yes-display-inline">an aggregate aboveground storage capacity greater than 10,000 gallons but less than 42,000 gallons; and</text></subparagraph><after-quoted-block>; </after-quoted-block></quoted-block></subparagraph> 
+<subparagraph id="H0DB3CED02B464C0D9E5C8DBE791A86D3"><enum>(C)</enum><text>in paragraph (3)—</text> <clause id="HBBD6E17A5F754E2BAC027DEC00339E0B"><enum>(i)</enum><text>by amending subparagraph (A) to read as follows:</text> 
+<quoted-block display-inline="no-display-inline" id="HEB95254E1C464468803574DC8331D660" style="OLC"> 
+<subparagraph id="H1B03594D2AA944A4B12C2527C30A9F69"><enum>(A)</enum><text display-inline="yes-display-inline">with an aggregate aboveground storage capacity of less than or equal to 10,000 gallons; and</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></clause> <clause id="H339FC1EABE9646188D629BE991FCB07D"><enum>(ii)</enum><text>in subparagraph (B), by striking <quote>; and</quote> and inserting a period; and</text></clause></subparagraph> 
+<subparagraph id="H458862B8524A41DD8F55929B0B8A93B1"><enum>(D)</enum><text>by striking paragraph (4);</text></subparagraph></paragraph> <paragraph id="HA39F4BDBC8DB45EEAB94B3E7FE2BA5DE"><enum>(2)</enum><text>in subsection (c)(2)(A)—</text> 
+<subparagraph id="HF772646318794B43A4682B503A84F089"><enum>(A)</enum><text>in clause (i), by striking <quote>1,000</quote> and inserting <quote>1,320</quote>; and</text></subparagraph> <subparagraph id="H5B6BD3CCFE5840C8A20CE40AA0471A55"><enum>(B)</enum><text>in clause (ii), by striking <quote>2,500</quote> and inserting <quote>3,000</quote>; and</text></subparagraph></paragraph> 
+<paragraph id="HC00D4708A30A4A2E8E331D785A08D5FC"><enum>(3)</enum><text>by striking subsection (d).</text></paragraph></section> </legis-body></bill>
+

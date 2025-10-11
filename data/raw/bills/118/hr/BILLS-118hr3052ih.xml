@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA4C56D2F10B1406FB8B4E0E64DB2A27A" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3052 IH: To amend title 40, United States Code, to add certain counties to the definition of “Appalachian region”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-02</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3052</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230502">May 2, 2023</action-date><action-desc><sponsor name-id="F000459">Mr. Fleischmann</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 40, United States Code, to add certain counties to the definition of <quote>Appalachian region</quote>.</official-title></form><legis-body id="HFCCD07551246429E8A41501761890F93" style="OLC"> 
+<section id="H0D377E57A9ED44988AE8C01A66E5E616" section-type="section-one"><enum>1.</enum><header>Definition of Appalachian region</header><text display-inline="no-display-inline">Section 14102(a)(1)(K) of title 40, United States Code, is amended—</text> <paragraph id="H2AA1AF3FC4DC43CD9A298E09D6573160"><enum>(1)</enum><text>by inserting <quote>Hickman, Humphreys,</quote> after <quote>Hawkins,</quote>; and</text></paragraph> 
+<paragraph id="H3E929CD4F89245CA9A05A9E754623B91"><enum>(2)</enum><text>by inserting <quote>Perry,</quote> after <quote>Overton,</quote>.</text></paragraph></section> </legis-body></bill>
+

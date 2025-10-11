@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H65DEEF66FC984B778E46602226CC8E9B" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3027 IH: Reclamation Climate Change and Water Program Reauthorization Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3027</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230428">April 28, 2023</action-date><action-desc><sponsor name-id="P000618">Ms. Porter</sponsor> (for herself and <cosponsor name-id="S001218">Ms. Stansbury</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To reauthorize funding for the Reclamation Climate Change and Water Program.</official-title></form><legis-body id="H8647D0A428C748B497AF297250F32D33" style="OLC"><section id="HAD8A74BEBD074BA6A75499F44141A4AF" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Reclamation Climate Change and Water Program Reauthorization Act of 2023</short-title></quote>.</text></section><section id="H69F9A72832614717B90334DAFE061128"><enum>2.</enum><header>Reclamation Climate Change and Water Program</header><text display-inline="no-display-inline">Section 9503(f) of the Omnibus Public Land Management Act of 2009 (<external-xref legal-doc="usc" parsable-cite="usc/42/10363">42 U.S.C. 10363(f)</external-xref>) is amended by striking <quote>2023</quote> and inserting <quote>2033</quote>.</text></section></legis-body></bill> 
+

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB95CDC65FCFC4D37A29ED38BB0E6B7F3" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2776 IH: Go Woke, Go Broke Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2776</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230420">April 20, 2023</action-date><action-desc><sponsor name-id="O000175">Mr. Ogles</sponsor> (for himself, <cosponsor name-id="H001082">Mr. Hern</cosponsor>, <cosponsor name-id="B001302">Mr. Biggs</cosponsor>, <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>, <cosponsor name-id="N000190">Mr. Norman</cosponsor>, <cosponsor name-id="G000565">Mr. Gosar</cosponsor>, <cosponsor name-id="C001116">Mr. Clyde</cosponsor>, <cosponsor name-id="L000589">Mrs. Lesko</cosponsor>, <cosponsor name-id="R000603">Mr. Rouzer</cosponsor>, <cosponsor name-id="B001291">Mr. Babin</cosponsor>, <cosponsor name-id="L000578">Mr. LaMalfa</cosponsor>, <cosponsor name-id="M001212">Mr. Moore of Alabama</cosponsor>, and <cosponsor name-id="G000576">Mr. Grothman</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name>, and in addition to the Committee on <committee-name committee-id="HWM00">Ways and Means</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To abolish the Advisory Committee on Racial Equity of the Department of the Treasury.</official-title></form><legis-body id="H19AD139D17154DAFAD5D2FA228369CE3" style="OLC"><section id="H1B2304F54AB84297B6B52D70D738F88B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Go Woke, Go Broke Act</short-title></quote>.</text></section><section id="H38D3B8704C4C4EB495F0CA3BD8796575"><enum>2.</enum><header>Abolishment</header><text display-inline="no-display-inline">The Advisory Committee on Racial Equity of the Department of the Treasury is hereby abolished, and the Secretary of the Treasury may not re-establish such advisory committee or establish any substantially similar advisory committee.</text></section></legis-body></bill> 
+

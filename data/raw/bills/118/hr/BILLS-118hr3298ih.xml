@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC5C184C4C5F34D9CAED0069B5EB084BA" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3298 IH: Broadband Expansion And Deployment Fee Equity and Efficiency Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 3298</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230515">May 15, 2023</action-date>
+<action-desc><sponsor name-id="A000372">Mr. Allen</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Infrastructure Investment and Jobs Act to require States and political subdivisions of States to streamline certain fees relating to broadband infrastructure in order to receive grant funds under the Broadband Equity, Access, and Deployment Program, and for other purposes.</official-title>
+</form>
+<legis-body id="H7B0F9B60D09E4E7AB9C4102D8A766AA9" style="OLC">
+<section id="H5EEAEE8F227048B7ABC93878707A67EA" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Broadband Expansion And Deployment Fee Equity and Efficiency Act of 2023</short-title></quote> or the <quote><short-title>BEAD FEE Act of 2023</short-title></quote>.</text></section> <section id="HDBCF053FD8A44C1CBED2E8D3638A8172"><enum>2.</enum><header>Streamlining of certain fees relating to broadband infrastructure required to receive grant funds under BEAD Program</header><text display-inline="no-display-inline">Section 60102(e) of the Infrastructure Investment and Jobs Act (<external-xref legal-doc="usc" parsable-cite="usc/47/1702">47 U.S.C. 1702(e)</external-xref>) is amended by adding at the end the following:</text>
+<quoted-block style="OLC" id="H0383734C7A314EBBA24D0403D80C43AC" display-inline="no-display-inline">
+<paragraph id="HF4C886F3ED644D759CA1B970CD788EB2"><enum>(5)</enum><header>Streamlining of certain fees relating to broadband infrastructure required</header><text display-inline="yes-display-inline">After the date of the enactment of this paragraph, the Assistant Secretary may not make available to an eligible entity grant funds under this section (except for grant funds under paragraph (1)(C)) if the eligible entity, or any political subdivision of the eligible entity, charges a fee to consider a request for authorization to place, construct, or modify infrastructure for the provision of broadband service, or a fee for use of a right-of-way or infrastructure in a right-of-way owned or managed by the entity or political subdivision for the placement, construction, or modification of infrastructure for the provision of broadband service, unless such fee is—</text> <subparagraph id="H58309929789646DAB38278924E1A07A1"><enum>(A)</enum><text>competitively neutral, technology neutral, and nondiscriminatory;</text></subparagraph>
+<subparagraph id="H8D6189B284D3400697AF8459D8D8BA18"><enum>(B)</enum><text>publicly disclosed;</text></subparagraph> <subparagraph id="HC825B0C082EE42F8A49E0F8C96DEFA3C"><enum>(C)</enum><text display-inline="yes-display-inline">calculated—</text>
+<clause id="HAFE0AC25E6EB4A63AF23F50BBD3FC516"><enum>(i)</enum><text>based on actual and direct costs, such as costs for—</text> <subclause id="H80D77681438C414398B38FB994A4B191"><enum>(I)</enum><text>review and processing of requests; and</text></subclause>
+<subclause id="HF4E9A825045A4142A207136993EF6224"><enum>(II)</enum><text>repairs and replacement of—</text> <item id="H5E951410CA5E4C2D981633AC72FDBC86"><enum>(aa)</enum><text display-inline="yes-display-inline">components and materials resulting from and affected by the placement, construction, or modification (including the installation or improvement) of infrastructure for the provision of broadband service; or</text></item>
+<item id="H4EF7923F3773432492F6BE24678D63C9"><enum>(bb)</enum><text display-inline="yes-display-inline">equipment that facilitates the placement, construction, or modification (including the installation or improvement) of such infrastructure; and</text></item></subclause></clause> <clause id="H28204D0A62B04FDDBDC187296C3B3E10"><enum>(ii)</enum><text>using, for purposes of clause (i), only costs that are objectively reasonable; and</text></clause></subparagraph>
+<subparagraph id="H81A2FCD255F746B09A3251F5018910E8"><enum>(D)</enum><text>described to a requesting party in a manner that distinguishes between—</text> <clause id="H915CE9C9CAB04DBFBADD2BA857BD1B54"><enum>(i)</enum><text>nonrecurring fees and recurring fees; and</text></clause>
+<clause id="HCEB49889F2A04CD9B238E8AA58B64011"><enum>(ii)</enum><text>the use of infrastructure on which infrastructure for the provision of broadband service is already located and infrastructure on which there is no infrastructure for the provision of broadband service as of the date on which the request is received by the eligible entity or political subdivision.</text></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body> </bill> 
+

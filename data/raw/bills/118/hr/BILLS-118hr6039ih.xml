@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H453F9CAA6C914E85A604A7DADAF1BA30" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6039 IH: Court Legal Access and Student Support Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 6039</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231024">October 24, 2023</action-date>
+<action-desc><sponsor name-id="W000187">Ms. Waters</sponsor> (for herself, <cosponsor name-id="D000096">Mr. Davis of Illinois</cosponsor>, <cosponsor name-id="D000216">Ms. DeLauro</cosponsor>, <cosponsor name-id="G000587">Ms. Garcia of Texas</cosponsor>, <cosponsor name-id="L000551">Ms. Lee of California</cosponsor>, <cosponsor name-id="M000687">Mr. Mfume</cosponsor>, <cosponsor name-id="S001145">Ms. Schakowsky</cosponsor>, <cosponsor name-id="T000472">Mr. Takano</cosponsor>, and <cosponsor name-id="V000081">Ms. Velázquez</cosponsor>) introduced the following bill</action-desc>
+</action>
+<action display="yes">
+<action-date date="20231025">October 25, 2023</action-date>
+<action-desc>Referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name>, and in addition to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To provide that <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/9/1">chapter 1</external-xref> of title 9 of the United States Code, relating to the enforcement of arbitration agreements, shall not apply to enrollment agreements made between students and certain institutions of higher education, and to prohibit limitations on the ability of students to pursue claims against certain institutions of higher education.</official-title>
+</form>
+<legis-body id="H073EFA82C9F54051AF88E900B9E07584" style="OLC"> 
+<section section-type="section-one" id="H6074EEDEA0AF409BB4336515DDB39C96"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Court Legal Access and Student Support Act of 2023</short-title></quote> or the <quote><short-title>CLASS Act of 2023</short-title></quote>.</text></section> <section id="HE9E6DE16EFA4497D992A049CD6854F3C"><enum>2.</enum><header>Inapplicability of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/9/1">chapter 1</external-xref> of title 9, United States Code, to enrollment agreements made between students and certain institutions of higher education</header> <subsection id="HB827448BFEA44FA8982D1B038E717E61"><enum>(a)</enum><header>In General</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/9/1">Chapter 1</external-xref> of title 9 of the United States Code (relating to the enforcement of arbitration agreements) shall not apply to an enrollment agreement made between a student and an institution of higher education.</text></subsection> 
+<subsection id="H3F620AB76A884107AA250D55BDFE929B"><enum>(b)</enum><header>Definitions</header><text display-inline="yes-display-inline">In this section:</text> <paragraph commented="no" display-inline="no-display-inline" id="H98DE2844CB6D44F8855002FBA176928C"><enum>(1)</enum><header>Enrollment agreement</header><text>The term <term>enrollment agreement</term> means any contract or agreement between a student and an institution of higher education under which the student makes a financial commitment to the institution in exchange for enrollment in a program of study at the institution.</text></paragraph> 
+<paragraph commented="no" display-inline="no-display-inline" id="H2ACA997AFCE541C0B7BC575E645FC659"><enum>(2)</enum><header>Institution of higher education</header><text display-inline="yes-display-inline">The term <quote>institution of higher education</quote> has the meaning given such term in section 102 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1002">20 U.S.C. 1002</external-xref>).</text></paragraph></subsection></section> <section id="HB3274A377B7849B899E747444E159171"><enum>3.</enum><header>Prohibition on limitations on ability of students to pursue claims against certain institutions of higher education</header><text display-inline="no-display-inline">Section 487(a) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1094">20 U.S.C. 1094(a)</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="H85ED5F1E7C9F4E4AA46C8438EFE04CA3"> 
+<paragraph id="HB30EBFC5533B40E2AA5FD718F94CACF2"><enum>(30)</enum><text display-inline="yes-display-inline">The institution will not require any student to agree to, and will not enforce, any limitation or restriction (including a limitation or restriction on any available choice of applicable law, a jury trial, or venue) on the ability of a student to pursue a claim, individually or with others, against an institution in court.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> <section id="HD1CAD1A089214557B8EF56A41E918E82"><enum>4.</enum><header>Effective date</header><text display-inline="no-display-inline">This Act and the amendments made by this Act shall take effect 1 year after the date of enactment of this Act.</text></section> 
+</legis-body>
+</bill> 
+
+

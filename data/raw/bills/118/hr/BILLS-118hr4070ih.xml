@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H45C00C762FA34614A87591AD2A55E156" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4070 IH: Disaster Mitigation and Tax Parity Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 4070</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230613">June 13, 2023</action-date>
+<action-desc><sponsor name-id="L000578">Mr. LaMalfa</sponsor> (for himself, <cosponsor name-id="T000460">Mr. Thompson of California</cosponsor>, <cosponsor name-id="R000603">Mr. Rouzer</cosponsor>, <cosponsor name-id="H001077">Mr. Higgins of Louisiana</cosponsor>, <cosponsor name-id="C001054">Mr. Carl</cosponsor>, <cosponsor name-id="F000471">Mr. Fitzgerald</cosponsor>, and <cosponsor name-id="R000305">Ms. Ross</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Internal Revenue Code of 1986 to provide for the exclusion from gross income of amounts received from State-based catastrophe loss mitigation programs.</official-title>
+</form>
+<legis-body id="H877068F2C4924C6A851E3223C7D1F420" style="OLC">
+<section id="H593EA58E29804C479B014EC33EB48436" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Disaster Mitigation and Tax Parity Act of 2023</short-title></quote>.</text></section> <section id="H281EC54717664E05B2C517A53C0E21B7" section-type="subsequent-section"><enum>2.</enum><header>Exclusion of amounts received from State-based catastrophe loss mitigation programs</header> <subsection id="H8523739C5067484A8F0A80265E83A7BF"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc" parsable-cite="usc/26/139">Section 139</external-xref> of the Internal Revenue Code of 1986 is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection:</text>
+<quoted-block style="OLC" id="H673081B29685429E889C66500AADEE0F">
+<subsection id="HA8F9F5BCD80C4E088A4269AAFEB75564"><enum>(h)</enum><header>State-Based catastrophe loss mitigation programs</header>
+<paragraph id="HC0F73D3E2AE24035ACA0B64F6B18733C"><enum>(1)</enum><header>In general</header><text display-inline="yes-display-inline">Gross income shall not include any amount received by or paid for the benefit of an individual as a qualified catastrophe mitigation payment under a program established by—</text> <subparagraph id="H00DFC82A947C4FE692FDBB6A29F9C629"><enum>(A)</enum><text display-inline="yes-display-inline">a State or any political subdivision or public instrumentality thereof,</text></subparagraph>
+<subparagraph id="H9F4E75B6C2AF4F21A43016BE34678D02"><enum>(B)</enum><text display-inline="yes-display-inline">a joint powers authority, or</text></subparagraph> <subparagraph id="H16E96B86DC2D4D439FE586D3446EE468"><enum>(C)</enum><text display-inline="yes-display-inline">an entity created by State law to ensure the availability of an adequate market of last resort for essential property insurance or basic property insurance, over which a State agency or State department of insurance has regulatory oversight,</text></subparagraph><continuation-text continuation-text-level="paragraph">for the purpose of making such payments.</continuation-text></paragraph>
+<paragraph commented="no" id="HAAE5B4DE336B48C9A274327A56FD5DF7"><enum>(2)</enum><header>Qualified catastrophe mitigation payment</header><text display-inline="yes-display-inline">For purposes of this section, the term <term>qualified catastrophe mitigation payment</term> means any amount which is received by or paid for the benefit of the owner of any property to make improvements to such property for the sole purpose of reducing the damage that would be done to such property by a windstorm, earthquake, or wildfire.</text></paragraph> <paragraph commented="no" id="H0B815C1594FD48B0B246C99ADA60BCD0"><enum>(3)</enum><header>No increase in basis</header><text>Rules similar to the rules of subsection (g)(3) shall apply in the case of this subsection.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></subsection>
+<subsection id="H6AC4C41B19B84533BCDCE2FC5C24E277"><enum>(b)</enum><header>Conforming amendments</header>
+<paragraph id="H730B08459955496BAA6863FC0227D70B"><enum>(1)</enum><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/139">Section 139(d)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>and qualified</quote> and inserting <quote>, qualified catastrophe mitigation payments, and qualified</quote>.</text></paragraph> <paragraph id="H0E51C7DAB0814744928FA31E1C3D128B"><enum>(2)</enum><text>Section 139(i) of such Code (as redesignated by subsection (a)) is amended by striking <quote>or qualified</quote> and inserting <quote>, qualified catastrophe mitigation payment, or qualified</quote>.</text></paragraph></subsection>
+<subsection id="H76BF9C28F4F340CEBEF8485E1D3E2220"><enum>(c)</enum><header>Effective date</header>
+<paragraph id="HF87E91305825429FAD163F9A7FC798FA"><enum>(1)</enum><header>In general</header><text>The amendments made by this section shall apply to taxable years beginning after December 31, 2020.</text></paragraph> <paragraph id="H91AD240293604F3295D3C7A7AD8F75ED"><enum>(2)</enum><header>Retroactive Applicability</header><text>The Secretary of the Treasury, or the Secretary’s delegate, shall provide an opportunity for individuals to claim the exclusion from gross income under <external-xref legal-doc="usc" parsable-cite="usc/26/139">section 139(h)</external-xref> of the Internal Revenue Code of 1986, as added by this section, including by amended return.</text></paragraph></subsection></section>
+</legis-body>
+</bill> 
+
+

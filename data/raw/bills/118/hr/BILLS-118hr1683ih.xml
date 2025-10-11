@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H68AB67421BE54F4BB86789AE0181CFC3" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1683 IH: Generic Animal Drug Advancement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1683</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230321">March 21, 2023</action-date><action-desc><sponsor name-id="M000194">Ms. Mace</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Federal Food, Drug, and Cosmetic Act to make certain changes with respect to the approval of abbreviated applications for the approval of new animal drugs, and for other purposes.</official-title></form><legis-body id="H52201F8E1986497FACDBDDEB4642C911" style="OLC"> 
+<section id="H9A78EB03795D423C81F42B0F05531013" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Generic Animal Drug Advancement Act</short-title></quote>. </text></section> <section id="HF0A3B722B1F9487DBFF4A84EFF868306"><enum>2.</enum><header>Changes to process for approval of abbreviated applications for the approval of new animal drugs</header><text display-inline="no-display-inline">Section 512 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/360b">21 U.S.C. 360b</external-xref>) is amended—</text> 
+<paragraph id="H6AF81A319B87435C9618751926693AB3"><enum>(1)</enum><text>in subsection (d)(4), in the matter preceding subparagraph (A), by striking <quote>section 512(b)(1)</quote> and inserting <quote>paragraph (1) or (2) of subsection (b)</quote>;</text></paragraph> <paragraph id="HD9FB527AECFA4A0B8498A61F2CFE513B"><enum>(2)</enum><text>in subsection (n)(1)(F)—</text> 
+<subparagraph id="H1E26EFFE8DEC4A1BA08B1C15C598256C"><enum>(A)</enum><text>by striking <quote>or because the new animal drug</quote> and inserting <quote>because the new animal drug</quote>; and</text></subparagraph> <subparagraph id="H91C7132D462B4EA2975FA3760E7BCF99"><enum>(B)</enum><text>by striking <quote>manufacturers;</quote> and inserting <quote>manufacturers, or because the new animal drug is not shown to be bioequivalent to all of the species for which the approved new animal drug is approved for use;</quote>; and </text></subparagraph></paragraph> 
+<paragraph id="H1FAAC34EE2434E7F9E3FD7B4D010048D"><enum>(3)</enum><text display-inline="yes-display-inline">by amending subsection (o) to read as follows:</text> <quoted-block style="traditional" id="H77E504B6618342F388E3C1D359528D7A" display-inline="no-display-inline"> <subsection id="HB24B8DA17C524451AAFB7A1E359850B4"><enum>(o)</enum><text>For purposes of this section—</text> 
+<paragraph id="H83C7F659B6044121A84DEE4EB85F411C"><enum>(1)</enum><text display-inline="yes-display-inline">the term <term>bioequivalent</term> means, in establishing whether a new animal drug is bioequivalent to an approved new animal drug—</text> <subparagraph id="H47CFDA28A65F4921B3C5C8A66C983706"><enum>(A)</enum><text>demonstrating bioequivalence in at least one major species for which the approved new animal drug is approved for use; or</text></subparagraph> 
+<subparagraph id="HBAFF39953A7F4BC9BA685F3414F93627"><enum>(B)</enum><text>in the case that an approved new animal drug is not approved for use in any major species, demonstrating bioequivalence in at least one species for which the approved new animal drug is approved for use; and</text></subparagraph></paragraph> <paragraph id="H4AF938D231074277BD0CF1D9D37A7EC6"><enum>(2)</enum><text>the term <term>patent</term> means a patent issued by the United States Patent and Trademark Office;</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body></bill>
+

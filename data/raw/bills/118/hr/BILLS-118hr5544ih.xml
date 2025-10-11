@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H53D78BF62E934AF791555D8F5C1C5889" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5544 IH: Upholding the Power of the Purse Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5544</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230918">September 18, 2023</action-date><action-desc><sponsor name-id="M000194">Ms. Mace</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title 31, United States Code, to eliminate exceptions to the provisions of such title commonly referred to as the Miscellaneous Receipts Act, and for other purposes.</official-title></form><legis-body id="HAA7C80781821451E8328E7D91CC3A390" style="OLC"> 
+<section id="H3C580F6B96BE481D8D0EB2E12EE3C0A5" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Upholding the Power of the Purse Act</short-title></quote>. </text></section> <section id="H7F670D5289A647DF9695CFC410C82C06"><enum>2.</enum><header>Elimination of exceptions to Miscellaneous Receipts Act</header> <subsection id="H349B52CBA994404EB8D23BF653239778"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 3302 of title 31, United States Code, is amended—</text> 
+<paragraph id="HE38606ACC7F9437FA27C8503BD88F574"><enum>(1)</enum><text>in subsection (a) by striking <quote>Except as provided by another law</quote> and inserting <quote>Except as provided in subsection (c)(3)</quote>; and</text></paragraph> <paragraph id="HFA4DFDD8E3F3430A9A23023C783A4E11"><enum>(2)</enum><text>in subsection (c), by add at the end the following:</text> 
+<quoted-block style="USC" id="H69D418A4712140FD8E962679BCD76E18" display-inline="no-display-inline"> 
+<paragraph id="H47C0B2C167134EF5A448378F4AF2BCC1"><enum>(3)</enum><text display-inline="yes-display-inline">The requirement in subsection (b) shall not apply to any Federal program under which the Government is a custodian of money for States or units of local government, or under which the Government disperses amounts to States or units of local government.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></subsection> <subsection id="HF5AF1A41EFA242A59DE3E444033AD5F9"><enum>(b)</enum><header>Application</header><text display-inline="yes-display-inline">The amendments made by subsection (a) shall begin to apply in fiscal year 2024.</text></subsection></section> 
+</legis-body></bill>
+

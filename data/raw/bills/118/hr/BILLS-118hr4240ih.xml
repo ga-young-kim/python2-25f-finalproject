@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H99263D00CD1F458E8FC85EEBFC17ED3C" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4240 IH: Saving Lives in Schools Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 4240</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230621">June 21, 2023</action-date>
+<action-desc><sponsor name-id="C001103">Mr. Carter of Georgia</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To require that opioid overdose rescue kits be located at public elementary and secondary schools, and for other purposes.</official-title>
+</form>
+<legis-body id="HD198D013F1FC4C8689EB05630D64DFE0" style="OLC"> 
+<section id="HE7A2EF692115459F84A5881F60131BE3" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Saving Lives in Schools Act of 2023</short-title></quote>.</text></section> <section id="HF79D7645317947F7ACA8CFE245D8C929"><enum>2.</enum><header>Opioid overdose rescue kit required</header> <subsection id="H6834F8760F274C64B58A922DA9EF0014"><enum>(a)</enum><text>The Secretary of Education shall consult and collaborate with the Secretary of Health and Human Services to ensure that, not later than January 1, 2024, each public elementary and secondary school has an opioid overdose rescue kit that is clearly visible and labeled with the words <quote>Overdose Rescue Kit—Naloxone Nasal Spray</quote> or other language approved by the local school agency.</text></subsection> 
+<subsection id="H869BF1978CE04AE6B3B8A42F66EEC37D"><enum>(b)</enum><text>The location of each opioid overdose rescue kit required under subsection (a) shall be registered with the school nurse and school resource officer.</text></subsection> <subsection id="HA1424A5B25174A96A17B5F3A8BC091FE"><enum>(c)</enum><text display-inline="yes-display-inline">An opioid overdose rescue kit required under subsection (a) shall—</text> 
+<paragraph id="H2B9AED71040E4E7AB67717B3276E350D"><enum>(1)</enum><text>be—</text> <subparagraph id="H275513A97E5644F99B83C3ECD47D1FD7"><enum>(A)</enum><text>located where it is readily available for public use; and</text></subparagraph> 
+<subparagraph id="H2E65C0943D35430D8686C894A9AE4357"><enum>(B)</enum><text>placed within all storage locations that currently contain an automated external defibrillator for public use;</text></subparagraph></paragraph> <paragraph id="H9B7BD2B2121E485E9CCF4B5CFE3DF593"><enum>(2)</enum><text>be visually free of advertisement; and</text></paragraph> 
+<paragraph id="HA20BE7A6EA61478E9D0155A4D2D19285"><enum>(3)</enum><text>include without limitation—</text> <subparagraph id="HF831337B7DBE473BA9D815D4F418BDD6"><enum>(A)</enum><text>Narcan;</text></subparagraph> 
+<subparagraph id="H7FA31A069D1C4C47A48BD6377F950F8A"><enum>(B)</enum><text>naloxone; or</text></subparagraph> <subparagraph id="H5CA9153310B54F68975DE1DDE9A25AB4"><enum>(C)</enum><text>another medication approved by the Food and Drug Administration that, when administered, negates or neutralizes, in whole or in part, the pharmacological effects of an opioid in the human body.</text></subparagraph></paragraph></subsection> 
+<subsection id="HE0AD24D47E1C49E0A1D1A8DE54B25FD3"><enum>(d)</enum><text>In the event that an automated external defibrillator is not available in a location required under subsection (c), an opioid overdose rescue kit shall be on an affixed wall mount that is clearly visible and located by the nearest fire extinguisher.</text></subsection> <subsection id="H9630C8CD70C34639BAE709F6A3D51DCA"><enum>(e)</enum><text>A school resource officer or school nurse, as appropriate, shall report to the local school agency immediately following the use of an opioid overdose rescue kit required under this section.</text></subsection> 
+<subsection id="H2E7B939996234497A3D7E7B1A1CB980F"><enum>(f)</enum><text>Each institution shall—</text> <paragraph id="HEEC093551C0F45479AD8E34D6485E309"><enum>(1)</enum><text>perform inspections during the first month of each academic semester to determine if an opioid overdose rescue kit required under subsection (a) is in the required location; </text></paragraph> 
+<paragraph id="H4E508755737B475688A3FD6B9680EE6A"><enum>(2)</enum><text>replace used or expired opioid overdose rescue kits located on the campus of the institution as necessary; </text></paragraph> <paragraph id="H009F5990BF854F76A85F96710082CB9C"><enum>(3)</enum><text>a list of locations of each opioid overdose rescue kit required under subsection (a) shall be available through each institution’s campus health center and the local school agency; and</text></paragraph> 
+<paragraph id="HE9C7C26DC874408298A0EC110EA7A4F8"><enum>(4)</enum><text>each institution shall provide training regarding the use and location of each opioid overdose rescue kit required under subsection (a) during a student orientation program sponsored by the institution.</text></paragraph></subsection></section> </legis-body> </bill> 
+

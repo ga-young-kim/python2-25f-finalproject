@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1D7A021854D8497BA4E0024225864D39" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1105 IH: Debbie Smith Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1105</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230217">February 17, 2023</action-date><action-desc><sponsor name-id="W000812">Mrs. Wagner</sponsor> (for herself, <cosponsor name-id="C001068">Mr. Cohen</cosponsor>, <cosponsor name-id="H001095">Mr. Hunt</cosponsor>, <cosponsor name-id="J000032">Ms. Jackson Lee</cosponsor>, and <cosponsor name-id="C001118">Mr. Cline</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the DNA Analysis Backlog Elimination Act of 2000 to reauthorize the Debbie Smith DNA Backlog Grant Program, and for other purposes.</official-title></form><legis-body id="HB3F8FDDC0A8240AA8727C5EAD4889E42" style="OLC"><section id="HDCDDFDCA963E4086B2E81D997FD42A08" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Debbie Smith Act of 2023</short-title></quote>.</text></section><section id="H3417F7034F4D4B9596B65E8B1721EB4E"><enum>2.</enum><header>Reauthorization</header><text display-inline="no-display-inline">Section 2(j) of the DNA Analysis Backlog Elimination Act of 2000 (<external-xref legal-doc="usc" parsable-cite="usc/34/40701">34 U.S.C. 40701(j)</external-xref>) is amended by striking <quote>fiscal years 2019 through 2024</quote> and inserting <quote>fiscal years 2024 through 2029</quote>.</text></section></legis-body></bill> 
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF9703906CB3746C59CBC66E741B6F49A" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5602 IH: Interest Rate Risk Reporting Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 5602</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230920">September 20, 2023</action-date>
+<action-desc><sponsor name-id="O000175">Mr. Ogles</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Federal Reserve Act to require the Chairman of the Board to address interest rate risk when appearing at semi-annual hearings before the Congress.</official-title>
+</form>
+<legis-body id="HFDFE887F0F6D4436B7392D65B868ACC5" style="OLC"> 
+<section id="H13978BA9F7FC4651864645A5C47F8199" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Interest Rate Risk Reporting Act</short-title></quote>. </text></section> <section id="H2B8586FE2B7842FB9481CBD60C882CED"><enum>2.</enum><header>Required analysis on interest rate risk</header><text display-inline="no-display-inline">Section 2B(a)(1) of the Federal Reserve Act (<external-xref legal-doc="usc" parsable-cite="usc/12/225a">12 U.S.C. 225a(a)</external-xref> is amended—</text> 
+<paragraph id="H1D152B5FBDF7479FBB4DFA7E8D51BEE0"><enum>(1)</enum><text>in subparagraph (A), by striking <quote>and</quote> at the end and inserting a semicolon;</text></paragraph> <paragraph id="H90A7A55FEC2847B7A2040FAC168119BF"><enum>(2)</enum><text>in subparagraph (B), by striking the period at the end and inserting <quote>; and</quote>; and</text></paragraph> 
+<paragraph id="H557DE362BC804FA98E355326AE62AF3F"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block style="OLC" id="HE52351A71F1549609CE0AD9B5E8C17CA" display-inline="no-display-inline"> <subparagraph id="H2BE4643D508D403ABB4CCCB47BD45CFF"><enum>(C)</enum><text display-inline="yes-display-inline">an analysis of—</text> 
+<clause id="H461D57A070594EEA80C761970D01EB87"><enum>(i)</enum><text>the vulnerability of the United States financial system to interest rate risk and any risks to the United States financial system associated with such interest rate risk; and</text></clause> <clause id="HDB32BC190F6C4409814B23D210F2875E"><enum>(ii)</enum><text>the overall exposure to interest rate risk of the portfolio of assets held by the Board and the Federal Reserve banks at the time of the analysis.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block> </paragraph></section> 
+</legis-body>
+</bill> 
+
+

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9B82F13F850B4FA69F038EE4F4311E40" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3025 IH: To provide for no net increase in the total acreage of Federal land in the Virgin Islands National Park on St. John, United States Virgin Islands.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 3025</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230428">April 28, 2023</action-date>
+<action-desc><sponsor name-id="P000610">Ms. Plaskett</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HII00">Committee on Natural Resources</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To provide for no net increase in the total acreage of Federal land in the Virgin Islands National Park on St. John, United States Virgin Islands.</official-title>
+</form>
+<legis-body id="H73DECE2DC7874C47BD51D16CFFECC0D3" style="OLC">
+<section id="H8825CFC3A4594DF9B811AA17D06BB4E7" section-type="section-one"><enum>1.</enum><header>No net increase of Federal land in the Virgin Islands National Park on St. John</header>
+<subsection id="HFDE2D2A7926846A8A2EB9B875C3237E6"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any other provision of law, the Secretary may not acquire any land that would increase the total acreage of Federal land in the Park, except as provided in this Act.</text></subsection> <subsection id="H461ADB5B53BD404A9D9EA8B72B21A27E"><enum>(b)</enum><header>Required land conveyances</header><text display-inline="yes-display-inline">If the Secretary takes into Federal ownership non-Federal land that results in an increase of the total acreage of Federal land in the Park, the Secretary shall convey out of Federal ownership at least an equal acreage of Federal land in the Park, via sale, exchange, or donation.</text></subsection>
+<subsection id="H6CCA8C4C6AE443A290DB19210DFF8EE0"><enum>(c)</enum><header>Sale of land</header>
+<paragraph id="HE4477B7AA2E24EF4989391B0AEB56E5F"><enum>(1)</enum><header>In general</header><text>Federal land sold pursuant to subsection (b) shall be offered for sale—</text> <subparagraph id="HAA198C33495640F0AD62786E4DC76873"><enum>(A)</enum><text display-inline="yes-display-inline">not later than 1 year after the Secretary takes into Federal ownership non-Federal land that results in an increase of the total acreage of Federal land in the Park; </text></subparagraph>
+<subparagraph id="H3EE32C3AFDB841D093B7D519F5887ACD"><enum>(B)</enum><text display-inline="yes-display-inline">subject to valid existing rights;</text></subparagraph> <subparagraph id="HC781C2AA622A46D8AA4E27AB67A8DF6A" display-inline="no-display-inline"><enum>(C)</enum><text>except as provided in subparagraph (D), at fair market value (based on local comparable sales); and</text></subparagraph>
+<subparagraph id="H28AA96A8F1D3403A8BBB6CE129B3D51F"><enum>(D)</enum><text>at a price that is reduced by 10 percent each month that the Federal land is not sold or under contract to be sold by the date that is 6 months after the Federal land was first offered for sale.</text></subparagraph></paragraph> <paragraph id="H085AA0924DD14D9C964AC5CAC91DDE4F"><enum>(2)</enum><header>Price reduction</header><text>Time periods during which Federal land is under contract for sale or withdrawn from the market shall not be counted for the purposes of price reduction under paragraph (1)(D).</text></paragraph></subsection>
+<subsection id="HBF35438E3DDA4F7AA0422160B9B1C90C"><enum>(d)</enum><header>Land Exchange values</header><text display-inline="yes-display-inline">If the value of the Federal land that is part of a land exchange pursuant to subsection (b) is less than the value of the non-Federal land for which it is exchanged, the value of the exchanged lands shall be equalized by a cash payment.</text></subsection> <subsection id="H84E9F9ADF0D94ED8970A7E3C8755BBDC"><enum>(e)</enum><header>Definitions</header><text>In this section—</text>
+<paragraph id="H5D00C31372404A07815C6F5318C357E2"><enum>(1)</enum><text display-inline="yes-display-inline">the term <term>Park</term> means the Virgin Islands National Park on St. John, United States Virgin Islands; and</text></paragraph> <paragraph id="H8EE3596EBC8D43EA8720798B40FF1FDB"><enum>(2)</enum><text>the term <term>Secretary</term> means the Secretary of the Interior.</text></paragraph></subsection></section>
+</legis-body>
+</bill> 
+
+

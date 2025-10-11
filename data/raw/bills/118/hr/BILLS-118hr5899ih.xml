@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HEAC926C0A6914AEB90C120EB45EC852D" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5899 IH: Southeastern Crescent Economic Empowerment Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 5899</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231006">October 6, 2023</action-date>
+<action-desc><sponsor name-id="D000230">Mr. Davis of North Carolina</sponsor> (for himself, <cosponsor name-id="M000194">Ms. Mace</cosponsor>, <cosponsor name-id="M001227">Ms. McClellan</cosponsor>, <cosponsor name-id="F000478">Mr. Fry</cosponsor>, <cosponsor name-id="R000305">Ms. Ross</cosponsor>, <cosponsor name-id="W000795">Mr. Wilson of South Carolina</cosponsor>, and <cosponsor name-id="N000194">Mr. Nickel</cosponsor>) introduced the following bill</action-desc>
+</action>
+<action display="yes">
+<action-date date="20231025">October 25, 2023</action-date>
+<action-desc>Referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name>, and in addition to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To reauthorize the Southeast Crescent Regional Commission, and for other purposes.</official-title>
+</form>
+<legis-body id="HDE0F5033B51A4EA0A310679E6D3BBBFA" style="OLC"> 
+<section id="H067DB82DD38645629B497CC81C00A2DE" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Southeastern Crescent Economic Empowerment Act</short-title></quote> or the <quote><short-title>SCEE Act</short-title></quote>.</text></section> <section id="HBC691BBDDE584A05929D8E2D28BF42D8" section-type="subsequent-section"><enum>2.</enum><header>State capacity building grant program</header><text display-inline="no-display-inline">Section 6304(c) of the Agriculture Improvement Act of 2018 (<external-xref legal-doc="usc" parsable-cite="usc/40/15101">40 U.S.C. 15101(c)</external-xref>) is amended—</text> 
+<paragraph id="H491453B51A244DBC92678B5DE21EDE2E"><enum>(1)</enum><text>in paragraph (1)—</text> <subparagraph id="H39F8BAC7A7DF4D88B810755A93008E74"><enum>(A)</enum><text>by striking subparagraphs (A) and (B) and inserting the following:</text> 
+<quoted-block style="OLC" id="H7689E8D9958D4F1F9ABD7AEB20AFB880" display-inline="no-display-inline"> 
+<subparagraph id="H1D2A9F0871AA4B30A8CCAE1B13A6B85A"><enum>(A)</enum><header>Commission</header><text display-inline="yes-display-inline">The term <quote>Commission</quote> means the Southeast Crescent Regional Commission and the Northern Border Regional Commission established under paragraphs (1) and (3) of section 15301(a) of title 40, United States Code.</text></subparagraph> <subparagraph id="H98C83EFF6E534FE7997528824976DB1B"><enum>(B)</enum><header>Commission State</header><text display-inline="yes-display-inline">The term <quote>Commission State</quote> means each of the States described in sections 15731 and 15733 of title 40, United States Code.</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph> 
+<subparagraph id="H1357974F01F846FDBA6C7715366C7693"><enum>(B)</enum><text>in subparagraph (C) by inserting <quote>15731 or</quote> before <quote>15733</quote>;</text></subparagraph></paragraph> <paragraph id="H8BF03917C78742FBB58FF2ECB981FAAA"><enum>(2)</enum><text>in paragraph (3)—</text> 
+<subparagraph id="H5265CE250BC9489CB39330FA95C08947"><enum>(A)</enum><text>in subparagraph (F) by striking <quote>and</quote> at the end;</text></subparagraph> <subparagraph id="H02B6E3BEFFB64F2295FE915B618BC569"><enum>(B)</enum><text>in subparagraph (G) by striking the period at the end and inserting <quote>; and</quote>; and </text></subparagraph> 
+<subparagraph id="H30AEC7800CE0431C8299C5949E8EA71D"><enum>(C)</enum><text>by adding at the end the following:</text> <quoted-block style="OLC" id="H9505A45B3539462FAFB7B7A210FD641F" display-inline="no-display-inline"> <subparagraph id="HF28388125F1F417E83D946C7EF3ED07D"><enum>(H)</enum><text display-inline="yes-display-inline">to promote economic development housing incentives to support job creation and workforce needs.</text></subparagraph><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph></paragraph> 
+<paragraph id="H4A89D7683F8A4319BC07C1D22AB1EAD9"><enum>(3)</enum><text>in paragraph (9)(A) by striking <quote>$5,000,000 for each of fiscal years 2019 through 2023</quote> and inserting <quote>$10,000,000 for each of fiscal years 2024 through 2028</quote>.</text></paragraph></section> <section id="H37955D9B5702402B88AFD460BC704F9F"><enum>3.</enum><header>Economic and infrastructure development grants</header><text display-inline="no-display-inline">Section 15501 of title 40, United States Code, is amended</text> 
+<paragraph id="H8EE879D1B08D489499B0BEF961BCE73F"><enum>(1)</enum><text>in subsection (a)—</text> <subparagraph id="H16E4A9AB96F345C5948C7C075DF7CD5E"><enum>(A)</enum><text>by redesignating paragraphs (4) through (9) as paragraphs (6) through (11), respectively; and</text></subparagraph> 
+<subparagraph id="HCC6045311A054970B69B453AEB9CEB18"><enum>(B)</enum><text>by inserting after paragraph (3) the following:</text> <quoted-block id="HCFB2E8B0C21643BFA2FCDB013593D977" style="USC"> <paragraph id="HB70543DD7FA4433C940215623DE86594"><enum>(4)</enum><text>to design, build, implement, or upgrade transportation or basic public infrastructure or workforce capacity to support the adaption to and mitigation of climate challenges;</text></paragraph> 
+<paragraph id="H77F9BC5400EF4D5AB5FB6CFC1C893690"><enum>(5)</enum><text>to promote the production of housing to meet economic development and workforce needs;</text></paragraph><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph></paragraph> <paragraph id="H0F6964884E3E4CB19DF17D4FEFAC9AFD"><enum>(2)</enum><text>in subsection (b) by striking <quote>paragraph (1), (2), (3), or (7)</quote> and inserting <quote>paragraph (1), (2), (3), (4), (5), (7), or (9)</quote>.</text></paragraph></section> 
+<section id="H781105601B12481FACBE1B6B676EA97C"><enum>4.</enum><header>Annual report submissions</header><text display-inline="no-display-inline">Section 15308(a) of title 40, United States Code, is amended by striking <quote>90</quote> and inserting <quote>180</quote>.</text></section> <section id="H02EA94E1E7794CFD96ADBB0199A86320"><enum>5.</enum><header>Retention of fees</header><text display-inline="no-display-inline">Section 15304(a) of title 40, United States Code, is amended—</text> 
+<paragraph id="HBF1DC01E51DE4E3C9E9D331718C25598"><enum>(1)</enum><text>in paragraph (8) by striking <quote>and</quote> at the end;</text></paragraph> <paragraph id="H1C202075E54B44FB8588471F0AA59778"><enum>(2)</enum><text>in paragraph (9) by striking the period at the end and inserting <quote>; and</quote>; and</text></paragraph> 
+<paragraph id="H0AA496D4ADD343E3B6177B486FE3AB04"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block style="USC" id="HB91A90AF4FF84B0B9AF707B89749F929" display-inline="no-display-inline"> <paragraph id="H7F810643E7DF4879A2F561D01820AE17"><enum>(10)</enum><text display-inline="yes-display-inline">collect, retain, and expend fees for the service for which such fees were collected.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+<section id="HA56B000C750D4D8F8DD2DB5B77634901"><enum>6.</enum><header>Modification of matching funds requirement</header><text display-inline="no-display-inline">Section 15501(d)(2) of title 40, United States Code, is amended by striking <quote>80</quote> and inserting <quote>90</quote>. </text></section> <section id="H0CC1BD0021744D56820FC328FDAB2E13"><enum>7.</enum><header>Reauthorization of commissions</header><text display-inline="no-display-inline">Section 15751(a) of title 40, United States Code, is amended by striking <quote>this subtitle $33,000,000 for each of fiscal years 2019 through 2023</quote> and inserting the following: </text> 
+<quoted-block style="USC" id="HB923B14607D5448C9E4BFF5FFC6BBDAF" display-inline="yes-display-inline"><text display-inline="yes-display-inline">this subtitle—</text> <paragraph id="H4AAD19E7ABF94761BC150AD859D107CB"><enum>(1)</enum><text display-inline="yes-display-inline">$50,000,000 for each of fiscal years 2024 through 2027; and</text></paragraph> 
+<paragraph id="H56817879CD9B4D7E9874BDA09E9F5AF9"><enum>(2)</enum><text>$60,000,000 for each of fiscal years 2028 through 2032.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body> </bill> 
+

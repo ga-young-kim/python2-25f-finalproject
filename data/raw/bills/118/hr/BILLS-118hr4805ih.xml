@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB19F41DA928244F3A0AB4A8BAE471D16" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4805 IH: American Meat Industry Protection Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4805</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230720">July 20, 2023</action-date><action-desc><sponsor name-id="S001222">Mr. Santos</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the use of Federal funds to support lab-grown meat, and for other purposes.</official-title></form><legis-body id="H2F71CEC28BE0482295DC043D507F55B8" style="OLC"><section id="HE8A3E77EB6D44D23BFA00366879EC4DC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>American Meat Industry Protection Act of 2023</short-title></quote>. </text></section><section id="H5323AA9E9095415BB9A4E275FB26DEC2"><enum>2.</enum><header>No Federal funds supporting lab-grown meat</header><subsection id="HCC79BB63ACA54CBC9AEBA71AF59ED3AA"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">No Federal funds may be used to support, directly or indirectly, the production, advancement, or enhancement of lab-grown meat, including through—</text><paragraph id="HBE1C04257CB54141AC11B8452E5BD3D5"><enum>(1)</enum><text>conducting or supporting research on lab-grown meat;</text></paragraph><paragraph id="H1DAA9344273E47F7AB7A559C00BDCE55"><enum>(2)</enum><text>supporting meatpacking plants, organizations, or groups relating to lab-grown meat; and</text></paragraph><paragraph id="H7B349A3BFCD54DD68F5794DB81B4616C"><enum>(3)</enum><text>excluding from the receipt of any assistance or other benefit under a program administered by the Secretary of Agriculture any farm, ranch, producer, or other entity that produces lab-grown meat.</text></paragraph></subsection><subsection id="H97D5C3083DBB44E88CE8D58A811DA128"><enum>(b)</enum><header>Lab-Grown meat defined</header><text>In this section, the term <quote>lab-grown meat</quote> means meat sourced from cells of animals and artificially produced in a laboratory.</text></subsection></section></legis-body></bill> 
+

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H5EDFD437EDB84FD78DC88A9BA0ABA816" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3222 IH: Cameras in the Courtroom Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-11</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3222</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230511">May 11, 2023</action-date><action-desc><sponsor name-id="C001078">Mr. Connolly</sponsor> (for himself, <cosponsor name-id="Q000023">Mr. Quigley</cosponsor>, <cosponsor name-id="J000288">Mr. Johnson of Georgia</cosponsor>, <cosponsor name-id="N000002">Mr. Nadler</cosponsor>, and <cosponsor name-id="N000147">Ms. Norton</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To permit the televising of Supreme Court proceedings.</official-title></form><legis-body id="H06AEF2CBD0474B51BBE88E21F9668646" style="OLC"> 
+<section id="H35B276DF84F34B2185FB0593583ADFA0" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Cameras in the Courtroom Act</short-title></quote>.</text></section> <section id="H54B5951D601B4EBB90E4FE01D3059885"><enum>2.</enum><header>Amendment to title 28</header> <subsection id="HAE8E89F2B1674B71BE5B233F8C84604B"><enum>(a)</enum><header>In general</header><text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/45">Chapter 45</external-xref> of title 28, United States Code, is amended by adding at the end the following:</text>
+<quoted-block id="H35CAB73C28BE4BA1A57EAB74766A1508" style="USC">
+<section id="H1E26E61969AB40A8948F28EFE65C35BF"><enum>678.</enum><header>Televising Supreme Court proceedings</header><text display-inline="no-display-inline">The Supreme Court shall permit television coverage of all open sessions of the Court unless the Court decides, by a vote of the majority of justices, that allowing such coverage in a particular case would constitute a violation of the due process rights of one or more of the parties before the Court.</text></section><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H4BF1BEC543CB4ECAAF56B4EA5B7EF2BD"><enum>(b)</enum><header>Clerical amendment</header><text>The chapter analysis for <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/45">chapter 45</external-xref> of title 28, United States Code, is amended by adding at the end the following:</text>
+<quoted-block id="H4FBF690EFAB34251B58C7C301E08CD3E" style="USC">
+<toc regeneration="no-regeneration">
+<toc-entry level="section">678. Televising Supreme Court proceedings.</toc-entry></toc><after-quoted-block>.</after-quoted-block></quoted-block></subsection></section> 
+</legis-body></bill>
+

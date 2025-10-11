@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF9C728CEA5444B8AA021987B48C41A0F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4880 IH: Protecting All Communities Equally Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4880</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230725">July 25, 2023</action-date><action-desc><sponsor name-id="M000317">Ms. Malliotakis</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To waive sovereign immunity in certain circumstances where jurisdictions prohibit monetary bail.</official-title></form><legis-body id="H6C33040D6CF54E3BADF5181EF310F569" style="OLC"> 
+<section id="H547E5E51CBC54546852840DFDD56C940" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting All Communities Equally Act of 2023</short-title></quote> or as the <quote><short-title>PACE Act of 2023</short-title></quote>.</text></section> <section id="HA9217E3D748C48019A0A451BD724589D"><enum>2.</enum><header>Requirement of availability of cash bail for certain offenders</header><text display-inline="no-display-inline">If monetary bail has been prohibited in a State or any political subdivision thereof, the courts of that State shall have the authority—</text>
+<paragraph id="H4B50CCA189D442AD9B9A8D061E01967B"><enum>(1)</enum><text>to determine the dangerousness of individuals before the courts on criminal charges; and</text></paragraph> <paragraph id="HA874D2AE87674FD0967C63371E64BEEC"><enum>(2)</enum><text>to hold on bail individuals who are determined to be violent and/or repeat offenders.</text></paragraph></section>
+<section id="H382DE01EB3F94EBBBEA17022B9A3AE6C"><enum>3.</enum><header>Waiver of sovereign immunity</header><text display-inline="no-display-inline">A State or political subdivision thereof that has a prohibition on monetary bail waives sovereign immunity with respect to a cause of action against the local government by an individual for property damages or damages for personal injuries as a result of a dangerous criminal being released without monetary bail.</text></section> <section id="HECFD1465BD774BA1AC3397AB26217A75"><enum>4.</enum><header>Effective date</header><text display-inline="no-display-inline">This Act shall take effect beginning on the date that is 30 days after the date of enactment of this Act.</text></section> 
+</legis-body></bill>
+

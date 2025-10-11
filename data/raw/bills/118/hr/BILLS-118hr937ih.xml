@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE7DBB1816E594BEB817F9B2B1AAAE7B9" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 937 IH: Tribal Labor Sovereignty Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 937</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230209">February 9, 2023</action-date><action-desc><sponsor name-id="M001194">Mr. Moolenaar</sponsor> (for himself, <cosponsor name-id="L000578">Mr. LaMalfa</cosponsor>, <cosponsor name-id="C001053">Mr. Cole</cosponsor>, and <cosponsor name-id="L000589">Mrs. Lesko</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To clarify the rights of Indians and Indian tribes on Indian lands under the National Labor Relations Act.</official-title></form><legis-body id="H2ADBDE66D88243369F3C771355A0B789" style="OLC"> 
+<section id="HA59824FFBE9A4AB1A57270F5BA242F4D" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Tribal Labor Sovereignty Act of 2023</short-title></quote>.</text></section> <section id="HF53A7BEB388D4F6181813A4F2B49FF36"><enum>2.</enum><header>Definition of employer</header><text display-inline="no-display-inline">Section 2 of the National Labor Relations Act (<external-xref legal-doc="usc" parsable-cite="usc/29/152">29 U.S.C. 152</external-xref>) is amended—</text>
+<paragraph id="HBD4080B1EB1342B78B4A00162A733403"><enum>(1)</enum><text>in paragraph (2), by inserting <quote>or any Indian tribe, or any enterprise or institution owned and operated by an Indian tribe and located on its Indian lands,</quote> after <quote>subdivision thereof,</quote>; and</text></paragraph> <paragraph id="H64C0AB4D46C84DBCB6C8830645F9580F"><enum>(2)</enum><text>by adding at the end the following:</text>
+<quoted-block display-inline="no-display-inline" id="H2AD0483C48F7425EB8D602B2D256E2B0" style="OLC">
+<paragraph id="H4B62E91598F242E4BB68C72642337BA8"><enum>(15)</enum><text>The term <term>Indian tribe</term> means any Indian tribe, band, nation, pueblo, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.</text></paragraph> <paragraph id="HFF3B0DDA05B04D09B116F81F6B49D8D9"><enum>(16)</enum><text>The term <term>Indian</term> means any individual who is a member of an Indian tribe.</text></paragraph>
+<paragraph id="H16628C2FE6124F93B978E61E38332039"><enum>(17)</enum><text>The term <term>Indian lands</term> means—</text> <subparagraph id="H458E19B729974F66BD31A322658605FA"><enum>(A)</enum><text>all lands within the limits of any Indian reservation;</text></subparagraph>
+<subparagraph id="H7DF793248D1343E2A67435F0C467A940"><enum>(B)</enum><text>any lands title to which is either held in trust by the United States for the benefit of any Indian tribe or Indian or held by any Indian tribe or Indian subject to restriction by the United States against alienation; and</text></subparagraph> <subparagraph id="HC242A57568E547ECB45F76BAD00EE220"><enum>(C)</enum><text>any lands in the State of Oklahoma that are within the boundaries of a former reservation (as defined by the Secretary of the Interior) of a federally recognized Indian tribe.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+</legis-body></bill>
+
+

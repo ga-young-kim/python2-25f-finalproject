@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H740A802322024EB9A7D665CD34DCDAB1" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5765 IH: Passports for Purple Hearts Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5765</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230927">September 27, 2023</action-date><action-desc><sponsor name-id="L000593">Mr. Levin</sponsor> (for himself, <cosponsor name-id="F000466">Mr. Fitzpatrick</cosponsor>, <cosponsor name-id="P000608">Mr. Peters</cosponsor>, and <cosponsor name-id="R000600">Mrs. Radewagen</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Passport Act of 1920 to exempt from the collection of certain passport fees an individual who was awarded the Purple Heart, and for other purposes.</official-title></form><legis-body id="H545084CA45FE480990A9D6A4BA24AC60" style="OLC"> 
+<section id="H0066C509800A40F7AAC6629A42F86A69" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Passports for Purple Hearts Act</short-title></quote>. </text></section> <section id="HFE742AC08D9C4DCB99377A3D473894D9"><enum>2.</enum><header>Exemption from certain passport fees of an individual who was awarded the Purple Heart</header><text display-inline="no-display-inline">Section 1(a) of the Act of June 1, 1920 (<external-xref legal-doc="usc" parsable-cite="usc/22/214">22 U.S.C. 214</external-xref>; commonly referred to as the <quote>Passport Act of 1920</quote>) is amended in the third sentence, by inserting <quote>from an individual who was awarded the Purple Heart;</quote> before <quote>or from an individual or individuals abroad</quote>.</text> </section> 
+</legis-body></bill>
+

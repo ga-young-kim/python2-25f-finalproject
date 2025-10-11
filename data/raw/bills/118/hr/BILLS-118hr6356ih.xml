@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1A764E3757594B19ADBEE438D193681F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>116 HR 6356 IH: Hudson River Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6356</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231109">November 9, 2023</action-date><action-desc><sponsor name-id="R000579">Mr. Ryan</sponsor> (for himself and <cosponsor name-id="M001221">Mr. Molinaro</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 to prohibit anchoring in certain locations of the Hudson River, and for other purposes.</official-title></form><legis-body id="H7977AC1EFBB04844ACBFADDF9617DFAD" style="OLC"><section id="HAAC6A6C7C4494CC5B5E31A37DC57D84B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Hudson River Protection Act</short-title></quote>.</text></section><section id="H5A6A57BA584347ECA2E537721E82D181" section-type="subsequent-section"><enum>2.</enum><header>Anchorages</header><text display-inline="no-display-inline">Section 8437 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (<external-xref legal-doc="public-law" parsable-cite="pl/116/283">Public Law 116–283</external-xref>) is amended—</text><paragraph id="H2BFC95BE87744519982C19E4FAA3EA57"><enum>(1)</enum><text>by striking subsections (d) and (e);</text></paragraph><paragraph id="HEAFE7CDD0C1244588C24E4E9A4E69839"><enum>(2)</enum><text>by redesignating subsection (c) as subsection (d); and</text></paragraph><paragraph id="HF63D729FD065492992EC318E76B2E04D"><enum>(3)</enum><text>by inserting after subsection (b) the following: </text><quoted-block style="OLC" id="HD771272078E64AB090A12824BA893EB5" display-inline="no-display-inline"><subsection id="HECAB5A1B82304F98B03FB9140A2315C0"><enum>(c)</enum><header>Prohibition</header><text display-inline="yes-display-inline">The Commandant shall prohibit any vessel anchoring on the reach of the Hudson River described in subsection (a) unless such anchoring is within anchorage grounds established before January 1, 2021. </text></subsection><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></legis-body></bill> 
+

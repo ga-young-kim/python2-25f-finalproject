@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H16968B779D904189BC5810BCCFBF2028" public-private="private" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 586 IH:  For the relief of Robert Feiss.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">V</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 586</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230126">January 26, 2023</action-date>
+<action-desc><sponsor name-id="B001285">Ms. Brownley</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes"> For the relief of Robert Feiss.</official-title>
+</form>
+<legis-body id="H01D7AED03B884CF49E995BC2F7E76385" style="OLC"> 
+<section id="H8E60462DE0A049FFA6D112E58F3E8D7E" section-type="section-one"><enum>1.</enum><header>Payment</header><text display-inline="no-display-inline">The Secretary of the Treasury shall pay, out of any money in the Treasury not otherwise appropriated, the sum of $39,709.66 to Robert Feiss of Ojai, California, in compensation for payments he was entitled to but did not receive for years 2011 through 2013 under the Primary Care Incentive Payment Program established under section 1833(x) of the Social Security Act (<external-xref legal-doc="usc" parsable-cite="usc/42/1395l">42 U.S.C. 1395l(x)</external-xref>) and in consideration of the fact—</text> <paragraph id="HE3833492153241A7A8BCB9EC3F60C005"><enum>(1)</enum><text>that Robert Feiss has served as an outspoken advocate for the health care needs of his patients through his work as a primary care physician; and</text></paragraph> 
+<paragraph id="H7A94B447FC1C48F7961316D0034E3F10"><enum>(2)</enum><text display-inline="yes-display-inline">that, on May 30, 2018, the United States Court of Federal Claims found that <quote>It appears that, through no fault of his own, plaintiff has lost over $39,000 in government Medicare incentive payments that he was entitled to by providing Family Practice services</quote> and that <quote>the evidence strongly supports plaintiff’s argument that he was providing Family Practice services and should have been classified as such, but a coding error denied plaintiff this status for several years</quote>.</text></paragraph></section> <section id="H326E1FB56FE24FCB908031A2F0BD6D9D"><enum>2.</enum><header>Satisfaction of claim</header><text display-inline="no-display-inline">The sum paid under section 1 shall be in full satisfaction of any claims that Robert Feiss may have against the United States arising on the basis of payments owed for years 2011 through 2013 under the Primary Care Incentive Payment Program described in section 1(1)(B).</text></section> 
+<section id="H3D85EE4BAED645BE826F33A48C11D0EF"><enum>3.</enum><header>Limitation on attorney fees</header><text display-inline="no-display-inline">Not more than 10 percent of the sum paid under section 1 shall be paid to or received by any agent or attorney for services rendered in connection with the recovery of such sum. Any person who violates this section shall be fined under title 18, United States Code.</text></section> </legis-body> </bill> 
+

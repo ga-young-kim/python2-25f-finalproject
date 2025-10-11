@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC8CCC06DD8934CC298C4A10D44DF6430" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 364 IH: Daylight Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-13</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 364</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230113">January 13, 2023</action-date><action-desc><sponsor name-id="S001192">Mr. Stewart</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To allow States to elect to observe daylight savings time for the duration of the year, and for other purposes.</official-title></form><legis-body id="H02E3DE33E73F4D3589C0E287B178AFE4" style="OLC"> 
+<section id="HD41FF079B81F44B19E36947639E8B60B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Daylight Act</short-title></quote>.</text></section> <section id="H0C258C2E0E2C451A836F8E83B766655B" section-type="subsequent-section"><enum>2.</enum><header>Optional year-long application of daylight savings time</header><text display-inline="no-display-inline">Section 3(a) of the Uniform Time Act of 1966 (<external-xref legal-doc="usc" parsable-cite="usc/15/260a">15 U.S.C. 260a</external-xref>) is amended—</text>
+<paragraph id="HC9B14BAEE33A4C13A50FD3EE1CE37B0B"><enum>(1)</enum><text>by inserting <quote>or may by law apply the advancement of time described in this section for the duration of the year,</quote> after <quote>may by law exempt itself from the provisions of this subsection providing for the advancement of time,</quote>;</text></paragraph> <paragraph id="H9097CFDD16864BA4BD5F529AE7BD4021"><enum>(2)</enum><text>by striking <quote>the standard time otherwise applicable during that period</quote> and inserting <quote>the same standard time</quote>;</text></paragraph>
+<paragraph id="H28617021799642CC95FB35117A2F8B9F"><enum>(3)</enum><text display-inline="yes-display-inline">by striking <quote>may by law exempt either the entire State as provided in (1) or</quote> and inserting <quote>, by law, may apply either standard time provided for in paragraph (1) to the entire State,</quote>; and</text></paragraph> <paragraph id="HB7936393B4FA4498B53258FADAD9A7ED"><enum>(4)</enum><text>by inserting <quote>, or may apply the advancement of time for the duration of the year to the entire area of the State lying within any time zone</quote> before the period at the end.</text></paragraph></section> 
+</legis-body></bill>
+

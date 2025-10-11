@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="A1" public-private="public"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1590 IH: To designate the clinic of the Department of Veterans Affairs in Gallup, New Mexico, as the Hiroshi “Hershey” Miyamura VA Clinic.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session> 
+<legis-num display="yes">H. R. 1590</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20230314">March 14, 2023</action-date> 
+<action-desc><sponsor name-id="L000273">Ms. Leger Fernandez</sponsor> (for herself and <cosponsor name-id="S001218">Ms. Stansbury</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To designate the clinic of the Department of Veterans Affairs in Gallup, New Mexico, as the Hiroshi <quote>Hershey</quote> Miyamura VA Clinic.</official-title> 
+</form> 
+<legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H8F98DC4E0A0448F284457005C91FDBC4"> 
+<section id="H44251EF5EC06418B9FD57CDE1705D0F8" section-type="section-one"><enum>1.</enum><header>Designation of Hiroshi <quote>Hershey</quote> Miyamura Department of Veterans Affairs Clinic</header> 
+<subsection id="id1c0ad58129cc4ca7afbea4c76e938ff4"><enum>(a)</enum><header>Findings</header><text>Congress finds the following:</text> <paragraph id="id6E06CD099D894F49BC6BA1A939E328F2"><enum>(1)</enum><text>Hiroshi <quote>Hershey</quote> Miyamura was born on October 6, 1925, in Gallup, New Mexico.</text></paragraph> 
+<paragraph id="id0F2CC8D499A041C3B6905774D7FED265"><enum>(2)</enum><text>A second generation Japanese American, Hershey Miyamura first served in the United States Army near the end of World War II.</text></paragraph> <paragraph id="idD58E60BC9E0B49C4BF6E6B880796D928"><enum>(3)</enum><text>Hershey Miyamura served in the Army at a time when many of his fellow Japanese Americans, and that includes his future wife, were detained in internment camps in the United States.</text></paragraph> 
+<paragraph id="id09AA065F757E47EA94303E7DD665DB45"><enum>(4)</enum><text>Hershey Miyamura served in the storied 442nd Infantry Regiment, which was composed of soldiers with Japanese ancestry and became one of the most decorated units in the history of the United States military.</text></paragraph> <paragraph id="id68dcf565b33847d8a7a1f43a9fbfe0e0"><enum>(5)</enum><text>Following the start of the Korean War in 1950, the Army recalled Hershey Miyamura, who had remained as a member of the reserve components of the Army, back into active duty.</text></paragraph> 
+<paragraph id="idE1BBF140CC7645078B049E56A2B424B3"><enum>(6)</enum><text>During an overnight firefight from April 24 to April 25, 1951, then-Corporal Miyamura covered the withdrawal of his entire company from advancing enemy forces as a machine gun squad leader.</text></paragraph> <paragraph id="id96F03C35745647AAB6E8B051DE84917E"><enum>(7)</enum><text>The selfless actions by Hershey Miyamura that night allowed all 16 of his men to withdraw safely before he was severely wounded and captured as a prisoner of war.</text></paragraph> 
+<paragraph id="id6D2DA41EE7BE4C36A49919AD26B196A0"><enum>(8)</enum><text>Nearly 2½ years later, following his release and return to the United States, President Eisenhower presented Hershey Miyamura with the Congressional Medal of Honor in a ceremony at the White House.</text></paragraph> <paragraph id="idEB3A12EC3DD747BBAAD7E4A0BB1A3207"><enum>(9)</enum><text>The lifelong dedication of Hershey Miyamura to the United States never ceased. It continued long after his decorated military service ended.</text></paragraph> 
+<paragraph id="idBCF59F0C8B6747688D3DC7A9E77FC8D0"><enum>(10)</enum><text>After he received his honorable discharge from the Army, Hershey Miyamura opened a service station along Route 66 in his hometown of Gallup, New Mexico.</text></paragraph> <paragraph id="id69E1FA7BE6844E819F1F8D2DF069027E"><enum>(11)</enum><text>Hershey Miyamura remained active in his community until his dying days, advocating for his fellow veterans and inspiring young people with lectures on patriotism, faith, and service.</text></paragraph></subsection> 
+<subsection id="HAC61B5A3CDF64FE7ABB9EDF60C7CF372"><enum>(b)</enum><header>Designation</header><text display-inline="yes-display-inline">The clinic of the Department of Veterans Affairs located at 2075 South NM Highway 602, Gallup, New Mexico, shall after the date of the enactment of this Act be known and designated as the <quote>Hiroshi <quote>Hershey</quote> Miyamura Department of Veterans Affairs Clinic</quote> or the <quote>Hiroshi <quote>Hershey</quote> Miyamura VA Clinic</quote>.</text></subsection> <subsection id="H9064801DE9C045EAA76476953EE7BFC3"><enum>(c)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in any law, regulation, map, document, paper, or other record of the United States to the clinic referred to in subsection (b) shall be considered to be a reference to the <quote>Hiroshi <quote>Hershey</quote> Miyamura VA Clinic</quote>.</text></subsection></section> 
+</legis-body> 
+</bill> 
+
+

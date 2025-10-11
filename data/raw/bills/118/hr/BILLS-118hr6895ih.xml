@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF0ABE499D8094BE8A614BDC376A6B084" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6895 IH: Defense Production and Active Pharmaceutical Ingredients Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-12-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6895</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231222">December 22, 2023</action-date><action-desc><sponsor name-id="S001208">Ms. Slotkin</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the National Defense Authorization Act for Fiscal Year 2023 to extend Federal support for bioindustrial manufacturing processes to include support for the manufacturing of certain pharmaceutical ingredients.</official-title></form><legis-body id="HAA3BAABE67504E03A0A7A523D5E7F511" style="OLC">
+<section id="H0BC0F039D70A45208D9DB266EF533A49" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Defense Production and Active Pharmaceutical Ingredients Act</short-title></quote>.</text></section> <section id="HDF8F0E17AE9F4662BAE8D753B04036DA" section-type="subsequent-section"><enum>2.</enum><header>Modification of support for research and development of bioindustrial manufacturing processes</header><text display-inline="no-display-inline">Section 215(c)(1) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (<external-xref legal-doc="public-law" parsable-cite="pl/117/263">Public Law 117–263</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/10/4841">10 U.S.C. 4841</external-xref> note) is amended by inserting <quote>active pharmaceutical ingredients, key starting materials for such ingredients,</quote> after <quote>commodity chemicals,</quote>.</text> </section> 
+</legis-body></bill>
+

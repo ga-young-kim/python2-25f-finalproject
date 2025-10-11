@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H66F41636DEEE41B691109C6D8B511EB6" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6256 IH: To require that the Chief Information Officer of the Bureau of Information Resources submit an annual report that lists all the information technology procurement awards and contracts that were awarded over $10,000,000.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 6256</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231107">November 7, 2023</action-date>
+<action-desc><sponsor name-id="B001307">Mr. Baird</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To require that the Chief Information Officer of the Bureau of Information Resources submit an annual report that lists all the information technology procurement awards and contracts that were awarded over $10,000,000.</official-title>
+</form>
+<legis-body id="H3435400706594051B38739DEED11CFDA" style="OLC"> 
+<section id="HDF9014EB9AEB4B3AB6EACE9AE823D8DB" section-type="section-one"><enum>1.</enum><header>Cybersecurity prioritization in information technology procurement</header> 
+<subsection id="HD93853659A894CDBA421374DA110117F"><enum>(a)</enum><header>Sense of congress</header><text>It is the sense of Congress that—</text> <paragraph id="HBD8BB1A2D12B445983FCFC7E46A1F4B6"><enum>(1)</enum><text>the Department has not sufficiently emphasized cybersecurity in its operations or in its procurement of information technology, and that these shortcomings have contributed to numerous cybersecurity incidents at the Department; and</text></paragraph> 
+<paragraph id="H8661F4C67EE948619632945E83373762"><enum>(2)</enum><text>the Department should prioritize, to the highest level and to a greater extent than it already does, the minimization of cybersecurity risks in its procurement of information technology.</text></paragraph></subsection> <subsection id="H4CC7A0607AFF4A3BAB84E7AFFF6C8AAF"><enum>(b)</enum><header>Annual report</header><text>The Chief Information Officer in the Bureau of Information Resources Management shall submit to the appropriate congressional committees an annual report which—</text> 
+<paragraph id="H4C3D7F0BB6724C688A5F94CA40AA9819"><enum>(1)</enum><text>describes all Department information technology procurement contracts awarded in the year prior to the issuance of the report, including the name of the awardee and the information technology they were contracted to procure; and</text></paragraph> <paragraph id="H8B67A1642DA14CDF9412068535D4D693"><enum>(2)</enum><text>for all Department information technology procurement contracts awarded in the year prior to the issuance of the report with contract price exceeding $10,000,000—</text> 
+<subparagraph id="H5BBA9EB721D14B3BAD9AB451EB859FB0"><enum>(A)</enum><text>details the cybersecurity risks which have been or will be created by the information technology procured or intended to be procured under the contract, including the Department’s strategy for mitigating these risks;</text></subparagraph> <subparagraph id="HDA213059420D48448B43FF445DC3E06C"><enum>(B)</enum><text>justifies the Department’s choice to award the contract to its particular awardee in light of those cybersecurity risks; and</text></subparagraph> 
+<subparagraph id="HFC8ACC8F3CC843B688C85B0E765871CC"><enum>(C)</enum><text>justifies the Department’s choice to procure such information technology in light of those cybersecurity risks.</text></subparagraph></paragraph></subsection> <subsection id="H59217453F247406B88647625DA33D2C2"><enum>(c)</enum><header>Definitions</header><text>In this Act:</text> 
+<paragraph id="H55BD45FD2F0A494ABD3DD8F4155BBFF2"><enum>(1)</enum><header>Appropriate congressional committees</header><text>The term <quote>appropriate congressional committees</quote> means the House Committee on Foreign Affairs and the Senate Committee on Foreign Relations.</text></paragraph> <paragraph id="HDCB3FD78D8D0445C9F910D0689E0904A"><enum>(2)</enum><header>Cybersecurity incident</header><text>The term <quote>cybersecurity incident</quote> has the meaning given the term <quote>incident</quote> in section 3552 of title 44, United States Code.</text></paragraph> 
+<paragraph id="HBD39437B0D0742EDAF443641D1CE4E8E"><enum>(3)</enum><header>Cybersecurity risk</header><text>The term <quote>cybersecurity risk</quote> has the meaning given that term in section 2200 of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/650">6 U.S.C. 650</external-xref>), except that it refers exclusively to cybersecurity risks to the Department’s information and information systems.</text></paragraph> <paragraph id="H386BA621591642C59B4539810B1284AF"><enum>(4)</enum><header>Department</header><text>The term <quote>Department</quote> means the United States Department of State.</text></paragraph> 
+<paragraph id="HB8D080D3F3BA4ABDB14E39ACD9782EBB"><enum>(5)</enum><header>Information system</header><text display-inline="yes-display-inline">The term <quote>information system</quote> has the meaning given that term in section 3502 of title 44, United States Code.</text></paragraph> <paragraph id="H57D4292E61F44F19A00F872FA5D17FC9"><enum>(6)</enum><header>Information technology</header><text display-inline="yes-display-inline">The term <quote>information technology</quote> has the meaning given that term in section 11101 of title 40, United States Code.</text></paragraph></subsection></section> 
+</legis-body>
+</bill> 
+
+

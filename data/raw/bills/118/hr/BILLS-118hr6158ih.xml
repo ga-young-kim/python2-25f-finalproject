@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDE2DDFDD49FF495E8BDC797FBCAD0E42" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6158 IH: 21st Century School Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6158</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231101">November 1, 2023</action-date><action-desc><sponsor name-id="M001204">Mr. Meuser</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the acquisition and installation of gunshot detection systems under the matching grant program for school security.</official-title></form><legis-body id="H08CA74FE8C4E447499D1FB674874F340" style="OLC"><section id="H161E0324311143C6934406D7A9540BB7" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>21st Century School Protection Act</short-title></quote>. </text></section><section id="HBA3CC69C2DA84B82BA33A8B96A60EB85"><enum>2.</enum><header>Acquisition and installation of gunshot detection systems under the matching grant program for school security</header><text display-inline="no-display-inline">Section 2701(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (<external-xref legal-doc="usc" parsable-cite="usc/34/10551">34 U.S.C. 10551(b)</external-xref>) is amended—</text><paragraph id="H8F3E8AE2473B494989F1D39EB01F900F"><enum>(1)</enum><text>by redesignating paragraph (9) as paragraph (10); and</text></paragraph><paragraph id="HB8D34664FC03446890E42C78C625FB82"><enum>(2)</enum><text>by inserting after paragraph (8) the following: </text><quoted-block style="OLC" id="H47378195217A4499B9B485231933B368" display-inline="no-display-inline"><paragraph id="H4BC0B56A0CCB43B6B6DCDACC2F26BE93"><enum>(9)</enum><text display-inline="yes-display-inline">Acquisition and installation of gunshot detection systems. </text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section></legis-body></bill> 
+

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H8208E2257B7F43AC944E8F1FFB6D72C4" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3410 IH: Sand Acquisition, Nourishment, and Development Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3410</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230517">May 17, 2023</action-date><action-desc><sponsor name-id="D000600">Mr. Diaz-Balart</sponsor> (for himself and <cosponsor name-id="F000462">Ms. Lois Frankel of Florida</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Water Resources Development Act of 1986 to modify a provision relating to acquisition of beach fill.</official-title></form><legis-body id="H19EC4C5B55A94C20B5216921E8A5CA2D" style="OLC"> 
+<section section-type="section-one" id="H9A024B33A2E74C62AF992845870A580C"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Sand Acquisition, Nourishment, and Development Act</short-title></quote> or the <quote><short-title>SAND Act</short-title></quote>.</text></section> <section section-type="subsequent-section" id="H4FCBCF2893D94E408F11F95E5BCB0BDE"><enum>2.</enum><header>Acquisition of beach fill</header><text display-inline="no-display-inline">Section 935 of the Water Resources Development Act of 1986 (<external-xref legal-doc="usc" parsable-cite="usc/33/2299">33 U.S.C. 2299</external-xref>) is amended by striking <quote>if such materials are not available from domestic sources for environmental or economic reasons</quote>.</text></section> 
+</legis-body></bill>
+

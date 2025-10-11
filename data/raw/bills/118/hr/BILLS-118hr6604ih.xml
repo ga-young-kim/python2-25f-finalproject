@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H006A39CEFDEF43EEA6E7034BBC0C64F8" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6604 IH: No Fencing at the United States Supreme Court Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-12-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6604</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231205">December 5, 2023</action-date><action-desc><sponsor name-id="N000147">Ms. Norton</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the use of Federal funds to install permanent fencing around the United States Supreme Court Building or grounds.</official-title></form><legis-body id="H4658CDF52FE64C64BD167D9CC66C6895" style="OLC"><section id="H40420933CB65431AA8C487EA997C5ECC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>No Fencing at the United States Supreme Court Act</short-title></quote>.</text></section><section id="HFCCB1C6DDB4A438884468866CB490944" commented="no"><enum>2.</enum><header>Prohibiting use of funds for permanent fencing around United States Supreme Court Building or grounds</header><subsection id="HC12926AE69E6404D84A13F5B55CFB26F" commented="no"><enum>(a)</enum><header>Prohibition</header><text display-inline="yes-display-inline">No Federal funds may be used to install permanent fencing around—</text><paragraph id="H5AFC6E01A72845DC887E0A9E22E24D4C" commented="no"><enum>(1)</enum><text>the perimeter of the United States Supreme Court Building; or</text></paragraph><paragraph id="H3E6811DEE3DD42E59C4258AD3D67F64B" commented="no"><enum>(2)</enum><text>the perimeter of the Supreme Court grounds, or any portion thereof, described in section 6101(b) of title 40, United States Code.</text></paragraph></subsection><subsection id="H5AB382A1EA0241768B1981EB4ABAE8DB" commented="no"><enum>(b)</enum><header>Rule of construction</header><text display-inline="yes-display-inline">Nothing in subsection (a) shall be construed to prohibit the repair or replacement of fencing that was in existence on the date of enactment of this Act around an area described in subsection (a). </text></subsection></section></legis-body></bill> 
+

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3AF5FA83208E40D3A714F8C38D1ABB5B" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 849 IH: To require the Department of Defense to share best practices with, and offer training to, State and local first responders regarding how to most effectively aid victims who experience trauma-related injuries.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 849</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230206">February 6, 2023</action-date>
+<action-desc><sponsor name-id="T000486">Mr. Torres of New York</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To require the Department of Defense to share best practices with, and offer training to, State and local first responders regarding how to most effectively aid victims who experience trauma-related injuries.</official-title>
+</form>
+<legis-body id="H79D9526BECAB48F784F4FB86936BF31F" style="OLC">
+<section id="H6E220E317C6E47ACAAD58D55099E462C" section-type="section-one"><enum>1.</enum><header>Department of Defense provision of training and information for first responders regarding aid for victims of trauma-related injuries</header><text display-inline="no-display-inline">The Secretary of Defense shall ensure that the Department of Defense shares best practices with, and offers training to, State and local first responders regarding how to most effectively aid victims who experience trauma-related injuries.</text></section> </legis-body> </bill> 
+

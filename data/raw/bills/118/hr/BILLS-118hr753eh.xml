@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H403048646578446E8888228CEAED5939" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 753 EH: Department of Veterans Affairs Creation of On-Site Treatment Systems Affording Veterans Improvements and Numerous General Safety Enhancements Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress>118th CONGRESS</congress> <session>1st Session</session> 
+<legis-num>H. R. 753</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To direct the Secretary of Veterans Affairs to use on-site regulated medical waste treatment systems at certain Department of Veterans Affairs facilities, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H443049E3A6404A3DA829F52DB6017FDA" style="OLC"> 
+<section id="HA39CCE65722147F3B38F7062F7384CF2" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Department of Veterans Affairs Creation of On-Site Treatment Systems Affording Veterans Improvements and Numerous General Safety Enhancements Act</short-title></quote> or the <quote><short-title>VA COST SAVINGS Enhancements Act</short-title></quote>.</text></section> <section id="H4BF7E7D6682B46BABF3158D51AF87689"><enum>2.</enum><header>Use of on-site regulated medical waste treatment systems at Department of Veterans Affairs facilities</header> <subsection id="HC95FA94F776C4A27BC7F6B84C9054BBB"><enum>(a)</enum><header>Identification of facilities</header><text display-inline="yes-display-inline">The Secretary of Veterans Affairs shall identify Department of Veterans Affairs facilities that would benefit from cost savings associated with the use of an on-site regulated medical waste treatment system over a five-year period.</text></subsection> 
+<subsection id="HA8AE83A05A044B19AB1DA289221CC9EF"><enum>(b)</enum><header>Regulated medical waste cost analysis model</header><text>For purposes of carrying out subsection (a), the Secretary shall develop a uniform regulated medical waste cost analysis model to be used to determine the cost savings associated with the use of an on-site regulated medical waste treatment system at Department facilities. Such model shall be designed to calculate savings based on—</text> <paragraph id="HCF2570C31EBF443DB40233C6EE13B86F"><enum>(1)</enum><text>the cost of treating regulated medical waste at an off-site location under a contract with a non-Department entity; compared to</text></paragraph> 
+<paragraph id="HA4D084C7E59F446381513C0A0F92D253"><enum>(2)</enum><text display-inline="yes-display-inline">the cost of treating regulated medical waste on-site, based on the equipment specification of treatment system manufacturers, with capital costs amortized over a ten-year period.</text></paragraph></subsection> <subsection id="H9D40069BDB254053B8DF8D1B399A74EE"><enum>(c)</enum><header>Installation</header><text>At each Department facility identified under subsection (a), the Secretary shall secure, install, and operate an on-site regulated medical waste treatment system.</text></subsection> 
+<subsection id="H86337099ABF14BDEB2CF01616F81F103"><enum>(d)</enum><header>Regulated medical waste defined</header><text display-inline="yes-display-inline">In this section, the term <term>regulated medical waste</term> has the meaning given such term under section 173.134(a)(5) of title 49, Code of Federal Regulations, concerning regulated medical waste and infectious substances, or any successor regulation, except that, in the case of an applicable State law that is more expansive, the definition in the State law shall apply.</text></subsection></section> <section id="H58C84459364E4A20A2C7418400F9C129" display-inline="no-display-inline" section-type="subsequent-section"><enum>3.</enum><header>No additional funds authorized</header><text display-inline="no-display-inline">No additional funds are authorized to be appropriated to carry out the requirements of this Act.</text></section> 
+</legis-body> <attestation><attestation-group><attestation-date date="20230308" chamber="House">Passed the House of Representatives March 8, 2023.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation>
+<endorsement display="yes"></endorsement>
+</bill> 
+
+

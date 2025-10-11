@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA9ADE68E5B7A45E1B301779DFF1184EC" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4312 IH: To enhance the eligibility of India for Foreign Military Sales and exports under the Arms Export Control Act.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4312</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230622">June 22, 2023</action-date><action-desc><sponsor name-id="W000823">Mr. Waltz</sponsor> (for himself, <cosponsor name-id="K000389">Mr. Khanna</cosponsor>, <cosponsor name-id="K000391">Mr. Krishnamoorthi</cosponsor>, <cosponsor name-id="B001282">Mr. Barr</cosponsor>, and <cosponsor name-id="V000131">Mr. Veasey</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To enhance the eligibility of India for Foreign Military Sales and exports under the Arms Export Control Act.</official-title></form><legis-body id="HD3F52CBCE156458CB2052C4B8E50CED6" style="OLC"> 
+<section id="H27A0A5C75D054A0F96DBE467B3CE9C90" section-type="section-one"><enum>1.</enum><header>Eligibility of India for Foreign Military Sales and export status under Arms Export Control Act</header><text display-inline="no-display-inline">The Arms Export Control Act (<external-xref legal-doc="usc" parsable-cite="usc/22/2751">22 U.S.C. 2751 et seq.</external-xref>) is amended—</text> <paragraph id="HDCE59C832F4B43A8903FF4F20B5DD9F2"><enum>(1)</enum><text>in sections 3(d)(2)(B), 3(d)(3)(A)(i), 3(d)(5), 21(e)(2)(A), 36(b)(1), 36(b)(2), 36(b)(6), 36(c)(2)(A), 36(c)(5), 36(d)(2)(A), 62(c)(1), and 63(a)(2), by inserting <quote>India,</quote> before <quote>or New Zealand</quote> each place it appears;</text></paragraph> 
+<paragraph id="HECCC0C5A358B47468C7842F01200DF65"><enum>(2)</enum><text>in section 3(b)(2), by inserting <quote>the Government of India,</quote> before <quote>or the Government of New Zealand</quote>; and</text></paragraph> <paragraph id="HB5F6E56C909A44939479E37575328603"><enum>(3)</enum><text>in sections 21(h)(1)(A) and 21(h)(2), by inserting <quote>India,</quote> before <quote>or Israel</quote> each place it appears.</text></paragraph></section> 
+</legis-body></bill>
+

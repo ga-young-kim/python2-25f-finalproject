@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H905B4A715EDE46E095BD02F605250CA5" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4430 IH: E-Verify Data Privacy and Wrongful Unemployment Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 4430</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230630">June 30, 2023</action-date>
+<action-desc><sponsor name-id="M001218">Mr. McCormick</sponsor> (for himself and <cosponsor name-id="M001184">Mr. Massie</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the Committee on <committee-name committee-id="HED00">Education and the Workforce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Immigration and Nationality Act to provide for improved data privacy in the operation of the employment verification system.</official-title>
+</form>
+<legis-body id="HA44908EC8F434629AE6CDC557004ED6B" style="OLC">
+<section id="H4B0F783AC7894FA4A71ECD521E154967" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>E-Verify Data Privacy and Wrongful Unemployment Act of 2023</short-title></quote>.</text></section> <section id="H630B0F5F83F747A1B698275412B91F5B"><enum>2.</enum><header>Data privacy</header><text display-inline="no-display-inline"> Section 274A of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1324a">8 U.S.C. 1324a</external-xref>) is amended in subsection (d)(2)(D), to read as follows—</text>
+<quoted-block style="OLC" id="H4AE66218ACE3480ABC08D78073D52EF1" display-inline="no-display-inline">
+<subparagraph id="HDF7757871BA643768168A72707D54D0E"><enum>(D)</enum><header>Privacy of information</header>
+<clause id="H0F6401EE6241433087F15925196B607A"><enum>(i)</enum><header>In general</header><text>Any verification system established by this Section or Section 401 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1324a">8 U.S.C. 1324a</external-xref> note) must—</text> <subclause id="H85B5C81AC2F14EA38B04D2A765BDE7B1"><enum>(I)</enum><text>protect the privacy and security of personal information and identifiers utilized in the system; and</text></subclause>
+<subclause id="HF4029B4E5F7648A39A9C786958220325"><enum>(II)</enum><text>not include data pertaining to—</text> <item id="H469809AEB5384BB0BADDCC1F71FAF0B3"><enum>(aa)</enum><text>race;</text></item>
+<item id="HF43687B610F84A4F9CC09C189B7B5A13"><enum>(bb)</enum><text>religious, political or philosophical beliefs;</text></item> <item id="H605986800A8A42BC9E2F16CAE721B234"><enum>(cc)</enum><text>genetic data;</text></item>
+<item id="H80D38D318059496F9AF56F2DA00D49B1"><enum>(dd)</enum><text>biometric information; or</text></item> <item id="H2FFF53B6EA504956B64B089EE7141588"><enum>(ee)</enum><text>health information or vaccination status.</text></item></subclause></clause>
+<clause id="HA9EC5FB11B2E4DA883BF4B2292C06A6A"><enum>(ii)</enum><header>Inspector general report</header><text>The Inspector General of the Department of Homeland Security shall conduct an annual study, and publicly make available on its website a report thereon, determining if any verification system system established by this section or section 401 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1324a">8 U.S.C. 1324a</external-xref> note) is being operated in accordance with this section, and other applicable laws, and shall specify any instance in which clause (i)(I) or (II) was violated.</text></clause></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></section> <section id="HC9E664028BB44293881D224BAFC00246"><enum>3.</enum><header>Correcting wrongful unemployment</header> <subsection id="H0EC7C11ED8CF4EB0A9378F2E9EFF5B7C"><enum>(a)</enum><header>Temporary employment on good faith basis</header><text display-inline="yes-display-inline">If an employer reasonably believes that any verification system established by section 401 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1324a">8 U.S.C. 1324a</external-xref> note) wrongfully failed to verify an individual with a final nonconfirmation, that employer may hire that individual for not longer than 180 days. The employer shall inform the Secretary immediately of such believed wrongful failure, and of the employment of the individual. If the Secretary determines thereafter that the failure was not wrongful and informs the employer, the employer shall terminate the employment of that individual immediately.</text></subsection>
+<subsection id="H2347254273C145FBB60893B4FE2EBF09"><enum>(b)</enum><header>Remedies</header><text display-inline="yes-display-inline">If an individual alleges that the individual would not have been dismissed from a job or would have been hired for a job but for an error of any verification mechanism established by section 401 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (<external-xref legal-doc="usc" parsable-cite="usc/8/1324a">8 U.S.C. 1324a</external-xref> note), the individual may seek compensation only through the mechanism of the <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/171">chapter 171</external-xref> of title 28, United States Code, and injunctive relief to correct such error. No class action may be brought under this paragraph. </text></subsection></section> </legis-body> </bill> 
+

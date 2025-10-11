@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H6219154FAF4D4EEBA593AB94065CDBB4" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1662 IH: Emergency Liquidity Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-17</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1662</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230317">March 17, 2023</action-date><action-desc><sponsor name-id="T000486">Mr. Torres of New York</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Board of Governors of the Federal Reserve System to establish and maintain a permanent emergency lending program to provide member banks and other depository institutions with short-term liquidity against long-term assets.</official-title></form><legis-body id="HE359F8B6BCB24A159660576B5EB75927" style="OLC"><section id="H80EBA92137964B738489917699196FAD" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Emergency Liquidity Act of 2023</short-title></quote>.</text></section><section id="H4C5AB2073FC54EB6BDCDAB8DD29C3F67"><enum>2.</enum><header>Federal Reserve System Permanent Emergency Lending Program</header><text display-inline="no-display-inline">The Federal Reserve Act (<external-xref legal-doc="usc" parsable-cite="usc/12/221">12 U.S.C. 221 et seq.</external-xref>) is amended by inserting after section 10B the following:</text><quoted-block style="OLC" id="H34BA66C5B2CC4D90A2F46AABA86F1F29" display-inline="no-display-inline"><section id="H10AB29FD2F784D90804F35EABE44054B"><enum>10C.</enum><header>Permanent Emergency Lending Program</header><text display-inline="no-display-inline">The Board of Governors of the Federal Reserve System shall establish and maintain a permanent emergency lending program under which a Federal reserve bank may provide short-term liquidity to member banks or other depository institutions pledging any collateral eligible for purchase by the Federal reserve banks in open market operations.</text></section><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill> 
+

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HE5AB60B3FF7040378166F198DFADA081" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5752 IH: OPTIONS Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 5752</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230927">September 27, 2023</action-date>
+<action-desc><sponsor name-id="F000466">Mr. Fitzpatrick</sponsor> (for himself and <cosponsor name-id="T000483">Mr. Trone</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Internal Revenue Code of 1986 to allow first-dollar coverage of mental health services for purposes of health savings accounts.</official-title>
+</form>
+<legis-body id="H350BCB79CEBB41DB9481409797EE2FDC" style="OLC">
+<section id="H32528DD8DA524D5AA361F0387DCF8B9E" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Opening Plans to Individuals and Offering New Services for Mental Health Act of 2023</short-title></quote> or the <quote>OPTIONS Act of 2023</quote>. </text></section> <section id="HEDA4E4BAD8814BEE96B9C1D2E9135FC0"><enum>2.</enum><header>Safe harbor for absence of deductible for mental health services</header> <subsection id="HFFEE3BA3ED91496BB5665C23A0C2B687"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/223">Section 223(c)(2)</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:</text>
+<quoted-block style="OLC" id="HC8F80FA22FFC460BBD741F988FE39266" display-inline="no-display-inline">
+<subparagraph id="H195B1FEDD98D400F92A94EA46A6A6112"><enum>(H)</enum><header>Safe harbor for absence of deductible for mental health services</header><text display-inline="yes-display-inline">A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for not more than the first $500 of any mental health benefits (as defined in section 9812(e)(4)) specified by the plan for purposes of this subparagraph.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> <subsection id="H1B75558D9F604E1489C63F03A4D35664"><enum>(b)</enum><header>Effective date</header><text>The amendments made by this section shall apply to plan years beginning after December 31, 2023.</text></subsection></section>
+</legis-body>
+</bill> 
+
+

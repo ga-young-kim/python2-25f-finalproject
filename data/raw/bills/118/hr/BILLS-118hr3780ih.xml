@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HB2768D4955704DFE9CA5E0FFAF1159A5" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3780 IH: ACPAC Modernization Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-31</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3780</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230531">May 31, 2023</action-date><action-desc><sponsor name-id="T000468">Ms. Titus</sponsor> (for herself, <cosponsor name-id="B001257">Mr. Bilirakis</cosponsor>, <cosponsor name-id="M001221">Mr. Molinaro</cosponsor>, <cosponsor name-id="G000559">Mr. Garamendi</cosponsor>, and <cosponsor name-id="B001285">Ms. Brownley</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To modify the termination of the aviation consumer protection advisory committee, and for other purposes.</official-title></form><legis-body id="HEB46AD447AB04E4B92CC6766B10705D8" style="OLC">
+<section id="HB727E915A4E24149B4E7D6329B5C4E77" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>ACPAC Modernization Act</short-title></quote>.</text></section> <section id="H9A850717177F4CC88FD9E53D2CE350BD" section-type="subsequent-section"><enum>2.</enum><header>Aviation consumer protection advisory committee</header><text display-inline="no-display-inline">Section 411 of the FAA Modernization and Reform Act of 2012 (<external-xref legal-doc="usc" parsable-cite="usc/49/42301">49 U.S.C. 42301</external-xref> note) is amended—</text> 
+<paragraph id="HA67A47198D484BD3A0333F8B31429D03"><enum>(1)</enum><text>in subsection (b)—</text> <subparagraph id="H5F0001C6209C4C58AAC29B053DB4409E"><enum>(A)</enum><text>in paragraph (3) by striking <quote>; and</quote> and inserting a semicolon;</text></subparagraph> 
+<subparagraph id="H7DD817DDA1194D2DB17281A0DD456ED7"><enum>(B)</enum><text>in paragraph (4) by striking the period and inserting <quote>; and</quote>; and</text></subparagraph> <subparagraph id="HB303800454A649E49DBD6B1B4BADA7D6"><enum>(C)</enum><text display-inline="yes-display-inline">by adding at the end the following: </text> 
+<quoted-block style="OLC" id="H813480F72FB74E15BC711EB39B2CC930" display-inline="no-display-inline"> 
+<paragraph id="H5F0D2E214EA64B20857C9B5ECE6F4FFE"><enum>(5)</enum><text display-inline="yes-display-inline">ticket agents.</text></paragraph><after-quoted-block>; and </after-quoted-block></quoted-block></subparagraph></paragraph> <paragraph id="H8D740BB0E2C24BA19214CBC3B9A78A9C"><enum>(2)</enum><text>in subsection (h) by striking <quote>2023</quote> and inserting <quote>2028</quote>. </text> </paragraph></section> 
+</legis-body></bill>
+

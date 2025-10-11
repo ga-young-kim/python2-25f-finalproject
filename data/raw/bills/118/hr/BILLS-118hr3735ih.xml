@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H96873C971CDB4522AFD4FD9003DE9C5F" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3735 IH: Expanding Health Care Providers for Veterans Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 3735</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230525">May 25, 2023</action-date>
+<action-desc><sponsor name-id="T000481">Ms. Tlaib</sponsor> (for herself and <cosponsor name-id="R000617">Mrs. Ramirez</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend section 214(g)(5) of the Immigration and Nationality Act to remove the numerical limitation on nonimmigrant aliens issued a visa or otherwise provided status under section 101(a)(15)(H)(i)(b) of such Act in the case of an alien who is employed at the Department of Veterans Affairs, and for other purposes.</official-title>
+</form>
+<legis-body id="H5C873D7D375E485F82F84EB71AB02889" style="OLC"> 
+<section id="HD388793FB362460E87A67D3B04ECF781" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Expanding Health Care Providers for Veterans Act</short-title></quote>.</text></section> <section id="HED7571C8A3AA4C019CB559504A35D756"><enum>2.</enum><header>Admission of nonimmigrants</header> <subsection id="H4D4DA7014FB14752B999CFD64AEF7714"><enum>(a)</enum><header>Removing numerical limitation</header><text display-inline="yes-display-inline">Section 214(g)(5) of the Immigration and Nationality Act (<external-xref legal-doc="usc" parsable-cite="usc/8/1184">8 U.S.C. 1184(g)(5)</external-xref>) is amended—</text> 
+<paragraph id="H454F36E2A6F84D13B4B8558445EB8EB4"><enum>(1)</enum><text>in subparagraph (B), by striking <quote>or</quote> at the end;</text></paragraph> <paragraph id="H3D98F441E5B244359B33CDE0502AA882"><enum>(2)</enum><text>in subparagraph (C), by striking the period at the end and inserting <quote>; or</quote>; and</text></paragraph> 
+<paragraph id="H51CD2F067831406E89D4F1050A7B7FAC"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block style="OLC" id="H92AE2A987BCA414CBE0AB8B903BCC477" display-inline="no-display-inline"> <subparagraph id="H72183B6E53654C0AB41690236120299F"><enum>(D)</enum><text display-inline="yes-display-inline">is employed (or has received an offer of employment) at the Department of Veterans Affairs or a State home (as defined in section 101(19) of title 38, United States Code) recognized and certified by the Secretary of Veterans Affairs.</text></subparagraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></subsection> 
+<subsection id="H88794073D15F4536BD28B5E9A5555A77"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall take effect 6 months after the date of the enactment of this Act.</text> </subsection></section> </legis-body> </bill> 
+

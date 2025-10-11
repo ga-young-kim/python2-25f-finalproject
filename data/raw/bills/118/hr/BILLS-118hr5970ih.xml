@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HEC6E1DF62066492B8B982ADD28D05E9E" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5970 IH: SNAP Tribal Food Sovereignty Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 5970</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20231017">October 17, 2023</action-date>
+<action-desc><sponsor name-id="N000191">Mr. Neguse</sponsor> (for himself and <cosponsor name-id="C001053">Mr. Cole</cosponsor>) introduced the following bill</action-desc>
+</action>
+<action display="yes">
+<action-date date="20231025">October 25, 2023</action-date>
+<action-desc>Referred to the <committee-name committee-id="HAG00">Committee on Agriculture</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend the Indian Self-Determination and Education Assistance Act to allow the Secretary of Agriculture to enter into self-determination contracts with Indian Tribes and Tribal organizations to carry out supplemental nutrition assistance programs.</official-title>
+</form>
+<legis-body id="H085895A29FD74E39A4202F646CBCE97E" style="OLC"> 
+<section section-type="section-one" id="H5BCB06B1E0DF4964B71AED3C33A4C34A"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>SNAP Tribal Food Sovereignty Act of 2023</short-title></quote>.</text></section> <section id="HDAA29A2B9C7D4293BB13614C37DB5B01"><enum>2.</enum><header>Self-determination for SNAP</header><text display-inline="no-display-inline">Title I of the Indian Self-Determination and Education Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/25/5321">25 U.S.C. 5321 et seq.</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="H7C4759F2281E47AA8408ABB232586289"> 
+<section id="H25AF2A4D5AA04DB98F19506F3729FB68"><enum>112.</enum><header>Self-determination for SNAP</header> 
+<subsection id="H1F8E7D2E9ADE4213989609A31CB8A5E5"><enum>(a)</enum><header>Agriculture Self-Determination authorized</header><text>The Secretary of Agriculture shall enter into self-determination contracts, in accordance with subsection (b), with Indian Tribes and Tribal organizations, on the request of any Indian Tribe by Tribal resolution, to plan, conduct, and administer any function, service, or activity of the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/7/2011">7 U.S.C. 2011 et seq.</external-xref>) for the Indian Tribe.</text></subsection> <subsection id="H3CE444C12A3742BC863AC9C29D6532E3"><enum>(b)</enum><header>Self-Determination contract</header><text>A self-determination contract entered into under subsection (a) shall have the same terms and conditions, and be subject to the same procedures, regulations, and requirements, as a self-determination contract entered into under section 102, except that the Secretary of Agriculture and the Department of Agriculture shall be the appropriate Secretary and agency for purposes of a self-determination contract entered into under subsection (a).</text></subsection> 
+<subsection id="HD1304AB4D861472491F43ADC895721FE"><enum>(c)</enum><header>Technical assistance</header><text>The Office of Self-Governance of the Bureau of Indian Affairs shall provide technical assistance regarding the self-determination contracts authorized under this section to—</text> <paragraph id="H6E8593597D4B4611A699C0E3D8E81731"><enum>(1)</enum><text>the Secretary of Agriculture; and </text></paragraph> 
+<paragraph id="H50461B4E40E347B99BF7A027F7067BFA"><enum>(2)</enum><text>Indian Tribes and Tribal organizations that request that assistance.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section> <section id="H092782453A224002886F836A9A254331"><enum>3.</enum><header>Self-governance for snap</header><text display-inline="no-display-inline">Title IV of the Indian Self-Determination and Education Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/25/5361">25 U.S.C. 5361 et seq.</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" id="HCD94056020EE410A9A4ED998094DE3C3" display-inline="no-display-inline"> 
+<section id="H460E122E2D984BF6928950D831A59F91"><enum>418.</enum><header>Self-governance for SNAP</header> 
+<subsection id="H7DBEB5144E2F40C3B5771E0C0D9066FF"><enum>(a)</enum><header>Agriculture self-Governance authorized</header><text>The Secretary of Agriculture shall enter into self-governance compacts and funding agreements, in accordance with subsection (b), with Indian Tribes and Tribal organizations, on the request of any Indian Tribe by Tribal resolution, to plan, conduct, and administer any function, service, or activity of the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/7/2011">7 U.S.C. 2011 et seq.</external-xref>) for the Indian Tribe.</text></subsection> <subsection id="H10151EC8A8444310AAD74227539B1A71"><enum>(b)</enum><header>Self-Governance compact and funding agreement</header><text>A self-governance compact and funding agreement entered into under subsection (a) shall have the same terms and conditions, and be subject to the same procedures, regulations, and requirements, as a self-governance compact and funding agreement entered into under sections 40 and 403, except that the Secretary of Agriculture and the Department of Agriculture shall be the appropriate Secretary and agency for purposes of a self-governance compact and funding agreement under this section.</text></subsection> 
+<subsection id="HD42EE7A0A6074D5F8ADB3A8485CECE8D"><enum>(c)</enum><header>Technical assistance</header><text>The Office of Self-Governance of the Department of the Interior shall provide technical assistance regarding the self-governance compacts and funding agreements authorized under this section to—</text> <paragraph id="H60DC30109C164919BA112ED20AB07985"><enum>(1)</enum><text>the Secretary of Agriculture; and</text></paragraph> 
+<paragraph id="H5602722AB63548BD98AB97D60068AC5B"><enum>(2)</enum><text>Indian Tribes and Tribal organizations that request that assistance.</text></paragraph></subsection></section><after-quoted-block>.</after-quoted-block></quoted-block></section> </legis-body> </bill> 
+

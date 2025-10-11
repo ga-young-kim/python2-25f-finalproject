@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HAD0AC300E5CC452B833A6C7966CB0423" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4707 IH: To prohibit expending Federal funds for the Special Counsel’s Office of John L. Smith.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-18</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4707</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230718">July 18, 2023</action-date><action-desc><sponsor name-id="G000578">Mr. Gaetz</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit expending Federal funds for the Special Counsel&#8217;s Office of John L. Smith.</official-title></form><legis-body id="H7E42955374DE4559AB2B68759DBD751D" style="OLC"> 
+<section id="HD920F36AFBFE4D8D904FCDF416A72C43" section-type="section-one"><enum>1.</enum><header>Prohibition on expending funds for Special Counsel</header><text display-inline="no-display-inline">No funds authorized or appropriated by Federal law, and none of the funds in any trust fund to which funds are authorized or appropriated by Federal law, shall be expended for the Special Counsel’s Office of John L. Smith. </text> </section> </legis-body></bill>
+

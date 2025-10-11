@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HA5C51A0476C74AC3879AAA7F08859881" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4294 IH: To direct the President of the United States to designate one month each year as Fidelity Month for the purpose of rededicating our Nation to the values of faith, family, and patriotism.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4294</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230622">June 22, 2023</action-date><action-desc><sponsor name-id="M001195">Mr. Mooney</sponsor> (for himself, <cosponsor name-id="M001211">Mrs. Miller of Illinois</cosponsor>, <cosponsor name-id="B001317">Mr. Brecheen</cosponsor>, and <cosponsor name-id="S001214">Mr. Steube</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the President of the United States to designate one month each year as Fidelity Month for the purpose of rededicating our Nation to the values of faith, family, and patriotism.</official-title></form><legis-body id="H110804D449BD40B695F6BD24073071E9" style="OLC"> 
+<section id="HAB722C6AC32C4DD3ABDD579DC9EE1121" section-type="section-one"><enum>1.</enum><header>Findings</header><text display-inline="no-display-inline">Congress finds the following:</text> <paragraph id="H947F0B46E09B46018683607934CB8987"><enum>(1)</enum><text>A recent opinion poll of Americans showed support for traditional values has significantly declined.</text></paragraph> 
+<paragraph id="HD28C1ADC82414C81BC18E54105905709"><enum>(2)</enum><text>A majority of Americans no longer view values like faith, family, patriotism, or being involved in the community as very important.</text></paragraph> <paragraph id="HBD9F33483E124C8A98901A33AED926F1"><enum>(3)</enum><text>These values used to unite Americans.</text></paragraph> 
+<paragraph id="H0DB436A5770E476AAA35FAF82B6982B3"><enum>(4)</enum><text>The decline in these values has corresponded with a rise in crime, drug abuse, alienation, and family disintegration.</text></paragraph> <paragraph id="H2547E3176CC64897A555F9BAB4714C4E"><enum>(5)</enum><text>Fidelity means dedication to faith, spouses and families, and our country and communities.</text></paragraph> 
+<paragraph id="H5DF4465810C34A818AAF3119F80FC6D7"><enum>(6)</enum><text>Citizens of all faiths can join in recommitting our Nation to fidelity.</text></paragraph> <paragraph id="H26F1E29DF50D4D4A83C74947F4919E11"><enum>(7)</enum><text>Our Founding Father John Adams said, <quote>Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other.</quote>.</text></paragraph> 
+<paragraph id="H9EECDC736AC5406F9EACE2DAC568D653"><enum>(8)</enum><text>Our survival as a country depends on the shared bonds of faith, family, and patriotism.</text></paragraph> <paragraph id="H3172CB577AB4456DA1003BB69083B45A"><enum>(9)</enum><text>It is fitting to observe a month of rededicating our Nation to our core values.</text></paragraph></section> 
+<section id="H4003444CAF044BE5947A77B4F825B8CC" section-type="subsequent-section"><enum>2.</enum><header>Designation of Fidelity Month by the President</header><text display-inline="no-display-inline">The President shall designate one month each year as Fidelity Month for the purpose of rededicating our Nation to the values of faith, family, and patriotism.</text></section> </legis-body></bill>
+

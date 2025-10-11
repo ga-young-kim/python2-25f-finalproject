@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H0D1A8DD4A6FA48DFAF9B9B2ED21DD985" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3813 IH: CDC Leadership Accountability Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3813</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230605">June 5, 2023</action-date><action-desc><sponsor name-id="G000558">Mr. Guthrie</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To accelerate the applicability of the requirement that the Director of the Centers for Disease Control and Prevention be appointed by the President, by and with the consent of the Senate.</official-title></form><legis-body id="HB09687B1C56C4B61B533DBFAC6E18452" style="OLC"> 
+<section id="H34427AF9FCBD4694AC819F639249CD22" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>CDC Leadership Accountability Act of 2023</short-title></quote>.</text></section> <section id="H169CCA8DC6154D49A9C51DD236A01450" section-type="subsequent-section"><enum>2.</enum><header>Accelerating applicability of requirement that CDC Director be confirmed by Senate</header> <text display-inline="no-display-inline">Subsection (b) of section 2101 of division FF of the Consolidated Appropriations Act, 2023 (<external-xref legal-doc="public-law" parsable-cite="pl/117/328">Public Law 117–328</external-xref>) is amended to read as follows:</text> 
+<quoted-block style="OLC" id="H44BCCCB9B1E14C478176E9B5B1DD7C4D" display-inline="no-display-inline"> 
+<subsection id="H4E52238CDE944CDBA918170E903588C4"><enum>(b)</enum><header>Applicability</header> 
+<paragraph id="HCAC892444E734747A3E26FB76B0D2842"><enum>(1)</enum><header>In general</header><text>The first sentence of section 305(a) of the Public Health Service Act, as added by subsection (a), applies with respect to any Director of the Centers for Disease Control and Prevention appointed on or after June 1, 2023.</text></paragraph> <paragraph id="H3C686446501548CD919DF877E32E50BE"><enum>(2)</enum><header>Special rule</header><text display-inline="yes-display-inline">Any individual appointed during the period beginning on June 1, 2023, and ending on the date of enactment of this Act to serve as the Director of the Centers for Disease Control and Prevention is deemed to be serving in an acting capacity until the requirements of the first sentence of section 305(a) of the Public Health Service Act, as added by subsection (a), are met.</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body></bill>
+

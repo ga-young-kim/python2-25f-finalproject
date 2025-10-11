@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1BC0F48685B24E0287CED8874F67F963" public-private="public" key="H" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 601 IH: To modify certain requirements to encourage the recovery of Puerto Rico and the United States Virgin Islands.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session> 
+<legis-num display="yes">H. R. 601</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20230127">January 27, 2023</action-date> 
+<action-desc><sponsor name-id="G000582">Mrs. González-Colón</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HPW00">Committee on Transportation and Infrastructure</committee-name></action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To modify certain requirements to encourage the recovery of Puerto Rico and the United States Virgin Islands.</official-title> 
+</form> 
+<legis-body id="HD3AB9B269022430AA16DCEEEC4EB0943" style="OLC"> 
+<section id="H3FE2178471364BB699F4EA7D60D91013" section-type="section-one"><enum>1.</enum><header>Alternative procedures</header><text display-inline="no-display-inline">In providing assistance pursuant to section 428 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5189f">42 U.S.C. 5189f</external-xref>), for critical services as set forth in section 406(a)(3) for the duration of the recovery for incidents DR–4336–PR, DR–4339–PR, DR–4340–USVI, and DR–4335–USVI, the Administrator of the Federal Emergency Management Agency shall—</text> <paragraph id="HFF1B90A4B2ED47E5AE5C426E80C05749"><enum>(1)</enum><text>revise the guidance definitions for application of section 20601 of the Bipartisan Budget Act of 2018 (<external-xref legal-doc="public-law" parsable-cite="pl/115/123">Public Law 115–123</external-xref>) to provide explicitly that multicomponent systems or facilities be inspected, evaluated, and estimated as a single project rather than requiring every component of the system to be inspected, evaluated, and estimated; </text></paragraph> 
+<paragraph id="HFDDC4482CEA54B3BBC08DF0B1916AF2E"><enum>(2)</enum><text display-inline="yes-display-inline">at the request of an applicant, put into effect a procedure for evaluation and authorization of projects through professionally licensed engineers, as provided by subparagraphs (F) and (G) of subsection (e)(1) of section 428 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act; and</text></paragraph> <paragraph id="H289D5FC3AFD343B8AF1F781B5CE7D493"><enum>(3)</enum><text>extend the deadline for the presentation of cost estimates and project worksheets under such incidents until October 31, 2021. </text></paragraph></section> 
+<section id="H0A967477A4A34EB08D58790C9D80B390" section-type="subsequent-section"><enum>2.</enum><header>Assistance throughout recovery</header><text display-inline="no-display-inline">Section 20601 of the Bipartisan Budget Act of 2018 (<external-xref legal-doc="public-law" parsable-cite="pl/115/123">Public Law 115–123</external-xref>) is amended by striking <quote>may</quote> and inserting <quote>shall</quote>.</text></section> <section id="HE643A64003FF42EA958AE1C9C9F837B6" section-type="subsequent-section"><enum>3.</enum><header>Timely basis for payment and reimbursement</header><text display-inline="no-display-inline">Section 428(c) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/42/5189f">42 U.S.C. 5189f</external-xref>) is amended—</text> 
+<paragraph id="HB19DA34E271B4A6F85A8BB558F6E3C51"><enum>(1)</enum><text>in paragraph (3), by striking <quote>and</quote>;</text></paragraph> <paragraph id="H1CE3DDB9E12E4341B1C6490BAC9FF6FD"><enum>(2)</enum><text>in paragraph (4), by striking the period and inserting <quote>; and</quote>; and</text></paragraph> 
+<paragraph id="H71B3B6F59F3A4AF5874D721F4951B1D0"><enum>(3)</enum><text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H2BEBCF039C884B3D9FF5DD2D1A7AADA7"> <paragraph id="HC5E39BBEFA884729A1C4E4A771C87CDF"><enum>(5)</enum><text display-inline="yes-display-inline">ensuring that work performed by providers, suppliers, and contractors to the Federal, State, local, or tribal governments or nonprofit facilities under the provisions of this Act is paid for and reimbursed in a timely manner. </text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> 
+<section id="H6C8FFDFC3120454F8C1FD848EAAAE884"><enum>4.</enum><header>Subrecipient payments</header> 
+<subsection id="HC5F732D67B154EFCA61D0A24049AE923"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">For incidents DR–4336–PR, DR–4339–PR, DR–4340–USVI, and DR–4335–USVI. For any major disaster or emergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C 5121 et seq.) in Puerto Rico or the United States Virgin Islands, a subrecipient in meeting any Federal cost-sharing requirement may use available funds from any disaster recovery program/source, including Community Development Block Grants—Disaster Recovery, Community Development Block Grants, community disaster loans, and any in-kind contributions (unless prohibited by law) to meet any Federal cost-sharing requirement. Such funds or loans shall cover the cumulative costs of any approved obligation under the specific public assistance category determined by the Federal Emergency Management Administration under such Act rather than having to apply individually to each specific cost estimate or project worksheet issued under such obligation. </text></subsection> <subsection id="H9E1F6364A5F64EA78B0E5E9F7EBC9DCB"><enum>(b)</enum><header>Definition</header><text>For purposes of this section, the term <quote>subrecipient</quote> means a local government or a non-governmental organization (NGO). </text></subsection></section> 
+</legis-body> 
+</bill> 
+
+

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H2EF07BB524324BB98672A5467935BC48" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4937 IH: Preserving Family Farms Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-26</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4937</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230726">July 26, 2023</action-date><action-desc><sponsor name-id="P000613">Mr. Panetta</sponsor> (for himself and <cosponsor name-id="K000376">Mr. Kelly of Pennsylvania</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to increase the limitation on the estate tax valuation of certain real property used in farming or other trades or businesses.</official-title></form><legis-body id="H706B5D1DCCA847B6AAC54A6A617CAB3F" style="OLC"> 
+<section id="H71B32BA96E62494F935FAC5C357FED93" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Preserving Family Farms Act of 2023</short-title></quote>.</text></section> <section id="HCB31133BC6EB4CB592CDEF3CBD20D8E0"><enum>2.</enum><header>Increase in limitation on the estate tax valuation of certain real property used in farming or other trades or businesses</header> <subsection id="H94523F065B954B01A2D054579D6A5F42"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline"><external-xref legal-doc="usc" parsable-cite="usc/26/2032A">Section 2032A(a)(2)</external-xref> of the Internal Revenue Code of 1986 is amended by striking <quote>$750,000</quote> and inserting <quote>$13,000,000</quote>.</text> </subsection> 
+<subsection id="HECBE14BAAA6043ACADFE4E7B2C84F72A"><enum>(b)</enum><header>Inflation adjustment</header><text>Section 2032A(a)(3) of such Code is amended—</text> <paragraph id="HC40BE1443D4A4845A5F97C59846779EB"><enum>(1)</enum><text>by striking <quote>$750,000</quote> both places it appears and inserting <quote>$13,000,000</quote>,</text></paragraph> 
+<paragraph id="H5C6ECEC5265E4871AD90112434959E0A"><enum>(2)</enum><text>by striking <quote>1998</quote> in the matter preceding subparagraph (A) and inserting <quote>2023</quote>, and</text></paragraph> <paragraph id="HD0949A649E9840FFA2BE846E9F442F02"><enum>(3)</enum><text>by striking <quote>1997</quote> in subparagraph (B) and inserting <quote>2022</quote>.</text></paragraph></subsection> 
+<subsection id="HA378285ED5E64DABAE915FEBB8A891B1"><enum>(c)</enum><header>Effective date</header><text>The amendments made by this section shall apply to the estates of decedents dying after the date of the enactment of this Act.</text></subsection></section> </legis-body></bill>
+

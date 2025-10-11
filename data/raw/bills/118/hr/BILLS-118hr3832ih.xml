@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H086E295634AA4C6C9F35F27ADCB6701F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3832 IH: Disease X Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-05</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3832</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230605">June 5, 2023</action-date><action-desc><sponsor name-id="T000482">Mrs. Trahan</sponsor> (for herself, <cosponsor name-id="B001248">Mr. Burgess</cosponsor>, <cosponsor name-id="C001120">Mr. Crenshaw</cosponsor>, and <cosponsor name-id="L000590">Ms. Lee of Nevada</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To establish a program at BARDA for developing medical countermeasures for viral threats with pandemic potential.</official-title></form><legis-body id="H3F363E6CF3A44730B38F7BBD52A8909B" style="OLC"> 
+<section id="H2C8C7053704A432BBB8BD2D2A41DC011" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Disease X Act of 2023</short-title></quote>.</text></section> <section id="H7906A4106CCF4083BAF5F999D190997C"><enum>2.</enum><header>Medical countermeasures for viral threats with pandemic potential</header> <text display-inline="no-display-inline">Section 319L(c)(4) of the Public Health Service Act (42 U.S.C. 247d–7e(c)(4)) is amended—</text> 
+<paragraph id="H3188DCDDC81F4065B84E2043AA2356AF" commented="no" display-inline="no-display-inline"><enum>(1)</enum><text display-inline="yes-display-inline">in subparagraph (D)—</text> <subparagraph id="H23E8CE39F3A04A91B13DA9863C716F5D"><enum>(A)</enum><text>in clause (ii), by striking <quote>; and</quote> and inserting a semicolon;</text></subparagraph> 
+<subparagraph id="HB70E468B118445BE943777ED20259BAD" commented="no" display-inline="no-display-inline"><enum>(B)</enum><text display-inline="yes-display-inline">by redesignating clause (iii) as clause (v); and</text></subparagraph> <subparagraph id="H5424A3CCD2B541F3A5B916AF32F8B67E"><enum>(C)</enum><text>by inserting after clause (ii) the following:</text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="H4567B5C4E2B44725BB6E3D4EC6CD7F4A"> 
+<clause id="H61513480D96E4FCD85BAA73A13861FA5"><enum>(iii)</enum><text display-inline="yes-display-inline">the identification and development of platform manufacturing technologies needed for advanced development and manufacturing of medical countermeasures for viral families which have significant potential to cause a pandemic;</text></clause> <clause id="HB55D36FC7DA34983B5DC06D59CE0A420"><enum>(iv)</enum><text display-inline="yes-display-inline">advanced research and development of flexible medical countermeasures against priority respiratory virus families and other respiratory viral pathogens with a significant potential to cause a pandemic, with both pathogen-specific and pathogen-agnostic approaches; and</text></clause><after-quoted-block>; and</after-quoted-block></quoted-block></subparagraph></paragraph>
+<paragraph id="H2BA52E38AFC248738526E6C26DC74F36"><enum>(2)</enum><text>in subparagraph (F)—</text> <subparagraph id="HCA25B2BBE59E4E64AB75FF1A7AFE5AED"><enum>(A)</enum><text>in clause (ii), by striking <quote>; and</quote> at the end and inserting a semicolon;</text></subparagraph> 
+<subparagraph id="H7726C5DC42994E3FABC9EF3A8CC077E6"><enum>(B)</enum><text>in clause (iii), by striking the period and inserting <quote>; and</quote>; and</text></subparagraph> <subparagraph id="H569D3D792724480BA619F6D9AA6A255E"><enum>(C)</enum><text>by adding at the end the following:</text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="HF7C35D586BB24D5096776A45059F5842"> 
+<clause id="HB0AED93FE6884080840E93085433260C"><enum>(iv)</enum><text>priority virus families and other viral pathogens with a significant potential to cause a pandemic.</text></clause><after-quoted-block>.</after-quoted-block></quoted-block></subparagraph></paragraph> </section> </legis-body></bill>
+

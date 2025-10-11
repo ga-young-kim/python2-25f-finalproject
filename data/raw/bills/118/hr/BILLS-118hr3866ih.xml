@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H511DA5A0FD554C6EBCD39C4AC91CA026" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3866 IH: Truth in Buffalo Labeling Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3866</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230606">June 6, 2023</action-date><action-desc><sponsor name-id="M001205">Mrs. Miller of West Virginia</sponsor> (for herself and <cosponsor name-id="C001134">Ms. Caraveo</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To provide clarification regarding the common or usual name for bison and compliance with section 403 of the Federal Food, Drug, and Cosmetic Act, and for other purposes.</official-title></form><legis-body id="HACF6E5A398344AA795048E68FC605EAB" style="OLC"> 
+<section section-type="section-one" id="H1964EF719FFD419580EF105EA8E200B5"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Truth in Buffalo Labeling Act of 2023</short-title></quote>. </text></section> <section id="HC495155A5EB246E6BB87A03FE9FF8C96"><enum>2.</enum><header>Common or usual name for North American bison</header><text display-inline="no-display-inline">Section 403 of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/343">21 U.S.C. 343</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block style="OLC" display-inline="no-display-inline" id="H4BF4E7DA23374C32B1FDD2F4CB681EFB"> 
+<subsection id="H9663F6896D2D4E69A25E05A1E8265D40"><enum>(z)</enum> 
+<paragraph commented="no" display-inline="yes-display-inline" id="H40C43B35D3634835A39884BEA85E6742"><enum>(1)</enum><text>Subject to subparagraph (2), if it is a food that is or contains any animal in the genus Bubalus and the labeling uses the term <term>buffalo</term> as a common or usual name for the food, unless the term used in the labeling is <quote>water buffalo</quote>.</text></paragraph> <paragraph id="HBBF15C7635A8441F8F1ACBCA49AE87BB" indent="up1"><enum>(2)</enum><text>Subparagraph (1) shall not be construed as prohibiting the use of the term <term>buffalo</term> as a common or usual name for the animal Bison bison bison (commonly known as the plains bison), or the animal Bison bison athabascae (commonly known as the wood bison).</text></paragraph></subsection><after-quoted-block>.</after-quoted-block></quoted-block></section> 
+</legis-body></bill>
+

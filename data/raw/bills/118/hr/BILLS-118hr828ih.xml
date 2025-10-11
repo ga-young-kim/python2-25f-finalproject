@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HF348A99F628E4B11A46ECDEB5742BEB6" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 828 IH: Troop Return Of Overdue Payment Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 828</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230206">February 6, 2023</action-date>
+<action-desc><sponsor name-id="D000628">Mr. Dunn of Florida</sponsor> (for himself, <cosponsor name-id="J000304">Mr. Jackson of Texas</cosponsor>, <cosponsor name-id="M001216">Mr. Mills</cosponsor>, <cosponsor name-id="E000235">Mr. Ezell</cosponsor>, <cosponsor name-id="P000599">Mr. Posey</cosponsor>, <cosponsor name-id="C001115">Mr. Cloud</cosponsor>, <cosponsor name-id="F000472">Mr. C. Scott Franklin of Florida</cosponsor>, <cosponsor name-id="H001086">Mrs. Harshbarger</cosponsor>, <cosponsor name-id="G000593">Mr. Gimenez</cosponsor>, and <cosponsor name-id="B001260">Mr. Buchanan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To direct the reinstatement of an individual involuntarily separated from an Armed Force solely on the basis of refusing to receive a vaccination against COVID–19.</official-title>
+</form>
+<legis-body id="H1797796312454BF9993E5F322F56B022" style="OLC">
+<section id="HD78389F466D34BEDB120E5B361AF3CDC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Troop Return Of Overdue Payment Act</short-title></quote> or the <quote><short-title>TROOP Act</short-title></quote>.</text></section> <section id="HFF2EB1531FD544EE83D10AD4B7AC7F05" section-type="subsequent-section"><enum>2.</enum><header>Reinstatement and back pay for an individual involuntarily separated from an Armed Force solely on the basis of refusing to receive a vaccination against COVID–19</header> <subsection id="H94B2425D5C6F42F6A70EB09A8EF9A3DF"><enum>(a)</enum><header>Reinstatement</header><text display-inline="yes-display-inline">At the request of a covered individual, the Secretary concerned shall—</text>
+<paragraph id="HC39ABADEB1904F4C9FB1234DCA8765FF"><enum>(1)</enum><text>reinstate the covered individual as a member of the Armed Force concerned, in the same rank and grade the covered individual held at the time of separation from the Armed Force concerned; and</text></paragraph> <paragraph id="HA1D1CB37A3E94A73B1B10194BFDAE6D5"><enum>(2)</enum><text display-inline="yes-display-inline">include, in the computation of the retired or retainer pay of such covered individual, the period between the involuntary separation and the reinstatement of the covered individual.</text></paragraph></subsection>
+<subsection id="H7C8522689371405099188919E207247C" display-inline="no-display-inline"><enum>(b)</enum><header>Back pay</header><text display-inline="yes-display-inline">A covered individual who was involuntarily discharged from an Armed Force and who makes a request under subsection (a) shall be entitled to back pay for the period between such separation and reinstatement of the covered individual.</text></subsection> <subsection id="H3D51617B12E34F9DBDAD45EF45169868"><enum>(c)</enum><header>Definitions</header><text>In this section:</text>
+<paragraph id="H3D08374E9E79462A8BB89AA8A428220D"><enum>(1)</enum><text>The term <quote>covered individual</quote> means an individual who was involuntarily separated from an Armed Force solely on the basis of the refusal of such individual to receive a vaccination against COVID–19.</text></paragraph> <paragraph id="HEA5388859303460CA5BB09958B3A2186"><enum>(2)</enum><text>The term <quote>Secretary concerned</quote> has the meaning given such term in section 101 of title 10, United States Code.</text></paragraph></subsection></section>
+</legis-body>
+</bill> 
+
+

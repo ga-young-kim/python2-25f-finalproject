@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H708CD00301774C4B8CC4816E50B81F68" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 3354 IH: To designate the facility of the United States Postal Service located at 220 North Hatcher Avenue in Purcellville, Virginia, as the “Secretary of State Madeleine Albright Post Office Building”.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-05-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 3354</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230515">May 15, 2023</action-date><action-desc><sponsor name-id="W000825">Ms. Wexton</sponsor> (for herself, <cosponsor name-id="B001292">Mr. Beyer</cosponsor>, <cosponsor name-id="C001078">Mr. Connolly</cosponsor>, <cosponsor name-id="K000399">Mrs. Kiggans of Virginia</cosponsor>, <cosponsor name-id="M001227">Mrs. McClellan</cosponsor>, <cosponsor name-id="S000185">Mr. Scott of Virginia</cosponsor>, <cosponsor name-id="S001209">Ms. Spanberger</cosponsor>, and <cosponsor name-id="W000804">Mr. Wittman</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To designate the facility of the United States Postal Service located at 220 North Hatcher Avenue in Purcellville, Virginia, as the <quote>Secretary of State Madeleine Albright Post Office Building</quote>.</official-title></form><legis-body id="H6C40C201019D4CED9B43BD9CD869E3E7" style="OLC"> 
+<section id="H9DE454ACF3F8426E8E0EE7C2391DB510" section-type="section-one"><enum>1.</enum><header>Secretary of State Madeleine Albright Post Office Building</header> 
+<subsection id="HCCC8ACCE04584441BCB3F0675B7E21FF"><enum>(a)</enum><header>Designation</header><text display-inline="yes-display-inline">The facility of the United States Postal Service located at 220 North Hatcher Avenue in Purcellville, Virginia, shall be known and designated as the <quote>Secretary of State Madeleine Albright Post Office Building</quote>.</text></subsection> <subsection id="H21826D01C9E848869C4C290A86F3AB77"><enum>(b)</enum><header>References</header><text display-inline="yes-display-inline">Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the <quote>Secretary of State Madeleine Albright Post Office Building</quote>.</text></subsection></section> 
+</legis-body></bill>
+

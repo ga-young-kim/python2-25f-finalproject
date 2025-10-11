@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H05DB6F022ADB4626B217942402EAA90E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5848 IH: To prohibit the Administrator of the Small Business Administration from directly making loans under the 7(a) loan program, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-29</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5848</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230929">September 29, 2023</action-date><action-desc><sponsor name-id="L000569">Mr. Luetkemeyer</sponsor> (for himself, <cosponsor name-id="W000816">Mr. Williams of Texas</cosponsor>, <cosponsor name-id="M001204">Mr. Meuser</cosponsor>, <cosponsor name-id="V000134">Ms. Van Duyne</cosponsor>, <cosponsor name-id="B001314">Mr. Bean of Florida</cosponsor>, <cosponsor name-id="L000598">Mr. LaLota</cosponsor>, and <cosponsor name-id="A000379">Mr. Alford</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HSM00">Committee on Small Business</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit the Administrator of the Small Business Administration from directly making loans under the 7(a) loan program, and for other purposes.</official-title></form><legis-body id="H986319A448324C939A0C6FD1838478E4" style="OLC"> 
+<section id="HDF7CFA99EB3044298CED8D42685DC6C4" section-type="section-one"><enum>1.</enum><header>Prohibition on direct <enum-in-header>7(a)</enum-in-header> loans</header>
+<subsection id="H54AD624940AC4006AB13AF2727A6674D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Notwithstanding any provision of subsection (a) of section 7 of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)</external-xref>), the Administrator of the Small Business Administration may not directly make a loan pursuant to such subsection.</text></subsection> <subsection id="H2224AB3D5E474449864CF375B8927716"><enum>(b)</enum><header>Existing loans</header><text display-inline="yes-display-inline">The Administrator of the Small Business Administration shall service a direct loan made under section 7(a) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(b)</external-xref>) if such loan was made before the date of the enactment of this Act. </text></subsection></section> 
+</legis-body></bill>
+

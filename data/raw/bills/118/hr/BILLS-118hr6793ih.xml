@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H85C8C4D7843F44DEA28A1E86A2056A11" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6793 IH: Small Business Ceiling Fan Manufacturer Protection Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-12-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6793</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231214">December 14, 2023</action-date><action-desc><sponsor name-id="B001317">Mr. Brecheen</sponsor> (for himself, <cosponsor name-id="B001316">Mr. Burlison</cosponsor>, and <cosponsor name-id="G000595">Mr. Good of Virginia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To prohibit further action on the proposed rule entitled <quote>Energy Conservation Program: Energy Conservation Standards for Ceiling Fans</quote>.</official-title></form><legis-body id="H01EF97A1E9AC47A39DD73B79D741B10F" style="OLC"><section id="HF72937C7C8774C48AFC0659DC2C19220" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Small Business Ceiling Fan Manufacturer Protection Act</short-title></quote>.</text></section><section id="HADB0683F7D1A45408796DF4C9A7BBB0F"><enum>2.</enum><header>Prohibiting implementation of proposed rule entitled <quote>Energy Conservation Program: Energy Conservation for Ceiling Fans</quote></header><text display-inline="no-display-inline"> The Secretary of Energy may not take any action to finalize, implement, or enforce the proposed rule entitled <quote>Energy Conservation Program: Energy Conservation Standards for Ceiling Fans</quote> (88 Fed. Reg. 40932 (June 22, 2023)) or any future proposed rule of a substantially similar nature.</text></section></legis-body></bill> 
+

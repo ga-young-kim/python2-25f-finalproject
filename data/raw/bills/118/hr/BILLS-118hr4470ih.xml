@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H60E9A331AA364B67859B3330589165F9" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4470 IH: Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4470</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230706">July 6, 2023</action-date><action-desc><sponsor name-id="L000597">Ms. Lee of Florida</sponsor> (for herself and <cosponsor name-id="G000590">Mr. Green of Tennessee</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HHM00">Committee on Homeland Security</committee-name>, and in addition to the Committee on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To extend the authorization of the Chemical Facility Anti-Terrorism Standards Program of the Department of Homeland Security.</official-title></form><legis-body id="HB8F9FF43E9BC4545B18826A213560676" style="OLC"> 
+<section id="H2DCA213C97F54CD49ABBAB11676F1D24" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2023</short-title></quote>. </text></section> <section id="H4573370E2A434C5195D3FE43BC58F31B"><enum>2.</enum><header>Extension of authorization of Chemical Facility Anti-Terrorism Standards Program of the Department of Homeland Security</header> <text display-inline="no-display-inline">Section 5 of the Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014 (<external-xref legal-doc="public-law" parsable-cite="pl/113/254">Public Law 113–254</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/6/621">6 U.S.C. 621</external-xref> note) is amended by striking <quote>July 27, 2023</quote> and inserting <quote>September 30, 2025</quote>.</text></section> 
+</legis-body></bill>
+

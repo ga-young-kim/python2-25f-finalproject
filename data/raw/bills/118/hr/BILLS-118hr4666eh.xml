@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Engrossed-in-House" dms-id="H9270A3E1178145CFB1FE78952090A112" public-private="public" key="H" bill-type="olc" stage-count="1"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4666 EH: To require the Inspector General of the Small Business Administration to submit a quarterly report on fraud relating to certain COVID–19 loans.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session> 
+<legis-num display="yes">H. R. 4666</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To require the Inspector General of the Small Business Administration to submit a quarterly report on fraud relating to certain COVID–19 loans.</official-title> 
+</form> 
+<legis-body id="H908C1EDACC9D44F199CED17C2DFFEA26" style="OLC"> 
+<section id="H1973C5D914B5476CA4F1FDED4B6B9485" section-type="section-one"><enum>1.</enum><header>Report on fraud relating to certain COVID–19 loans</header> 
+<subsection id="HF7C878D606C94AA29A41B4A4AFA8F834"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Not later than 60 days after the date of the enactment of this Act, and every 3 months thereafter, the Inspector General of the Small Business Administration shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report on the number of borrowers engaged in fraud with respect to a covered loan.</text></subsection> <subsection id="H94422CC25F98426999B73C4D494E513A"><enum>(b)</enum><header>Elements</header><text>The report required under subsection (a) shall include, with respect to the period covered by such report—</text> 
+<paragraph id="HB4B615E47D544175A036C3B7993697B8"><enum>(1)</enum><text>the number and total dollar amount of all covered loans made;</text></paragraph> <paragraph id="H895D19245B154C218898C29173496077"><enum>(2)</enum><text>the number of new cases of fraud and suspected fraud;</text></paragraph> 
+<paragraph id="HEE433CD885C742BEA66D0C272FF28DF6"><enum>(3)</enum><text>the number of fraud cases resolved; and</text></paragraph> <paragraph id="HF0C3BF058BAD446FB9F1235295771531"><enum>(4)</enum><text>the types of fraud cases described in paragraphs (2) and (3).</text></paragraph></subsection> 
+<subsection id="H56832DB294D54749BFBE8E492F6AF599"><enum>(c)</enum><header>Covered loan defined</header><text display-inline="yes-display-inline">In this section, the term <term>covered loan</term> means—</text> <paragraph id="HA57A250E1C6C462B8E5FD05C3CEE59C3"><enum>(1)</enum><text>a loan made under paragraphs (36) or (37) of section 7(a) of the Small Business Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(a)</external-xref>); or</text></paragraph> 
+<paragraph id="HE98597ABD336445790AB8D553E6080A2"><enum>(2)</enum><text display-inline="yes-display-inline">a loan made under section 7(b) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/15/636">15 U.S.C. 636(b)</external-xref>) in response to COVID–19 during the covered period (as defined in section 1110(a) of the CARES Act (<external-xref legal-doc="usc" parsable-cite="usc/15/9009">15 U.S.C. 9009</external-xref>)).</text></paragraph></subsection> <subsection id="HC05C6F6025C244108999D2119A6F0A18"><enum>(d)</enum><header>Termination</header><text>This Act and the requirements of this Act shall terminate on the date that is two years after the date of the enactment of this Act.</text></subsection></section> 
+<section id="HB4315CFA56284096A8030DF347669E9F"><enum>2.</enum><header>Compliance with CUTGO</header><text display-inline="no-display-inline">No additional amounts are authorized to be appropriated to carry out this Act. </text></section> </legis-body> <attestation><attestation-group><attestation-date date="20231130" chamber="House">Passed the House of Representatives November 30, 2023.</attestation-date><attestor display="no">Cheryl L. Johnson,</attestor><role>Clerk.</role></attestation-group></attestation> <endorsement display="yes"></endorsement> </bill> 
+

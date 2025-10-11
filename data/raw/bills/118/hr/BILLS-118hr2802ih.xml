@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HDBFC8C5E93C944518D282561933BF69E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 2802 IH: Improving Mental Health Access for Students Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-04-24</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 2802</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230424">April 24, 2023</action-date><action-desc><sponsor name-id="C001110">Mr. Correa</sponsor> (for himself and <cosponsor name-id="S001192">Mr. Stewart</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To add suicide prevention resources to school identification cards.</official-title></form><legis-body id="H80000CE5ACAB4E97A58341B75B0A81C0" style="OLC"> 
+<section id="HF554020BE4E447E3921DD5D0CB9E3800" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Improving Mental Health Access for Students Act</short-title></quote>.</text></section> <section id="HE52F19BEC03F4AF38DA57DC987A5CC65" section-type="subsequent-section"><enum>2.</enum><header>Adding suicide prevention contact information to school identification cards</header> <subsection id="H03ED362D99D0498ABFF837F56EF0416D"><enum>(a)</enum><header>In general</header><text display-inline="yes-display-inline">Section 487(a) of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1094">20 U.S.C. 1094(a)</external-xref>) is amended by adding at the end the following:</text> 
+<quoted-block display-inline="no-display-inline" id="H50CC8F9A08954FB2B4B4DCCDF856662A" style="OLC"> 
+<paragraph display-inline="no-display-inline" id="HF02E1A628484407CAEE14CCF55EC2A7C"><enum>(30)</enum> 
+<subparagraph commented="no" display-inline="yes-display-inline" id="HC455C53A76724C9B818826DE001230B5"><enum>(A)</enum><text>In the case of an institution that creates and distributes identification cards for students at any time after the date of enactment of this paragraph, such institution shall include phone contact information on each such card for the following organizations:</text> <clause id="H999E3B3F8BD34E2EAE39D69D0AEEA92E" indent="up1"><enum>(i)</enum><text>The National Suicide Prevention Lifeline.</text></clause> 
+<clause id="H2BE648FA486343E1BCDF0EB5B8AD7408" indent="up1"><enum>(ii)</enum><text>Crisis Text Line.</text></clause> <clause id="H5D4F4CA4E15A421E90BB846C71DDACC4" indent="up1"><enum>(iii)</enum><text>A campus mental health center or program, as determined by the institution.</text></clause></subparagraph> 
+<subparagraph id="HE417FFB0211440B9BB165C3D7A42D060" indent="up1"><enum>(B)</enum><text>In the case of an institution that does not create and distribute identification cards for students at any time after the date of enactment of this paragraph, such institution shall publish the suicide prevention contact information specified in subparagraph (A) on the website of such institution.</text></subparagraph> <subparagraph id="H08A65827733042E58920FD0D3D1C99CE" indent="up1"><enum>(C)</enum><text>If an organization in clause (i) or (ii) of subparagraph (A) ceases to exist, the Secretary may designate a different entity with a similar purpose to be included on the identification card.</text></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></subsection> 
+<subsection id="HEE1633376F90462888F8AA42CFF6255F"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall take effect beginning on the day that is 1 year after the date of enactment of this Act.</text></subsection></section> </legis-body></bill>
+

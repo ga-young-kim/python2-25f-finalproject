@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H72644A2A8E9046BE98A419E38E8D9B76" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1375 IH: Ensuring the FDA Fully Examines Clinical Trial Impact and Vitalness before Endorsement Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1375</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230303">March 3, 2023</action-date><action-desc><sponsor name-id="T000483">Mr. Trone</sponsor> (for himself and <cosponsor name-id="M001204">Mr. Meuser</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To allow the Secretary of Health and Human Services to deny approval of a new drug application for an opioid analgesic drug on the basis of such drug not being clinically superior to other commercially available drugs.</official-title></form><legis-body id="H6A4FC4E398D34192A730F83ECAF0110D" style="OLC"><section id="H25ED8736217D4365B1AFDD42F492EC82" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ensuring the FDA Fully Examines Clinical Trial Impact and Vitalness before Endorsement Act</short-title></quote> or the <quote><short-title>EFFECTIVE Act</short-title></quote>.</text></section><section id="HD5889162A83E49F2B8E93DA4EFD157D7"><enum>2.</enum><header>Requirement for approval of new opioid analgesics</header><text display-inline="no-display-inline">Section 505(c) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/355">21 U.S.C. 355(c)</external-xref>) is amended by adding at the end the following:</text><quoted-block style="OLC" display-inline="no-display-inline" id="H68BF11581F7E4CA4B404279D6B77B9C0"><paragraph id="H7C2A892B74034D47ACDC627240523EFA" indent="up1"><enum>(6)</enum><text>Notwithstanding any other provision of this section, the Secretary may deny approval of an application submitted under subsection (b) for an opioid analgesic drug if the Secretary determines that such drug does not provide a significant advantage, in terms of greater safety or effectiveness, compared to an appropriate comparator drug, as determined by the Secretary.</text></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></section></legis-body></bill> 
+

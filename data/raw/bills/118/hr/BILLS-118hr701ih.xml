@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1167379E37F1492EAF7C8A26FD72E052" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 701 IH: DEI Pay Cap Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-01</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 701</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230201">February 1, 2023</action-date><action-desc><sponsor name-id="B001299">Mr. Banks</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name>, and in addition to the Committee on <committee-name committee-id="HGO00">Oversight and Accountability</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To restrict the appointment of certain military personnel to diversity, equity, and inclusion positions.</official-title></form><legis-body id="H1723629F2C1F4D22BF7C87557E053E51" style="OLC"> 
+<section id="HC570E23FD1694C3EAF3704610E8EFFA8" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>DEI Pay Cap Act of 2023</short-title></quote>.</text></section> <section id="H407D0A4940CF4F23AD70DC819FD3FEF9"><enum>2.</enum><header>Diversity, equity, and inclusion personnel grade cap</header> <subsection id="H5A19732EB70A4D9DA3641A4933C032B7"><enum>(a)</enum><header>In general</header><text>The Secretary of Defense may not appoint to, or otherwise employ in, any position with duties as described in subsection (b) a military or civilian employee with a rank or grade in excess of E–5 base pay or GS–5 not adjusted for locality. </text></subsection> 
+<subsection id="HD7284EE9E69744D596738EFC4E66C85D"><enum>(b)</enum><header>Covered duties</header><text>The duties referred to in subsection (a) are as follows:</text> <paragraph id="H06C22802562E4EA6857EC26CEA8625A8"><enum>(1)</enum><text>Developing, refining, and implementing diversity, equity, and inclusion policy.</text></paragraph> 
+<paragraph id="HCE5A33863B1247B5A84DB67C0A5A52BA"><enum>(2)</enum><text>Leading working groups and councils to developing diversity, equity, and inclusion goals and objectives to measure performance and outcomes.</text></paragraph> <paragraph id="H62D77E5858094C5A8578764246AFA6EC"><enum>(3)</enum><text>Creating and implementing diversity, equity, and inclusion education, training courses, and workshops for military and civilian personnel. </text></paragraph></subsection> 
+<subsection id="HCF891812523E4095B33C526C3DD38C83"><enum>(c)</enum><header>Applicability to current employees</header><text>Any military or civilian employee appointed to a position with duties described in subsection (b) who holds a rank or grade in excess of that allowed under subsection (a) shall be reassigned to another position not later than 180 days after the date of the enactment of this Act. </text></subsection></section> </legis-body></bill>
+

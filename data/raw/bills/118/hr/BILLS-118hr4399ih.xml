@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H4B1D68A6F60B480AAB486B01AA3F89CE" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4399 IH: Data Recorders Installed in Vehicles Equipped So Armed Forces Endure Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-06-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4399</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230630">June 30, 2023</action-date><action-desc><sponsor name-id="B001260">Mr. Buchanan</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To direct the Comptroller General of the United States to conduct a study on the potential inclusion of black box data recorders in tactical vehicles of the Armed Forces.</official-title></form><legis-body id="H74270112656547D38E72B927911B82DD" style="OLC"><section id="HD132F8A33A8548DEB386E1E7080B21CC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Data Recorders Installed in Vehicles Equipped So Armed Forces Endure Act</short-title></quote> or the <quote><short-title>DRIVE SAFE Act</short-title></quote>. </text></section><section id="H0B8F68DEFCC840BC885DFE9B26AFB248" section-type="subsequent-section"><enum>2.</enum><header>Study and report on potential inclusion of black box data recorders in tactical vehicles</header><subsection id="HC2F252FAC24A47FEB6EFBBA505305DD6"><enum>(a)</enum><header>Study</header><text display-inline="yes-display-inline">The Comptroller General of the United States shall conduct a study to evaluate the feasability and advisability of equipping all tactical vehicles of the Armed Forces with black box data recorders.</text></subsection><subsection id="HA6F7D90C5CD74780ACB7C08EBC96698F"><enum>(b)</enum><header>Report</header><text>Not later than 180 days after the date of the enactment of this Act, the Comptroller General shall submit to the congressional defense committees a report on the results of the study conducted under subsection (a).</text></subsection><subsection id="HD164C25C7D434B7BAD25F312EA6396CD"><enum>(c)</enum><header>Congressional defense committees defined</header><text display-inline="yes-display-inline">In this Act, the term <quote>congressional defense committees</quote> has the meaning given that term in section 101(a)(16) of title 10, United States Code. </text></subsection></section></legis-body></bill> 
+

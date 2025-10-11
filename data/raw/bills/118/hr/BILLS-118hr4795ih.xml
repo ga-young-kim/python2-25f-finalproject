@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H05A69AEB5387499784869F3D3F575A58" public-private="public" key="H" bill-type="olc">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4795 IH: Fentanyl Kills Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session>
+<legis-num display="yes">H. R. 4795</legis-num>
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+<action display="yes">
+<action-date date="20230720">July 20, 2023</action-date>
+<action-desc><sponsor name-id="L000599">Mr. Lawler</sponsor> (for himself, <cosponsor name-id="V000129">Mr. Valadao</cosponsor>, and <cosponsor name-id="B001307">Mr. Baird</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name></action-desc>
+</action>
+<legis-type>A BILL</legis-type>
+<official-title display="yes">To amend title 18, United States Code, with respect to attempted murder and the trafficking of fentanyl.</official-title>
+</form>
+<legis-body id="H0BAEF34477D84C44BCC2E74B55A1E036" style="OLC">
+<section id="H15A3C7C4BEAE4A089AF1B5B990F82AEC" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fentanyl Kills Act</short-title></quote>. </text></section> <section id="H024B54AA3DDE48419EE65906643DAD27"><enum>2.</enum><header>Attempted murder and trafficking of fentanyl</header><text display-inline="no-display-inline">Section 1111 of title 18, United States Code, is amended by adding at the end the following: </text>
+<quoted-block style="OLC" id="HD97F7AD664A04B448B897CF56C1B1C0C" display-inline="no-display-inline">
+<subsection id="H0FA28BBA12CB41F99535D72F9E976A7B"><enum>(d)</enum><text display-inline="yes-display-inline">Any individual who has been found to have trafficked fentanyl shall be deemed to have attempted to perpetrate murder under subsection (a) and shall be subject to the penalty pursuant to subsection (b).</text></subsection> <subsection id="HAB61EB6E027746D0B52CDD6DBCD39A8F"><enum>(e)</enum><text display-inline="yes-display-inline">In this section, the term <quote>trafficked fentanyl</quote> means—</text>
+<paragraph id="H53D1423F0EA7449EBF3BB6316D824A81"><enum>(1)</enum><text display-inline="yes-display-inline">any illicit activity—</text> <subparagraph id="H3A9C5DDD740044809CF485F61264344C"><enum>(A)</enum><text>to produce, manufacture, distribute, sell, or knowingly finance or transport— </text>
+<clause id="H47703F77AE1542D8A138C39FA7451374"><enum>(i)</enum><text>illicit fentanyl, including any controlled substance that is a synthetic opioid and any listed chemical (as defined in section 102 of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/802">21 U.S.C. 802</external-xref>)) that is a synthetic opioid utilized for fentanyl production; or </text></clause> <clause id="H07C4D9F22D7D4A52B2BCE9A999FCFBCF"><enum>(ii)</enum><text>active pharmaceutical ingredients or chemicals that are used in the production of fentanyl; </text></clause></subparagraph>
+<subparagraph id="HD93952A6CBA045EFB8732D8DFA4D19C3"><enum>(B)</enum><text>to attempt to carry out an activity described in subparagraph (A); or </text></subparagraph> <subparagraph id="HF723B7DE467E4F24938ED2F79EFC8750"><enum>(C)</enum><text>to assist, abet, conspire, or collude with any other person to carry out an activity described in subparagraph (A); </text></subparagraph></paragraph>
+<paragraph id="H9A4F4D8B30624CED958918F23C112BFA"><enum>(2)</enum><text>a violation of section 401(a)(1) of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/841">21 U.S.C. 841(a)(1)</external-xref>) involving manufacturing, distributing, or dispensing, or possessing with intent to manufacture, distribute, or dispense, fentanyl or a fentanyl-related substance in or into the United States; </text></paragraph> <paragraph id="H7827E3F82BB942BC8E5ADD46C5745D4A"><enum>(3)</enum><text>an attempt or conspiracy to commit a violation described in paragraph (2); </text></paragraph>
+<paragraph id="H3E4C66867DC14B6ABD487E0969F5E2A9"><enum>(4)</enum><text>having manufactured, distributed, or dispensed, or possessed with intent to manufacture, distribute, or dispense, fentanyl or a fentanyl-related substance outside the United States with the intention of such fentanyl or fentanyl-related substance being distributed or dispensed in or into the United States in violation of section 401(a)(1) or 406 of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/841">21 U.S.C. 841(a)(1)</external-xref>, 846); or </text></paragraph> <paragraph id="HAEF3D5A7638A4A26B4680AC1E3DEE2A9"><enum>(5)</enum><text>having produced or manufactured, distributed, or dispensed, or possessed with intent to manufacture, distribute, or dispense, a substance that is a precursor to fentanyl or a fentanyl-related substance with the intention of such precursor, fentanyl, or fentanyl-related substance being distributed or dispensed in or into the United States in violation of section 401(a)(1) or 406 of the Controlled Substances Act (<external-xref legal-doc="usc" parsable-cite="usc/21/841">21 U.S.C. 841(a)(1)</external-xref>, 846).</text></paragraph></subsection><after-quoted-block> .</after-quoted-block></quoted-block></section>
+</legis-body>
+</bill> 
+
+

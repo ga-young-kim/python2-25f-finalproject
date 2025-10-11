@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H1FB5F4BC7D6F4F84A004351A6958026E" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 633 IH: Direct Primary Care Accessibility Act of 2023</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-01-30</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 633</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230130">January 30, 2023</action-date><action-desc><sponsor name-id="R000103">Mr. Rosendale</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend title XXVII of the Public Health Service Act to exempt certain direct primary care arrangements from regulation as health insurance coverage.</official-title></form><legis-body id="HB45803B467A74D09875E28CF6928029F" style="OLC"> 
+<section id="H80EF65080EBA4C4CB66AFCECB25B432B" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Direct Primary Care Accessibility Act of 2023</short-title></quote>.</text></section> <section id="H9F54A9C331B1488F9230E0ADEC2C2713"><enum>2.</enum><header>Exempting certain direct primary care arrangements from regulation as health insurance coverage</header><text display-inline="no-display-inline">Section 2791(b) of the Public Health Service Act (<external-xref legal-doc="usc" parsable-cite="usc/42/300gg-91">42 U.S.C. 300gg–91(b)</external-xref>) is amended—</text>
+<paragraph id="HDAD42D13595346B4AEAAA7B5B5137099"><enum>(1)</enum><text>in paragraph (1), by inserting <quote>, except that such term shall not include a direct primary care arrangement (as defined in paragraph (6))</quote> before the period; and</text></paragraph> <paragraph id="HA0FF60E0A0C844A8A52C32CA16EBEA71"><enum>(2)</enum><text>by adding at the end the following new paragraph:</text>
+<quoted-block style="OLC" id="HA198F34F06E7490AB14A56371FE3DF9F" display-inline="no-display-inline">
+<paragraph id="H3E320D7933344041B72391CFB403AA6B"><enum>(6)</enum><header>Direct primary care arrangement</header>
+<subparagraph id="HB2DC735F2E0741D6820968F757574807"><enum>(A)</enum><header>In general</header><text>Except as provided in subparagraph (B), the term <quote>direct primary care arrangement</quote> means an arrangement under which an item or service is furnished by a health care provider to an individual in return for a direct fee. Such a fee may include—</text> <clause id="H2EBBC6DA14E241DE891C47D33FE24C7A"><enum>(i)</enum><text>a monthly retainer;</text></clause>
+<clause id="HF34F0754A5F04818A9BF947C7E9EFC56"><enum>(ii)</enum><text>a membership fee;</text></clause> <clause id="H7B1CA86241F14B46969B49F020EDCFFA"><enum>(iii)</enum><text>a subscription fee; or</text></clause>
+<clause id="H7202934E16E849A9A0821C504A4BECB7"><enum>(iv)</enum><text>a fee for a service, visit, or episode of care.</text></clause></subparagraph> <subparagraph id="HFF5C22FB6DE944ACA4ACD32D83BFD5B7"><enum>(B)</enum><header>Exception</header><text>The term <quote>direct primary care arrangement</quote> shall not include any arrangement unless—</text>
+<clause id="H6A5D9A67AA024FE9B79671F042369798"><enum>(i)</enum><text>a copy of such arrangement is provided to the individual entering into such agreement (or the legal representative of such individual); and</text></clause> <clause id="H482F8AC30B9E4149BD7EE7DBBF864FB6"><enum>(ii)</enum><text>such agreement—</text>
+<subclause id="H5F2F99B49CDD4CF48C4C750D8DB1842B"><enum>(I)</enum><text>is in writing;</text></subclause> <subclause id="H1280E3952D574304A94F8B680E8983D6"><enum>(II)</enum><text display-inline="yes-display-inline">describes the items and services to be provided in exchange for payment of a direct fee (as described in subparagraph (A));</text></subclause>
+<subclause id="H5745CC729BCC47E1BB2F62CF1B55FB60"><enum>(III)</enum><text display-inline="yes-display-inline">specifies the direct fee required and any additional fees to be paid by a third party;</text></subclause> <subclause id="H6BBC88DB438F436C8C29E06380EFD2A6"><enum>(IV)</enum><text display-inline="yes-display-inline">specifies the individual’s payment obligation; and</text></subclause>
+<subclause id="H62B043D7E3724F0F918C523E1E142AD8"><enum>(V)</enum><text display-inline="yes-display-inline">prohibits the provider from charging or receiving additional compensation for items and services included in the direct fee.</text></subclause></clause></subparagraph></paragraph><after-quoted-block>.</after-quoted-block></quoted-block></paragraph></section> </legis-body></bill>
+

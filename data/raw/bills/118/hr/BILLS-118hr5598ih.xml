@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H3B8C8B5EBF8E4F4E8D11897498D9ABAF" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 5598 IH: Treatment, Recovery, Education, Awareness, and Training for Youth Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-09-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5598</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230920">September 20, 2023</action-date><action-desc><sponsor name-id="L000590">Ms. Lee of Nevada</sponsor> (for herself and <cosponsor name-id="K000399">Mrs. Kiggans of Virginia</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in addition to the Committee on <committee-name committee-id="HED00">Education and the Workforce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the SUPPORT for Patients and Communities Act to reauthorize a youth prevention and recovery initiative.</official-title></form><legis-body id="H1AB4263DE0B44D0F88F1D5851B61A336" style="OLC"> 
+<section id="H9FF75CEDC574473DBE594531941B5959" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Treatment, Recovery, Education, Awareness, and Training for Youth Act</short-title></quote> or the <quote><short-title>TREAT Youth Act</short-title></quote>. </text></section> <section id="HE3A8A80CAE12429ABEC2B7A6CC901938"><enum>2.</enum><header>Youth prevention and recovery</header><text display-inline="no-display-inline">Section 7102(c)(9) of the SUPPORT for Patients and Communities Act (42 U.S.C. 290bb–7a(c)(9)) is amended by striking <quote>fiscal years 2019 through 2023</quote> and inserting <quote>fiscal years 2024 through 2028</quote>.</text></section> 
+</legis-body></bill>
+

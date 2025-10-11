@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="HC09D34D89D45414D912B079E1F8B05BE" public-private="public" key="H" bill-type="olc"> 
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6017 IH: To revoke the waiver determination submitted to Congress on September 11, 2023, with respect to certain sanctions imposed with respect to Iran.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-10-25</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session> 
+<legis-num display="yes">H. R. 6017</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action display="yes"> 
+<action-date date="20231020">October 20, 2023</action-date> 
+<action-desc><sponsor name-id="S001135">Mrs. Steel</sponsor> (for herself, <cosponsor name-id="O000086">Mr. Owens</cosponsor>, <cosponsor name-id="G000593">Mr. Gimenez</cosponsor>, <cosponsor name-id="L000578">Mr. LaMalfa</cosponsor>, and <cosponsor name-id="W000814">Mr. Weber of Texas</cosponsor>) introduced the following bill</action-desc> 
+</action> 
+<action display="yes"> 
+<action-date date="20231025">October 25, 2023</action-date> 
+<action-desc>Referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name>, and in addition to the <committee-name committee-id="HBA00">Committees on Financial Services</committee-name>, <committee-name committee-id="HWM00">Ways and Means</committee-name>, and <committee-name committee-id="HGO00">Oversight and Accountability</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc> 
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title display="yes">To revoke the waiver determination submitted to Congress on September 11, 2023, with respect to certain sanctions imposed with respect to Iran.</official-title> 
+</form> 
+<legis-body id="H20E7BCE2F3F74E7588E036B2EB0FC3C7" style="OLC"> 
+<section commented="no" display-inline="no-display-inline" section-type="section-one" id="H5F92162C61A247268BD9EBD37B510677"><enum>1.</enum><header>Revocation of waiver determination with respect to certain Iran sanctions</header> 
+<subsection commented="no" display-inline="no-display-inline" id="HB1770DC38EC244CCAB16F1AFDE85E518"><enum>(a)</enum><header display-inline="yes-display-inline">In general</header><text display-inline="yes-display-inline">On and after the date of the enactment of this Act, the waiver determination issued by the Secretary of State pursuant to the provisions of law specified in subsection (b) and submitted to Congress on September 11, 2023, shall have no force or effect.</text></subsection> <subsection commented="no" display-inline="no-display-inline" id="H87505FDA395F4B2694DD9AFEB8A7173A"><enum>(b)</enum><header>Provisions of law specified</header><text>The provisions of law specified in this subsection are—</text> 
+<paragraph commented="no" display-inline="no-display-inline" id="H3D657E2DFBD348CF88D9B8BFF7DC7CE2"><enum>(1)</enum><text>section 1245(d)(5) of the National Defense Authorization Act for Fiscal Year 2012 (<external-xref legal-doc="usc" parsable-cite="usc/22/8513a">22 U.S.C. 8513a(d)(5)</external-xref>); or</text></paragraph> <paragraph id="H6DCF74F88CBD458DBEABF070027EBCA8" commented="no" display-inline="no-display-inline"><enum>(2)</enum><text>section 1244(i) or 1247(f) of the Iran Freedom and Counter-Proliferation Act of 2012 (<external-xref legal-doc="usc" parsable-cite="usc/22/8803">22 U.S.C. 8803(i)</external-xref> and 8806(f)). </text></paragraph></subsection></section> 
+</legis-body> 
+</bill> 
+
+

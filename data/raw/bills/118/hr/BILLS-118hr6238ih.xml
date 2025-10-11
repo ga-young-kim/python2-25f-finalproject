@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H9C80292422144F268B4A116130C7888F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 6238 IH: To require the Secretary of State to report a Government Accountability Office High Risk List for weaknesses in the department’s information technology acquisitions and operations, human capital management, Federal real property, and personal security clearance of the United States.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-11-06</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 6238</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20231106">November 6, 2023</action-date><action-desc><sponsor name-id="B001307">Mr. Baird</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HFA00">Committee on Foreign Affairs</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To require the Secretary of State to report a Government Accountability Office High Risk List for weaknesses in the department&#8217;s information technology acquisitions and operations, human capital management, Federal real property, and personal security clearance of the United States.</official-title></form><legis-body id="H7E5107673C9C44C6957DD84C3C81C81C" style="OLC"> 
+<section id="H4026BA812C054E7B837CB2F579C1C943" section-type="section-one"><enum>1.</enum><header>Implementation of gao high risk list recommendations</header> 
+<subsection id="H1EA44BD726604DE08C24EB86B9EFED3D"><enum>(a)</enum><header>In general</header><text>The Secretary shall implement the Government Accountability Office’s High Risk List recommendations as applicable to the Department of State for—</text> <paragraph id="H87ECF6CABB8944A4A689953E904863DF"><enum>(1)</enum><text display-inline="yes-display-inline">improving the management of information technology acquisitions and operations;</text></paragraph> 
+<paragraph id="H5229E6F0BC274CC2BB9CA5B8E1BDD343"><enum>(2)</enum><text>improving strategic human capital management;</text></paragraph> <paragraph id="H46F148FDE44D4FE98628B63C3F5E50C2"><enum>(3)</enum><text>managing Federal real property;</text></paragraph> 
+<paragraph id="H225DA289A829450795F10FDC1FEE5052"><enum>(4)</enum><text>ensuring the cybersecurity of the United States; and</text></paragraph> <paragraph id="H3582DD85E125419DA8EFF0050E9D80C9"><enum>(5)</enum><text>managing Government-wide personnel security clearance process.</text></paragraph></subsection> 
+<subsection id="HE4898C09E52B4F8C8D2750CEA3210AAB"><enum>(b)</enum><header>Report</header><text>Within 90 days of the date of enactment of this Act, the Secretary shall report to the appropriate congressional committees the Department of States progress in implementing all of the Government Accountability Office’s High Risk List recommendations as applicable to the Department of State mentioned in subsection (a).</text></subsection> <subsection id="HDC3DF6A828EF46ACBDD226918EAD24C5"><enum>(c)</enum><header>Definitions</header> <paragraph id="HA6838B25AAFF4F1895B5D4565B29FB51"><enum>(1)</enum><header>Appropriate congressional committees</header><text>The term <quote>appropriate congressional committees</quote> means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.</text></paragraph> 
+<paragraph id="H1952E609D3A84EF8B282C93960AAB8D8"><enum>(2)</enum><header>High Risk List</header><text>The term <quote>High Risk List</quote> refers to GAO–08–751, the April 20, 2023, report by the Government Accountability Office titled <quote>High-Risk Series: Efforts Made to Achieve Progress Need to Be Maintained and Expanded to Fully Address All Areas</quote>.</text></paragraph></subsection></section> </legis-body></bill>
+

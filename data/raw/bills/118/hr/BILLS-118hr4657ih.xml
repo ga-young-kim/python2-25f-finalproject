@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H761031DA90974374A1833C6356EF7F24" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 4657 IH: To clarify that an issuer may exclude a shareholder proposal pursuant to section 240.14a–8(i) of title 17, Code of Federal Regulations, without regard to whether such proposal relates to a significant social policy issue.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-07-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 4657</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230714">July 14, 2023</action-date><action-desc><sponsor name-id="R000612">Mr. Rose</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To clarify that an issuer may exclude a shareholder proposal pursuant to section 240.14a–8(i) of title 17, Code of Federal Regulations, without regard to whether such proposal relates to a significant social policy issue.</official-title></form><legis-body id="HA0E155CA4E1A44D881DAE82425A0E61D" style="OLC"><section id="H4F75A56163624C23ACF21D756A94C411" section-type="section-one"><enum>1.</enum><header>Exclusions available regardless of significant social policy issue</header><text display-inline="no-display-inline">An issuer may exclude a shareholder proposal pursuant to section 240.14a–8(i) of title 17, Code of Federal Regulations, without regard to whether such shareholder proposal relates to a significant social policy issue. </text></section></legis-body></bill> 
+

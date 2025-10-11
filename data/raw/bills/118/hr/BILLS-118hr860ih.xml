@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H62111E2BDA474DE1BA0F62A875F6725F" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 860 IH: To establish new ZIP Codes for certain communities, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-02-07</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 860</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230207">February 7, 2023</action-date><action-desc><sponsor name-id="D000600">Mr. Diaz-Balart</sponsor> (for himself, <cosponsor name-id="W000797">Ms. Wasserman Schultz</cosponsor>, <cosponsor name-id="S001213">Mr. Steil</cosponsor>, <cosponsor name-id="C000059">Mr. Calvert</cosponsor>, <cosponsor name-id="B001297">Mr. Buck</cosponsor>, and <cosponsor name-id="T000474">Mrs. Torres of California</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Accountability</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To establish new ZIP Codes for certain communities, and for other purposes.</official-title></form><legis-body id="H367C7D20B34F4CA58E8215C8BC6A1CAC" style="OLC"><section id="H42F2A384289B49A8A6E0F4E6496E8578" section-type="section-one"><enum>1.</enum><header>Establishing new ZIP Codes</header><text display-inline="no-display-inline">Not later than 270 days after the date of enactment of this Act, the United States Postal Service shall designate a single, unique ZIP Code for each of the following communities:</text><paragraph id="H1E866E3772B24A6293DF6BF9829143D9"><enum>(1)</enum><text>Miami Lakes, Florida.</text></paragraph><paragraph id="HCD78B1B372DD451BB7673EB4C90FBB48"><enum>(2)</enum><text>Hollywood, Florida.</text></paragraph><paragraph id="H94D052FD694F46B089A9A22CE215BED7"><enum>(3)</enum><text>Village of Somers, Wisconsin.</text></paragraph><paragraph id="H37C9CCA4160842A983F14ACA6081FE99"><enum>(4)</enum><text>Village of Mount Pleasant, Wisconsin.</text></paragraph><paragraph id="HE93A7D2841CE4EA9B2AC40CF3A0738FA"><enum>(5)</enum><text>Village of Caledonia, Wisconsin.</text></paragraph><paragraph id="HE834840BED8E4DDCBC4878AAB2962B4C"><enum>(6)</enum><text>Eastvale, California.</text></paragraph><paragraph id="H51FDD17BC3CE4554A9E1F2F85BA1DD5C"><enum>(7)</enum><text>Castle Pines, Colorado.</text></paragraph></section></legis-body></bill> 
+

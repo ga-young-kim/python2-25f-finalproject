@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H48137D51ED3B405FBDCC7B1436799625" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>118 HR 1842 IH: Student Loan Tax Elimination Act </dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2023-03-28</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">118th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 1842</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20230328">March 28, 2023</action-date><action-desc><sponsor name-id="S001199">Mr. Smucker</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HED00">Committee on Education and the Workforce</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Higher Education Act of 1965 to eliminate origination fees on Federal Direct loans.</official-title></form><legis-body id="H5EDBE1893664447BB8D9537D275FC2ED" style="OLC"> 
+<section section-type="section-one" id="H91F2C2C4F9464968954D79A22EFE7355"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Student Loan Tax Elimination Act </short-title></quote>.</text></section> <section id="H1FAA6FF8EF744CCB8E3F5370638B2146"><enum>2.</enum><header>Elimination of origination fees on Federal Direct loans</header> <subsection id="HE02F1F91977A4C9A897C8B009F838FE2"><enum>(a)</enum><header>Repeal of origination fees</header><text>Subsection (c) of section 455 of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1087e">20 U.S.C. 1087e(c)</external-xref>) is repealed.</text></subsection>
+<subsection id="H5C73AC2731B445E8A30DCF5AF43FF027"><enum>(b)</enum><header>Effective date</header><text>The amendment made by subsection (a) shall apply with respect to loans made under part D of title IV of the Higher Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/1087a">20 U.S.C. 1087a et seq.</external-xref>) for which the first disbursement of principal is made, or, in the case of a Federal Direct Consolidation Loan, the application is received, on or after March 27, 2022. </text></subsection></section> </legis-body></bill>
+
