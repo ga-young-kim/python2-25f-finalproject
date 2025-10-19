@@ -5,10 +5,16 @@ format:
     html:
         code-fold: false
         toc: true
+        toc-depth: 3
 ---
 
-## Setup
 ```{python}
+#| code-fold: true
+#| message: false
+#| output: false
+
+# setup 
+# import packages
 import json
 import pandas as pd
 import numpy as np
@@ -18,19 +24,19 @@ from typing import Dict, List, Optional, Tuple
 import re
 from collections import defaultdict
 from tqdm import tqdm
+
 import warnings
-
 warnings.filterwarnings('ignore')
-```
 
-```{python}
 import os
 import requests
 from xml.etree import ElementTree as ET
 ```
+
 ```{python}
 # Configuration
 RAW_DATA_DIR = Path("data/raw")
+## for the sake of final project assignment - you can test redownloading the data by changing/creating a new directory 
 OUTPUT_DIR = Path("data/processed")
 TEMP_DIR = Path("data/temp")
 
@@ -39,28 +45,32 @@ for dir_path in [OUTPUT_DIR, TEMP_DIR, RAW_DATA_DIR]:
     dir_path.mkdir(parents=True, exist_ok=True)
 ```
 
+## Overview
+
+This notebook acquires data from three primary sources:
+
+1.  **Bioguide profiles** - Biographical information for all members of Congress
+2.  **Bill data** - Detailed information about bills, sponsorships, and legislative actions
+3.  **Supplementary datasets** - Legislative effectiveness scores and historical legislator records
+
+These data sources share a common identifier (`bioguide_id`) that enables linking across datasets.
+
 # Bioguide
+
+### Why Bioguide?
+
+The [Congressional Bioguide](https://bioguide.congress.gov/) provides authoritative biographical data directly from Congress. Unlike other sources, it includes standardized identifiers (e.g., `usCongressBioId`) that facilitate data linkage across our analysis pipeline. The bulk download format allows us to work with local copies rather than making repeated API calls.
 
 ## Load Data
 
 Profiles of all congressmembers (and important political figure such as President and Vice president) in the United States Congress is accessed as a bulk data and downloaded manually from [biguide.congress.gov](https://bioguide.congress.gov/) in a compressed `.zip` format. (`data/raw/BioguideProfiles.zip`) (Accessed Septempber 18th, 2025)
-It is manually unzipped and stored as individual `.json` file in the `data/raw/BioguideProfiles` folder.
+
+It is manually unzipped and stored as `.json` files in the `data/raw/BioguideProfiles` folder.
 
 ```{python}
-def load_all_bioguide_files(directory: Path) -> pd.DataFrame:
-    """
-    Load all bioguide JSON files from a directory.
+def load_all_bioguide_files(directory: Path):
+    # Load all bioguide JSON files from a directory.
     
-    Parameters
-    ----------
-    directory : Path
-        Directory containing bioguide JSON files
-        
-    Returns
-    -------
-    pd.DataFrame
-        Combined bioguide data
-    """
     all_records = []
     json_files = list(directory.glob("*.json"))
     
@@ -102,6 +112,13 @@ BIO_RAW_DIR = Path("data/raw/BioguideProfiles")
 bio_df = load_all_bioguide_files(BIO_RAW_DIR)
 ```
 
+```{python}
+print(f"Total records loaded: {len(bio_df)}")
+print(f"Unique bioguide IDs: {bio_df['usCongressBioId'].nunique()}")
+print(f"Duplicate check: {bio_df['usCongressBioId'].duplicated().sum()} duplicates")
+print(f"\nColumns available: {bio_df.columns.tolist()}")
+```
+
 ## Basic Cleaning
 
 ```{python}
@@ -127,38 +144,31 @@ bio_df.to_pickle(TEMP_DIR / 'bioguide_raw.pkl')
 print(f"\nSaved raw data to {TEMP_DIR / 'bioguide_raw.pkl'}")
 ```
 
-
 # Bills
 
-## Load Data
+Bill Data Download Strategy The GovInfo API provides bulk bill data in XML format. I download:
 
-### download (Web scrape) bill bulk data
+-   **Bill status files** (not full text) to keep file sizes manageable
+
+    -   with **Specific bill types** to focus on primary legislation (HR bills)
+
+        -   Common types are 'hr' (House Bill), 's' (Senate Bill), 'hjres' (House Joint Resolution), 'sjres' (Senate Joint Resolution), 'hconres' (House Concurrent Resolution), 'sconres' (Senate Concurrent Resolution)
+
+    -   for **Recent sessions only** (117th, 118th) for computational feasibility
+
+The download function includes checks to handle interrupted downloads and errors.
+
+## Functions
+
+### Download bill bulk data
+
 ```{python}
 def download_congress_bills(
     session,
     bill_types,
     output_dir = "./data/raw/bills"
 ) :
-    """
-    Download bill XML files from govinfo.gov
-    
-    Parameters:
-    -----------
-    session : int
-        Congressional session number (e.g., 115, 116, 117)
-    bill_types : List[str]
-        List of bill types to download (e.g., ['hjres', 'hr', 'sjres', 's'])
-        Common types: 'hr' (House Bill), 's' (Senate Bill), 
-                     'hjres' (House Joint Resolution), 'sjres' (Senate Joint Resolution),
-                     'hconres' (House Concurrent Resolution), 'sconres' (Senate Concurrent Resolution)
-    output_dir : str
-        Directory to save downloaded files
-    
-    Returns:
-    --------
-    Dict[str, List[str]]
-        Dictionary mapping bill_type to list of downloaded file paths
-    """
+    # Download bill XML files from govinfo.gov
     
     # Create output directory
     output_path = Path(output_dir)
@@ -176,8 +186,8 @@ def download_congress_bills(
         bill_type_dir.mkdir(parents=True, exist_ok=True)
         
         # Get list of bills from JSON endpoint
-        # Note: The bill status structure is /BILLSTATUS/session/bill_type for the listing
-        # Note: The entire bills structure is /BILLS/session/half/bill_type for the listing (half can be 1 or two)
+        # Note: The bill status file list is stored at /BILLSTATUS/session/bill_type 
+        # Note: The entire bills structure can be downloaded from /BILLS/session/half/bill_type for the listing (half can be 1 or two)
 
         json_url = f"https://www.govinfo.gov/bulkdata/json/BILLSTATUS/{session}/{bill_type}"
         print(f"Fetching bill list from: {json_url}")
@@ -238,170 +248,199 @@ def download_congress_bills(
 ```
 
 ```{python}
-house_118 = download_congress_bills(118, ["hr"])
+# backup code to get the list of file paths as "downloaded_files", in case lost connection and values are lost - but do not need to redownload from the web source by using the above function
+
+# from pathlib import Path
+
+# # Scan for already downloaded files
+# base_path = Path("./data/raw/bills/118")
+# downloaded_files = {}
+
+# for xml_file in base_path.rglob("*.xml"):
+#     bill_type = xml_file.parent.name  # Get the bill_type folder name
+    
+#     if bill_type not in downloaded_files:
+#         downloaded_files[bill_type] = []
+    
+#     downloaded_files[bill_type].append(str(xml_file))
+
+# # Check what you found
+# for bill_type, files in downloaded_files.items():
+#     print(f"{bill_type}: {len(files)} files")
 ```
 
-```{python}
-type(house_118['hr']) # list
-```
+### Data Processing
+
+The XML parsing extracts data into relational tables:
+
+-   bills - One row per bill with metadata
+
+-   sponsorships - One row per person-bill relationship
+
+-   actions - One row per legislative action (action-bill relationship)
+
+-   committees - Committee assignments
+
+-   people - Unique legislator registry
+
+This normalized structure enables efficient querying and prevents data duplication.
 
 ```{python}
-house_117 = download_congress_bills(117, ["hr"])
-```
-
-
-### process downloaded xml bill data into multiple tables (dataframes)
-```{python}
-import xml.etree.ElementTree as ET
-
-def parse_bill_status_xml(file_path):
+def parse_bill_xml(xml_path: str, policy_areas: Optional[List[str]] = None):
     """
-    Parse billStatus XML to extract comprehensive bill metadata
-    
-    Returns:
-        dict: Contains bill metadata including summary, sponsors, actions, etc.
+    Parse a single billStatus XML file and extract all relevant information
     """
-    tree = ET.parse(file_path)
-    root = tree.getroot()
     
-    # Navigate to the bill element
-    bill = root.find('.//bill')
-    
-    # Extract basic metadata
-    bill_number = bill.find('number').text if bill.find('number') is not None else 'Unknown'
-    bill_type = bill.find('type').text if bill.find('type') is not None else 'Unknown'
-    congress = bill.find('congress').text if bill.find('congress') is not None else 'Unknown'
-    
-    # Full bill ID
-    bill_id = f"{bill_type}{bill_number}-{congress}"
-    
-    # Extract title
-    title_elem = bill.find('title')
-    title = title_elem.text if title_elem is not None else 'No title'
-    
-    # Extract short titles
-    short_titles = []
-    titles_section = bill.find('titles')
-    if titles_section is not None:
-        for title_item in titles_section.findall('item'):
-            title_type = title_item.find('titleType')
-            if title_type is not None and 'Short Title' in title_type.text:
-                title_text = title_item.find('title')
-                if title_text is not None:
-                    short_titles.append(title_text.text)
-    
-    # Extract summary
-    summary = None
-    summaries = bill.find('summaries')
-    if summaries is not None:
-        summary_item = summaries.find('summary')
-        if summary_item is not None:
-            # Get the text from CDATA
-            text_elem = summary_item.find('.//text')
-            if text_elem is not None:
-                summary = text_elem.text
-                # Clean HTML tags if present
-                import re
-                summary = re.sub('<.*?>', '', summary) if summary else None
-    
-    # Extract policy area
-    policy_area = None
-    policy_elem = bill.find('.//policyArea/name')
-    if policy_elem is not None:
-        policy_area = policy_elem.text
-    
-    # Extract legislative subjects
-    subjects = []
-    leg_subjects = bill.find('.//legislativeSubjects')
-    if leg_subjects is not None:
-        for item in leg_subjects.findall('item'):
-            name_elem = item.find('name')
-            if name_elem is not None:
-                subjects.append(name_elem.text)
-    
-    # Extract sponsor information
-    sponsor = None
-    sponsor_elem = bill.find('.//sponsors/item')
-    if sponsor_elem is not None:
-        sponsor = {
-            'name': sponsor_elem.find('fullName').text if sponsor_elem.find('fullName') is not None else None,
-            'party': sponsor_elem.find('party').text if sponsor_elem.find('party') is not None else None,
-            'state': sponsor_elem.find('state').text if sponsor_elem.find('state') is not None else None
+    try:
+        tree = ET.parse(xml_path)
+        root = tree.getroot()
+        
+        # Navigate to the bill element (billStatus structure)
+        bill = root.find('.//bill')
+        if bill is None:
+            print(f"Warning: No bill element found in {xml_path}")
+            return None
+        
+        # Helper function to safely get text
+        def get_text(element, xpath, default=""):
+            node = element.find(xpath)
+            return node.text if node is not None and node.text else default
+        
+        # Helper function to safely parse date
+        def parse_date(date_str):
+            if not date_str:
+                return None
+            try:
+                return datetime.strptime(date_str, "%Y-%m-%d").date()
+            except:
+                return None
+        
+        # Helper function to safely parse datetime
+        def parse_datetime(dt_str):
+            if not dt_str:
+                return None
+            try:
+                return datetime.strptime(dt_str, "%Y-%m-%dT%H:%M:%SZ")
+            except:
+                return None
+        
+        # Helper function to clean HTML tags
+        def clean_html(text):
+            if not text:
+                return ""
+            import re
+            return re.sub('<.*?>', '', text).strip()
+        
+        # Check policy area filter
+        policy_area = get_text(bill, ".//policyArea/name").lower()
+        if not policy_area:
+            policy_area = None
+        
+        if policy_areas and policy_areas != ['all'] and policy_area not in [pa.lower() for pa in policy_areas]:
+            return None
+        
+        # Extract bill ID
+        bill_type = get_text(bill, "type")
+        bill_number = get_text(bill, "number")
+        congress = get_text(bill, "congress")
+        bill_id = f"{bill_type}{bill_number}"
+        
+        # === EXTRACT BILL-LEVEL INFORMATION ===
+        bill_info = {
+            'bill_id': bill_id,
+            'congress': int(get_text(root, ".//congress", "0")),
+            'bill_type': bill_type,
+            'bill_number': int(bill_number) if bill_number else 0,
+            'origin_chamber': get_text(root, ".//originChamber"),
+            'origin_chamber_code': get_text(root, ".//originChamberCode"),
+            'introduced_date': parse_date(get_text(root, ".//introducedDate")),
+            'update_date': parse_datetime(get_text(root, ".//updateDate")),
+            'title': get_text(root, ".//title"),
+            'policy_area': policy_area,
+            'latest_action_date': parse_date(get_text(root, ".//latestAction/actionDate")),
+            'latest_action_text': get_text(root, ".//latestAction/text"),
         }
-    
-    # Extract cosponsors
-    cosponsors = []
-    cosponsors_section = bill.find('cosponsors')
-    if cosponsors_section is not None:
-        for cosponsor in cosponsors_section.findall('item'):
-            cosponsors.append({
-                'name': cosponsor.find('fullName').text if cosponsor.find('fullName') is not None else None,
-                'party': cosponsor.find('party').text if cosponsor.find('party') is not None else None,
-                'state': cosponsor.find('state').text if cosponsor.find('state') is not None else None
+        
+        # === EXTRACT ACTIONS ===
+        actions = []
+        for action in root.findall(".//actions/item"):
+            actions.append({
+                'bill_id': bill_id,
+                'action_date': parse_date(get_text(action, "actionDate")),
+                'action_time': get_text(action, "actionTime"),
+                'action_text': get_text(action, "text"),
+                'action_type': get_text(action, "type"),
+                'action_code': get_text(action, "actionCode"),
+                'source_system': get_text(action, "sourceSystem/name"),
+                'source_code': get_text(action, "sourceSystem/code"),
             })
-    
-    # Extract actions
-    actions = []
-    actions_section = bill.find('actions')
-    if actions_section is not None:
-        for action in actions_section.findall('item'):
-            action_date = action.find('actionDate')
-            action_text = action.find('text')
-            if action_date is not None and action_text is not None:
-                actions.append({
-                    'date': action_date.text,
-                    'text': action_text.text
-                })
-    
-    # Get latest action
-    latest_action = None
-    latest_action_elem = bill.find('latestAction')
-    if latest_action_elem is not None:
-        latest_action = {
-            'date': latest_action_elem.find('actionDate').text if latest_action_elem.find('actionDate') is not None else None,
-            'text': latest_action_elem.find('text').text if latest_action_elem.find('text') is not None else None
+        
+        # === EXTRACT SPONSORS ===
+        sponsors = []
+        for sponsor in root.findall(".//sponsors/item"):
+            sponsors.append({
+                'bill_id': bill_id,
+                'bioguide_id': get_text(sponsor, "bioguideId"),
+                'full_name': get_text(sponsor, "fullName"),
+                'first_name': get_text(sponsor, "firstName"),
+                'last_name': get_text(sponsor, "lastName"),
+                'party': get_text(sponsor, "party"),
+                'state': get_text(sponsor, "state"),
+                'district': get_text(sponsor, "district"),
+                'is_by_request': get_text(sponsor, "isByRequest"),
+                'role': 'sponsor',
+                'sponsor_date': bill_info['introduced_date'],
+                'sponsorship_withdrawn_date': None,
+                'is_original_cosponsor': None,
+            })
+        
+        # === EXTRACT COSPONSORS ===
+        cosponsors = []
+        for cosponsor in root.findall(".//cosponsors/item"):
+            cosponsors.append({
+                'bill_id': bill_id,
+                'bioguide_id': get_text(cosponsor, "bioguideId"),
+                'full_name': get_text(cosponsor, "fullName"),
+                'first_name': get_text(cosponsor, "firstName"),
+                'last_name': get_text(cosponsor, "lastName"),
+                'party': get_text(cosponsor, "party"),
+                'state': get_text(cosponsor, "state"),
+                'district': get_text(cosponsor, "district"),
+                'is_by_request': None,
+                'role': 'cosponsor',
+                'sponsor_date': parse_date(get_text(cosponsor, "sponsorshipDate")),
+                'sponsorship_withdrawn_date': parse_date(get_text(cosponsor, "sponsorshipWithdrawnDate")),
+                'is_original_cosponsor': get_text(cosponsor, "isOriginalCosponsor"),
+            })
+        
+        # === EXTRACT COMMITTEES ===
+        committees = []
+        for committee in root.findall(".//committees/item"):
+            committees.append({
+                'bill_id': bill_id,
+                'committee_code': get_text(committee, "systemCode"),
+                'committee_name': get_text(committee, "name"),
+                'chamber': get_text(committee, "chamber"),
+            })
+        
+        # Update bill summary statistics
+        bill_info['total_sponsors'] = len(sponsors)
+        bill_info['total_cosponsors'] = len(cosponsors)
+        bill_info['total_actions'] = len(actions)
+        
+        return {
+            'bill': bill_info,
+            'actions': actions,
+            'sponsors': sponsors,
+            'cosponsors': cosponsors,
+            'committees': committees,
         }
-    
-    return {
-        'bill_id': bill_id,
-        'bill_number': bill_number,
-        'bill_type': bill_type,
-        'congress': congress,
-        'title': title,
-        'short_titles': short_titles,
-        'summary': summary,
-        'policy_area': policy_area,
-        'subjects': subjects,
-        'sponsor': sponsor,
-        'cosponsor_count': len(cosponsors),
-        'cosponsors': cosponsors,
-        'actions': actions,
-        'latest_action': latest_action,
-        'introduced_date': bill.find('introducedDate').text if bill.find('introducedDate') is not None else None
-    }
+        
+    except Exception as e:
+        print(f"Error parsing {xml_path}: {e}")
+        return None
 ```
 
-```{python}
-# example
-bill_info = parse_bill_status_xml('billstatus.xml')
-```
-
-```{python}
-def print_bill_info_summary(bill_info):
-    print(f"Bill: {bill_info['bill_id']}")
-    print(f"Title: {bill_info['title']}")
-    print(f"\nShort Title: {bill_info['short_titles'][0] if bill_info['short_titles'] else 'N/A'}")
-    print(f"\nSummary:\n{bill_info['summary'][:200]}..." if bill_info['summary'] else "No summary")
-    print(f"\nPolicy Area: {bill_info['policy_area']}")
-    print(f"\nSubjects:")
-    for subject in bill_info['subjects']:
-        print(f"  - {subject}")
-    print(f"\nSponsor: {bill_info['sponsor']['name']} ({bill_info['sponsor']['party']}-{bill_info['sponsor']['state']})")
-    print(f"Cosponsors: {bill_info['cosponsor_count']}")
-    print(f"\nLatest Action ({bill_info['latest_action']['date']}): {bill_info['latest_action']['text']}")
-
-print_bill_info_summary(parse_bill_status_xml(f'BILLSTATUS-{session}{bill_type}{bill_number}.xml'))
-```
 ```{python}
 def process_bills_to_dataframes(
     downloaded_files: Dict[str, List[str]],
@@ -465,6 +504,7 @@ def process_bills_to_dataframes(
     people_df = pd.DataFrame(all_people)
     committees_df = pd.DataFrame(all_committees)
     
+    
     # Create unique people registry
     unique_people = people_df[
         ['bioguide_id', 'full_name', 'first_name', 'last_name', 'party', 'state', 'district']
@@ -477,6 +517,12 @@ def process_bills_to_dataframes(
     ].sort_values(['bill_id', 'sponsor_date']).reset_index(drop=True)
     
     print(f"\nProcessing complete!")
+    print(f"Number of files to process: {len(all_files)}")
+    print(f"Bills extracted: {len(all_bills)}")
+    print(f"People records: {len(all_people)}")
+    print(f"People_df shape: {people_df.shape}")
+    print(f"People_df columns: {people_df.columns.tolist()}")
+
     print(f"  Bills: {len(bills_df)}")
     print(f"  Unique legislators: {len(unique_people)}")
     print(f"  Total actions: {len(actions_df)}")
@@ -493,16 +539,272 @@ def process_bills_to_dataframes(
     }
 ```
 
-
-# Already cleaned/processed dataset
-load and import secondary data in various format into pandas DataFrame.
-
-## Legislative effectiveness
-## Ideological score (DW-NOMINATE)
-## Historical list of Legislators
-The list of legislators 
 ```{python}
-
+def generate_summary_stats(data_dict: Dict[str, pd.DataFrame]) -> None:
+    """
+    Generate and print summary statistics from processed data
+    """
+    
+    bills_df = data_dict['bills']
+    sponsorships_df = data_dict['sponsorships']
+    people_df = data_dict['people']
+    actions_df = data_dict['actions']
+    
+    print("=" * 80)
+    print("CONGRESSIONAL BILLS DATA SUMMARY")
+    print("=" * 80)
+    
+    # === BILLS SUMMARY ===
+    print("\n📋 BILLS OVERVIEW")
+    print("-" * 80)
+    print(f"Total Bills: {len(bills_df):,}")
+    print(f"Average Sponsors per Bill: {bills_df['total_sponsors'].mean():.2f}")
+    print(f"Average Cosponsors per Bill: {bills_df['total_cosponsors'].mean():.2f}")
+    
+    print("\n  Bills by Type:")
+    for bill_type, count in bills_df['bill_type'].value_counts().items():
+        print(f"    • {bill_type}: {count:,} bills")
+    
+    print("\n  Top 10 Policy Areas:")
+    for i, (policy_area, count) in enumerate(bills_df['policy_area'].value_counts().head(10).items(), 1):
+        print(f"    {i:2d}. {policy_area}: {count:,} bills")
+    
+    # === TEMPORAL SUMMARY ===
+    print("\n📅 TEMPORAL INFORMATION")
+    print("-" * 80)
+    date_min = bills_df['introduced_date'].min()
+    date_max = bills_df['introduced_date'].max()
+    print(f"Date Range: {date_min} to {date_max}")
+    
+    if date_min and date_max:
+        days_span = (date_max - date_min).days
+        print(f"Time Span: {days_span:,} days ({days_span/365.25:.1f} years)")
+    
+    print(f"Total Actions Recorded: {len(actions_df):,}")
+    print(f"Average Actions per Bill: {len(actions_df) / len(bills_df):.1f}")
+    
+    # === PEOPLE SUMMARY ===
+    print("\n👥 LEGISLATORS")
+    print("-" * 80)
+    print(f"Unique Legislators: {len(people_df):,}")
+    
+    print("\n  Party Distribution:")
+    for party, count in people_df['party'].value_counts().items():
+        percentage = (count / len(people_df)) * 100
+        print(f"    • {party}: {count:,} ({percentage:.1f}%)")
+    
+    print("\n  Top 10 States by Legislator Count:")
+    for i, (state, count) in enumerate(people_df['state'].value_counts().head(10).items(), 1):
+        print(f"    {i:2d}. {state}: {count:,} legislators")
+    
+    print("\n  Sponsorship Roles:")
+    for role, count in sponsorships_df['role'].value_counts().items():
+        print(f"    • {role.title()}: {count:,} instances")
+    
+    # === COMMITTEES SUMMARY ===
+    if 'committees' in data_dict and len(data_dict['committees']) > 0:
+        committees_df = data_dict['committees']
+        print("\n🏛️  COMMITTEES")
+        print("-" * 80)
+        print(f"Total Committee Assignments: {len(committees_df):,}")
+        print(f"\n  Top 10 Most Active Committees:")
+        for i, (committee, count) in enumerate(committees_df['committee_name'].value_counts().head(10).items(), 1):
+            print(f"    {i:2d}. {committee}: {count:,} bills")
+    
+    # === TEXT VERSIONS SUMMARY ===
+    if 'text_versions' in data_dict and len(data_dict['text_versions']) > 0:
+        text_versions_df = data_dict['text_versions']
+        print("\n📄 BILL TEXT VERSIONS")
+        print("-" * 80)
+        print(f"Total Text Versions Available: {len(text_versions_df):,}")
+        print(f"\n  Version Types:")
+        for version_type, count in text_versions_df['version_type'].value_counts().head(10).items():
+            print(f"    • {version_type}: {count:,}")
+    
+    print("\n" + "=" * 80)
+    print("END OF SUMMARY")
+    print("=" * 80)
 ```
 
-# data dictinary for raw data
+## Download/Parse bill data
+
+### house 117th
+
+```{python}
+house_117 = download_congress_bills(117, ["hr"])
+house_117_dfs = process_bills_to_dataframes(house_117)
+summary_h_117 = generate_summary_stats(house_117_dfs)
+```
+
+```{python}
+# save dataframes
+print("\nSaving to pickle files...")
+house_117_dfs['bills'].to_pickle(TEMP_DIR / 'house_117_bills.pkl')
+house_117_dfs['people'].to_pickle(TEMP_DIR / 'house_117_people.pkl')
+house_117_dfs['actions'].to_pickle(TEMP_DIR / 'house_117_actions.pkl')
+house_117_dfs['sponsorships'].to_pickle(TEMP_DIR / 'house_117_sponsorships.pkl')
+house_117_dfs['committees'].to_pickle(TEMP_DIR / 'house_117_committees.pkl')
+```
+
+```{python}
+print("\n=== Download Verification ===")
+for bill_type, files in house_117.items():
+    print(f"{bill_type}: {len(files)} files downloaded")
+    # Check file sizes
+    total_size = sum(Path(f).stat().st_size for f in files) / (1024**2)  # MB
+    print(f"  Total size: {total_size:.2f} MB")
+```
+
+### house 118th
+
+```{python}
+house_118 = download_congress_bills(118, ["hr"])
+house_118_dfs = process_bills_to_dataframes(house_118)
+summary_h_118 = generate_summary_stats(house_118_dfs)
+```
+
+```{python}
+# save dataframes
+print("\nSaving to pickle files...")
+house_118_dfs['bills'].to_pickle(TEMP_DIR / 'house_118_bills.pkl')
+house_118_dfs['people'].to_pickle(TEMP_DIR / 'house_118_people.pkl')
+house_118_dfs['actions'].to_pickle(TEMP_DIR / 'house_118_actions.pkl')
+house_118_dfs['sponsorships'].to_pickle(TEMP_DIR / 'house_118_sponsorships.pkl')
+house_118_dfs['committees'].to_pickle(TEMP_DIR / 'house_118_committees.pkl')
+```
+
+```{python}
+print("\n=== Download Verification ===")
+for bill_type, files in house_118.items():
+    print(f"{bill_type}: {len(files)} files downloaded")
+    # Check file sizes
+    total_size = sum(Path(f).stat().st_size for f in files) / (1024**2)  # MB
+    print(f"  Total size: {total_size:.2f} MB")
+```
+
+## check
+
+```{python}
+house_118_dfs['actions']['action_text'].value_counts().head(10)
+```
+
+```{python}
+pd.crosstab(house_118_dfs['sponsorships']['role'], house_118_dfs['sponsorships']['is_original_cosponsor'], dropna = False)
+```
+
+# Secondary Data Sources
+
+## Legislative effectiveness
+
+### Why Legislative Effectiveness Scores?
+
+The most credible source of metric for performance of legislative activity is "Legislative Effectiveness Score (LES)" developed by political scientists Craig Volden and Alan Wiseman - who lead the Center for Effective Lawmaking and share panel data on LES score.
+
+LES scores provide validated performance metrics developed by political scientists. These scores capture a legislator's ability to advance bills through the legislative process, offering a standardized measure of effectiveness that's comparable across members and sessions.
+
+The center shares processed data with minimal cleaning and the format is in .dta (stata) at this link <https://thelawmakers.org/data-download>. The dataset contains `bioguide_id` as a 'key' link with other dataset.
+
+We use the **reduced dataset** which focuses on key variables while maintaining the essential metrics needed for our analysis.
+
+```{python}
+# read data
+les_raw_df = pd.read_stata(Path(RAW_DATA_DIR/ 'les/CELHouse93to118Reduced-REVISED-06.26.2025.dta' ))
+```
+
+```{python}
+# filter relevant variables
+les_df = les_raw_df.filter(['icpsr', 'bioname', 'bioguide_id', 
+    'female', 'afam', 'latino',
+    'state_leg',
+    'elected', 'votepct
+    'party_code', 'seniority','freshman',  'speaker','chair',
+    'congress', 'year', 'st_name', 'cd', 
+    'dwnom1', 'dwnom2',
+    'les2', 'expectation2', 'allbill2', 'allpass2', 'allaic2', 'allabc2', 'all law2'])
+```
+
+```{python}
+# filter out working dataset for the focused time periods
+les_df = les_df.query ("congress == 117| congress == 118")
+```
+
+```{python}
+# save filtered working dataframe into temp folder
+les_df.to_pickle(Path(TEMP_DIR/ "les_df.pkl"))
+```
+
+## Historical list of Legislators
+
+The list of legislators is downloaded from github repository of "unitedstates" and the original format are in .csv.
+
+```{python}
+from io import StringIO
+# Download and save legislators
+# directly download csv file with pd.read_csv(file_url) did not work for this urls
+current_response = requests.get("https://unitedstates.github.io/congress-legislators/legislators-current.csv")
+current_legislators = pd.read_csv(StringIO(current_response.text))
+current_legislators.to_csv(RAW_DATA_DIR / "current_legislators.csv", index=False)
+
+historical_response = requests.get("https://unitedstates.github.io/congress-legislators/legislators-historical.csv")
+historical_legislators = pd.read_csv(StringIO(historical_response.text))
+historical_legislators.to_csv(RAW_DATA_DIR / "historical_legislators.csv", index=False)
+```
+
+```{python}
+# append historical and current legislators together into a single dataframe
+legislators = pd.concat([historical_legislators, current_legislators], ignore_index=True)
+
+del(current_legislators, historical_legislators)
+```
+
+```{python}
+# save the concatenated data into temp data folder
+legislators.to_csv(TEMP_DIR/ "legislators.csv", index = False)
+```
+
+# Link between sources
+
+```{python}
+# Verify linkage across datasets
+print("\n=== Cross-Dataset Linkage Check ===")
+
+# Check bioguide_id overlap
+bill_people = set(house_117_dfs['people']['bioguide_id']).union(set(house_118_dfs['people']['bioguide_id']))
+les_people = set(les_df['bioguide_id'])
+legislators_people = set(legislators['bioguide_id'])
+
+print(f"Legislators in bill data: {len(bill_people)}")
+print(f"Legislators in LES data: {len(les_people)}")
+print(f"Legislators in historical list: {len(legislators_people)}")
+print(f"\nOverlap (bills & LES): {len(bill_people & les_people)}")
+print(f"Overlap (bills & historical): {len(bill_people & legislators_people)}")
+```
+
+# Summary
+
+This notebook successfully acquired and staged data from three sources:
+
+## Data Acquired
+
+1.  **Bioguide profiles** - Biographical data for all members of Congress
+    -   Saved as: `bioguide_raw.pkl`
+    -   Records: \[insert count\]
+2.  **Congressional bills** - Legislative data for 117th and 118th sessions
+    -   House bills only (HR type)
+    -   Saved as separate tables: bills, people, actions, sponsorships, committees
+    -   Records: \[insert counts\]
+3.  **Supplementary datasets**
+    -   Legislative Effectiveness Scores: `les_df.pkl`
+    -   Historical legislator list: `legislators.csv`
+
+-   All datasets include `bioguide_id` for cross-linking
+
+## Next Steps
+
+The `02-data-cleaning` notebook will:
+
+-   Standardize formats and variable names
+
+-   Create derived variables for analysis
+
+-   Merge datasets on common identifiers
