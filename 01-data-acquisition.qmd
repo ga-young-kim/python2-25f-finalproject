@@ -55,7 +55,7 @@ This notebook acquires data from three primary sources:
 
 These data sources share a common identifier (`bioguide_id`) that enables linking across datasets.
 
-# Bioguide
+# 1. Bioguide
 
 ### Why Bioguide?
 
@@ -144,7 +144,7 @@ bio_df.to_pickle(TEMP_DIR / 'bioguide_raw.pkl')
 print(f"\nSaved raw data to {TEMP_DIR / 'bioguide_raw.pkl'}")
 ```
 
-# Bills
+# 2. Bills
 
 Bill Data Download Strategy The GovInfo API provides bulk bill data in XML format. I download:
 
@@ -692,9 +692,9 @@ house_118_dfs['actions']['action_text'].value_counts().head(10)
 pd.crosstab(house_118_dfs['sponsorships']['role'], house_118_dfs['sponsorships']['is_original_cosponsor'], dropna = False)
 ```
 
-# Secondary Data Sources
+# 3. Secondary Data Sources
 
-## Legislative effectiveness
+## 3.1. Legislative effectiveness
 
 ### Why Legislative Effectiveness Scores?
 
@@ -733,7 +733,7 @@ les_df = les_df.query ("congress == 117| congress == 118")
 les_df.to_pickle(Path(TEMP_DIR/ "les_df.pkl"))
 ```
 
-## Historical list of Legislators
+## 3.2. Historical list of Legislators
 
 The list of legislators is downloaded from github repository of "unitedstates" and the original format are in .csv.
 
@@ -762,7 +762,7 @@ del(current_legislators, historical_legislators)
 legislators.to_csv(TEMP_DIR/ "legislators.csv", index = False)
 ```
 
-# Link between sources
+# 4. Link between sources
 
 ```{python}
 # Verify linkage across datasets
@@ -780,7 +780,7 @@ print(f"\nOverlap (bills & LES): {len(bill_people & les_people)}")
 print(f"Overlap (bills & historical): {len(bill_people & legislators_people)}")
 ```
 
-# Summary
+# 5. Summary
 
 This notebook successfully acquired and staged data from three sources:
 

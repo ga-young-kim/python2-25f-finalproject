@@ -1,9 +1,1068 @@
-This is a notebook to build a (single) master working dataset at the person-year(session) panel data to answer the core research question. 
-(and network data for person-bill; person-person for actual research)
+---
+title: 02-data-cleaning
+author: Gayoung Kim
+format: 
+    html:
+        code-fold: false
+        toc: true
+---
 
-# data dictionary for cleaned data
+## Overview
+
+This notebook transforms raw data from multiple sources into analysis-ready datasets focused on congressional turnover pairs' demographic characteristics and legislative behavior.
+
+**Primary Objectives:**
+
+1.   Extract individual-level variables from bioguide profiles (tenure, kinship ties)
+2.  Aggregate bill sponsorship data to person-session level
+3.   Identify predecessor-successor pairs for turnover analysis
+4.  Merge contextual variables (party, performance metrics, relationships)
+
+**Key Output:**
+
+`turnover_pairs.pkl` - A complete dataset of 117th→118th Congress transitions with predecessor and successor characteristics in bioguide profiles, and bill sponsorship activities.
+
+`analysis_df.pkl` - A final analysis ready dataset containing individual-level variables and aggregated legislative activity metrics.
+
+**Data Sources Used:**
+
+-   Bioguide profiles (biographical and relational data)
+
+-   Bill sponsorships (legislative activity - performance metrics)
+
+-   Legislative Effectiveness Scores (performance metrics)
 
 ```{python}
-# create_data_dictionary
+# load packages
+import pandas as pd
+import numpy as np
+from pathlib import Path
+from datetime import datetime
+from typing import Dict, List, Optional, Tuple
+from collections import defaultdict
+from tqdm import tqdm
+import json
+import pickle
+
+import warnings
+warnings.filterwarnings('ignore')
+```
+
+```{python}
+# plot 
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 
 ```
+
+```{python}
+# Directories
+OUTPUT_DIR = Path("data/processed")
+TEMP_DIR = Path("data/temp")
+```
+
+# 1. Bill Data Processing
+
+Congressional bills provide the foundation for measuring legislative activity. We process bills and sponsorships from sessions 117 (predecessor) and 118 (successor) to create person-level activity metrics.
+
+## Import bill-level data
+
+```{python}
+house_bills_117 = pd.read_pickle(Path(TEMP_DIR / "house_117_bills.pkl"))
+house_bills_118 = pd.read_pickle(Path(TEMP_DIR / "house_118_bills.pkl"))
+```
+
+```{python}
+house_bills_df = pd.concat([house_bills_117, house_bills_118], ignore_index=True)
+
+del(house_bills_117, house_bills_118)
+```
+
+### Categorizing Bill Outcomes
+
+We create binary indicators for whether bills became law or passed their chamber, which will later serve as performance indicators.
+
+```{python}
+def categorize_bills_action(bills_df):
+    if bills_df is None:
+        return
+    df = bills_df.copy()
+    if 'latest_action_text' in df.columns:
+        # Categorize bill outcomes
+        df['became_law'] = df['latest_action_text'].str.contains(
+            'became public|became private|signed by president', case=False, na=False
+        )
+        df['passed_chamber'] = df['latest_action_text'].str.contains(
+            'passed|agreed to', case=False, na=False
+        )
+    return df
+```
+
+```{python}
+house_bills_df = categorize_bills_action(house_bills_df)
+```
+
+```{python}
+print(f"\nBill outcomes:")
+print(f"  Became law: {house_bills_df['became_law'].sum()} ({house_bills_df['became_law'].mean()*100:.2f}%)")
+print(f"  Passed chamber: {house_bills_df['passed_chamber'].sum()} ({house_bills_df['passed_chamber'].mean()*100:.2f}%)")
+```
+
+**Bills progress result:**
+The low percentage of bills becoming law (\~2.85%) reflects the typical legislative process that most bills are introduced but few complete the full process to become the law. 
+These metrics will help us understand whether active predecessors leave positions that continue to produce legislation.
+
+```{python}
+house_bills_df.to_pickle(Path(OUTPUT_DIR/ "house_bills_df.pkl"))
+```
+
+## Sponsorships
+
+```{python}
+# read in sponsorships related data
+bills_sponsorships_117 = pd.read_pickle(Path(TEMP_DIR/ "house_117_sponsorships.pkl"))
+bills_sponsorships_118 = pd.read_pickle(Path(TEMP_DIR/ "house_118_sponsorships.pkl"))
+```
+
+```{python}
+bills_sponsorships_117['congress']  = 117
+bills_sponsorships_118['congress']  = 118
+```
+
+```{python}
+house_sponsorships_df = pd.concat([bills_sponsorships_117, bills_sponsorships_118], ignore_index=True)
+```
+
+### Aggregating to Person-Level legislative activity
+
+We transform the bill-sponsorship relation list into person-level summary statistics. This aggregation counts: - **Sponsored bills** - Bills where the member was primary sponsor - **Cosponsored bills** - Bills where the member signed on - **Original cosponsorships** - Cosponsored from bill introduction (vs. added later)
+
+These metrics capture different aspects of legislative engagement and coalition-building.
+
+```{python}
+# merge sponssorship info - group by people and calculate number of bills sponsored, 
+# number of bills cosponsored
+
+house_people_sponsorships_df = house_sponsorships_df.groupby(['bioguide_id', 'role', 'congress']).agg({
+    'bill_id': 'nunique'
+}).reset_index()
+
+house_people_sponsorships_pivot = house_people_sponsorships_df.pivot_table(
+    index=['bioguide_id', 'congress'],
+    columns='role',
+    values='bill_id',
+    fill_value=0
+).reset_index()
+
+house_people_sponsorships_pivot.columns.name = None  
+
+house_people_sponsorships_pivot = house_people_sponsorships_pivot.rename(columns={
+    'sponsor': 'num_bills_sponsored',
+    'cosponsor': 'num_bills_cosponsored'
+})
+```
+
+```{python}
+house_people_sponsorships_pivot.head()
+```
+
+```{python}
+# need a new dataframe for original cosponsor metrics?
+house_people_original_cosponsorships = house_sponsorships_df[house_sponsorships_df['is_original_cosponsor']== 'True'].groupby(['bioguide_id', 'congress']).agg({
+    'bill_id': 'nunique'
+}).reset_index().rename(columns={'bill_id': 'num_bills_as_original_cosponsor'})
+```
+
+```{python}
+house_people_original_cosponsorships.head()
+```
+
+```{python}
+# merge with house_people_sponsorships_pivot
+house_people_sponsorships_pivot = house_people_sponsorships_pivot.merge(
+    house_people_original_cosponsorships,
+    on=['bioguide_id', 'congress'],
+    how='left'
+)
+```
+
+```{python}
+house_people_sponsorships_pivot['num_bills_as_passive_cosponsor'] =     house_people_sponsorships_pivot['num_bills_cosponsored'] - house_people_sponsorships_pivot['num_bills_as_original_cosponsor']
+```
+
+```{python}
+house_people_sponsorships_pivot.head()
+```
+
+## save data
+
+```{python}
+# people level
+house_people_sponsorships_pivot.to_pickle(Path(OUTPUT_DIR/"house_people_sponsorships_pivot.pkl"))
+```
+
+# 2. Bioguide Profile Processing
+
+Bioguide profiles contain nested JSON structures with job histories and kinship relationships. We unnest these structures to create: 
+1. **Job-level data** - One row per congressional session served 
+2. **Individual summaries** - Career statistics (first/last congress, tenure) 
+3. **Kinship networks** - Family connections between members
+
+```{python}
+# read in the saved data
+bio_df = pd.read_pickle(TEMP_DIR / 'bioguide_raw.pkl')
+print(f"Loaded {len(bio_df)} records")
+```
+
+## Create new variables : unpack nested information
+
+```{python}
+bio_df.head(1)
+```
+
+### Jobs
+
+Congress members with 'job' as any instance they served in the congress.
+
+```{python}
+# check an example of jobPosition
+bio_df['jobPositions'].iloc[0][0]
+```
+
+```{python}
+type(bio_df['jobPositions'].iloc[0])
+```
+
+jobPositions variable is a list of dictionary
+
+```{python}
+# Parse Job Positions Function
+def parse_job_positions(bioguide_df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Extract and parse job positions from jobPositions field.
+    
+    Parameters
+    ----------
+    bioguide_df : pd.DataFrame
+        Raw bioguide data with jobPositions field
+        
+    Returns
+    -------
+    pd.DataFrame
+        Job-level data (id - congress session) with extracted fields
+    """
+    jobs_data = []
+    
+    for idx, row in tqdm(bioguide_df.iterrows(), 
+                         total=len(bioguide_df), 
+                         desc="Parsing job positions"):
+        bioguide_id = row['usCongressBioId']
+        job_positions = row.get('jobPositions', [])
+        
+        # Skip if no jobs
+        if not job_positions or job_positions == '[]':
+            continue
+        
+        # Handle case where jobPositions is a string
+        if isinstance(job_positions, str):
+            try:
+                job_positions = json.loads(job_positions)
+            except:
+                continue
+        
+        # Parse each job
+        for job in job_positions:
+            if not isinstance(job, dict):
+                continue
+                
+            job_info = job.get('job', {})
+            congress_aff = job.get('congressAffiliation', {})
+            congress_info = congress_aff.get('congress', {})
+            party_info = congress_aff.get('partyAffiliation', [])
+            represents_info = congress_aff.get('represents', {})
+            
+            # Extract fields
+            job_record = {
+                'bioguide_id': bioguide_id,
+                'jobname': job_info.get('name'),
+                'jobtype': job_info.get('jobType'),
+                'congress_start' : job_info.get('startDate'),
+                'congress': congress_info.get('congressNumber'),
+                'congress_sworn': congress_info.get('startDate'),
+                'congress_end': congress_info.get('endDate'),
+                'party': party_info[0].get('party', {}).get('name') if party_info else None,
+                'state': represents_info.get('regionCode'),
+                'region_type': represents_info.get('regionType')
+            }
+            
+            jobs_data.append(job_record)
+    
+    df_jobs = pd.DataFrame(jobs_data)
+    
+    # Add derived variables
+    df_jobs['position'] = df_jobs.apply(
+        lambda x: 'senate' if x['jobtype'] == 'CongressMemberJob' and x['jobname'] == 'Senator'
+                  else 'house' if x['jobtype'] == 'CongressMemberJob' 
+                  else None,
+        axis=1
+    )
+    
+    df_jobs['job_other'] = (df_jobs['jobtype'] == 'OtherJob').astype(int)
+    df_jobs['job_congress'] = (df_jobs['jobtype'] != 'OtherJob').astype(int)
+    df_jobs['position_house'] = (df_jobs['position'] == 'house').astype(int)
+    df_jobs['position_senate'] = (df_jobs['position'] == 'senate').astype(int)
+    df_jobs['election_year'] = df_jobs['congress'] * 2 + 1786
+    
+    print(f"\nParsed {len(df_jobs)} job records from {df_jobs['bioguide_id'].nunique()} members")
+    print(f"\nJob types:\n{df_jobs['jobtype'].value_counts()}")
+    
+    return df_jobs
+```
+
+```{python}
+bio_df.columns
+```
+
+```{python}
+# Execute Parsing
+df_jobs = parse_job_positions(bio_df)
+```
+
+```{python}
+# Summary of  results
+print("\n" + "="*60)
+print("JOB POSITIONS SUMMARY")
+print("="*60)
+print(f"Total job records: {len(df_jobs):,}")
+print(f"Unique members: {df_jobs['bioguide_id'].nunique():,}")
+print(f"\nCongress range: {df_jobs['congress'].min():.0f} - {df_jobs['congress'].max():.0f}")
+print(f"\nPosition breakdown:")
+print(df_jobs['position'].value_counts())
+print(f"\nParty breakdown (top 5):")
+print(df_jobs['party'].value_counts().head())
+```
+
+```{python}
+# (added) create a nth_congress (tenure) to each session
+df_jobs = df_jobs.sort_values(['bioguide_id', 'congress'])
+df_jobs['nth_congress'] = df_jobs.groupby('bioguide_id').cumcount() + 1
+```
+
+```{python}
+df_jobs['nth_congress'].describe()
+```
+
+```{python}
+# create individual level job related variables - tenure, nth_congress, first, last congress
+
+def create_individual_summary(df_jobs: pd.DataFrame) -> pd.DataFrame:
+    """
+    Create individual-level summary from job data.
+    
+    Parameters
+    ----------
+    df_jobs : pd.DataFrame
+        Job-level data
+        
+    Returns
+    -------
+    pd.DataFrame
+        Individual-level summary with first/last congress
+    """
+    # Filter to congressional jobs only
+    df_congress = df_jobs[df_jobs['jobtype'] == 'CongressMemberJob'].copy()
+    
+    # Calculate individual summaries
+    individual_summary = df_congress.groupby('bioguide_id').agg({
+        'congress': ['min', 'max', 'count'],
+        'position_house': 'max',
+        'position_senate': 'max'
+    }).reset_index()
+    
+    individual_summary.columns = [
+        'bioguide_id', 'first_congress', 'last_congress', 
+        'total_congress', 'position_house', 'position_senate'
+    ]
+    
+    print(f"\nIndividual summary statistics:")
+    print(f"Total members: {len(individual_summary):,}")
+    print(f"House only: {((individual_summary['position_house'] == 1) & (individual_summary['position_senate'] == 0)).sum():,}")
+    print(f"Senate only: {((individual_summary['position_senate'] == 1) & (individual_summary['position_house'] == 0)).sum():,}")
+    print(f"Both chambers: {((individual_summary['position_house'] == 1) & (individual_summary['position_senate'] == 1)).sum():,}")
+    
+    return individual_summary
+```
+
+```{python}
+individual_jobs = create_individual_summary(df_jobs)
+```
+
+```{python}
+individual_jobs.head()
+```
+
+```{python}
+df_jobs.head()
+```
+
+```{python}
+# Save the individual level data into temporary data directory 
+individual_jobs.to_pickle(TEMP_DIR / 'individual_jobs.pkl')
+# print(f"\nSaved to {TEMP_DIR / 'individual_jobs.pkl'}")
+```
+
+```{python}
+df_jobs = df_jobs.merge(
+    individual_jobs.filter(['bioguide_id', 'first_congress', 'last_congress']), 
+    on = "bioguide_id", 
+    how = "left"
+)
+```
+
+```{python}
+df_jobs[(df_jobs['congress'].isin([117, 118])) & (df_jobs['first_congress'] == df_jobs['congress'])].shape[0]
+```
+
+```{python}
+# Save the job -level data with individual level summary
+df_jobs.to_pickle(Path(OUTPUT_DIR/ "bio_jobs.pkl"))
+```
+
+```{python}
+df_jobs.head()
+```
+
+### Relationships (Kinship)
+
+```{python}
+# Check the data type
+print("Relationship column type:", type(bio_df['relationship'].iloc[0]))
+```
+
+```{python}
+# check empty/missing 
+bio_df['isrelated'] = bio_df['relationship'].apply(lambda x: len(x) > 0 if isinstance(x, list) else False)
+```
+
+```{python}
+bio_df['related_to_n'] = bio_df['relationship'].apply(lambda x: len(x) if isinstance(x, list) else 0)
+```
+
+```{python}
+# Check results
+print(f"\nMembers with relationships: {bio_df['isrelated'].sum()}")
+print(f"Members without relationships: {(~bio_df['isrelated']).sum()}")
+print(f"Percentage with relationships: {bio_df['isrelated'].mean():.1%}")
+```
+
+```{python}
+# basic descriptive statistics of those who have kinship ties
+print(bio_df[bio_df['isrelated']]['related_to_n'].describe())
+```
+
+```{python}
+# Look at someone who has relationships
+has_rel = bio_df[bio_df['isrelated']].iloc[0]
+print("\nExample relationship record:")
+print(f"Bioguide ID: {has_rel['usCongressBioId']}")
+print(f"Name: {has_rel.get('givenName', '')} {has_rel.get('familyName', '')}")
+print(f"Relationships: {has_rel['relationship']}")
+```
+
+#### Unnest kinship relational data
+
+```{python}
+# Unnest relationships into edge list (kinship network)
+
+def unnest_relationships(bio_df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Unnest relationship column into an edge list format.
+    
+    Parameters
+    ----------
+    bio_df : pd.DataFrame
+        Bioguide data with relationship column
+        
+    Returns
+    -------
+    pd.DataFrame
+        Edge list with bioguide_id, relatedTo, relationshipType
+    """
+    kinship_edges = []
+    
+    for idx, row in bio_df.iterrows():
+        bioguide_id = row['usCongressBioId']
+        is_related = row['isrelated']
+        relationships = row['relationship'] # relationships are in list format
+        
+        # Handle empty or None relationships
+        if not relationships or not isinstance(relationships, list):
+            # Still add a row to track people with no relationships
+            kinship_edges.append({
+                'bioguide_id': bioguide_id,
+                'is_related' : is_related,
+                'related_bioguide_id': None,
+                'relationship_type': None,
+                # 'error' : "error"
+            })
+            continue
+        
+        # Unnest each relationship 
+        for rel in relationships:
+            if isinstance(rel, dict):
+                # relatedTo =  rel.get('relatedTo', {}),
+                kinship_edges.append({
+                    'bioguide_id': bioguide_id,
+                    'is_related' : is_related,
+                    'relationship_type': rel.get('relationshipType'),
+                    'related_bioguide_id' : rel.get('relatedTo').get('usCongressBioId'),
+                    # Optional: add other fields if they exist
+                    # 'relationshipFamilyName': relatedTo.get('familyName')
+                    # "error" : "no error"
+                })
+    
+    df_kinship = pd.DataFrame(kinship_edges)
+    
+    print(f"\nKinship edge list created:")
+    print(f"  Total edges: {len(df_kinship):,}")
+    print(f"  Non-null relationships: {df_kinship['related_bioguide_id'].notna().sum():,}")
+    print(f"  Unique relationship types: {df_kinship['relationship_type'].nunique()}")
+    
+    return df_kinship
+```
+
+```{python}
+# Create kinship edge list
+df_kinship = unnest_relationships(bio_df)
+```
+
+```{python}
+df_kinship[df_kinship['is_related']].head()
+```
+
+```{python}
+print("\nRelationship types:")
+print(df_kinship['relationship_type'].value_counts())
+
+print("\nFirst few kinship edges:")
+print(df_kinship[df_kinship['related_bioguide_id'].notna()].head(10))
+```
+
+#### Political Dynasty 
+
+We identify "dynasty successions" where a member enters Congress with a relative who previously served. This captures the intergenerational transmission of political capital.
+
+**Key Distinction:**
+-  **pre_relative** = 1: The successor had family in Congress *before* they joined
+-  **post_relative** = 1: The successor's family joined *after* them
+-  **close_pre_relative** = 1: Immediate family (parent, spouse, sibling) preceded them
+
+Dynasty members may benefit from name recognition, inherited networks, or institutional knowledge.
+
+```{python}
+def process_relationships(df_kinship: pd.DataFrame, 
+                         individual_summary: pd.DataFrame) :
+    """
+    Process relationships to identify predecessors and family networks.
+    
+    Parameters
+    ----------
+    df_kinship : pd.DataFrame
+        Raw relationship data
+    individual_summary : pd.DataFrame
+        Individual summary with congress info
+        
+    Returns
+    -------
+    
+    df_rel : pd.DataFrame
+        Processed relationships with categories at relation (dyad) level
+    relationship_summary: pd.DataFrame
+        Processed relationships with predecessor indicators
+         
+    """
+    # Add first congress for both ego and alter
+    df_rel = df_kinship.merge(
+        individual_summary[['bioguide_id', 'first_congress']],
+        on='bioguide_id',
+        how='left'
+    )
+    
+    df_rel = df_rel.merge(
+        individual_summary[['bioguide_id', 'first_congress']],
+        left_on='related_bioguide_id',
+        right_on='bioguide_id',
+        how='left',
+        suffixes=('', '_related')
+    )
+    
+    # Clean up column names
+    df_rel = df_rel.drop(columns=['bioguide_id_related'], errors='ignore')
+    df_rel = df_rel.rename(columns={'first_congress_related': 'related_firstCongress'})
+    
+    # Define close family types
+    close_family_types = [
+        'husband', 'wife', 'father', 'stepfather', 'father-in-law',
+        'mother', 'stepmother', 'mother-in-law', 'grandfather', 'step-grandfather',
+        'grandmother', 'step-grandmother', 'son', 'son-in-law', 'stepson',
+        'daughter', 'daughter-in-law', 'stepdaughter', 'grandson', 'granddaughter'
+    ]
+    
+    # Calculate relationship indicators
+    df_rel['close_family'] = df_rel['relationship_type'].isin(close_family_types).astype(int)
+    df_rel['pre_relative'] = (df_rel['first_congress'] > df_rel['related_firstCongress']).astype(int)
+    df_rel['post_relative'] = (df_rel['first_congress'] < df_rel['related_firstCongress']).astype(int)
+    df_rel['same_relative'] = (df_rel['first_congress'] == df_rel['related_firstCongress']).astype(int)
+    df_rel['close_pre_relative'] = ((df_rel['close_family'] == 1) & (df_rel['pre_relative'] == 1)).astype(int)
+    
+    # Aggregate to individual level
+    relationship_summary = df_rel.groupby('bioguide_id').agg({
+        'pre_relative': 'max',
+        'close_pre_relative': 'max',
+        'related_bioguide_id': 'count'
+    }).reset_index()
+    
+    relationship_summary.columns = ['bioguide_id', 'pre_relative', 'close_pre_relative', 'n_relatives']
+    relationship_summary = relationship_summary.fillna(0).astype({
+        'pre_relative': int,
+        'close_pre_relative': int
+    })
+
+    print(f"\nRelationship statistics:")
+    print(f"Members with relatives: {(relationship_summary['n_relatives'] > 0).sum():,}")
+    print(f"Members with pre-relatives: {relationship_summary['pre_relative'].sum():,}")
+    print(f"Members with close pre-relatives: {relationship_summary['close_pre_relative'].sum():,}")
+    
+    return df_rel, relationship_summary
+```
+
+```{python}
+# run process relationship
+df_rel, individual_relationship = process_relationships(df_kinship, individual_jobs)
+```
+
+```{python}
+# example of close kinship joined before the focal person joined the congress
+df_rel[df_rel['close_pre_relative'] == 1].head()
+```
+
+```{python}
+print("\n" + "="*60)
+print("RELATIONSHIP SUMMARY")
+print("="*60)
+print(individual_relationship.describe())
+```
+
+```{python}
+# save temporary data
+individual_relationship.to_pickle(TEMP_DIR / 'individual_relationship.pkl')
+# individual_summary.to_pickle(TEMP_DIR / 'individual_summary.pkl')
+df_rel.to_pickle(TEMP_DIR / 'df_relationship.pkl')
+# print(f"\nSaved to {TEMP_DIR}")
+```
+
+------------------------------------------------------------------------
+
+# 3. Creating Predecessor-Successor Pairs
+
+This section identifies turnover events - when one member leaves a seat and another takes over. We define "seats" by state-district combinations, treating each as a stable organizational position despite changing occupants.
+
+**Turnover Definition:** 
+- **Predecessor:** Served in session 117 (2021-2023) 
+- **Successor:** Serves in session 118 (2023-2025) 
+- **Same seat:** Identical state-district combination 
+- **Different person:** Distinct bioguide_id values
+
+Bioguide data, while offers exhaustive history of each candidate (as can be seen in the above `jobs` data field), do not record which district they served but only the state. Thus, we use preprocessed legislative effectiveness data (`les_df`) to determine turnover pairs.
+
+**Room for future research:** 
+While the more detailed definitions should account for redistricting and change in the number of districts (two disticts become one or one district become two, then who's who's successr?), for now we focus on (1) state and (2) district number (for senate: senate_class) as a standard to define a position shared by pairs.
+
+
+## Create basic pairs
+
+```{python}
+les_df = pd.read_pickle(TEMP_DIR / 'les_df.pkl')
+```
+```{python}
+df = les_df.filter(['bioname', 'bioguide_id', 'congress', 'st_name', 'cd', 'party_code']).reset_index()
+df = df.rename(columns = {
+    'bioname': 'full_name' ,
+    'st_name' : 'state',
+    'cd' : 'district',
+    'congress' : 'session', 
+    'party_code': 'party'
+})
+```
+
+```{python}
+predecessor_session = 117
+successor_session = 118
+```
+
+```{python}
+# Create a position identifier (state-district combination)
+df['seat'] = df['state'] + '-' + df['district'].astype(str)
+
+# Get unique members per position per session
+members_by_position = df.groupby(['seat', 'session']).agg({
+    'bioguide_id': 'first',
+    'full_name': 'first',
+    # 'first_name': 'first',
+    # 'last_name': 'first',
+    'party': 'first',
+    'state': 'first',
+    'district': 'first'
+}).reset_index()
+
+# Separate into predecessor and successor sessions
+predecessors = members_by_position[members_by_position['session'] == predecessor_session].copy()
+successors = members_by_position[members_by_position['session'] == successor_session].copy()
+
+# Rename columns for clarity
+predecessors = predecessors.rename(columns={
+    'bioguide_id': 'predecessor_bioguide_id',
+    'full_name': 'predecessor_full_name',
+    'first_name': 'predecessor_first_name',
+    'last_name': 'predecessor_last_name',
+    'party': 'predecessor_party'
+})
+
+successors = successors.rename(columns={
+    'bioguide_id': 'successor_bioguide_id',
+    'full_name': 'successor_full_name',
+    'first_name': 'successor_first_name',
+    'last_name': 'successor_last_name',
+    'party': 'successor_party'
+})
+
+# Merge on position to find turnover pairs
+turnover_pairs = predecessors.merge(
+    successors,
+    on=['seat', 'state', 'district'],
+    how='inner',
+    suffixes=('_pred', '_succ')
+)
+
+# Filter to only include actual turnovers (different people)
+turnover_pairs = turnover_pairs[
+    turnover_pairs['predecessor_bioguide_id'] != turnover_pairs['successor_bioguide_id']
+].copy()
+
+# Add session information
+turnover_pairs['predecessor_session'] = predecessor_session
+turnover_pairs['successor_session'] = successor_session
+
+# Add turnover context variables
+turnover_pairs['same_party'] = (
+    turnover_pairs['predecessor_party'] == turnover_pairs['successor_party']
+).astype(int)
+
+turnover_pairs['party_flip'] = (
+    turnover_pairs['predecessor_party'] != turnover_pairs['successor_party']
+).astype(int)
+```
+
+```{python}
+# Delete duplicates
+if turnover_pairs.duplicated().any():
+    turnover_pairs = turnover_pairs.drop_duplicates()
+```
+
+```{python}
+turnover_pairs.head()
+```
+
+```{python}
+# Validate turnover pairs
+print(f"\n=== Turnover Pair Validation ===")
+print(f"Total turnover events: {len(turnover_pairs)}")
+print(f"Unique predecessors: {turnover_pairs['predecessor_bioguide_id'].nunique()}")
+print(f"Unique successors: {turnover_pairs['successor_bioguide_id'].nunique()}")
+print(f"Party flips: {turnover_pairs['party_flip'].sum()} ({turnover_pairs['party_flip'].mean()*100:.1f}%)")
+```
+
+## Merge in individual panel data
+
+### Tenure
+
+```{python}
+# Merge in tenure-related info for successor
+turnover_pairs = turnover_pairs.merge(
+    individual_jobs[['bioguide_id', 'first_congress', 'last_congress', 'total_congress']],
+    left_on='successor_bioguide_id',
+    right_on='bioguide_id',
+    how='left',
+    suffixes=('', '_successor')
+)
+turnover_pairs = turnover_pairs.rename(columns={
+    'first_congress': 'successor_first_congress',
+    'last_congress': 'successor_last_congress',
+    'total_congress': 'successor_total_congress'
+})
+turnover_pairs = turnover_pairs.drop(columns=['bioguide_id'], errors='ignore')
+
+# Merge in tenure-related info for predecessor
+turnover_pairs = turnover_pairs.merge(
+    individual_jobs[['bioguide_id', 'first_congress', 'last_congress', 'total_congress']],
+    left_on='predecessor_bioguide_id',
+    right_on='bioguide_id',
+    how='left',
+    suffixes=('', '_predecessor')
+)
+turnover_pairs = turnover_pairs.rename(columns={
+    'first_congress': 'predecessor_first_congress',
+    'last_congress': 'predecessor_last_congress',
+    'total_congress': 'predecessor_total_congress'
+})
+turnover_pairs = turnover_pairs.drop(columns=['bioguide_id'], errors='ignore')
+
+```
+
+```{python}
+turnover_jobs = df_jobs.query(f"congress.isin([{predecessor_session}, {successor_session}])").filter(['bioguide_id', 'congress', 'nth_congress'])
+```
+
+```{python}
+turnover_pairs = turnover_pairs.merge(turnover_jobs, 
+    left_on = ['successor_bioguide_id', 'successor_session'],
+    right_on = ['bioguide_id', 'congress'],
+    how = 'left'
+)
+turnover_pairs = turnover_pairs.rename(columns={
+    'nth_congress': 'successor_nth_congress'
+})
+turnover_pairs = turnover_pairs.drop(columns=['bioguide_id', 'congress'], errors='ignore')  
+
+turnover_pairs = turnover_pairs.merge(turnover_jobs,
+    left_on = ['predecessor_bioguide_id', 'predecessor_session'],
+    right_on = ['bioguide_id', 'congress'],     
+    how = 'left'
+)
+turnover_pairs = turnover_pairs.rename(columns={
+    'nth_congress': 'predecessor_nth_congress'
+})
+turnover_pairs = turnover_pairs.drop(columns=['bioguide_id', 'congress'], errors='ignore') 
+```
+
+```{python}
+# A successor is a newcomer if this is their first congress
+turnover_pairs['is_newcomer'] = turnover_pairs['successor_first_congress'].apply(
+    lambda x: 1 if x == successor_session else 0
+)
+```
+
+```{python}
+# Reorder columns for clarity
+column_order = [
+    'predecessor_session', 'successor_session',
+    'seat', 'state', 'district',
+    'predecessor_bioguide_id', 'predecessor_full_name', 'predecessor_party',
+    'successor_bioguide_id', 'successor_full_name', 'successor_party',
+    'same_party', 'party_flip', 'is_newcomer',
+    'successor_first_congress', 'successor_last_congress', 'successor_total_congress', 'successor_nth_congress',
+    'predecessor_first_congress', 'predecessor_last_congress', 'predecessor_total_congress', 'predecessor_nth_congress'
+]
+turnover_pairs = turnover_pairs[column_order]
+```
+
+```{python}
+print(f"Newcomer successors: {turnover_pairs['is_newcomer'].sum()} ({turnover_pairs['is_newcomer'].mean()*100:.1f}%)")
+```
+
+### Legislative Activity Metrics
+
+```{python}
+# Predecessor metrics (session 117)
+pred_metrics = house_people_sponsorships_pivot[
+    house_people_sponsorships_pivot['congress'] == 117
+].rename(columns={
+    'num_bills_sponsored': 'pred_bills',
+    'num_bills_cosponsored': 'pred_cosponsored', 
+    'num_bills_as_original_cosponsor': 'pred_original_cosp'
+})
+
+# Successor metrics (session 118)
+succ_metrics = house_people_sponsorships_pivot[
+    house_people_sponsorships_pivot['congress'] == 118
+].rename(columns={
+    'num_bills_sponsored': 'succ_bills',
+    'num_bills_cosponsored': 'succ_cosponsored',
+    'num_bills_as_original_cosponsor': 'succ_original_cosp'
+})
+
+# Merge to turnover pairs
+turnover_pairs = turnover_pairs.merge(
+    pred_metrics[['bioguide_id', 'pred_bills', 'pred_cosponsored', 'pred_original_cosp']],
+    left_on='predecessor_bioguide_id',
+    right_on='bioguide_id',
+    how='left'
+).drop(columns=['bioguide_id'])
+
+turnover_pairs = turnover_pairs.merge(
+    succ_metrics[['bioguide_id', 'succ_bills', 'succ_cosponsored', 'succ_original_cosp']],
+    left_on='successor_bioguide_id',
+    right_on='bioguide_id',
+    how='left'
+).drop(columns=['bioguide_id'])
+
+# Fill NAs with 0
+metric_cols = ['pred_bills', 'pred_cosponsored', 'pred_original_cosp',
+                'succ_bills', 'succ_cosponsored', 'succ_original_cosp']
+turnover_pairs[metric_cols] = turnover_pairs[metric_cols].fillna(0)
+```
+
+```{python}
+les_df.head()
+```
+
+```{python}
+# Add predecessor LES
+pred_les = les_df[les_df['congress'] == 117][['bioguide_id', 'les2']].rename(
+    columns={'les2': 'pred_les'}
+)
+turnover_pairs = turnover_pairs.merge(
+    pred_les, 
+    left_on='predecessor_bioguide_id',
+    right_on='bioguide_id',
+    how='left'
+).drop(columns=['bioguide_id'])
+
+# Add successor LES
+succ_les = les_df[les_df['congress'] == 118][['bioguide_id', 'les2']].rename(
+    columns={'les2': 'succ_les'}
+)
+turnover_pairs = turnover_pairs.merge(
+    succ_les,
+    left_on='successor_bioguide_id', 
+    right_on='bioguide_id',
+    how='left'
+).drop(columns=['bioguide_id'])
+```
+
+```{python}
+turnover_pairs.columns
+```
+
+### Kinship (Dynasty) Metrics
+
+```{python}
+# Add predecessor kinship info
+turnover_pairs = turnover_pairs.merge(
+    individual_relationship[['bioguide_id', 'pre_relative', 'close_pre_relative', 'n_relatives']],
+    left_on='predecessor_bioguide_id',
+    right_on='bioguide_id',
+    how='left'
+).rename(columns={
+    'pre_relative': 'pred_has_pre_relative',
+    'close_pre_relative': 'pred_has_close_pre_relative',
+    'n_relatives': 'pred_n_relatives'
+}).drop(columns=['bioguide_id'])
+
+# Add successor kinship info
+turnover_pairs = turnover_pairs.merge(
+    individual_relationship[['bioguide_id', 'pre_relative', 'close_pre_relative', 'n_relatives']],
+    left_on='successor_bioguide_id',
+    right_on='bioguide_id',
+    how='left'
+).rename(columns={
+    'pre_relative': 'succ_has_pre_relative',
+    'close_pre_relative': 'succ_has_close_pre_relative',
+    'n_relatives': 'succ_n_relatives'
+}).drop(columns=['bioguide_id'])
+
+# Fill NAs with 0
+kinship_cols = ['pred_has_pre_relative', 'pred_has_close_pre_relative', 'pred_n_relatives',
+                'succ_has_pre_relative', 'succ_has_close_pre_relative', 'succ_n_relatives']
+turnover_pairs[kinship_cols] = turnover_pairs[kinship_cols].fillna(0)
+
+# Create dynasty succession flag (successor has family predecessor in Congress)
+turnover_pairs['dynasty_succession'] = turnover_pairs['succ_has_pre_relative'].astype(int)
+```
+
+# 4. Final Datasets
+
+We create two versions: 
+1. **turnover_pairs.pkl** - Complete dataset with all variables (for exploration) 
+2. **analysis_df.pkl** - Streamlined dataset with essential variables (for analysis)
+
+The analysis dataset focuses on key theoretical constructs while keeping file size manageable.
+
+```{python}
+# FINAL ANALYSIS 
+# Columns needed for minimal dataframe
+analysis_df = turnover_pairs[[
+    # Identifiers for the turnover pair
+    'seat', 'state', 'district',
+    'predecessor_bioguide_id', 'successor_bioguide_id',
+    'predecessor_full_name', 'predecessor_party',
+    'successor_full_name', 'successor_party',
+    
+    # Context variables
+    'same_party', 'is_newcomer','dynasty_succession',
+
+    # (Optional) context variables
+    'predecessor_total_congress','successor_total_congress', 
+    'predecessor_nth_congress', "successor_nth_congress",
+    'pred_has_close_pre_relative','succ_has_close_pre_relative',
+    
+    # Performance metrics
+    'pred_bills', 'pred_cosponsored', 'pred_original_cosp',
+    'succ_bills', 'succ_cosponsored', 'succ_original_cosp',
+    # (Optional) LES(Legislative Effectiveness Score), and relevant
+    'pred_les', 'succ_les'
+]]
+```
+
+```{python}
+turnover_pairs.to_pickle(Path(OUTPUT_DIR/ "turnover_pairs.pkl"))
+analysis_df.to_pickle(Path(OUTPUT_DIR/ "analysis_df.pkl"))
+```
+
+```{python}
+print("\n" + "="*60)
+print("DATA CLEANING COMPLETE")
+print("="*60)
+print(f"Output files created in: {OUTPUT_DIR}")
+print(f"\nFinal datasets:")
+print(f"  turnover_pairs.pkl: {len(turnover_pairs)} rows, {len(turnover_pairs.columns)} columns")
+print(f"  analysis_df.pkl: {len(analysis_df)} rows, {len(analysis_df.columns)} columns")
+print(f"\nKey variables available:")
+print(f"  - Context: same_party, is_newcomer, dynasty_succession")
+print(f"  - Activity: pred_bills, succ_bills, pred_cosponsored, succ_cosponsored")
+print(f"  - Performance: pred_les, succ_les")
+print(f"\nReady for analysis in notebook 03-eda.qmd")
+```
+
+# Appendix
+
+## Variable Codebook
+
+### Identifiers
+
+-   `seat`: State-district combination (e.g., "CA-12")
+-   `predecessor_bioguide_id` / `successor_bioguide_id`: Unique member IDs
+
+### Context Variables
+
+-   `same_party`: 1 if pred and succ share party affiliation
+-   `is_newcomer`: 1 if successor's first congress = session 118
+-   `dynasty_succession`: 1 if successor has family who served before them
+
+### Activity Metrics (pred\_/succ\_ prefix)
+
+-   `bills`: Number of bills sponsored
+-   `cosponsored`: Number of bills cosponsored
+-   `original_cosp`: Number of bills cosponsored from introduction
+
+### Performance
+
+-   `les`: Legislative Effectiveness Score (Volden & Wiseman)
+
+### Career Variables
+
+-   `total_congress`: Number of sessions served (career)
+-   `nth_congress`: Which session this is for the member (1st, 2nd, etc.)
