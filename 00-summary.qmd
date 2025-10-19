@@ -1,7 +1,0 @@
-<!-- This might be the standalone executive summary in a presentation format; but it still may use the codes to make the visualizations lighter -->
-<!-- make sure to toggle code fold true at the preambl yaml -->
-
-Data scope 
-currently focusing on 
-either 1) no network, no topic modeling for all years
- 2) 2-3 years for turnover pair analysis, and text analysis 
