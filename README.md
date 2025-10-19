@@ -2,16 +2,18 @@
 Gayoung Kim
 Final project for Python Programming II (90-819) 2025 Fall 
 
+## Project question
+Examining whether successors' performance gets affected by their kinship relations or predecessors' activities using U.S. House bill cosponsorship data (117th→118th Congress).
+
+## Structure
+- `01-data-acquisition.qmd` - Download bills, bioguide data
+- `02-data-cleaning.qmd` - Create turnover pairs
+- `03-eda.qmd` - Descriptive statistics
+- `04-analysis.qmd` - Regression models
+- `05-summary.qmd` - Overview and Key findings
 
 ## Data sources
-1. U.S. Congress Bill (from 108 - 118) (citation:)
-2. U.S. Congress Members Bioguide (citation:) 
-3. MIT Election studies (citation:)
-4. Legislators list (citation:) 
-    
-## Codes
-0. summary
-1. data acquisition & basic cleaning for each data source
-2. data building - merging different sources
-3. EDA
-4. Analysis (if analysis is small, it can be )
+1. U.S. Congress Bill (from 108 - 118) 
+2. U.S. Congress Members Bioguide 
+3. Legislators list 
+4. Legislative Effectiveness Scores
