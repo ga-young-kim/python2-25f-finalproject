@@ -1,0 +1,503 @@
+---
+title: Legislative Activity and Turnover in the U.S. House
+subtitle: Exploring Predecessor-Successor Patterns in Congressional Bills
+author: Gayoung Kim
+format: 
+    html:
+        code-fold: true
+        toc: true
+---
+
+# Executive Summary
+
+**Research Question:** Do successors' legislative activities relate to their predecessors' patterns?
+
+**Context:** The U.S. House of Representatives experiences regular turnover while maintaining stable organizational structure (fixed seats, districts). This study examines whether predecessor behavior predicts successor behavior during the 117th→118th Congress transition.
+
+**Data:** 143 House turnover pairs (117th → 118th Congress, 2021-2025)
+
+**Key Finding:** No significant negative weak correlation (r = -0.121, p = 0.151) between predecessor and successor bills sponsored or their Legislative Effectiveness Scores.
+
+**What This Suggests:**
+Preliminary evidence suggests very weak relationship between predecessor and successor activity, though the some mechanism shows potential pathways for influence. 
+
+**Limitations:** 
+
+- Single transition period (limited generalizability)
+
+- Simple activity counts may not capture the relationship between predecessor and successor activity.
+
+- Small sample size for some subgroups (e.g. Dynasty succession in 118th were only 12 cases.)
+
+**Next Steps:** 
+- Analyze actual cosponsorship networks (who works with whom) as a potential mechanism for influence
+
+- Add district-level controls
+
+- Expand data scope to multiple congressional transitions.
+
+---
+
+## Introduction 
+
+The U.S. Congress is a long-standing institution where members constantly change while the structure of representation (states, districts) remains stable. Congressional members' core work involves legislative activities—sponsoring and cosponsoring bills. Legislative effectiveness has been the primary performance metric for congressional members.
+
+Prior studies have examined factors affecting legislative effectiveness: demographic characteristics (gender, race), party systems, political polarization, and homophily in legislative activities.
+
+**This Study** explores whether a predecessor's legislative activity relates to their successor's activity—particularly for newcomers. As an institution with well-documented incumbent advantages, what happens when turnover occurs? Do successors' patterns resemble their predecessors'? 
+
+Are there difference within newcomers of their legislative activity? How Does Predecessor's Legislative Activity Predict Successor's First-Year Performance? Does a highly active predecessor lead to a highly active successor?  How does legislative effectiveness vary based on their relationship to their predecessor?
+
+
+### Why This Matters
+
+Understanding these patterns could inform:
+
+- **Organizational continuity**: How do organizations maintain function through turnover?
+
+- **Newcomer integration**: What factors shape first-term legislative behavior?
+
+- **Succession planning**: Should organizations consider positional context in transitions?
+
+---
+
+## Data & Methods
+
+### Scope
+
+**Focus:** House of Representatives, 117th→118th Congress transition (2021-2025)
+
+**Why This Scope:**
+
+- Stable institutional structure (rules, districts largely unchanged)
+
+- Clean turnover events (one predecessor exits, one successor enters)
+
+- Immediate observation (successor's first term)
+
+**Sample:**
+
+- 143 total turnover pairs
+- 57 newcomer successors (first time in Congress)
+- 86 returning successors (prior congressional experience)
+- 12 dynasty successions (family member previously served)
+- 31 party flips (different party than predecessor)
+
+### Data Sources
+
+1. **Congressional Bills** (GovInfo API): Sponsorships and cosponsorships for both sessions
+2. **Bioguide Profiles**: Biographical data, kinship relationships, career histories
+3. **Legislative Effectiveness Scores**: Performance metrics (Volden & Wiseman)
+
+### Variables
+
+**Activity Measures:**
+
+- Bills sponsored (primary sponsor)
+
+- Bills cosponsored (signed on as supporter)
+
+- Original cosponsorships (from bill introduction)
+
+
+**Context Variables:**
+
+- Same party (0/1): Successor from same party as predecessor
+
+- Newcomer status (0/1): First term in Congress
+
+- Dynasty succession (0/1): Family member previously served
+
+### Analysis
+
+**Descriptive Statistics:**
+
+- Distribution of legislative activity by congress
+
+- Turnover patterns over time
+
+- Bill success rates and cosponsorship patterns
+
+
+**Subgroup Comparisons:**
+
+- Same party vs party flip
+
+- Newcomer vs returning member
+
+- Dynasty vs non-dynasty
+
+
+**Correlation Analysis:**
+
+- Relationship between predecessor and successor activity
+
+
+**Regression Models:**
+
+1. Simple: Successor activity ~ Predecessor activity
+
+2. With controls: + Same party + Newcomer status
+
+
+---
+
+## Results
+
+### Descriptive Patterns
+---
+```{python}
+#| code-fold: true
+#| output: false
+
+import pandas as pd 
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+
+# Set publication-quality style
+plt.style.use('seaborn-v0_8-whitegrid')
+sns.set_context("talk")  # Larger fonts for slides
+
+# read data
+analysis_df = pd.read_pickle("data/processed/analysis_df.pkl")
+house_bills_df = pd.read_pickle("data/processed/house_bills_df.pkl")
+```
+
+```{python}
+#| code-fold: true
+def print_legislative_overview(house_bills_df, analysis_df):
+    """
+    Print comprehensive overview of legislative activity and turnover characteristics
+    """
+    
+    print("\n" + "="*80)
+    print("LEGISLATIVE ACTIVITY & TURNOVER OVERVIEW")
+    print("="*80 + "\n")
+    
+    # =========================================================================
+    # LEGISLATIVE ACTIVITY OVERVIEW
+    # =========================================================================
+    print("LEGISLATIVE ACTIVITY OVERVIEW:")
+    print("-" * 80)
+    
+    # Average sponsors per bill
+    if 'total_sponsor' in house_bills_df.columns:
+        avg_sponsors_per_bill = house_bills_df['total_sponsor'].mean()
+        print(f"  • Average sponsors per bill: {avg_sponsors_per_bill:.1f}")
+        print(f"    (Based on {house_bills_df['total_sponsor'].count():,} bills)")
+
+    # Average cosponsors per member
+    # This assumes you have a cosponsors column (list or count)
+    if 'total_cosponsors' in house_bills_df.columns:
+        avg_cosponsors_per_member = house_bills_df['total_cosponsors'].mean()
+        print(f"  • Average cosponsors per member: {avg_cosponsors_per_member:.1f}")
+        print(f"    (Based on {house_bills_df['total_cosponsors'].count():,} bills)")
+        
+    # Bill success rate
+    if 'became_law' in house_bills_df.columns:
+        total_bills = len(house_bills_df)
+        bills_became_law = house_bills_df['became_law'].sum()
+        success_rate = (bills_became_law / total_bills * 100) if total_bills > 0 else 0
+        print(f"\n  • Bill success rate (became law): {success_rate:.2f}%")
+        print(f"    ({bills_became_law:,} of {total_bills:,} bills became law)")
+    
+    # Additional useful metrics
+    if 'passed_chamber' in house_bills_df.columns:
+        passed_rate = (house_bills_df['passed_chamber'].sum() / len(house_bills_df) * 100)
+        print(f"  • Bill passage rate (passed chamber): {passed_rate:.2f}%")
+    
+
+    # Average pred_bills/succ_bills in analysis_df
+    if 'pred_bills' in analysis_df.columns:
+        avg_pred_bills = analysis_df['pred_bills'].mean()
+        avg_succ_bills = analysis_df['succ_bills'].mean()
+        print(f"\n  From turnover pair data:")
+        print(f"  • Average bills sponsored (predecessors): {avg_pred_bills:.1f}")
+        print(f"  • Average bills sponsored (successors): {avg_succ_bills:.1f}")
+    
+    if 'pred_cosponsored' in analysis_df.columns:
+        avg_pred_cosp = analysis_df['pred_cosponsored'].mean()
+        avg_succ_cosp = analysis_df['succ_cosponsored'].mean()
+        print(f"  • Average bills cosponsored (predecessors): {avg_pred_cosp:.1f}")
+        print(f"  • Average bills cosponsored (successors): {avg_succ_cosp:.1f}")
+    
+    
+    # =========================================================================
+    # TURNOVER CHARACTERISTICS
+    # =========================================================================
+    print("\n" + "-" * 80)
+    print("TURNOVER CHARACTERISTICS:")
+    print("-" * 80)
+    
+    total_pairs = len(analysis_df)
+    print(f"  Total turnover pairs analyzed: {total_pairs:,}\n")
+    
+    # Newcomer rate
+    if 'is_newcomer' in analysis_df.columns:
+        newcomer_count = analysis_df['is_newcomer'].sum()
+        newcomer_pct = (newcomer_count / total_pairs * 100) if total_pairs > 0 else 0
+        print(f"  • {newcomer_pct:.1f}% of successors are newcomers")
+        print(f"    ({newcomer_count:,} newcomers vs {total_pairs - newcomer_count:,} returning members)")
+    
+    # Same party rate
+    if 'same_party' in analysis_df.columns:
+        same_party_count = analysis_df['same_party'].sum()
+        same_party_pct = (same_party_count / total_pairs * 100) if total_pairs > 0 else 0
+        print(f"\n  • {same_party_pct:.1f}% represent same party as predecessor")
+        print(f"    ({same_party_count:,} same party vs {total_pairs - same_party_count:,} party flips)")
+    
+    # Dynasty succession rate
+    if 'dynasty_succession' in analysis_df.columns:
+        dynasty_count = analysis_df['dynasty_succession'].sum()
+        dynasty_pct = (dynasty_count / total_pairs * 100) if total_pairs > 0 else 0
+        print(f"\n  • {dynasty_pct:.1f}% have family who previously served")
+        print(f"    ({dynasty_count:,} dynasty successions)")
+
+print_legislative_overview(house_bills_df, analysis_df)
+```
+```{python}
+#|code-fold: true
+def print_detailed_legislative_overview(analysis_df):
+    """
+    Extended version with additional breakdowns by subgroups
+    """
+
+    print("="*80)
+    print("Successor performance by SUCCESSOR TYPE")
+    print("="*80 + "\n")
+    
+    if 'is_newcomer' in analysis_df.columns:
+        print("ACTIVITY BY NEWCOMER STATUS:")
+        print("-" * 80)
+        
+        for is_newcomer in [0, 1]:
+            label = "Newcomers" if is_newcomer == 1 else "Returning Members"
+            subset = analysis_df[analysis_df['is_newcomer'] == is_newcomer]
+            
+            print(f"\n{label} (n={len(subset):,}):")
+            
+            if 'succ_bills' in subset.columns:
+                print(f"  • Avg bills sponsored: {subset['succ_bills'].mean():.1f}")
+            if 'succ_cosponsored' in subset.columns:
+                print(f"  • Avg bills cosponsored: {subset['succ_cosponsored'].mean():.1f}")
+            if 'succ_les' in subset.columns:
+                print(f"  • Avg LES score: {subset['succ_les'].mean():.3f}")
+    
+    if 'dynasty_succession' in analysis_df.columns:
+        print("\n" + "-" * 80)
+        print("ACTIVITY BY DYNASTY STATUS:")
+        print("-" * 80)
+        
+        for is_dynasty in [0, 1]:
+            label = "Dynasty Successions" if is_dynasty == 1 else "Non-Dynasty"
+            subset = analysis_df[analysis_df['dynasty_succession'] == is_dynasty]
+            
+            print(f"\n{label} (n={len(subset):,}):")
+            
+            if 'succ_bills' in subset.columns:
+                print(f"  • Avg bills sponsored: {subset['succ_bills'].mean():.1f}")
+            if 'succ_cosponsored' in subset.columns:
+                print(f"  • Avg bills cosponsored: {subset['succ_cosponsored'].mean():.1f}")
+    
+    if 'same_party' in analysis_df.columns:
+        print("\n" + "-" * 80)
+        print("ACTIVITY BY PARTY CONTINUITY:")
+        print("-" * 80)
+        
+        for same_party in [0, 1]:
+            label = "Same Party" if same_party == 1 else "Party Flip"
+            subset = analysis_df[analysis_df['same_party'] == same_party]
+            
+            print(f"\n{label} (n={len(subset):,}):")
+            
+            if 'succ_bills' in subset.columns:
+                print(f"  • Avg bills sponsored: {subset['succ_bills'].mean():.1f}")
+            if 'succ_cosponsored' in subset.columns:
+                print(f"  • Avg bills cosponsored: {subset['succ_cosponsored'].mean():.1f}")
+    
+    print("\n" + "="*80 + "\n")
+print_detailed_legislative_overview(analysis_df)
+```
+
+```{python}
+#|code-fold: true
+def create_eda_summary_table(analysis_df):
+    """
+    Create a summary table of key findings from EDA
+    """
+    summary = {
+        'Metric': [],
+        'Value': [],
+        'Interpretation': []
+    }
+    
+    # Sample size
+    summary['Metric'].append('Total Turnover Pairs')
+    summary['Value'].append(f"{len(analysis_df):,}")
+    summary['Interpretation'].append('Unit of analysis')
+    
+    # Context variables
+    if 'is_newcomer' in analysis_df.columns:
+        newcomer_pct = analysis_df['is_newcomer'].mean() * 100
+        summary['Metric'].append('Newcomer Rate')
+        summary['Value'].append(f"{newcomer_pct:.1f}%")
+        summary['Interpretation'].append('First-time members entering Congress')
+    
+    if 'dynasty_succession' in analysis_df.columns:
+        dynasty_pct = analysis_df['dynasty_succession'].mean() * 100
+        summary['Metric'].append('Dynasty Succession Rate')
+        summary['Value'].append(f"{dynasty_pct:.1f}%")
+        summary['Interpretation'].append('Family member following predecessor')
+    
+    if 'same_party' in analysis_df.columns:
+        same_party_pct = analysis_df['same_party'].mean() * 100
+        summary['Metric'].append('Same Party Rate')
+        summary['Value'].append(f"{same_party_pct:.1f}%")
+        summary['Interpretation'].append('Party continuity in seat')
+
+    if 'les' in analysis_df.columns:
+        les_pct = analysis_df['les'].mean() * 100
+        summary['Metric'].append('Legislative Effectiveness Score')
+        summary['Value'].append(f"{les_pct:.1f}%")
+        summary['Interpretation'].append('Overall effectiveness in legislation')
+
+    # Activity correlations
+    for activity in ['bills', 'cosponsored', 'original_cosp', 'les']:
+        pred_col = f'pred_{activity}'
+        succ_col = f'succ_{activity}'
+        if pred_col in analysis_df.columns and succ_col in analysis_df.columns:
+            corr_data = analysis_df[[pred_col, succ_col]].dropna()
+            if len(corr_data) > 0:
+                corr = corr_data[pred_col].corr(corr_data[succ_col])
+                summary['Metric'].append(f'{activity.replace("_", " ").title()} Correlation')
+                summary['Value'].append(f"r = {corr:.3f}")
+
+                if abs(corr) > 0.3:
+                    interp = 'Moderate-strong persistence'
+                elif abs(corr) > 0.1:
+                    interp = 'Weak-moderate persistence'
+                else:
+                    interp = 'Minimal persistence'
+                summary['Interpretation'].append(interp)
+    
+    summary_df = pd.DataFrame(summary)
+    
+    print("\n" + "="*80)
+    print("EDA SUMMARY TABLE")
+    print("="*80)
+    print(summary_df.to_string(index=False))
+    print("="*80 + "\n")
+    
+    return summary_df
+
+summary_table = create_eda_summary_table(analysis_df)
+```
+
+
+
+### Main Findings
+```{python}
+#| label: fig-main-scatter
+#| fig-cap: "Predecessor vs Successor Legislative Activity"
+
+fig, ax = plt.subplots(figsize=(10, 7))
+ax.scatter(analysis_df['pred_bills'], analysis_df['succ_bills'], 
+           alpha=0.5, s=100, color='steelblue', edgecolors='black', linewidth=0.5)
+
+# Regression line
+z = np.polyfit(analysis_df['pred_bills'], analysis_df['succ_bills'], 1)
+p = np.poly1d(z)
+ax.plot(analysis_df['pred_bills'], p(analysis_df['pred_bills']), 
+        "r--", linewidth=3, label=f'r = {analysis_df["pred_bills"].corr(analysis_df["succ_bills"]):.3f}')
+
+ax.set_xlabel('Predecessor Bills Sponsored', fontsize=14, fontweight='bold')
+ax.set_ylabel('Successor Bills Sponsored', fontsize=14, fontweight='bold')
+ax.legend(fontsize=12, frameon=True)
+ax.grid(True, alpha=0.3)
+plt.tight_layout()
+# plt.savefig('figures/main_finding.png', dpi=300, bbox_inches='tight')
+
+```
+
+
+```{python}
+#| label: fig-main-comparison
+#| fig-cap: "Comparison of Correlations by Subgroup"
+
+fig, ax = plt.subplots(figsize=(8, 6))
+categories = ['Same\nParty', 'Party\nFlip', 'Newcomer', 'Returning', 'Dynasty', 'Non-\nDynasty']
+correlations = [
+    analysis_df[analysis_df['same_party']==1]['pred_bills'].corr(analysis_df[analysis_df['same_party']==1]['succ_bills']),
+    analysis_df[analysis_df['same_party']==0]['pred_bills'].corr(analysis_df[analysis_df['same_party']==0]['succ_bills']),
+    analysis_df[analysis_df['is_newcomer']==1]['pred_bills'].corr(analysis_df[analysis_df['is_newcomer']==1]['succ_bills']),
+    analysis_df[analysis_df['is_newcomer']==0]['pred_bills'].corr(analysis_df[analysis_df['is_newcomer']==0]['succ_bills']),
+    analysis_df[analysis_df['dynasty_succession']==1]['pred_bills'].corr(analysis_df[analysis_df['dynasty_succession']==1]['succ_bills']),
+    analysis_df[analysis_df['dynasty_succession']==0]['pred_bills'].corr(analysis_df[analysis_df['dynasty_succession']==0]['succ_bills'])
+]
+
+bars = ax.bar(categories, correlations, color=['#2E7D32', '#C62828', '#1976D2', '#F57C00', '#7B1FA2', '#00838F'])
+ax.axhline(y=0, color='black', linewidth=0.8)
+ax.set_ylabel('Correlation (r)', fontsize=14, fontweight='bold')
+ax.set_ylim(-0.4, max(correlations) + 0.1)
+
+# Add value labels on bars
+for bar, corr in zip(bars, correlations):
+    height = bar.get_height()
+    ax.text(bar.get_x() + bar.get_width()/2., height + 0.01,
+            f'{corr:.3f}', ha='center', va='bottom', fontweight='bold')
+
+plt.tight_layout()
+# plt.savefig('figures/subgroup_comparison.png', dpi=300, bbox_inches='tight')
+```
+___
+
+## Discussion
+
+### What We Found
+
+Predecessor activity shows only a weak or minimal relationship with successor activity (number of bills sponsored : r = -0.121 ; Legislative Effectiveness Score : r = - 0.035). This suggests substantial individual variation in how successors approach their role, regardless of their predecessor's behavior. Factors beyond the predecessor—personal ambition, district priorities, party strategies— or more nuanced pathways through which predecessors' influence impact their successors likely matter more.
+
+### Limitations
+
+**Measurement:**
+
+- Activity counts (bills sponsored) don't capture actual collaborative relationships
+
+- Missing context about bill importance or policy areas that might influence legislative behavior based on their geographical context (e.g. regional issues, local priorities on specific topics - Florida and Pennsylvania will have focus on agricultural issues no matter their party affiliation or tenure)
+
+**Design:**
+
+- Single transition period limits generalizability
+
+- Cannot rule out member-level confounds (demographics, electoral competitiveness)
+
+- Small sample size for some comparisons (especially dynasty members)
+
+### Future Directions
+
+**Immediate Next Steps:**
+
+1. **Network analysis**: Map actual cosponsorship ties (who collaborates with whom)
+
+2. **Demographic controls**: Add demographics, electoral competition, policy priorities per constituency
+
+3. **Temporal expansion**: Multiple transitions to assess consistency
+
+**Longer-Term Extensions:**
+
+1. **Senate comparison**: Different institution, longer terms, smaller size, national representation
+
+2. **Mechanism studies**: Qualitative interviews about how successors choose collaborators
+
+3. **Performance outcomes**: Does any relationship with predecessor predict effectiveness of successors? beyond legislative activity and electoral success in the following re-election opportunities?
+
+
+
+## Conclusion
+
+This exploratory study examines whether predecessor legislative activity relates to successor activity in the U.S. House of Representatives. Using the 117th→118th Congress transition, we find a modest negative correlation in number of bills sponsored (r = -0.121) and minimal negative correlation in Legislative Effectiveness Score (r = - 0.035) between predecessor and successor.
+
+**Key Takeaway:** Legislative activity shows some continuity across turnovers, though the mechanism and strength of this relationship require further investigation. Positional legacies could be further understood with various contextual differences behind turnover events.
+
+This work provides a foundation for understanding how organizational positions and personnel turnover intersect in congressional settings, with implications for broader questions about institutional continuity and newcomer integration.

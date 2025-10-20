@@ -1,35 +1,16 @@
-This is a notebook to get basic descriptive statistics about all key variables. In actual report many part of this could be in the Appendix.
-Key visualizations to show & answer the questions on descriptive side:
+---
+title: 03-EDA
+author: Gayoung Kim
+format: 
+    html:
+        code-fold: false
+        toc: true
+---
 
-1. bioguide 
-how's the seat number has changed?
-who is connected to most number of members (who's the most strong?)
-(replicating Dalbó et al., 2009 )
-
-2. bills & cosponsorship
-    1. (replicating Fowler 2006 questions to more recent data )
-    On congressperson/members people : on power of person
-        1. Number of sponsors and bills sponsored
-        2. Number of bills per legislator 
-        3. Number of cosponsors (% of Chamber) per bill (so naturally per session)
-        4. Unique cosponsors(% of Chamber) x legislators (% of chamber)
-        5. Which legilsators are most connected?
-    2. (replicating chown & Liu, 2015 questions/basic descriptive questions)
-
-what are average 
-what kind of bills are proposed
-- what are the area of bills (already defined in the system)?
-what kind of bills get most support (who signed the most?)
-what kind of bills are passed the most 
-- are there change over time? for these variables?
-what's the discrepancy between active and passive cosponsors
-
-
-njisj
-
+## Overview
+This notebook for Exploratory Data Analysis (EDA) examines basic characteristics in congressional members (e.g. turnover, legislative behavior, and demographic factors) and the bills they sponsor, cosponsor and vote for. 
 
 ```{python}
-
 import pandas as pd
 import numpy as np
 from datetime import datetime
@@ -37,73 +18,462 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 import plotly.graph_objects as go
-
 from plotly.subplots import make_subplots
 from scipy import stats
 from itertools import combinations
+
 import warnings
 warnings.filterwarnings('ignore')
+from pathlib import Path
+from typing import Dict, List, Optional, Tuple
+from collections import defaultdict
+from tqdm import tqdm
+import pickle
+
+# Set plotting parameters
+plt.rcParams['figure.figsize'] = (12, 8)
+sns.set_palette("husl")
+
+# Timestamp
+time_stamp = datetime.now().strftime("%d%b%Y")
+
+# directories
+OUTPUT_DIR = Path("data/processed")
+TEMP_DIR = Path("data/temp")
+```
+```{python}
+# Load all necessary datasets
+print("Loading datasets...")
+
+# Bills and sponsorships
+house_bills_df = pd.read_pickle(OUTPUT_DIR / "house_bills_df.pkl")
+# house_sponsorships_df = pd.read_pickle(OUTPUT_DIR / "house_sponsorships_df.pkl")  
+house_people_sponsorships_pivot = pd.read_pickle(OUTPUT_DIR / "house_people_sponsorships_pivot.pkl")
+
+# Bioguide data
+bio_jobs = pd.read_pickle(OUTPUT_DIR / "bio_jobs.pkl")
+
+# Turnover data
+turnover_pairs = pd.read_pickle(OUTPUT_DIR / "turnover_pairs.pkl")
+analysis_df = pd.read_pickle(OUTPUT_DIR / "analysis_df.pkl")
+
+print(f"✓ Loaded {len(house_bills_df):,} bills")
+# print(f"✓ Loaded {len(house_sponsorships_df):,} sponsorship records")
+print(f"✓ Loaded {len(bio_jobs):,} job records")
+print(f"✓ Loaded {len(turnover_pairs):,} turnover pairs")
 ```
 
+
+
+## Bioguide
+
+### Congressional Membership
+```{python}
+def analyze_bioguide_basic(bio_jobs_df):
+    """Basic statistics for bioguide job data"""
+    print("\n" + "="*50)
+    print("BIOGUIDE BASIC STATISTICS")
+    print("="*50)
+    
+    df = bio_jobs_df.copy()
+    
+    # Basic counts
+    print(f"\nTotal unique members: {df['bioguide_id'].nunique():,}")
+    print(f"Total job records: {len(df):,}")
+    print(f"Congress range: {df['congress'].min():.0f} to {df['congress'].max():.0f}")
+    
+    # Chamber distribution
+    chamber_counts = df['position'].value_counts()
+    print(f"\nChamber distribution (all sessions):")
+    for chamber, count in chamber_counts.items():
+        if chamber:  # Skip None values
+            print(f"  {chamber.title()}: {count:,}")
+    
+    # Party distribution for recent congresses
+    recent_df = df[df['congress'] >= 117]
+    party_counts = recent_df['party'].value_counts().head(10)
+    print(f"\nParty distribution (117th Congress onwards):")
+    for party, count in party_counts.items():
+        print(f"  {party}: {count:,}")
+    
+    # State representation (all time)
+    state_counts = df['state'].value_counts()
+    print(f"\nStates with most representatives (all time):")
+    for state, count in state_counts.head(10).items():
+        print(f"  {state}: {count:,}")
+    
+    return df
+```
 
 ```{python}
-# overall overview summary 
-# def generate_summary_report(df, student_id_col='fugesid'):
-#     """Generate comprehensive summary report for cleaned data"""
-#     print("\n" + "="*80)
-#     print("AUTOMATED EDA SUMMARY REPORT - CLEANED DATA")
-#     print("="*80)
-
-#     student_data = df.drop_duplicates(student_id_col)
-
-#     print(f"\nDATASET OVERVIEW:")
-#     print(f"  Total observations (course-level): {len(df):,}")
-#     print(f"  Unique students: {len(student_data):,}")
-#     print(f"  Unique semesters: {len(df['semester'].unique()):,}")
-#     print(f"  Unique cohorts: {len(df['cohort'].unique()):}")
-
-
-#     # Test waiver analysis
-#     if 'test_waiver' in student_data.columns:
-#         waiver_rate = student_data['test_waiver'].mean() * 100
-#         print(f"\nTEST WAIVER ANALYSIS:")
-#         print(f"  Test waiver rate: {waiver_rate:.1f}%")
-#         print(f"  Students with waiver: {student_data['test_waiver'].sum()}")
-#         print(f"  Students without waiver: {(~student_data['test_waiver']).sum()}")
-
-#     # Academic performance analysis - semester gpa
-#     if 'semester_gpa' in student_data.columns:
-#         semester_gpa_data = student_data['semester_gpa'].dropna()
-#         print(f"\nACADEMIC PERFORMANCE:")
-#         print(f"  Average Semester GPA: {semester_gpa_data.mean():.3f}")
-#         print(f"  Students below 3.0 (probation): {(semester_gpa_data < 3.0).sum()}")
-#         print(f"  Students 3.0-3.17 (warning): {((semester_gpa_data >= 3.0) & (semester_gpa_data <= 3.17)).sum()}")
-#         print(f"  Students above 3.17 (pass): {(semester_gpa_data > 3.17).sum()}")
-
-
-#     # Academic performance analysis - cumulative gpa
-#     if 'cumulative_gpa_transition' in student_data.columns:
-#         gpa_data = student_data['cumulative_gpa_transition'].dropna()
-#         print(f"\nACADEMIC PERFORMANCE:")
-#         print(f"  Average transition GPA: {gpa_data.mean():.3f}")
-#         print(f"  Students below 3.0 (probation): {(gpa_data < 3.0).sum()}")
-#         print(f"  Students 3.0-3.17 (warning): {((gpa_data >= 3.0) & (gpa_data <= 3.17)).sum()}")
-#         print(f"  Students above 3.17 (pass): {(gpa_data > 3.17).sum()}")
-
-#     # Demographics summary
-#     if 'age_at_semester_start' in student_data.columns:
-#         age_data = student_data['age_at_semester_start'].dropna()
-#         print(f"\nDEMOGRAPHICS:")
-#         print(f"  Average age: {age_data.mean():.1f} years")
-#         print(f"  Age range: {age_data.min():.0f}-{age_data.max():.0f} years")
-
-#     if 'work_experience_months' in student_data.columns:
-#         work_data = student_data['work_experience_months'].dropna()
-#         print(f"  Average work experience: {work_data.mean():.1f} months ({work_data.mean()/12:.1f} years)")
-
-#     if 'gender' in student_data.columns:
-#         gender_dist = student_data['gender'].value_counts()
-#         print(f"  Gender distribution: {dict(gender_dist)}")
-
-
+bio_summary = analyze_bioguide_basic(bio_jobs)
 ```
+
+
+
+**Key Patterns:**
+
+- The full bioguide dataset includes a total of 13,028 unique members, and 52,733 jobs over a span of 240 years.
+
+- Republican and Democrat have been dominant for our analysis period.
+
+- There is a noticeable concentration of representatives from certain states over time (e.g. NY, PA, OH, CA, IL), indicating potential geographic trends in congressional representation.
+
+**Implication for further analysis:**
+The bioguide data covers 240 years of congressional history with 13,028 unique members. This comprehensive coverage allows us to identify career patterns and trace family dynasties across generations.
+
+### Tenure and career pattern
+```{python}
+def analyze_tenure_patterns(bio_jobs_df):
+    """Analyze tenure and career patterns"""
+    print("\n" + "="*50)
+    print("TENURE AND CAREER PATTERNS")
+    print("="*50)
+    
+    df = bio_jobs_df.copy()
+    
+    # Calculate career statistics per person
+    # Calculate career statistics per person
+    career_stats = df.groupby('bioguide_id').agg({
+        'congress': ['min', 'max', 'count'],
+        'position': lambda x: x.mode().iloc[0] if not x.mode().empty else None
+    }).reset_index()
+    
+    career_stats.columns = ['bioguide_id', 'first_congress', 'last_congress', 
+                            'total_sessions', 'primary_chamber']
+    career_stats['career_span'] = career_stats['last_congress'] - career_stats['first_congress'] + 1
+    
+    print(f"\nCareer statistics:")
+    print(f"  Mean sessions served: {career_stats['total_sessions'].mean():.1f}")
+    print(f"  Median sessions served: {career_stats['total_sessions'].median():.1f}")
+    print(f"  Max sessions: {career_stats['total_sessions'].max():.0f}")
+    print(f"  Members with 1 session only: {(career_stats['total_sessions'] == 1).sum():,} "
+          f"({(career_stats['total_sessions'] == 1).mean()*100:.1f}%)")
+    
+    # Visualize career length distribution
+    fig, ax = plt.subplots(1, 1, figsize=(7, 5))
+
+    # Histogram of sessions served
+    ax.hist(career_stats['total_sessions'], bins=50, edgecolor='black', alpha=0.7)
+    ax.axvline(career_stats['total_sessions'].mean(), color='red', 
+            linestyle='--', linewidth=2, label=f'Mean: {career_stats["total_sessions"].mean():.1f}')
+    ax.axvline(career_stats['total_sessions'].median(), color='blue', 
+            linestyle='--', linewidth=2, label=f'Median: {career_stats["total_sessions"].median():.1f}')
+    ax.set_xlabel('Number of Sessions Served')
+    ax.set_ylabel('Number of Members')
+    ax.set_title('Distribution of Congressional Career Lengths')
+    ax.legend()
+    ax.grid(True, alpha=0.3)
+
+    plt.suptitle('')  # Remove automatic title
+
+    plt.tight_layout()
+    plt.show()
+    
+    return career_stats
+```
+
+```{python}
+# Run analysis
+career_stats = analyze_tenure_patterns(bio_jobs)
+```
+
+**Tenure Distribution:**
+
+- Average member serves 4 sessions (8 years)
+
+- 29.7% serve only one term (potential "one and done" pattern)
+
+- Longest career: 39 sessions
+
+**Implications for Further Analysis:**
+High turnover rates mean that network inheritance is a frequent phenomenon. The 29.7% of members serving only one term may rely heavily on their predecessors, making it essential to understand these relationships. At the same time, this indicates, that the members serving only one term mean that their impact on the subsequent successor might be limited than the predecessors who serve multiple terms.
+
+### Turnover over time
+```{python}
+def analyze_turnover_patterns(bio_jobs_df):
+    """Analyze turnover patterns over time"""
+    print("\n" + "="*50)
+    print("TURNOVER PATTERNS")
+    print("="*50)
+    
+    df = bio_jobs_df.copy()
+    
+    # Focus on House for clarity
+    house_df = df[df['position'] == 'house'].copy()
+    
+    # Count new members and exits by congress
+    new_members = house_df[house_df['nth_congress'] == 1].groupby('congress').size()
+    all_members = house_df.groupby('congress').size()
+    
+    # Calculate turnover rate
+    turnover_rate = (new_members / all_members * 100)
+    
+    print(f"\nHouse Turnover Statistics:")
+    print(f"  Average new members per congress: {new_members.mean():.1f}")
+    print(f"  Average turnover rate: {turnover_rate.mean():.1f}%")
+    print(f"  Peak new members: {new_members.max():.0f} in Congress {new_members.idxmax():.0f}")
+    
+    # Visualizations
+    fig, ax = plt.subplots(1, 1, figsize=(14, 5))
+    
+    # # New members over time
+    # axes[0].plot(new_members.index, new_members.values, marker='o', 
+    #             markersize=4, linewidth=2, color='steelblue')
+    # axes[0].fill_between(new_members.index, new_members.values, alpha=0.3)
+    # axes[0].axhline(y=new_members.mean(), color='red', linestyle='--', 
+    #                label=f'Average: {new_members.mean():.1f}')
+    # axes[0].set_xlabel('Congress')
+    # axes[0].set_ylabel('Number of New Members')
+    # axes[0].set_title('New House Members by Congress')
+    # axes[0].legend()
+    # axes[0].grid(True, alpha=0.3)
+    
+    # Turnover rate
+    ax.plot(turnover_rate.index, turnover_rate.values, marker='s', 
+            markersize=4, linewidth=2, color='darkred')
+    ax.fill_between(turnover_rate.index, turnover_rate.values, alpha=0.3, color='red')
+    ax.axhline(y=turnover_rate.mean(), color='black', linestyle='--',
+               label=f'Average: {turnover_rate.mean():.1f}%')
+    ax.set_xlabel('Congress')
+    ax.set_ylabel('Turnover Rate (%)')
+    ax.set_title('House Turnover Rate Over Time')
+    ax.legend()
+    ax.grid(True, alpha=0.3)
+
+    plt.tight_layout()
+    plt.show()
+    
+    return new_members, turnover_rate
+```
+
+```{python}
+# Run analysis for recent congresses
+new_members, turnover_rate = analyze_turnover_patterns(bio_jobs.query("position == 'house' & congress >= 93"))
+```
+
+
+**Turnover Dynamics after 93rd congress**
+
+**Historical Trends:**
+
+- Turnover rate averages 15.9% per congress
+
+- Notable spikes in 103rd congress (e.g., post-Watergate, Tea Party wave)
+
+- Recent trend: relatively stable
+
+**Context for Further Analysis:**
+With 71 new members per congress on average, these new members' legislative activities and performance affect a substantial portion of the chamber in each cycle. Understanding how these newcomers integrate is crucial for organizational continuity.
+
+
+
+## Bills
+### Legislative Activity Patterns
+```{python}
+def analyze_bills_basic(bills_df):
+    """Basic statistics for bills data"""
+    print("\n" + "="*50)
+    print("BILLS BASIC STATISTICS")
+    print("="*50)
+    
+    df = bills_df.copy()
+    
+    print(f"\nTotal bills: {len(df):,}")
+    print(f"Congresses covered: {df['congress'].min():.0f} to {df['congress'].max():.0f}")
+    
+    # Bill types
+    bill_types = df['bill_type'].value_counts()
+    print(f"\nBill types:")
+    for bill_type, count in bill_types.items():
+        print(f"  {bill_type}: {count:,} ({count/len(df)*100:.1f}%)")
+    
+    # Bills by congress
+    bills_by_congress = df['congress'].value_counts().sort_index()
+    bills_by_congress = bills_by_congress.reset_index()
+    bills_by_congress.columns = ['congress', 'bill_count']
+    bills_by_congress['congress'] = bills_by_congress['congress'].astype('category')
+
+
+
+    # Cosponsorship statistics
+    print(f"\nCosponsorship statistics:")
+    print(f"  Bills with cosponsors: {(df['total_cosponsors'] > 0).sum():,} "
+          f"({(df['total_cosponsors'] > 0).mean()*100:.1f}%)")
+    print(f"  Average cosponsors per bill: {df['total_cosponsors'].mean():.1f}")
+    print(f"  Median cosponsors: {df['total_cosponsors'].median():.1f}")
+    print(f"  Max cosponsors on a bill: {df['total_cosponsors'].max():.0f}")
+    
+    # Success metrics
+    if 'became_law' in df.columns:
+        print(f"\nBill outcomes:")
+        print(f"  Became law: {df['became_law'].sum():,} ({df['became_law'].mean()*100:.2f}%)")
+        print(f"  Passed chamber: {df['passed_chamber'].sum():,} ({df['passed_chamber'].mean()*100:.2f}%)")
+    
+    # Visualizations
+    fig, axes = plt.subplots(2, 2, figsize=(14, 10))
+    
+    # Bills over time
+    axes[0, 0].bar(bills_by_congress['congress'].astype(str), bills_by_congress['bill_count'], color='steelblue', alpha=0.7)
+    axes[0, 0].set_xlabel('Congress')
+    axes[0, 0].set_ylabel('Number of Bills')
+    axes[0, 0].set_title('Bills Introduced by Congress')
+    axes[0, 0].grid(True, alpha=0.3, axis='y')
+    
+    # Distribution of cosponsors
+    axes[0, 1].hist(df[df['total_cosponsors'] > 0]['total_cosponsors'], 
+                   bins=50, edgecolor='black', alpha=0.7, color='coral')
+    axes[0, 1].set_xlabel('Number of Cosponsors')
+    axes[0, 1].set_ylabel('Number of Bills')
+    axes[0, 1].set_title('Distribution of Cosponsors per Bill')
+    axes[0, 1].set_xlim(0, 100)
+    axes[0, 1].grid(True, alpha=0.3, axis='y')
+    
+    # Policy areas
+    if 'policy_area' in df.columns:
+        top_policy = df['policy_area'].value_counts().head(10)
+        axes[1, 0].barh(range(len(top_policy)), top_policy.values, color='green', alpha=0.7)
+        axes[1, 0].set_yticks(range(len(top_policy)))
+        axes[1, 0].set_yticklabels(top_policy.index, fontsize=9)
+        axes[1, 0].set_xlabel('Number of Bills')
+        axes[1, 0].set_title('Top 10 Policy Areas')
+        axes[1, 0].invert_yaxis()
+    
+    # Cosponsorship rate over time
+    cosponsor_rate = df.groupby('congress').apply(
+        lambda x: (x['total_cosponsors'] > 0).mean() * 100
+    )
+    axes[1, 1].plot(cosponsor_rate.index.astype(str), cosponsor_rate.values, 
+                   marker='o', markersize=6, linewidth=2, color='purple')
+    axes[1, 1].fill_between(cosponsor_rate.index.astype(str), cosponsor_rate.values, alpha=0.3, color='purple')
+    axes[1, 1].set_xlabel('Congress')
+    axes[1, 1].set_ylabel('% Bills with Cosponsors')
+    axes[1, 1].set_title('Cosponsorship Rate Over Time')
+    axes[1, 1].grid(True, alpha=0.3)
+    
+    plt.tight_layout()
+    plt.show()
+    
+    return df
+```
+
+```{python}
+# Run analysis
+bills_summary = analyze_bills_basic(house_bills_df)
+```
+
+
+
+**Volume:**
+
+- Congress introduces 10,137 bills on average per session
+
+- 80% of bills attract at least one cosponsor
+
+- Median bill has 4 cosponsors, with an average of 14. This is likely due to outlier bills with many cosponsors.
+
+**Success Rates:**
+
+- Only 2.85% of bills become law (consistent with literature showing legislative attrition)
+
+- 1.42% pass their chamber
+
+**Policy Focus:**
+
+- Top areas: Health, Armed forces and National security, Government operations and politics, Taxation
+
+- This distribution reflects contemporary priorities and constituent concerns.
+
+### Bill success
+
+```{python}
+def analyze_bill_success(bills_df):
+    """Analyze what predicts bill success"""
+    print("\n" + "="*50)
+    print("BILL SUCCESS ANALYSIS")
+    print("="*50)
+    
+    df = bills_df.copy()
+    
+    if 'became_law' not in df.columns:
+        print("No success metrics available")
+        return
+    
+    # Relationship between cosponsors and success
+    # Create bins
+    cosponsor_bins = [0, 1, 5, 10, 25, 50, 100, 500]
+    df['cosponsor_range'] = pd.cut(df['total_cosponsors'], bins=cosponsor_bins,
+                                   labels=['0', '1-4', '5-9', '10-24', 
+                                          '25-49', '50-99', '100+'])
+    
+    # Success by cosponsor range
+    success_by_cosponsors = df.groupby('cosponsor_range', observed=True).agg({
+        'became_law': ['sum', 'count', 'mean'],
+        'passed_chamber': 'mean'
+    })
+    
+    success_by_cosponsors.columns = ['laws', 'total', 'law_rate', 'pass_rate']
+    
+    print(f"\nSuccess rate by number of cosponsors:")
+    for idx, row in success_by_cosponsors.iterrows():
+        print(f"  {idx}: {row['law_rate']*100:.2f}% became law, "
+              f"{row['pass_rate']*100:.2f}% passed ({row['laws']:.0f}/{row['total']:.0f} bills)")
+    
+    # Visualization
+    fig, axes = plt.subplots(2, 1, figsize=(14, 10))
+
+    # Success rate bars
+    x_pos = range(len(success_by_cosponsors))
+    axes[0].bar(x_pos, success_by_cosponsors['law_rate']*100, 
+               color='green', alpha=0.7, label='Became Law')
+    axes[0].bar(x_pos, success_by_cosponsors['pass_rate']*100, 
+               color='orange', alpha=0.5, label='Passed Chamber')
+    axes[0].set_xticks(x_pos)
+    axes[0].set_xticklabels(success_by_cosponsors.index, rotation=45)
+    axes[0].set_xlabel('Number of Cosponsors')
+    axes[0].set_ylabel('Success Rate (%)')
+    axes[0].set_title('Bill Success by Cosponsorship Level')
+    axes[0].legend()
+    axes[0].grid(True, alpha=0.3, axis='y')
+    
+    # Scatter: cosponsors vs success
+    axes[1].scatter(df['total_cosponsors'], df['became_law'], alpha=0.1, s=10)
+    
+    # Add moving average
+    from scipy.ndimage import uniform_filter1d
+    df_sorted = df.sort_values('total_cosponsors')
+    window = 100
+    if len(df_sorted) > window:
+        moving_avg = uniform_filter1d(df_sorted['became_law'].astype(float), size=window)
+        axes[1].plot(df_sorted['total_cosponsors'].iloc[window//2:-window//2+1], 
+                    moving_avg[window//2:-window//2+1],
+                    color='blue', linewidth=2, label='Moving Average')
+    
+    axes[1].set_xlabel('Number of Cosponsors')
+    axes[1].set_ylabel('Became Law (0/1)')
+    axes[1].set_title('Relationship: Cosponsors → Law')
+    axes[1].set_xlim(0, 200)
+    axes[1].legend()
+    axes[1].grid(True, alpha=0.3)
+    
+    plt.tight_layout()
+    plt.show()
+    
+    return success_by_cosponsors
+```
+
+```{python}
+# Run analysis
+success_patterns = analyze_bill_success(house_bills_df)
+```
+
+
+**What Makes Bills Successful?**
+
+**Cosponsorship Effect:**
+
+- Bills with 100+ cosponsors have highest success rate (4.63% of becoming law)
+
+- None or very few cosponsors: These categories have relatively higher success rates of becoming law, potentially due to focused areas and lower barriers to passage led by strong advocacy from powerful sponsors.
+
+- Too many cosponsors: may indicate symbolic/messaging bills that hold bipartisan support or extremely partisan bills that face opposition and thus need to mobilize universal support from within party.

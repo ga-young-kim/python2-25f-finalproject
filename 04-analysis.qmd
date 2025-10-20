@@ -1,5 +1,652 @@
-This is a notebook to answer the core research question: 
-Do congressmembers with kinship relationships perform differently in legislative activities than those who do not have those relationships? 
+---
+title: 04-Analysis
+author: Gayoung Kim
+format: 
+    html:
+        code-fold: false
+        toc: true
+---
+
+## Overview 
+
+This notebook analyzes turnover pairs and whether the successors' legislative activities and performance is associated with their predecessors'.
+
+```{python}
+import pandas as pd
+import numpy as np
+from datetime import datetime
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
+from scipy import stats
+import statsmodels.api as sm
+from itertools import combinations
+
+import warnings
+warnings.filterwarnings('ignore')
+from pathlib import Path
+from typing import Dict, List, Optional, Tuple
+from collections import defaultdict
+from tqdm import tqdm
+import pickle
+
+# Set plotting parameters
+plt.rcParams['figure.figsize'] = (12, 8)
+sns.set_palette("husl")
+
+# Timestamp
+time_stamp = datetime.now().strftime("%d%b%Y")
+
+# directories
+OUTPUT_DIR = Path("data/processed")
+TEMP_DIR = Path("data/temp")
+```
+
+```{python}
+analysis_df = pd.read_pickle(Path(OUTPUT_DIR, "turnover_pairs.pkl"))
+turnover_pairs = pd.read_pickle(Path(OUTPUT_DIR, "turnover_pairs.pkl"))
+```
+
+## 1: Variable Classification
+```{python}
+def classify_turnover_pair_variables(df):
+    """
+    Classify variables in turnover-pair dataset
+    
+    Returns:
+    --------
+    dict with keys: 'identifiers', 'context', 'pred_activity', 'succ_activity', 
+                    'pred_performance', 'succ_performance', 'pred_career', 'succ_career'
+    """
+    
+    identifiers = ['seat', 'predecessor_bioguide_id', 'successor_bioguide_id']
+    
+    context_vars = ['same_party', 'is_newcomer', 'dynasty_succession']
+    
+    # Activity metrics (separate by pred/succ)
+    pred_activity = ['pred_bills', 'pred_cosponsored', 'pred_original_cosp']
+    succ_activity = ['succ_bills', 'succ_cosponsored', 'succ_original_cosp']
+    
+    # Performance metrics
+    pred_performance = ['pred_les']
+    succ_performance = ['succ_les']
+    
+    # Career variables
+    pred_career = ['predecessor_total_congress', 'predecessor_nth_congress']
+    succ_career = ['successor_total_congress', 'successor_nth_congress']
+
+    # Filter to only include variables that exist in the dataset
+    var_dict = {
+        'identifiers': [v for v in identifiers if v in df.columns],
+        'context': [v for v in context_vars if v in df.columns],
+        'pred_activity': [v for v in pred_activity if v in df.columns],
+        'succ_activity': [v for v in succ_activity if v in df.columns],
+        'pred_performance': [v for v in pred_performance if v in df.columns],
+        'succ_performance': [v for v in succ_performance if v in df.columns],
+        'pred_career': [v for v in pred_career if v in df.columns],
+        'succ_career': [v for v in succ_career if v in df.columns]
+    }
+    
+    print("Variable Classification for Turnover-Pair Data:")
+    print(f"  Identifiers: {len(var_dict['identifiers'])} variables")
+    print(f"  Context: {len(var_dict['context'])} variables")
+    print(f"  Predecessor Activity: {len(var_dict['pred_activity'])} variables")
+    print(f"  Successor Activity: {len(var_dict['succ_activity'])} variables")
+    print(f"  Predecessor Performance: {len(var_dict['pred_performance'])} variables")
+    print(f"  Successor Performance: {len(var_dict['succ_performance'])} variables")
+    print(f"  Predecessor Career: {len(var_dict['pred_career'])} variables")
+    print(f"  Successor Career: {len(var_dict['succ_career'])} variables")
+    
+    return var_dict
+```
+
+```{python}
+var_dict = classify_turnover_pair_variables(turnover_pairs)
+```
+
+# 2: General Summary
+```{python}
+def generate_turnover_summary(df):
+    """Generate comprehensive summary report for turnover-pair data"""
+    print("\n" + "="*80)
+    print("TURNOVER-PAIR EDA SUMMARY REPORT")
+    print("="*80)
+    
+    print(f"\nDATASET OVERVIEW:")
+    print(f"  Total turnover pairs: {len(df):,}")
+    
+    # Context analysis
+    print(f"\nTURNOVER CONTEXT:")
+    if 'same_party' in df.columns:
+        same_party_pct = df['same_party'].mean() * 100
+        print(f"  Same party succession: {same_party_pct:.1f}%")
+    
+    if 'is_newcomer' in df.columns:
+        newcomer_pct = df['is_newcomer'].mean() * 100
+        print(f"  Newcomers: {newcomer_pct:.1f}%")
+        print(f"    (vs. Returning members: {100-newcomer_pct:.1f}%)")
+    
+    if 'dynasty_succession' in df.columns:
+        dynasty_pct = df['dynasty_succession'].mean() * 100
+        print(f"  Dynasty succession: {dynasty_pct:.1f}%")
+    
+    # Activity comparison
+    print(f"\nACTIVITY COMPARISON (Predecessor vs Successor):")
+    activity_vars = ['bills', 'cosponsored', 'original_cosp']
+    for var in activity_vars:
+        pred_col = f'pred_{var}'
+        succ_col = f'succ_{var}'
+        if pred_col in df.columns and succ_col in df.columns:
+            pred_mean = df[pred_col].mean()
+            succ_mean = df[succ_col].mean()
+            diff_pct = ((succ_mean - pred_mean) / pred_mean * 100) if pred_mean != 0 else 0
+            print(f"  {var}:")
+            print(f"    Predecessor avg: {pred_mean:.1f}")
+            print(f"    Successor avg: {succ_mean:.1f}")
+            print(f"    Change: {diff_pct:+.1f}%")
+    
+    # Performance comparison
+    if 'pred_les' in df.columns and 'succ_les' in df.columns:
+        print(f"\nPERFORMANCE (LES Score):")
+        pred_les = df['pred_les'].mean()
+        succ_les = df['succ_les'].mean()
+        print(f"  Predecessor avg LES: {pred_les:.3f}")
+        print(f"  Successor avg LES: {succ_les:.3f}")
+        print(f"  Change: {(succ_les - pred_les):+.3f}")
+```
+
+```{python}
+generate_turnover_summary(turnover_pairs)
+```
+
+# 3: Univariate analysis
+## 3.1. Context Variables
+```{python}
+def analyze_context_variables(df, context_vars):
+    """
+    Analyze binary/categorical context variables
+    """
+    print(f"\nAnalyzing {len(context_vars)} context variables...")
+    
+    n_vars = len(context_vars)
+    if n_vars == 0:
+        print("No context variables to analyze")
+        return {}
+    
+    fig, axes = plt.subplots(1, n_vars, figsize=(5*n_vars, 4))
+    if n_vars == 1:
+        axes = [axes]
+    
+    results = {}
+    
+    for i, var in enumerate(context_vars):
+        ax = axes[i]
+        
+        value_counts = df[var].value_counts()
+        
+        # Create bar plot
+        colors = ['#ff7f0e' if idx == 1 else '#1f77b4' for idx in value_counts.index]
+        bars = ax.bar(range(len(value_counts)), value_counts.values,
+                     color=colors, alpha=0.8, edgecolor='black', linewidth=1)
+        
+        ax.set_xticks(range(len(value_counts)))
+        labels = ['Yes' if idx == 1 else 'No' for idx in value_counts.index]
+        ax.set_xticklabels(labels, fontsize=11)
+        
+        # Add percentage labels
+        total = value_counts.sum()
+        for bar, count in zip(bars, value_counts.values):
+            height = bar.get_height()
+            ax.text(bar.get_x() + bar.get_width()/2., height + total*0.01,
+                   f'{count}\n({count/total*100:.1f}%)',
+                   ha='center', va='bottom', fontsize=10, fontweight='bold')
+        
+        ax.set_title(f'{var.replace("_", " ").title()}', 
+                    fontweight='bold', fontsize=12)
+        ax.set_ylabel('Count', fontsize=10)
+        ax.grid(axis='y', alpha=0.3)
+        
+        results[var] = {
+            'type': 'binary',
+            'yes_count': value_counts.get(1, 0),
+            'no_count': value_counts.get(0, 0),
+            'yes_pct': (value_counts.get(1, 0) / total * 100) if total > 0 else 0
+        }
+    
+    plt.tight_layout()
+    plt.suptitle('Context Variables - Turnover Pair Characteristics', 
+                fontsize=14, y=1.02)
+    plt.show()
+    
+    return results
+```
+
+```{python}
+context_results = analyze_context_variables(analysis_df, var_dict['context'])
+```
+
+## 3.2. Activity Metrics
+
+```{python}
+def analyze_paired_activity(df, activity_metric):
+    """
+    Analyze a single activity metric comparing predecessor vs successor
+    
+    Parameters:
+    -----------
+    activity_metric : str
+        Base name without prefix (e.g., 'bills', 'cosponsored', 'original_cosp')
+    """
+    pred_col = f'pred_{activity_metric}'
+    succ_col = f'succ_{activity_metric}'
+    
+    if pred_col not in df.columns or succ_col not in df.columns:
+        print(f"Columns {pred_col} or {succ_col} not found")
+        return
+    
+    print(f"\n{'='*70}")
+    print(f"ACTIVITY ANALYSIS: {activity_metric.replace('_', ' ').upper()}")
+    print(f"{'='*70}\n")
+    
+    # Get clean data
+    pred_data = df[pred_col].dropna()
+    succ_data = df[succ_col].dropna()
+    
+    # Statistics
+    print("SUMMARY STATISTICS:")
+    print(f"{'─'*70}")
+    print(f"\nPredecessor ({pred_col}):")
+    print(f"  n:      {len(pred_data):,}")
+    print(f"  Mean:   {pred_data.mean():.2f}")
+    print(f"  Median: {pred_data.median():.2f}")
+    print(f"  Std:    {pred_data.std():.2f}")
+    print(f"  Range:  [{pred_data.min():.0f}, {pred_data.max():.0f}]")
+    
+    print(f"\nSuccessor ({succ_col}):")
+    print(f"  n:      {len(succ_data):,}")
+    print(f"  Mean:   {succ_data.mean():.2f}")
+    print(f"  Median: {succ_data.median():.2f}")
+    print(f"  Std:    {succ_data.std():.2f}")
+    print(f"  Range:  [{succ_data.min():.0f}, {succ_data.max():.0f}]")
+    
+    # Change analysis
+    print(f"\nCHANGE ANALYSIS:")
+    print(f"{'─'*70}")
+    mean_diff = succ_data.mean() - pred_data.mean()
+    pct_change = (mean_diff / pred_data.mean() * 100) if pred_data.mean() != 0 else 0
+    print(f"  Mean difference: {mean_diff:+.2f}")
+    print(f"  Percent change:  {pct_change:+.1f}%")
+    
+    # Paired t-test (if we have matching pairs)
+    if len(df[[pred_col, succ_col]].dropna()) > 0:
+        paired_data = df[[pred_col, succ_col]].dropna()
+        t_stat, p_value = stats.ttest_rel(paired_data[pred_col], paired_data[succ_col])
+        print(f"  Paired t-test:   t={t_stat:.3f}, p={p_value:.4f}")
+        if p_value < 0.05:
+            print(f"  → Statistically significant difference (p < 0.05)")
+        else:
+            print(f"  → No significant difference (p ≥ 0.05)")
+    
+    # Visualization
+    fig, axes = plt.subplots(1, 3, figsize=(16, 5))
+    
+    # Histogram comparison
+    axes[0].hist(pred_data, bins=30, alpha=0.6, label='Predecessor', 
+                color='steelblue', edgecolor='black')
+    axes[0].hist(succ_data, bins=30, alpha=0.6, label='Successor',
+                color='coral', edgecolor='black')
+    axes[0].axvline(pred_data.mean(), color='steelblue', linestyle='--', 
+                   linewidth=2, label=f'Pred Mean: {pred_data.mean():.1f}')
+    axes[0].axvline(succ_data.mean(), color='coral', linestyle='--',
+                   linewidth=2, label=f'Succ Mean: {succ_data.mean():.1f}')
+    axes[0].set_xlabel(activity_metric.replace('_', ' ').title(), fontsize=11)
+    axes[0].set_ylabel('Frequency', fontsize=11)
+    axes[0].set_title(f'Distribution Comparison', fontweight='bold', fontsize=12)
+    axes[0].legend()
+    axes[0].grid(axis='y', alpha=0.3)
+    
+    # Box plot comparison
+    box_data = [pred_data, succ_data]
+    bp = axes[1].boxplot(box_data, labels=['Predecessor', 'Successor'],
+                        patch_artist=True,
+                        boxprops=dict(facecolor='lightblue', alpha=0.7),
+                        medianprops=dict(color='red', linewidth=2))
+    axes[1].set_ylabel(activity_metric.replace('_', ' ').title(), fontsize=11)
+    axes[1].set_title('Distribution Comparison (Boxplot)', 
+                     fontweight='bold', fontsize=12)
+    axes[1].grid(axis='y', alpha=0.3)
+    
+    # Scatter plot (paired comparison)
+    paired_data = df[[pred_col, succ_col]].dropna()
+    axes[2].scatter(paired_data[pred_col], paired_data[succ_col],
+                   alpha=0.5, s=50, color='purple', edgecolor='black', linewidth=0.5)
+    
+    # Add diagonal line (y=x)
+    max_val = max(paired_data[pred_col].max(), paired_data[succ_col].max())
+    axes[2].plot([0, max_val], [0, max_val], 'r--', linewidth=2, 
+                label='y=x (no change)')
+    
+    axes[2].set_xlabel(f'Predecessor {activity_metric}', fontsize=11)
+    axes[2].set_ylabel(f'Successor {activity_metric}', fontsize=11)
+    axes[2].set_title('Paired Comparison', fontweight='bold', fontsize=12)
+    axes[2].legend()
+    axes[2].grid(True, alpha=0.3)
+    
+    plt.tight_layout()
+    plt.show()
+```
+
+```{python}
+analyze_paired_activity(analysis_df, 'bills')
+analyze_paired_activity(analysis_df, 'cosponsored')
+analyze_paired_activity(analysis_df, 'original_cosp')
+```
+
+```{python}
+analyze_paired_activity(analysis_df, 'les')
+```
+
+# 4: Bivariate Analysis
+
+```{python}
+def analyze_activity_by_context(df, activity_metric, context_var):
+    """
+    Analyze how activity inheritance differs by context
+    
+    Parameters:
+    -----------
+    activity_metric : str
+        Base name (e.g., 'bills', 'cosponsored')
+    context_var : str
+        Context variable (e.g., 'is_newcomer', 'same_party')
+    """
+    pred_col = f'pred_{activity_metric}'
+    succ_col = f'succ_{activity_metric}'
+    
+    print(f"\n{'='*70}")
+    print(f"{activity_metric.upper()} BY {context_var.upper()}")
+    print(f"{'='*70}\n")
+    
+    # Calculate change metric
+    df_clean = df[[pred_col, succ_col, context_var]].dropna()
+    df_clean['change'] = df_clean[succ_col] - df_clean[pred_col]
+    df_clean['pct_change'] = (df_clean['change'] / df_clean[pred_col] * 100).replace([np.inf, -np.inf], np.nan)
+    
+    # Group statistics
+    print("STATISTICS BY GROUP:")
+    print(f"{'─'*70}")
+    for group_val in sorted(df_clean[context_var].unique()):
+        group_data = df_clean[df_clean[context_var] == group_val]
+        group_label = 'Yes' if group_val == 1 else 'No'
+        
+        print(f"\n{context_var} = {group_label} (n={len(group_data)})")
+        print(f"  Predecessor mean: {group_data[pred_col].mean():.2f}")
+        print(f"  Successor mean:   {group_data[succ_col].mean():.2f}")
+        print(f"  Mean change:      {group_data['change'].mean():+.2f}")
+        print(f"  % change:         {group_data['pct_change'].mean():+.1f}%")
+    
+    # Statistical test
+    group_0 = df_clean[df_clean[context_var] == 0]['change']
+    group_1 = df_clean[df_clean[context_var] == 1]['change']
+    t_stat, p_value = stats.ttest_ind(group_0, group_1)
+    print(f"\nIndependent t-test on change:")
+    print(f"  t={t_stat:.3f}, p={p_value:.4f}")
+    
+    # Visualization
+    fig, axes = plt.subplots(1, 2, figsize=(14, 5))
+    
+    # Box plot of change
+    change_data = [group_0, group_1]
+    bp = axes[0].boxplot(change_data, labels=['No', 'Yes'],
+                        patch_artist=True,
+                        boxprops=dict(facecolor='lightgreen', alpha=0.7),
+                        medianprops=dict(color='red', linewidth=2))
+    axes[0].axhline(y=0, color='black', linestyle='--', linewidth=1, alpha=0.5)
+    axes[0].set_xlabel(context_var.replace('_', ' ').title(), fontsize=11)
+    axes[0].set_ylabel(f'Change in {activity_metric}', fontsize=11)
+    axes[0].set_title(f'Change in {activity_metric} by {context_var}',
+                     fontweight='bold', fontsize=12)
+    axes[0].grid(axis='y', alpha=0.3)
+    
+    # Bar plot of means
+    group_means = df_clean.groupby(context_var)[[pred_col, succ_col]].mean()
+    x = np.arange(len(group_means))
+    width = 0.35
+    
+    axes[1].bar(x - width/2, group_means[pred_col], width, 
+               label='Predecessor', alpha=0.8, color='steelblue')
+    axes[1].bar(x + width/2, group_means[succ_col], width,
+               label='Successor', alpha=0.8, color='coral')
+    
+    axes[1].set_xlabel(context_var.replace('_', ' ').title(), fontsize=11)
+    axes[1].set_ylabel(f'Mean {activity_metric}', fontsize=11)
+    axes[1].set_title(f'{activity_metric} by {context_var}',
+                     fontweight='bold', fontsize=12)
+    axes[1].set_xticks(x)
+    axes[1].set_xticklabels(['No', 'Yes'])
+    axes[1].legend()
+    axes[1].grid(axis='y', alpha=0.3)
+    
+    plt.tight_layout()
+    plt.show()
+```
+
+## BILLS Sponsored
+```{python}
+analyze_activity_by_context(analysis_df, 'bills', 'is_newcomer')
+analyze_activity_by_context(analysis_df, 'bills', 'same_party')
+analyze_activity_by_context(analysis_df, 'bills', 'dynasty_succession')
+```
+
+## LES
+```{python}
+analyze_activity_by_context(analysis_df, 'les', 'is_newcomer')
+analyze_activity_by_context(analysis_df, 'les', 'same_party')
+analyze_activity_by_context(analysis_df, 'les', 'dynasty_succession')
+```
 
 
-bill topic similarity between pairs
+
+# 5: Correlation 
+
+## Correlation Analysis
+```{python}
+def correlation_analysis(df):
+    """Calculate correlations between predecessor and successor metrics"""
+    
+    metrics = {
+        'Bills Sponsored': ('pred_bills', 'succ_bills'),
+        'Bills Cosponsored': ('pred_cosponsored', 'succ_cosponsored'),
+        'Original Cosponsorships': ('pred_original_cosp', 'succ_original_cosp'),
+        'Legislative Effectiveness': ('pred_les', 'succ_les')
+    }
+    
+    results = []
+    for metric_name, (pred_col, succ_col) in metrics.items():
+        # Calculate correlation
+        corr, p_value = stats.pearsonr(df[pred_col], df[succ_col])
+        results.append({
+            'Metric': metric_name,
+            'Correlation': corr,
+            'P-value': p_value,
+            'N': len(df)
+        })
+    
+    results_df = pd.DataFrame(results)
+    print("\n=== CORRELATION RESULTS ===")
+    print(results_df.to_string(index=False))
+    
+    return results_df
+```
+
+```{python}
+correlation_analysis(analysis_df)
+```
+
+## OLS Regression
+
+```{python}
+def run_regression_models(df):
+    """Run three OLS models with increasing complexity"""
+
+    # pred_performance = 'pred_' + performance_var
+    # succ_performance = 'succ_' + performance_var
+
+    # Model 1: Simple
+    X1 = sm.add_constant(df[['pred_bills']])
+    model1 = sm.OLS(df['succ_bills'], X1).fit()
+    
+    # Model 2: With party control
+    X2 = sm.add_constant(df[['pred_bills', 'same_party']])
+    model2 = sm.OLS(df['succ_bills'], X2).fit()
+    
+    # Model 3: Full model
+    X3 = sm.add_constant(df[['pred_bills', 'same_party', 'is_newcomer']])
+    model3 = sm.OLS(df['succ_bills'], X3).fit()
+    
+    print("\n=== REGRESSION RESULTS ===")
+    print("\nModel 1 (Simple):")
+    print(f"Pred Bills Coef: {model1.params['pred_bills']:.3f} (p={model1.pvalues['pred_bills']:.4f})")
+    print(f"R²: {model1.rsquared:.3f}")
+    
+    print("\nModel 2 (With Party):")
+    print(f"Pred Bills Coef: {model2.params['pred_bills']:.3f} (p={model2.pvalues['pred_bills']:.4f})")
+    print(f"Same Party Coef: {model2.params['same_party']:.3f} (p={model2.pvalues['same_party']:.4f})")
+    print(f"R²: {model2.rsquared:.3f}")
+    
+    print("\nModel 3 (Full):")
+    print(model3.summary())
+    
+    return model1, model2, model3
+```
+
+```{python}
+model1, model2, model3 = run_regression_models(analysis_df)
+```
+
+```{python}
+print(f"Total turnover pairs: {len(analysis_df)}")
+print(f"Main finding: 1 additional predecessor bills sponsored → "
+        f"{model1.params['pred_bills']:.2f} additional successor bills sponsored")
+```
+
+
+### visualize model 
+
+```{python}
+def create_main_scatter(df, model):
+    """Create the main scatter plot with regression line"""
+    
+    fig, ax = plt.subplots(figsize=(12, 8))
+    
+    # Color by party continuity
+    colors = ['#2E7D32' if x else '#C62828' for x in df['same_party']]
+    
+    # Scatter plot
+    scatter = ax.scatter(
+        df['pred_bills'], 
+        df['succ_bills'],
+        c=colors, 
+        alpha=0.6, 
+        s=50,
+        edgecolors='black',
+        linewidth=0.5
+    )
+    
+    # Add regression line
+    x_range = np.linspace(df['pred_bills'].min(), df['pred_bills'].max(), 100)
+    y_pred = model.params['const'] + model.params['pred_bills'] * x_range
+    ax.plot(x_range, y_pred, 'b--', alpha=0.8, linewidth=2, 
+            label=f'Regression Line (R²={model.rsquared:.3f})')
+    
+    # Add confidence interval
+    predict_mean_se = model.get_prediction(sm.add_constant(pd.DataFrame({'pred_bills': x_range})))
+    predict_mean_ci = predict_mean_se.conf_int(alpha=0.05)
+    ax.fill_between(x_range, predict_mean_ci[:, 0], predict_mean_ci[:, 1], 
+                    color='blue', alpha=0.1)
+    
+    # Labels and title
+    ax.set_xlabel('Predecessor Bills Sponsored (117th Congress)', fontsize=12)
+    ax.set_ylabel('Successor Bills Sponsored (118th Congress)', fontsize=12)
+    ax.set_title('Legislative Momentum: Do Active Seats Stay Active?', fontsize=14, fontweight='bold')
+    
+    # Add legend
+    from matplotlib.patches import Patch
+    legend_elements = [
+        Patch(facecolor='#2E7D32', alpha=0.6, label='Same Party'),
+        Patch(facecolor='#C62828', alpha=0.6, label='Different Party'),
+        plt.Line2D([0], [0], color='b', linestyle='--', label=f'Regression (R²={model.rsquared:.3f})')
+    ]
+    ax.legend(handles=legend_elements, loc='upper left')
+    
+    # Add text box with key statistics
+    textstr = f'Correlation: {df["pred_bills"].corr(df["succ_bills"]):.3f}\n'
+    textstr += f'Coefficient: {model.params["pred_bills"]:.3f}\n'
+    textstr += f'p-value: {model.pvalues["pred_bills"]:.4f}'
+    props = dict(boxstyle='round', facecolor='wheat', alpha=0.5)
+    ax.text(0.95, 0.95, textstr, transform=ax.transAxes, fontsize=10,
+            verticalalignment='top', horizontalalignment='right', bbox=props)
+
+    # Grid
+    ax.grid(True, alpha=0.3)
+    
+    plt.tight_layout()
+    return fig
+```
+
+```{python}
+create_main_scatter(analysis_df, model1)
+```
+
+### Subgroup: Party Continuity
+
+```{python}
+def subgroup_same_party_analysis(df):
+    """Compare same party vs different party successions"""
+    
+    same_party_df = df[df['same_party'] == 1]
+    diff_party_df = df[df['same_party'] == 0]
+    
+    # Calculate correlations for each group
+    same_corr, same_p = stats.pearsonr(same_party_df['pred_bills'], same_party_df['succ_bills'])
+    diff_corr, diff_p = stats.pearsonr(diff_party_df['pred_bills'], diff_party_df['succ_bills'])
+    
+    # Create visualization
+    fig, axes = plt.subplots(1, 2, figsize=(14, 6))
+    
+    # Same party
+    axes[0].scatter(same_party_df['pred_bills'], same_party_df['succ_bills'], 
+                   alpha=0.6, color='#2E7D32')
+    z1 = np.polyfit(same_party_df['pred_bills'], same_party_df['succ_bills'], 1)
+    p1 = np.poly1d(z1)
+    axes[0].plot(same_party_df['pred_bills'], p1(same_party_df['pred_bills']), 
+                "g--", alpha=0.8)
+    axes[0].set_title(f'Same Party Succession\n(r={same_corr:.3f}, p={same_p:.4f})')
+    axes[0].set_xlabel('Predecessor Bills')
+    axes[0].set_ylabel('Successor Bills')
+    
+    # Different party
+    axes[1].scatter(diff_party_df['pred_bills'], diff_party_df['succ_bills'], 
+                   alpha=0.6, color='#C62828')
+    z2 = np.polyfit(diff_party_df['pred_bills'], diff_party_df['succ_bills'], 1)
+    p2 = np.poly1d(z2)
+    axes[1].plot(diff_party_df['pred_bills'], p2(diff_party_df['pred_bills']), 
+                "r--", alpha=0.8)
+    axes[1].set_title(f'Different Party Succession\n(r={diff_corr:.3f}, p={diff_p:.4f})')
+    axes[1].set_xlabel('Predecessor Bills')
+    axes[1].set_ylabel('Successor Bills')
+    
+    plt.suptitle('Network Inheritance by Party Continuity', fontsize=14, fontweight='bold')
+    plt.tight_layout()
+    
+    print("\n=== SUBGROUP ANALYSIS ===")
+    print(f"Same Party: N={len(same_party_df)}, Correlation={same_corr:.3f}")
+    print(f"Different Party: N={len(diff_party_df)}, Correlation={diff_corr:.3f}")
+    
+    return fig
+```
+```{python}
+fig_subgroup_same_party = subgroup_same_party_analysis(analysis_df)
+```
