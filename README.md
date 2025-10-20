@@ -14,12 +14,11 @@ The U.S. House of Representatives experiences regular turnover while maintaining
 ## Repository Structure
 ```
 .
-├── code/
-│   ├── 01-data-acquisition.qmd    # Download and parse raw data
-│   ├── 02-data-cleaning.qmd       # Create turnover pairs dataset
-│   ├── 03-eda.qmd                 # Exploratory visualizations
-│   ├── 04-analysis.qmd            # Regression models and tests
-│   └── 05-summary.qmd             # Overview and key findings
+├── 01-data-acquisition.qmd    # Download and parse raw data
+├── 02-data-cleaning.qmd       # Create turnover pairs dataset
+├── 03-eda.qmd                 # Exploratory visualizations
+├── 04-analysis.qmd            # Regression models and tests
+└── 05-summary.qmd             # Overview and key findings
 ├── data/
 │   ├── raw/                       # Original data sources
 │   ├── temp/                      # Intermediate files
